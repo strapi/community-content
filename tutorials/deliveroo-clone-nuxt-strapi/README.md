@@ -1,17 +1,3 @@
-# Deliveroo clone with Nuxt, GraphQL, Strapi and Stripe
-
-*By [Pierre Burgy](https://github.com/pierreburgy), revised by [Maxime Castres](https://github.com/Mcastres) on August 19, 2019.*
-
-Get ready to develop a **Deliveroo clone, using amazing technologies: [Nuxt](https://nuxtjs.org) ([Vuejs](https://vuejs.org)), [GraphQL](https://graphql.org), [Stripe](http://stripe.com/) and [Strapi](https://strapi.io/)**! From signup to order, you are going to let users discover restaurants, dishes and select their happy meal.
-
-![Tutorial illustration](https://blog.strapi.io/content/images/2018/07/nuxt-article.png)
-
-This demo, of the final result, below should make you hungry:
-
-![final result](https://blog.strapi.io/content/images/2018/07/full-2.gif)
-
-**Note:** The **source code** is **available on GitHub:** [https://github.com/strapi/strapi-examples/tree/master/nuxt-strapi-deliveroo-clone-tutorial](https://github.com/  strapi/strapi-examples/tree/master/nuxt-strapi-deliveroo-clone-tutorial)*
-
 ## For Github users
 
 Run strapi server
@@ -35,6 +21,32 @@ yarn dev
 ```
 
 Listening on port `http://localhost:3000`
+
+# Deliveroo clone with Nuxt, GraphQL, Strapi and Stripe
+
+*By [Pierre Burgy](https://github.com/pierreburgy), revised by [Maxime Castres](https://github.com/Mcastres) on August 19, 2019.*
+
+Get ready to develop a **Deliveroo clone, using amazing technologies: [Nuxt](https://nuxtjs.org) ([Vuejs](https://vuejs.org)), [GraphQL](https://graphql.org), [Stripe](http://stripe.com/) and [Strapi](https://strapi.io/)**! From signup to order, you are going to let users discover restaurants, dishes and select their happy meal.
+
+![Tutorial illustration](https://blog.strapi.io/content/images/2018/07/nuxt-article.png)
+
+This demo, of the final result, below should make you hungry:
+
+![](https://blog.strapi.io/content/images/2019/09/final2.gif)
+
+This tutorial is part of the « *Cooking a Deliveroo clone with Nuxt (Vue.js), GraphQL, Strapi and Stripe* »:
+
+- 👋 [Intro](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-setup-part-1-7/)
+- 🏗️ [Setup](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-setup-part-1-7/) (part 1) -  **current**
+- 🏠 [Restaurants](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-restaurants-list-part-2-7/) (part 2)
+- 🍔 [Dishes](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-dishes-list-part-3-7/) (part 3)
+- 🔐 [Authentication](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-authentication-part-4-7/) (part 4)
+- 🛒 [Shopping Cart](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-shopping-card-part-5-7/) (part 5)
+- 💵 [Order and Checkout](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-order-and-checkout-part-6-7/) (part 6)
+- 🚀 [Bonus: Deploy](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-bonus-deploy-part-7-7/) (part 7)
+- 👏 [Conclusion](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-bonus-deploy-part-7-7/)
+
+**Note:** The **source code** is **available on GitHub:** [https://github.com/strapi/strapi-examples/tree/master/nuxt-strapi-deliveroo-clone-tutorial](https://github.com/strapi/strapi-examples/tree/master/nuxt-strapi-deliveroo-clone-tutorial)*
 
 ## Introduction
 
@@ -244,7 +256,7 @@ Now you should be able to get to your homepage (`index.vue`) that resides in you
   - Reload the page to see your changes at [http://localhost:3000](http://localhost:3000).
   - `yarn dev` or `npm run dev` if you stopped your frontend
 
-![Home page](https://blog.strapi.io/content/images/2018/07/Screen-Shot-2018-07-02-at-15.19.04.png)
+![Home page](https://blog.strapi.io/content/images/2019/09/Capture-d-e-cran-2019-09-17-a--13.56.35-1.png)
 
 ### Strapi
 
@@ -300,7 +312,7 @@ Here are the required steps:
    - `image` with type **Media**
  - Click on Save for the **field types**, and then save the new **Restaurant Content Type**
 
-![Content Type Builder](https://blog.strapi.io/content/images/2018/07/content-type-builder-restaurant-1.gif)
+![Content Type Builder](https://blog.strapi.io/content/images/2019/09/ezgif.com-optimize--3-.gif)
 
 At this point, your server should have automatically restarted and a new link `Restaurant` appears in the left menu.
 
@@ -318,7 +330,7 @@ Let's create a restaurant:
 
 Create as many restaurants as you would like to see in your app.
 
-![Content Manager](https://blog.strapi.io/content/images/2018/07/content-manager-restaurant.gif)
+![Content Manager](https://blog.strapi.io/content/images/2019/09/first-restaurant-2-1.gif)
 
 ### Allow access
 
@@ -341,7 +353,7 @@ Don't worry, making this route accessible is actually super intuitive:
 
 Now go back to [http://localhost:1337/restaurants](http://localhost:1337/restaurants): at this point, you should be able to see your list of restaurants.
 
-![Users Permissions](https://blog.strapi.io/content/images/2018/07/users-permissions-restaurants-1.gif)
+![Users Permissions](https://blog.strapi.io/content/images/2019/09/restaurant-permissions-1.gif)
 
 ## Enabling GraphQL
 
@@ -375,7 +387,7 @@ And that's it, you are done for the backend.
 }
 ```
 
-![Strapi GraphQL](https://blog.strapi.io/content/images/2018/07/graphql.gif)
+![Strapi GraphQL](https://blog.strapi.io/content/images/2019/09/graphql-1.gif)
 
 You should see the restaurants, if you did, you are ready to go onto the next step.
 
@@ -570,8 +582,7 @@ Don't forget to allow access in the Roles & Permissions section:
 
 Here is the final result:
 
-![Dishes fields](https://blog.strapi.io/content/images/2018/10/Screen-Shot-2018-10-19-at-15.21.41.png)
-
+![Strapi relation](https://blog.strapi.io/content/images/2019/09/dishes.png)
 ### Add some entries
 
   - Click on `Dishes` in the left navbar
@@ -670,7 +681,7 @@ So you have two queries for your application:
   - `restaurantsQuery` that fetch every restaurants from your Strapi API
   - `restaurantQuery` that fetch data from one restaurant depending on the given id in the url. ex: `/restaurant/2`
 
-![Dishes list](https://blog.strapi.io/content/images/2018/07/dishes.gif)
+![Dishes list](https://blog.strapi.io/content/images/2019/09/dishes.gif)
 
 The dishes page should be accessible from `http://localhost:3000/restaurants/1` where `1` is the id of the restaurant. Nuxt.js creates urls according to the name of the files located in `/frontend/pages`.
 
@@ -679,6 +690,8 @@ Nothing particular here: exactly like for the restaurants, you defined a templat
 ## Authentication
 
 At this point, you may have expected to get ready to order. But before that, you need to give the user the possibility to register and login to your app. No worries, Strapi comes to the rescue with its `Users & Permissions` plugin already installed in your project.
+
+![Authentication](https://blog.strapi.io/content/images/2019/09/ezgif.com-optimize.gif)
 
 To quicken your front-end development, you are going to install the [Strapi JavaScript SDK](https://github.com/strapi/strapi-sdk-javascript):
 
@@ -1073,12 +1086,13 @@ export default {
 
 **Note:** You will be redirected to the last page you visited when you sign in
 
-![Authentication](https://blog.strapi.io/content/images/2018/07/authentication.gif)
 
 That's it for the authentication!
   - Reload your page and play with this new user system you just created!
 
 ## Shopping cart
+
+![Shopping cart](https://blog.strapi.io/content/images/2019/09/ezgif.com-optimize-1.gif)
 
 All of these dishes look so tasty! What if you could add some of them in a shopping cart?
 
@@ -1318,9 +1332,12 @@ export default {
 
 Good job! You can now add dishes to your cart, check it out!
 
+
 ![Shopping cart](https://blog.strapi.io/content/images/2018/07/shopping-card.gif)
 
 ## Order and Checkout
+
+![Order](https://blog.strapi.io/content/images/2019/09/ezgif.com-optimize--2-.gif)
 
 You must be start being starving by now... I am sure you want to be able to order!
 
@@ -1348,7 +1365,7 @@ Same process as usual:
 
 ![Order Content Type Builder](https://blog.strapi.io/content/images/2019/02/Screenshot-2019-02-19-at-18.16.08.png)
 
-![Order Content Type Builder](https://blog.strapi.io/content/images/2019/02/Screenshot-2019-02-19-at-18.15.51.png)
+![Order Content Type Builder](https://blog.strapi.io/content/images/2019/09/orders.png)
 
 ### Allow access
 
