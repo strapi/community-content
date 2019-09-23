@@ -1,0 +1,27 @@
+{
+  "name": "Nuxt",
+  "version": "1.0.0",
+  "description": "Learn to use Nuxt",
+  "author": "Me",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc12",
+    "cookieparser": "^0.1.0",
+    "graphql": "^14.5.3",
+    "js-cookie": "^2.2.1",
+    "nuxt": "^2.0.0",
+    "strapi-sdk-javascript": "^0.3.1",
+    "stripe": "^7.8.0",
+    "uikit": "3.0.0",
+    "vue-stripe-elements-plus": "^0.3.0"
+  },
+  "devDependencies": {
+    "vue-cli-plugin-apollo": "^0.21.0"
+  }
+}
