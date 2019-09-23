@@ -5,6 +5,7 @@ Strapi is very excited to gather a collection of tutorials on the new [Strapi Tu
 ## How to add a tutorial
 There are different cases for adding a tutorial:
   1. You want to list an existing tutorial on the web
+    * Create a new branch: `git checkout -b request/<name-of-tutorial>`
     * Create a `<name-of-tutorial>.yml` inside the `tutorials` folder and fill it like the example under
     * Create a pull request
   2. You want to add your own tutorial
@@ -44,9 +45,11 @@ There are different cases:
 
   1. The tutorial hasn't been proposed yet
       - Create an issue with the template `Create a tutorial`
+      - Create a new branch: `git checkout -b create/<name-of-tutorial>`
       - Create the tutorial and make a pull request by adding a new folder inside `tutorials` containing the content of your tutorial as well as the `<name-of-tutorial>.yml` file. (the .yml file must be **inside** your new tutorial folder)
       - We will update the issue from **In progress** to **Done**
   2. The tutorial is looking for an author (you are doing a proposed tutorial)
+      - Create a new branch: `git checkout -b create/<name-of-tutorial>`
       - Create the tutorial and make a pull request by adding a new folder inside `tutorials` containing the content of your tutorial as well as the `<name-of-tutorial>.yml` file. (the .yml file must be **inside** your new tutorial folder)
       - We will update the issue from **Looking for author** to **Done**
 
