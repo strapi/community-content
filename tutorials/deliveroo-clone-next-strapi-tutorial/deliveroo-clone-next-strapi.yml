@@ -1,0 +1,16 @@
+- title: Cooking a Deliveroo clone with Next and Strapi
+  link: https://strapi.io/blog/strapi-next-setup/
+  formats:
+    - text
+  language: en
+  date: 2019-11-12
+  length: ''
+  authors:
+    - Ryan Belke
+  source: 'https://blog.strapi.io/'
+  topics:
+    - next.js
+    - strapi
+    - graphql
+    - stripe
+  versions: alpha
