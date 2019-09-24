@@ -1,15 +1,15 @@
 - title: Building a Static Blog using Gatsby and Strapi
- link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
- formats:
-   - text
- language: en
- date: 2018-01-18
- length: ''
- authors:
-   - David Kartuzinski
- source: 'https://blog.strapi.io/'
- topics:
-   - gatsby
-   - strapi
-   - blog
- versions: beta
+  link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
+  formats:
+    - text
+  language: en
+  date: 2018-01-18
+  length: ''
+  authors:
+    - David Kartuzinski
+  source: 'https://blog.strapi.io/'
+  topics:
+    - gatsby
+    - strapi
+    - blog
+  versions: beta
