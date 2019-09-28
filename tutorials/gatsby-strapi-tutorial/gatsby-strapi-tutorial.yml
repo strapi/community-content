@@ -4,12 +4,13 @@
     - text
   language: en
   date: 2018-01-18
-  length: ''
   authors:
     - David Kartuzinski
+  github_authors:
+    - davidkartuzinski
   source: 'https://blog.strapi.io/'
   topics:
     - gatsby
     - strapi
     - blog
-  versions: beta
+  version: beta

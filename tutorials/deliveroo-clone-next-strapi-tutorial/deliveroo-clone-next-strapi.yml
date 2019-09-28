@@ -4,13 +4,14 @@
     - text
   language: en
   date: 2019-11-12
-  length: ''
   authors:
     - Ryan Belke
+  github_authors:
+    - ryanbelke
   source: 'https://blog.strapi.io/'
   topics:
     - next.js
     - strapi
     - graphql
     - stripe
-  versions: alpha
+  version: alpha

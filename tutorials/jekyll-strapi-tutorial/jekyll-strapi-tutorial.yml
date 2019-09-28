@@ -1,14 +1,15 @@
-- title: Building a static blog using Jekyll and Strap
+- title: Building a static blog using Jekyll and Strapi
   link: https://strapi.io/blog/building-a-static-website-using-jekyll-and-strapi
   formats:
     - text
   language: en
   date: 2019-04-25
-  length: ''
   authors:
     - Pierre Burgy
+  github_authors:
+    - pierreburgy
   source: 'https://blog.strapi.io/'
   topics:
     - strapi
     - jekyll
-  versions: alpha
+  version: alpha
