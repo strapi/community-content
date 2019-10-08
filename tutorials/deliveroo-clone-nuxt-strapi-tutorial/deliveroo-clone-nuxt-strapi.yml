@@ -11,6 +11,7 @@
     - pierreburgy
     - mcastres
   source: 'https://blog.strapi.io/'
+  image_url: 'https://blog.strapi.io/content/images/2018/10/Article-Next---1.png'
   topics:
     - nuxt.js
     - strapi

@@ -9,6 +9,7 @@
   github_authors:
     - pierreburgy
   source: 'https://blog.strapi.io/'
+  image_url: 'https://blog.strapi.io/content/images/2018/04/jekyll-plus-strapi.jpg'
   topics:
     - strapi
     - jekyll

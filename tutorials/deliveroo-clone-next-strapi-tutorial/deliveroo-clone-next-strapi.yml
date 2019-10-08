@@ -9,6 +9,7 @@
   github_authors:
     - ryanbelke
   source: 'https://blog.strapi.io/'
+  image_url: 'https://blog.strapi.io/content/images/2018/07/nuxt-article.png'
   topics:
     - next.js
     - strapi
