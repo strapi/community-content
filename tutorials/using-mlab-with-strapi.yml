@@ -9,7 +9,7 @@
   github_authors:
     - pierreburgy
   source: 'https://www.strapi.io.com'
-  image_url: 'https://blog.strapi.io/content/images/2018/02/strapi-mlab-2-2.png'
+  image_url: ''
   topics:
     - strapi
     - mlab
