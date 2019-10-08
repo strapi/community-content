@@ -1,0 +1,15 @@
+- title: Une API en 10 minutes avec strapi
+  link: https://www.youtube.com/watch?v=oDisID9LdgQ
+  formats:
+    - video
+  language: fr
+  date: 2019-08-27
+  authors:
+    - Maxime Janton
+  github_authors:
+    - iam4x
+  source: 'https://youtube.com/'
+  image_url: ''
+  topics:
+    - strapi
+  version: alpha

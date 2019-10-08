@@ -1,0 +1,19 @@
+- title: Set up Strapi as a CMS for Gatsby
+  link: https://www.youtube.com/watch?v=JkBxyurjeI8
+  formats:
+    - video
+  language: en
+  date: 2019-09-05
+  authors:
+    - David Kartuzinski
+    - Jason Lengstorf
+  github_authors:
+    - davidkartuzinski
+    - jlengstorf
+  source: 'https://youtube.com/'
+  image_url: 'https://pbs.twimg.com/card_img/1179528493677326338/LbFaSSb4?format=jpg&name=small'
+  topics:
+    - strapi
+    - gatsby
+    - blog
+  version: beta

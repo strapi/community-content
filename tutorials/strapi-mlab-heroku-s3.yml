@@ -1,0 +1,18 @@
+- title: STRAPI ⚡️ ️MLab ⚡️ ️Heroku ⚡️ S3 - Deployment for a non-developer
+  link : https://medium.com/@tamirp/strapi-️mlab-️heroku-️-s3-step-by-step-deployment-for-a-non-developer-1cae3ec3dfe0
+  formats:
+    - text
+  language: en
+  date: 2019-08-20
+  authors:
+    - Tamir Pomerantz
+  github_authors:
+    - tamirandtom
+  source: 'https://medium.com/'
+  image_url: 'https://miro.medium.com/max/1800/1*H781A2_Em3S7XXHBZUXRqw.png'
+  topics:
+    - strapi
+    - mlab
+    - s3
+    - heroku
+  version: beta

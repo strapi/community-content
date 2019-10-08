@@ -1,0 +1,17 @@
+- title: How to deploy strapi on AWS using Docker
+  link: https://www.youtube.com/watch?v=ctL-lZiIy5M
+  formats:
+    - video
+  language: en
+  date: 2019-08-25
+  authors:
+    - Rajdip Mondal
+  github_authors:
+    - rajdip34
+  source: 'https://youtube.com/'
+  image_url: ''
+  topics:
+    - strapi
+    - aws
+    - docker
+  version: alpha

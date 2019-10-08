@@ -1,0 +1,15 @@
+- title: Strapi - Headless CMS
+  link: https://www.youtube.com/watch?v=T6yXnHRcplM
+  formats:
+    - video
+  language: es
+  date: 2019-09-08
+  authors:
+    - Rildo Pragana
+  github_authors:
+    - rpragana
+  source: 'https://youtube.com/'
+  image_url: ''
+  topics:
+    - strapi
+  version: beta
