@@ -1,0 +1,16 @@
+- title: Deploying a Strapi API on Heroku
+  link : https://strapi.io/blog/deploying-a-strapi-api-on-heroku
+  formats:
+    - text
+  language: en
+  date: 2018-02-08
+  authors:
+    - Pierre Burgy
+  github_authors:
+    - pierreburgy
+  source: 'https://www.strapi.io.com'
+  image_url: 'https://blog.strapi.io/content/images/2018/02/strapi-heroku-small.png'
+  topics:
+    - strapi
+    - heroku
+  version: alpha

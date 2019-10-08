@@ -1,0 +1,17 @@
+- title: Using mLab with Strapi
+  link : https://strapi.io/blog/using-mlab-with-strapi?redirectPage=4
+  formats:
+    - text
+  language: en
+  date: 2018-02-06
+  authors:
+    - Pierre Burgy
+  github_authors:
+    - pierreburgy
+  source: 'https://www.strapi.io.com'
+  image_url: 'https://blog.strapi.io/content/images/2018/02/strapi-mlab-2-2.png'
+  topics:
+    - strapi
+    - mlab
+    - mongoDB
+  version: alpha
