@@ -1,0 +1,16 @@
+- title: Using Strapi for Node.js Content Management with a React SPA
+  link : https://snipcart.com/blog/node-js-react-strapi-tutorial
+  formats:
+    - text
+  language: en
+  date: 2018-08-09
+  authors:
+    - Michael Poirier-Ginter
+  github_authors:
+    - pgmichael
+  source: 'https://www.snipcart.com'
+  image_url: 'https://snipcart.com/media/203792/node-js-react-strapi-1.png'
+  topics:
+    - strapi
+    - react
+  version: alpha
