@@ -2,7 +2,7 @@
 
 In order to be able to propose a tutorial on strapi, it is necessary to read our guidelines
 
-## Text
+## Article
 If you read this, you are interested by writing articles for strapi and that's great!
 However there is some point that we want to clarify before you get into this experience.
 

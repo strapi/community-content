@@ -17,7 +17,7 @@ This one is an example of the Strapi-Gatsby tutorial
 - title: Building a Static Blog using Gatsby and Strapi
   link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
   formats:
-    - text
+    - article
   language: en
   date: 2018-01-18
   authors:
@@ -61,7 +61,7 @@ There are different cases:
 - title: Building a Static Blog using Gatsby and Strapi
  link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
  formats:
-   - text
+   - article
  language: en
  date: 2018-01-18
  authors:
@@ -79,7 +79,7 @@ There are different cases:
 
 - `title` - Title of tutorial (`string`; **required**)
 - `link` - Working URL where tutorial can be found (`string`; **required**)
-- `formats` - Media format of tutorial (`array` of `strings` with values `video`, `audio` or `text`; **required**)
+- `formats` - Media format of tutorial (`array` of `strings` with values `video`, `audio` or `article`; **required**)
 - `language` - Spoken/written language of the tutorial (`string` with a two-letter [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes); optional)
 - `date` - Date tutorial was published (`string` in `YYYY-MM-DD` format; optional)
 - `authors` - Name of author(s) or speaker(s) (`array` of `strings`; **required**)

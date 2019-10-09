@@ -1,7 +1,7 @@
 - title: Building a static blog using Jekyll and Strapi
   link: https://strapi.io/blog/building-a-static-website-using-jekyll-and-strapi
   formats:
-    - text
+    - article
   language: en
   date: 2019-04-25
   authors:
