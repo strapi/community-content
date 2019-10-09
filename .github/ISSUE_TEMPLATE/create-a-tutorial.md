@@ -8,20 +8,12 @@ assignees: Mcastres
 ---
 
 **My tutorial**
-Describe what will be your tutorial
+Describe what your tutorial will be about.
 
 **My format**
-- [ ] Text
-- [ ] Audio
+- [ ] Article
 - [ ] Video
 
-**Why do I think this tutorial is worth to make?**
-
-
-**How long will it take to make it**
-
-
 **What do you guy's think?**
-👍 I need it
 ❤️ I love it!
 🚀 I can help you!

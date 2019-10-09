@@ -7,18 +7,13 @@ assignees: Mcastres
 
 ---
 
-**My Request**
-Describe what type of tutorial you would like to have
+**Your Request**
+Describe the issue you face and what tutorial would be useful for you. Provide as many details as possible. If you came across similar tutorials that can be made better or adapted for Strapi, please provide a URL.
 
-**My requested format**
-- [ ] Text
-- [ ] Audio
+**Preferred Format**
+- [ ] Article
 - [ ] Video
 
-**Why do I think this tutorial is useful for me and the community?**
-
-
-**What do you guy's think?**
-👍 I need it
-❤️ I love it!
-🚀 I can make it!
+**Community vote**
+👍 Upvote if you need it too
+🚀 If you can make the tutorial to help the community!
