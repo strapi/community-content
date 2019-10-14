@@ -1,0 +1,16 @@
+- title: Strapi getting started en Enspañol
+  link : https://www.youtube.com/watch?v=gpPrg7pGqBI
+  formats:
+    - video
+  language: en
+  date: 2019-04-14
+  authors:
+    - Gian Carlos Figueroa Revelo
+  github_authors:
+    -
+  source: 'https://www.youtube.com'
+  image_url: 'http://i3.ytimg.com/vi/gpPrg7pGqBI/maxresdefault.jpg'
+  topics:
+    - strapi
+    - s3
+  version: alpha

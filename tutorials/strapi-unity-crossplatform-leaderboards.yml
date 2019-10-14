@@ -1,0 +1,16 @@
+- title: Strapi and Unity - Cross-Platform Leaderboards
+  link : https://www.youtube.com/watch?v=oGM0GzKE_Aw
+  formats:
+    - video
+  language: en
+  date: 2019-01-20
+  authors:
+    - Shahin Rostami
+  github_authors:
+    - shahinrostami
+  source: 'https://www.youtube.com'
+  image_url: 'http://i3.ytimg.com/vi/oGM0GzKE_Aw/maxresdefault.jpg'
+  topics:
+    - strapi
+    - unity
+  version: alpha
