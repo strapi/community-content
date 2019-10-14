@@ -11,7 +11,7 @@
     - davidkartuzinski
     - jlengstorf
   source: 'https://youtube.com/'
-  image_url: 'https://pbs.twimg.com/card_img/1179528493677326338/LbFaSSb4?format=jpg&name=small'
+  image_url: 'http://i3.ytimg.com/vi/JkBxyurjeI8/maxresdefault.jpg'
   topics:
     - strapi
     - gatsby
