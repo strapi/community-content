@@ -98,11 +98,11 @@ Here are few things that writing for strapi can do for you:
   - Get a custom emoji on our slack channel
   - Get some strapi goodies (stickers, cap, t-shirt)
 
-By making a tutorial for us you participate in the growth of an open source project.
+**By making a tutorial for us you participate in the growth of an open source project.**
 
 ## Makers
 Thank you to all the people who made tutorials for strapi!
 
-![](https://media.giphy.com/media/g01ZnwAUvutuK8GIQn/giphy.gif)
+![W](https://media.giphy.com/media/g01ZnwAUvutuK8GIQn/giphy.gif)
 
 [Be the first one to create a tutorials](https://github.com/strapi/strapi-tutorials#how-to-write-a-tutorial)
