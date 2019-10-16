@@ -103,6 +103,4 @@ Here are few things that writing for strapi can do for you:
 ## Makers
 Thank you to all the people who made tutorials for strapi!
 
-![W](https://media.giphy.com/media/g01ZnwAUvutuK8GIQn/giphy.gif)
-
 [Be the first one to create a tutorials](https://github.com/strapi/strapi-tutorials#how-to-write-a-tutorial)
