@@ -1,3 +1,4 @@
+![](/assets/banner.png)
 # Strapi Tutorials
 
 Strapi is very excited to gather a collection of tutorials on the new [Strapi Tutorials page](https://www.strapi.io/tutorials)
@@ -88,3 +89,20 @@ There are different cases:
 - `image_url` - Url image of the tutorial (`string`; optional)
 - `topics` - Main topic(s) covered by the tutorial (`array` of `strings`; **required**)
 - `version` - Version of Strapi used in the tutorial (`string`; require)
+
+## Why write for us?
+Here are few things that writing for strapi can do for you:
+  - Learn while sharing your knowledge. You know how to create an application with Strapi and Nuxt? Pass this knowledge to others!
+  - Get your name on this repository README
+  - Get access to a private slack channel `makers`
+  - Get a custom emoji on our slack channel
+  - Get some strapi goodies (stickers, cap, t-shirt)
+
+By making a tutorial for us you participate in the growth of an open source project.
+
+## Makers
+Thank you to all the people who made tutorials for strapi!
+
+![](https://media.giphy.com/media/g01ZnwAUvutuK8GIQn/giphy.gif)
+
+[Be the first one to create a tutorials](https://github.com/strapi/strapi-tutorials#how-to-write-a-tutorial)

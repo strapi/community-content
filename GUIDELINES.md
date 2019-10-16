@@ -71,8 +71,7 @@ In fact you don't want to be disturbed by any notifications that may pop up whil
 ### Post production
 It is important to go through post production in order to offer a quality video to your viewers
 
-  - Add an intro
+  - Add the strapi intro and outro accessible in the `/assets/video_assets` zip file
   - Remove the beginning and the end of the screencast, which probably shows you starting and stopping the recording
   - Remove any long pauses you may have during the recording
   - Remove any background noises (computer fan noise for example)
-  - Add an outro
