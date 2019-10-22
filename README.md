@@ -101,6 +101,8 @@ Here are few things that writing for strapi can do for you:
 **By making a tutorial for us you participate in the growth of an open source project.**
 
 ## Makers
-Thank you to all the people who made tutorials for strapi!
+Thank you to all the people who made tutorials for the community!
 
-[Be the first one to create a tutorials](https://github.com/strapi/strapi-tutorials/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
+![](https://contributors-img.firebaseapp.com/image?repo=strapi/strapi-tutorials)
+
+[Join them by creating your tutorial](https://github.com/strapi/strapi-tutorials/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
