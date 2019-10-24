@@ -103,6 +103,22 @@ Here are few things that writing for strapi can do for you:
 ## Makers
 Thank you to all the people who made tutorials for the community!
 
-![](https://contributors-img.firebaseapp.com/image?repo=strapi/strapi-tutorials)
+<p float="left">
+  <img src="https://github.com/iam4x.png" width="80" height="80" />
+  <img src="https://github.com/ryanbelke.png" width="80" height="80" />
+  <img src="https://github.com/bahdcoder.png" width="80" height="80" />
+  <img src="https://github.com/john-smilga.png" width="80" height="80" />
+  <img src="https://github.com/pappinvijak.png" width="80" height="80" />
+  <img src="https://github.com/jlengstorf.png" width="80" height="80" />
+  <img src="https://github.com/rpragana.png" width="80" height="80" />
+  <img src="https://github.com/pgmichael.png" width="80" height="80" />
+  <img src="https://github.com/shahinrostami.png" width="80" height="80" />
+  <img src="https://github.com/tamirandtom.png" width="80" height="80" />
+  <img src="https://github.com/femithz.png" width="80" height="80" />
+  <img src="https://github.com/reedbarger.png" width="80" height="80" />
+  <img src="https://github.com/davidkartuzinski.png" width="80" height="80" />
+  <img src="https://github.com/pierreburgy.png" width="80" height="80" />
+  <img src="https://github.com/mcastres.png" width="80" height="80" />
+</p>
 
 [Join them by creating your tutorial](https://github.com/strapi/strapi-tutorials/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
