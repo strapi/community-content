@@ -7,7 +7,7 @@ assignees: Mcastres
 
 ---
 
-**Your Request**
+**My Request**
 Describe the issue you face and what tutorial would be useful for you. Provide as many details as possible. If you came across similar tutorials that can be made better or adapted for Strapi, please provide a URL.
 
 **Preferred Format**
