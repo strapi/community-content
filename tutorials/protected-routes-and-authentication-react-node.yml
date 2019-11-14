@@ -1,0 +1,17 @@
+- title: Protected routes and Authentication with React and Node.js
+  link : https://strapi.io/blog/protected-routes-and-authentication-with-react-and-node-js?redirectPage=5
+  formats:
+    - article
+  language: en
+  date: 2018-02-21
+  authors:
+    - Cyril Lopez
+  github_authors:
+    - soupette
+  source: 'https://www.strapi.io/'
+  image_url: 'https://blog.strapi.io/content/images/2018/02/react-plus-strapi.png'
+  topics:
+    - strapi
+    - nodejs
+    - authentication
+  version: beta
