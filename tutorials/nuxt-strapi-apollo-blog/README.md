@@ -1,3 +1,5 @@
+![](/content/images/2019/11/Nuxt-blog-1.png)
+
 # Build a blog with Nuxt, Strapi and Apollo
 
 *By Maxime Castres on date*
