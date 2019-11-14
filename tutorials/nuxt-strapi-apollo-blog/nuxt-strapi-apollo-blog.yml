@@ -1,0 +1,19 @@
+- title: Building a Blog using Nuxt, Strapi and Apollo
+  link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
+  formats:
+    - article
+  language: en
+  date: 2019-11-14
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: 'https://blog.strapi.io/'
+  image_url:
+  topics:
+    - nuxt.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta

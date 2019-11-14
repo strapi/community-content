@@ -1,0 +1,17 @@
+- title: Construyendo un blog con Gatsby y Strapi
+  link : https://enbonnet.me/article/5/construyendo-un-blog-con-gatsby-y-strapi
+  formats:
+    - article
+  language: es
+  date: 2018-01-18
+  authors:
+    - Ender Bonnet
+  github_authors:
+    - enBonnet
+  source: 'https://enbonnet.me'
+  image_url: 'https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png'
+  topics:
+    - strapi
+    - gatsby
+    - Blog
+  version: beta

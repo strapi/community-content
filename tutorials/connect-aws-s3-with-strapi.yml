@@ -1,0 +1,16 @@
+- title: How to connect the AWS S3 bucket with strapi for storing data.
+  link : https://www.mstweaks.com/how-to-connect-the-aws-s3-bucket-with-strapi-for-storing-data/
+  formats:
+    - article
+  language: en
+  date: 2019-11-11
+  authors:
+    - Muhammad Nauman
+  github_authors:
+    - Nauman440
+  source: 'https://www.mstweaks.com/'
+  image_url:
+  topics:
+    - strapi
+    - s3
+  version: beta

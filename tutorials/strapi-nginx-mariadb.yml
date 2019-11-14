@@ -1,0 +1,19 @@
+- title: Strapi + SSL + MariaDB = Awesome Sauce
+  link : https://derrickmehaffy.com/strapi-nginx-mariadb-lets-encrypt-awesome-sauce-part-1/
+  formats:
+    - article
+  language: en
+  date: 2019-08-09
+  authors:
+    - Derrick Mehaffy
+  github_authors:
+    - derrickmehaffy
+  source: 'https://derrickmehaffy.com/'
+  image_url:
+  topics:
+    - strapi
+    - mariadb
+    - nginx
+    - ubuntu
+    - let's encrypt
+  version: beta
