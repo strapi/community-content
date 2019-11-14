@@ -1,0 +1,13 @@
+query Articles {
+  articles {
+    id
+    title
+    content
+    image {
+      url
+    }
+    category{
+      name
+    }
+  }
+}

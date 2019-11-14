@@ -1,0 +1,21 @@
+{
+  "name": "frontend2",
+  "version": "1.0.0",
+  "description": "My polished Nuxt.js project",
+  "author": "You",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.0-rc17",
+    "@nuxtjs/markdownit": "^1.2.7",
+    "graphql": "^14.5.8",
+    "nuxt": "^2.0.0",
+    "uikit": "^3.2.3"
+  },
+  "devDependencies": {}
+}
