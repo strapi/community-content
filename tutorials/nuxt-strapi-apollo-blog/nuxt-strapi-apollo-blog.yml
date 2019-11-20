@@ -9,7 +9,7 @@
   github_authors:
     - mcastres
   source: 'https://blog.strapi.io/'
-  image_url: 'https://blog.strapi.io/content/images/2019/11/Nuxt-blog.png'
+  image_url: 'https://blog.strapi.io/content/images/2019/11/blog2.png'
   topics:
     - nuxt.js
     - apollo
