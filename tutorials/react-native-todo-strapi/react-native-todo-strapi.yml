@@ -1,5 +1,5 @@
 - title: Creating a react-native app with strapi as backend
-  link: https://medium.com/@nettisfabio/creating-a-react-native-app-with-strapi-as-backend-99c5fb4b2686
+  link: https://strapi.io/blog/creating-a-react-native-app-with-strapi-as-backend
   formats:
     - article
   language: en
@@ -8,8 +8,8 @@
     - Fabio Nettis
   github_authors:
     - fabio-nettis
-  source: 'https://medium.com/'
-  image_url: https://miro.medium.com/max/3084/1*xfE5LRRQ-Nw3grYHMooxrQ.png
+  source: https://medium.com/
+  image_url: https://blog.strapi.io/content/images/2019/11/react-native-banner-1.png
   topics:
     - mobile
     - react native
