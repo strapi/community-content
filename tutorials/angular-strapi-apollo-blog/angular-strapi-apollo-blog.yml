@@ -1,0 +1,19 @@
+- title: Building a Blog using Angular, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-angular-js-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2019-12-19
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2019/12/blog_angular.png
+  topics:
+    - angular.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
