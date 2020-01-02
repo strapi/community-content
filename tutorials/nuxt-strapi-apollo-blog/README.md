@@ -1,6 +1,6 @@
 # Build a blog with Nuxt.js, Strapi and Apollo
 
-This example is the result of the tutorial series [Build a blog with Angular.js, Strapi and Apollo
+This example is the result of the tutorial series [Build a blog with nuxt, Strapi and Apollo
 ](https://strapi.io/blog/build-a-blog-using-nuxt-strapi-and-apollo/)
 
 ## Setup
