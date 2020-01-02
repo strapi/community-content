@@ -1,0 +1,17 @@
+- title: Getting started with Strapi
+  link: https://watch-learn.com/dev-tools/lets-checkout-strapi-cms
+  formats:
+    - video
+  language: en
+  date: 2019-12-24
+  authors:
+    - Ivan Dorić
+  github_authors:
+    - ivandoric
+  source: https://watch-learn.com/
+  image_url: https://i.ytimg.com/vi/8_qwhfI5VxI/maxresdefault.jpg
+  topics:
+    - strapi
+    - content type
+    - API
+  version: beta
