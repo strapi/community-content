@@ -1,0 +1,17 @@
+- title: Getting started with Strapi
+  link: https://www.youtube.com/watch?v=9xK2iNdKcyw&t=171s
+  formats:
+    - video
+  language: en
+  date: 2019-12-03
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/9xK2iNdKcyw/hqdefault.jpg
+  topics:
+    - strapi
+    - content type
+    - API
+  version: beta
