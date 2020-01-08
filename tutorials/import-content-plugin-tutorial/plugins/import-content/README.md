@@ -1,3 +1,3 @@
-# Strapi plugin import-plugin
+# Strapi plugin import-content
 
-A quick description of import-plugin.
+A quick description of import-content.
