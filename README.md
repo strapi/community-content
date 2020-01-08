@@ -129,6 +129,15 @@ Thank you to all the people who made tutorials for the community!
   <img src="https://github.com/pierreburgy.png" width="80" height="80" />
   <img src="https://github.com/mcastres.png" width="80" height="80" />
   <img src="https://github.com/fabio-nettis.png" width="80" height="80" />
+  <img src="https://github.com/pouyamiralayi.png" width="80" height="80" />
+  <img src="https://github.com/ivandoric.png" width="80" height="80" />
+  <img src="https://github.com/GalloDaSballo.png" width="80" height="80" />
+  <img src="https://github.com/Nauman440.png" width="80" height="80" />
+  <img src="https://github.com/rajdip34.png" width="80" height="80" />
+  <img src="https://github.com/derrickmehaffy.png" width="80" height="80" />
+  <img src="https://github.com/soupette.png" width="80" height="80" />
+  <img src="https://github.com/enBonnet.png" width="80" height="80" />
+
 </p>
 
 [Join them by creating your tutorial](https://github.com/strapi/strapi-tutorials/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
