@@ -1,0 +1,19 @@
+- title: Building a Blog using React, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-react-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2020-01-05
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2020/01/react-blog-1.png
+  topics:
+    - react
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta

@@ -1,6 +1,6 @@
 # Build a blog with Next.js, Strapi and Apollo
 
-This example is the result of the tutorial series [Build a blog with Angular.js, Strapi and Apollo
+This example is the result of the tutorial series [Build a blog with Next.js, Strapi and Apollo
 ](https://strapi.io/blog/build-a-blog-with-next-react-js-strapi-and-apollo)
 
 ## Setup
