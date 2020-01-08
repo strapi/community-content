@@ -1,0 +1,23 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "importeditem",
+    "description": ""
+  },
+  "options": { "increments": true, "timestamps": true, "comment": "" },
+  "attributes": {
+    "ContentType": {
+      "type": "string"
+    },
+    "ContentId": { "type": "integer" },
+    "importconfig": {
+      "model": "importconfig",
+      "via": "importeditems",
+      "plugin": "import-content"
+    },
+    "importedFiles": {
+      "type": "json"
+    }
+  }
+}

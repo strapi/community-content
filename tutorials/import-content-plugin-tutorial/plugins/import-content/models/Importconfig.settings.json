@@ -1,0 +1,28 @@
+{
+  "connection": "default",
+  "collectionName": "",
+  "info": {
+    "name": "importconfig",
+    "description": ""
+  },
+  "options": { "timestamps": true, "increments": true, "comment": "" },
+  "attributes": {
+    "date": { "type": "date" },
+    "source": {
+      "type": "string"
+    },
+    "options": { "type": "json" },
+    "contentType": {
+      "type": "string"
+    },
+    "fieldMapping": { "type": "json" },
+    "ongoing": {
+      "type": "boolean"
+    },
+    "importeditems": {
+      "collection": "importeditem",
+      "via": "importconfig",
+      "plugin": "import-content"
+    }
+  }
+}
