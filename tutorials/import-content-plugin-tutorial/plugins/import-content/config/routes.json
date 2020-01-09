@@ -39,6 +39,86 @@
       "config": {
         "policies": []
       }
+    },
+    {
+      "method": "GET",
+      "path": "/importconfig",
+      "handler": "ImportConfig.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/importconfig/:importId",
+      "handler": "ImportConfig.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/importconfig/count",
+      "handler": "ImportConfig.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/importconfig/:importId",
+      "handler": "ImportConfig.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/importconfig/:importId",
+      "handler": "ImportConfig.delete",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/importeditem",
+      "handler": "ImportedItem.find",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/importeditem/:importId",
+      "handler": "ImportedItem.findOne",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/importeditem/count",
+      "handler": "ImportedItem.count",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "PUT",
+      "path": "/importeditem/:importId",
+      "handler": "ImportedItem.update",
+      "config": {
+        "policies": []
+      }
+    },
+    {
+      "method": "DELETE",
+      "path": "/importeditem/:importId",
+      "handler": "ImportedItem.delete",
+      "config": {
+        "policies": []
+      }
     }
   ]
 }

@@ -17,7 +17,7 @@ const getUrl = to =>
 class HistoryPage extends Component {
 
   state = {
-    loading: false,
+    loading: true,
     importConfigs: []
   };
 
@@ -58,13 +58,13 @@ class HistoryPage extends Component {
     setTimeout(() => {
       this.fetchInterval = setInterval(() => this.importConfigs(), 4000);
     }, 200);
-  }
+  };
 
   componentWillUnmount() {
     if (this.fetchInterval) {
       clearInterval(this.fetchInterval);
     }
-  }
+  };
 
   importConfigs() {
     if (!this.state.loading) {
@@ -72,7 +72,7 @@ class HistoryPage extends Component {
         this.setState({ importConfigs: res });
       });
     }
-  }
+  };
 
   getConfigs = async () => {
     try {
