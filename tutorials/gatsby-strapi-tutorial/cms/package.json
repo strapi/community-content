@@ -41,7 +41,7 @@
   ],
   "strapi": {
     "packageManager": "npm",
-    "uuid": "fd40cfea-419c-4207-95bf-54df441ec1a3"
+    "uuid": "tutorials"
   },
   "engines": {
     "node": ">= 10.0.0",

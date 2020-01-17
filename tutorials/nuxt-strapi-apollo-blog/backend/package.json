@@ -12,6 +12,7 @@
   "devDependencies": {},
   "dependencies": {
     "knex": "latest",
+    "slugify": "^1.3.6",
     "sqlite3": "latest",
     "strapi": "3.0.0-beta.17.5",
     "strapi-admin": "3.0.0-beta.17.5",
@@ -29,7 +30,7 @@
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "624680ce-d5f5-4597-9926-b6c673cb546f"
+    "uuid": "tutorials"
   },
   "engines": {
     "node": ">=10.0.0",

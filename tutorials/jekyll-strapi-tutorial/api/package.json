@@ -36,7 +36,7 @@
     }
   ],
   "strapi": {
-    "uuid": "4d2bf5e1-04ca-46d5-a7a3-d28f6259682b"
+    "uuid": "tutorials"
   },
   "engines": {
     "node": ">= 7.0.0",
