@@ -1,0 +1,17 @@
+- title: Aprendiendo Strapi un CMS Headless (Parte 2 de 2) con Next.js
+  link: https://www.youtube.com/watch?v=FAk8hoKja0M&feature=youtu.be
+  formats:
+    - video
+  language: es
+  date: 2020-01-28
+  authors:
+    - Juan Pablo De la torre Valdez
+  github_authors:
+    - juanpablogdl
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/FAk8hoKja0M/hqdefault.jpg
+  topics:
+    - strapi
+    - content type
+    - next.js
+  version: beta
