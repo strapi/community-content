@@ -1,6 +1,6 @@
 # Build a static blog with Gatsby and Strapi
 
-This example is the result of the tutorial series [Build a blog with Nuxt, Strapi and Apollo
+This example is the result of the tutorial series [Build a static blog with Gatsby and Strapi
 ](https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi)
 
 ## Setup
