@@ -138,6 +138,8 @@ Thank you to all the people who made tutorials for the community!
   <img src="https://github.com/soupette.png" width="80" height="80" />
   <img src="https://github.com/enBonnet.png" width="80" height="80" />
   <img src="https://github.com/juanpablogdl.png" width="80" height="80" />
+  <img src="https://github.com/ghoshnirmalya.png" width="80" height="80" />
+
 </p>
 
 [Join them by creating your tutorial](https://github.com/strapi/strapi-tutorials/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
