@@ -1,0 +1,20 @@
+- title: Build a static blog with Gatsby and Strapi
+  link: https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi?redirectPage=1
+  formats:
+    - article
+  language: en
+  date: 2019-02-03
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2020/01/gatsby-blog.png
+  topics:
+    - gatsby
+    - react
+    - blog
+    - graphql
+    - uikit
+    - static
+  version: beta
