@@ -1,0 +1,18 @@
+- title: What is Strapi? Exploring headless CMS
+  link: https://www.youtube.com/watch?v=M4ZV72fl0tI
+  formats:
+    - video
+  language: en
+  date: 2019-10-03
+  authors:
+    - Tim Ermilov
+  github_authors:
+    - BuildingXwithJS
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/M4ZV72fl0tI/hqdefault.jpg
+  topics:
+    - strapi
+    - react
+    - next.js
+    - content-type
+  version: beta
