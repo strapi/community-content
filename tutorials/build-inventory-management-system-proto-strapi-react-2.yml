@@ -1,0 +1,15 @@
+- title: Build an Inventory Management System Prototype with Strapi and React 2
+  link: https://www.youtube.com/watch?v=JkRiENAO4lw
+  formats:
+    - video
+  language: en
+  date: 2020-02-21
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/JkRiENAO4lw/hqdefault.jpg
+  topics:
+    - react
+  version: beta
