@@ -1,0 +1,19 @@
+- title: Делаем клон сервиса по доставке еды используя Nuxt.js, GraphQL, Strapi и Stripe
+  link: https://habr.com/ru/post/489676/
+  formats:
+    - article
+  language: ru
+  date: 2020-02-25
+  authors:
+    - Ilia Belskii
+  github_authors:
+    - theartkod
+  source: https://habr.com
+  image_url: https://habrastorage.org/webt/ar/h_/h3/arh_h3abvo9q5lcl7wwcaeeq-ec.png
+  topics:
+    - nuxt.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
