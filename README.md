@@ -2,7 +2,7 @@
 
 # Strapi Tutorials
 
-Strapi is very excited to gather a collection of tutorials on the new [Strapi Tutorials page](https://www.strapi.io/tutorials)
+Strapi is very excited to gather a collection of tutorials on the new [Strapi Tutorials page](https://strapi.io/tutorials)
 
 ## How to add a tutorial
 
