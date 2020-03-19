@@ -851,3 +851,18 @@
     - graphql
     - uikit
   version: beta
+- title: Single type and Unique ID
+  link: https://www.youtube.com/watch?v=NmThIyxtZH8
+  formats:
+    - video
+  language: en
+  date: 2020-03-18
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  image_url: https://i.ytimg.com/vi/NmThIyxtZH8/hqdefault.jpg
+  topics:
+    - single type
+    - UID
+  version: beta

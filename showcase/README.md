@@ -4,6 +4,12 @@
 
 Show to the community what your Strapi project looks like!
 
+Show to the community what your project looks like
+
+The entire Strapi team is very curious to see what you guy's can build using our product and it may be the same for people in the community who want to reassure themselves about what we can create with Strapi.
+
+We decided to create a [Showcase](https://github.com/strapi/community-content/tree/master/showcase) section where anyone can list his site that has been made with love, and Strapi off course! This list will be displayed on our website soon.
+
 ## How to add your site
 
   - First of all, verify that your site is not already listed. You never know, someone could have done it before you.
