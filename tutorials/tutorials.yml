@@ -623,3 +623,231 @@
     - next.js
     - content-type
   version: beta
+- title: Building a Blog using Angular, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-angular-js-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2019-12-19
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2019/12/blog_angular.png
+  topics:
+    - angular.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
+- title: Cooking a Deliveroo clone with Next and Strapi
+  link: https://strapi.io/blog/strapi-next-setup/
+  formats:
+    - article
+  language: en
+  date: 2019-11-12
+  authors:
+    - Ryan Belke
+  github_authors:
+    - ryanbelke
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/07/nuxt-article.png
+  topics:
+    - next.js
+    - strapi
+    - graphql
+    - stripe
+  version: alpha
+- title: Cooking a Deliveroo clone with Nuxt and Strapi
+  link: https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-setup-part-1-7/
+  formats:
+    - article
+  language: en
+  date: 2019-08-19
+  authors:
+    - Pierre Burgy
+    - Maxime Castres
+  github_authors:
+    - pierreburgy
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/10/Article-Next---1.png
+  topics:
+    - nuxt.js
+    - strapi
+    - graphql
+    - apollo
+    - uikit
+    - stripe
+  version: beta
+- title: Build a static blog with Gatsby and Strapi
+  link: https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi?redirectPage=1
+  formats:
+    - article
+  language: en
+  date: 2020-02-03
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2020/01/gatsby-blog.png
+  topics:
+    - gatsby
+    - react
+    - blog
+    - graphql
+    - uikit
+    - static
+  version: beta
+- title: Building a Static Blog using Gatsby and Strapi
+  link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
+  formats:
+    - article
+  language: en
+  date: 2018-01-18
+  authors:
+    - David Kartuzinski
+  github_authors:
+    - davidkartuzinski
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png
+  topics:
+    - gatsby
+    - strapi
+    - blog
+  version: beta
+- title: How to create an import content plugin
+  link: https://strapi.io/blog/how-to-create-an-import-content-plugin-part-1-4
+  formats:
+    - article
+  language: en
+  date: 2020-01-09
+  authors:
+    - Pouya Miralayi
+  github_authors:
+    - pouyamiralayi
+  source: https://strapi.io
+  image_url: https://blog.strapi.io/content/images/2019/12/strapi-banner.jpg
+  topics:
+    - strapi
+    - plugin
+    - react
+    - nodejs
+    - buffetjs
+  version: beta
+- title: Building a static blog using Jekyll and Strapi
+  link: https://strapi.io/blog/building-a-static-website-using-jekyll-and-strapi
+  formats:
+    - article
+  language: en
+  date: 2019-04-25
+  authors:
+    - Pierre Burgy
+  github_authors:
+    - pierreburgy
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/04/jekyll-plus-strapi.jpg
+  topics:
+    - strapi
+    - jekyll
+  version: alpha
+- title: Building a Blog using Next, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-next-react-js-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2019-12-05
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2019/11/blog_next-2.png
+  topics:
+    - next.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+    - react
+  version: beta
+- title: Building a Blog using Nuxt, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-using-nuxt-strapi-and-apollo/
+  formats:
+    - article
+  language: en
+  date: 2019-11-14
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2019/11/blog2.png
+  topics:
+    - nuxt.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
+- title: Creating a react-native app with strapi as backend
+  link: https://strapi.io/blog/creating-a-react-native-app-with-strapi-as-backend
+  formats:
+    - article
+  language: en
+  date: 2019-11-25
+  authors:
+    - Fabio Nettis
+  github_authors:
+    - fabio-nettis
+  source: https://medium.com/
+  image_url: https://blog.strapi.io/content/images/2019/11/react-native-banner-1.png
+  topics:
+    - mobile
+    - react native
+    - redux
+    - react
+    - authentication
+    - strapi
+  version: beta
+- title: Building a Blog using React, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-react-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2020-01-05
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2020/01/react-blog-1.png
+  topics:
+    - react
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
+- title: Building a Blog using Vue, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-vue-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2020-02-31
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://strapi.io/blog
+  image_url: https://blog.strapi.io/content/images/2020/02/banner-vue.png
+  topics:
+    - vue
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta

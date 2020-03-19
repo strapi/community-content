@@ -9,10 +9,7 @@ Follow along with our community tutorials to get you up and running with Strapi:
 There are different cases for adding a tutorial:
 
 1. You want to list an **existing tutorial** on the web
-   - Create a `Create a tutorial` issue explaining which tutorial your are adding and why.
-   - Create a new branch: `git checkout -b create/<name-of-tutorial>`.
-   - Create a `<name-of-tutorial>.yml` file containing all the necessary informations (see below the expecting format) inside the `tutorials` folder.
-   - Create a pull request
+   - Edit the `tutorials.yml` file by adding the tutorial.
 2. You want to add your own tutorial
    - [How to write a tutorial](#how-to-write-a-tutorial)
 
@@ -34,11 +31,11 @@ There are different cases:
 1. The tutorial hasn't been proposed yet
    - Create an issue with the template `Create a tutorial`
    - Create a new branch: `git checkout -b create/<name-of-tutorial>`
-   - Create the tutorial and make a pull request by adding a new folder inside `tutorials` containing the content of your tutorial as well as the `<name-of-tutorial>.yml` file. (the .yml file must be **inside** your new tutorial folder)
+   - Create the tutorial and make a pull request by adding a new folder inside `tutorials/code` containing the code of your tutorial as well as editing the `tutorials.yml` file by listing your creation.
    - We will update the issue from **In progress** to **Done**
 2. The tutorial is looking for an author (you are doing a requested tutorial)
    - Create a new branch: `git checkout -b create/<name-of-tutorial>`
-   - Create the tutorial and make a pull request by adding a new folder inside `tutorials` containing the content of your tutorial as well as the `<name-of-tutorial>.yml` file. (the .yml file must be **inside** your new tutorial folder)
+   - Create the tutorial and make a pull request by adding a new folder inside `tutorials/code` containing the code of your tutorial as well as editing the `tutorials.yml` file by listing your creation.
    - We will update the issue from **Looking for author** to **Done**
 
 **Please follow this format and indentation:**
