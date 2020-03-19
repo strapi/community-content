@@ -18,7 +18,7 @@ Follow along with our community tutorials to get you up and running with Strapi.
   - [Translate a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&template=translate-a-tutorial.md&title=%5BTRANSLATE%5D)
 
 
-  [Tutorials](https://github.com/strapi/community-content/tutorials)
+  [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
 
 
 ## Articles
@@ -29,7 +29,7 @@ We're looking for writers who'd like to talk about their experience using Strapi
 
 You will definitely pick our interest if you can write articles that go quite in-depth and include a significant number of learning nuggets. We're absolutely NOT looking for promotional pieces or marketing pitches. It's all about interesting thins to tell to the community concerning everything that operate in the Strapi environment.
 
-[Articles](https://github.com/strapi/community-content/articles)
+[Articles](https://github.com/strapi/community-content/tree/master/articles)
 
 
 ## Showcase
@@ -41,4 +41,4 @@ The entire Strapi team is very curious to see what you guy's can build using our
 We decided to create a [Showcase](https://github.com/strapi/community-content/tree/master/showcase) section where anyone can list his site that has been made with love, and Strapi off course! This list will be displayed on our website soon.
 
 
-[Showcase](https://github.com/strapi/community-content/showcase)
+[Showcase](https://github.com/strapi/community-content/tree/master/showcase)
