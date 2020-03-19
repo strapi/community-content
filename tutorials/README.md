@@ -24,7 +24,7 @@ There are different cases for adding a tutorial:
 
 ## How to write a tutorial
 
-If you intend to create a tutorial, please check our [guidelines](https://github.com/Mcastres/tutorials/blob/master/GUIDELINES.md) first.
+If you intend to create a tutorial, please check our [guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md) first.
 
 There are different cases:
 
@@ -51,8 +51,8 @@ There are different cases:
    - David Kartuzinski
  github_authors:
    - davidkartuzinski
- source: 'https://blog.strapi.io/'
- image_url: 'https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png'
+ source: https://blog.strapi.io/
+ image_url: https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png
  topics:
    - gatsby
    - strapi
@@ -118,4 +118,4 @@ Thank you to all the people who made tutorials for the community!
 
 </p>
 
-[Join them by creating your tutorial](https://github.com/strapi/strapi-tutorials/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
+[Join them by creating your tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
