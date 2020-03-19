@@ -1,145 +1,44 @@
-![](/assets/banner.png)
+![Community content](/assets/banner-community-content.png)
 
-# Strapi Tutorials
+# Community content
 
-Strapi is very excited to gather a collection of tutorials on the new [Strapi Tutorials page](https://strapi.io/tutorials)
+Contribute and collaborate on educational content for the Strapi Community
 
-## How to add a tutorial
+  - [Tutorials](#Tutorials)
+  - [Articles](#Articles)
+  - [Showcase](#Showcase)
 
-There are different cases for adding a tutorial:
+## Tutorials
 
-1. You want to list an existing tutorial on the web
-   - Create a new branch: `git checkout -b request/<name-of-tutorial>`
-   - Create a `<name-of-tutorial>.yml` inside the `tutorials` folder and fill it like the example under
-   - Create a pull request
-2. You want to add your own tutorial
-   - [How to write a tutorial](#how-to-write-a-tutorial)
+Follow along with our community tutorials to get you up and running with Strapi.
 
-This one is an example of the Strapi-Gatsby tutorial
+  - [Request a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=To+do&template=request-a-tutorial.md&title=%5BREQUEST%5D)
+  - [Create a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
+  - [Improve a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=To+do&template=update-a-tutorial.md&title=%5BUPDATE%5D)
+  - [Translate a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&template=translate-a-tutorial.md&title=%5BTRANSLATE%5D)
 
-```yaml
-- title: Building a Static Blog using Gatsby and Strapi
- link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
- formats:
-   - article
- language: en
- date: 2018-01-18
- authors:
-   - David Kartuzinski
- github_authors:
-   - davidkartuzinski
- source: 'https://blog.strapi.io/'
- image_url: 'https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png'
- topics:
-   - gatsby
-   - strapi
-   - blog
- version: beta
-```
 
-### How to request a tutorial
+  [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
 
-- Create an issue with the template `Request a tutorial`
-- Assign all the necessary labels including the `To do` label
 
-### How to consult tutorials ideas
+## Articles
 
-- Go on the Github repository and consult either the issue or the project
+Write about your experience with Strapi.
 
-## How to write a tutorial
+We're looking for writers who'd like to talk about their experience using Strapi, JAMstack or open source related things. Although we're mostly looking for experienced authors who have already published blog posts on websites such as [Medium](https://medium.com), [Dev.to](http://dev.to/), [Hackernoon](https://hackernoon.com), [Scotch.io](http://scotch.io/) or your personal blog, we're also supportive of people who have never published anything but interesting in a writing their first technical piece.
 
-If you intend to create a tutorial, please check our [guidelines](https://github.com/Mcastres/tutorials/blob/master/GUIDELINES.md) first.
+You will definitely pick our interest if you can write articles that go quite in-depth and include a significant number of learning nuggets. We're absolutely NOT looking for promotional pieces or marketing pitches. It's all about interesting thins to tell to the community concerning everything that operate in the Strapi environment.
 
-There are different cases:
+[Articles](https://github.com/strapi/community-content/tree/master/articles)
 
-1. The tutorial hasn't been proposed yet
-   - Create an issue with the template `Create a tutorial`
-   - Create a new branch: `git checkout -b create/<name-of-tutorial>`
-   - Create the tutorial and make a pull request by adding a new folder inside `tutorials` containing the content of your tutorial as well as the `<name-of-tutorial>.yml` file. (the .yml file must be **inside** your new tutorial folder)
-   - We will update the issue from **In progress** to **Done**
-2. The tutorial is looking for an author (you are doing a proposed tutorial)
-   - Create a new branch: `git checkout -b create/<name-of-tutorial>`
-   - Create the tutorial and make a pull request by adding a new folder inside `tutorials` containing the content of your tutorial as well as the `<name-of-tutorial>.yml` file. (the .yml file must be **inside** your new tutorial folder)
-   - We will update the issue from **Looking for author** to **Done**
 
-**Please follow this format and indentation:**
+## Showcase
 
-```yaml
-- title: Building a Static Blog using Gatsby and Strapi
- link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
- formats:
-   - article
- language: en
- date: 2018-01-18
- authors:
-   - David Kartuzinski
- github_authors:
-   - davidkartuzinski
- source: 'https://blog.strapi.io/'
- image_url: 'https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png'
- topics:
-   - gatsby
-   - strapi
-   - blog
- version: beta
-```
+Show to the community what your project looks like
 
-- `title` - Title of tutorial (`string`; **required**)
-- `link` - Working URL where tutorial can be found (`string`; **required**)
-- `formats` - Media format of tutorial (`array` of `strings` with values `video`, `audio` or `article`; **required**)
-- `language` - Spoken/written language of the tutorial (`string` with a two-letter [ISO 639-1 language code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes); optional)
-- `date` - Date tutorial was published (`string` in `YYYY-MM-DD` format; optional)
-- `authors` - Name of author(s) or speaker(s) (`array` of `strings`; **required**)
-- `github_authors` - Github username of author(s) or speaker(s) (`array` of `strings`; optional)
-- `source` - Source of the tutorial (`string`; optional)
-- `image_url` - Url image of the tutorial (`string`; optional)
-- `topics` - Main topic(s) covered by the tutorial (`array` of `strings`; **required**)
-- `version` - Version of Strapi used in the tutorial (`string`; require)
+The entire Strapi team is very curious to see what you guy's can build using our product and it may be the same for people in the community who want to reassure themselves about what we can create with Strapi.
 
-## Why write for us?
+We decided to create a [Showcase](https://github.com/strapi/community-content/tree/master/showcase) section where anyone can list his site that has been made with love, and Strapi off course! This list will be displayed on our website soon.
 
-Here are few things that writing for strapi can do for you:
 
-- Learn while sharing your knowledge. You know how to create an application with Strapi and Nuxt? Pass this knowledge to others!
-- Get your name on this repository README
-- Get access to a private slack channel `makers`
-- Get a custom emoji on our slack channel
-- Get some strapi goodies (stickers, cap, t-shirt)
-
-**By making a tutorial for us you participate in the growth of an open source project.**
-
-## Makers
-
-Thank you to all the people who made tutorials for the community!
-
-<p float="left">
-  <img src="https://github.com/iam4x.png" width="80" height="80" />
-  <img src="https://github.com/ryanbelke.png" width="80" height="80" />
-  <img src="https://github.com/bahdcoder.png" width="80" height="80" />
-  <img src="https://github.com/john-smilga.png" width="80" height="80" />
-  <img src="https://github.com/pappinvijak.png" width="80" height="80" />
-  <img src="https://github.com/jlengstorf.png" width="80" height="80" />
-  <img src="https://github.com/rpragana.png" width="80" height="80" />
-  <img src="https://github.com/pgmichael.png" width="80" height="80" />
-  <img src="https://github.com/shahinrostami.png" width="80" height="80" />
-  <img src="https://github.com/tamirandtom.png" width="80" height="80" />
-  <img src="https://github.com/femithz.png" width="80" height="80" />
-  <img src="https://github.com/reedbarger.png" width="80" height="80" />
-  <img src="https://github.com/davidkartuzinski.png" width="80" height="80" />
-  <img src="https://github.com/pierreburgy.png" width="80" height="80" />
-  <img src="https://github.com/mcastres.png" width="80" height="80" />
-  <img src="https://github.com/fabio-nettis.png" width="80" height="80" />
-  <img src="https://github.com/pouyamiralayi.png" width="80" height="80" />
-  <img src="https://github.com/ivandoric.png" width="80" height="80" />
-  <img src="https://github.com/GalloDaSballo.png" width="80" height="80" />
-  <img src="https://github.com/Nauman440.png" width="80" height="80" />
-  <img src="https://github.com/rajdip34.png" width="80" height="80" />
-  <img src="https://github.com/derrickmehaffy.png" width="80" height="80" />
-  <img src="https://github.com/soupette.png" width="80" height="80" />
-  <img src="https://github.com/enBonnet.png" width="80" height="80" />
-  <img src="https://github.com/juanpablogdl.png" width="80" height="80" />
-  <img src="https://github.com/ghoshnirmalya.png" width="80" height="80" />
-
-</p>
-
-[Join them by creating your tutorial](https://github.com/strapi/strapi-tutorials/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
+[Showcase](https://github.com/strapi/community-content/tree/master/showcase)

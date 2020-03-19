@@ -1,0 +1,868 @@
+- title: Aprendiendo Strapi un CMS Headless (Parte 1 de 2)
+  link : https://www.youtube.com/watch?v=yuwJSlsuAvI
+  formats:
+    - video
+  language: es
+  date: 2020-01-27
+  authors:
+    - Juan Pablo De la torre Valdez
+  github_authors:
+    - juanpablogdl
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/yuwJSlsuAvI/hqdefault.jpg
+  topics:
+    - strapi
+    - content type
+  version: beta
+- title: Aprendiendo Strapi un CMS Headless (Parte 2 de 2) con Next.js
+  link: https://www.youtube.com/watch?v=FAk8hoKja0M&feature=youtu.be
+  formats:
+    - video
+  language: es
+  date: 2020-01-28
+  authors:
+    - Juan Pablo De la torre Valdez
+  github_authors:
+    - juanpablogdl
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/FAk8hoKja0M/hqdefault.jpg
+  topics:
+    - strapi
+    - content type
+    - next.js
+  version: beta
+- title: Auto Generated field value
+  link: https://www.youtube.com/watch?v=Vul-0gsmINg
+  formats:
+    - video
+  language: en
+  date: 2020-02-13
+  authors:
+    - Strapi
+  github_authors:
+    - strapi
+  source: https://youtube.com
+  image_url:
+  topics:
+    - strapi
+    - content type
+    - nodejs
+    - slug
+  version: beta
+- title: How to Automate the Backend stuffs with Open Source Headless CMS Strapi and Docker
+  link: https://www.nirmalyaghosh.com/blog/how-to-automate-the-backend-stuffs-with-open-source-headless-cms-strapi-and-docker
+  formats:
+    - article
+  language: en
+  date: 2020-01-01
+  authors:
+    - Nirmalya Ghosh
+  github_authors:
+    - ghoshnirmalya
+  source: https://www.nirmalyaghosh.com/
+  image_url:
+  topics:
+    - docker
+    - content-type
+  version: beta
+- title: Build an Inventory Management System Prototype with Strapi and React 2
+  link: https://www.youtube.com/watch?v=JkRiENAO4lw
+  formats:
+    - video
+  language: en
+  date: 2020-02-21
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/JkRiENAO4lw/hqdefault.jpg
+  topics:
+    - react
+  version: beta
+- title: Build an Inventory Management System Prototype with Strapi and React
+  link: https://www.youtube.com/watch?v=1wrwT0MXoUA
+  formats:
+    - video
+  language: en
+  date: 2020-01-21
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/1wrwT0MXoUA/hqdefault.jpg
+  topics:
+    - react
+  version: beta
+- title: Build an Online Store with React and GraphQL in 90 Minutes
+  link : https://www.udemy.com/course/build-an-online-store-with-react-and-graphql-in-90-minutes/?LSNPUBID=iyqA03cu2sQ&ranEAID=iyqA03cu2sQ&ranMID=39197&ranSiteID=iyqA03cu2sQ-W0BvDDe1YnAYlA2vpUKirg
+  formats:
+    - article
+    - video
+  language: en
+  date: 2019-10-01
+  authors:
+    - Reed barger
+  github_authors:
+    - reedbarger
+  source: https://www.udemy.com
+  image_url: https://i.udemycdn.com/course/240x135/1796660_9c12.jpg
+  topics:
+    - strapi
+    - react
+    - graphql
+    - stripe
+    - sendgrid
+    - heroku
+  version: beta
+- title: How to change the WYSIWYG in Strapi
+  link : https://strapi.io/blog/how-to-change-the-wysiwyg-in-strapi
+  formats:
+    - article
+  language: en
+  date: 2019-10-23
+  authors:
+    - Cyril Lopez
+  github_authors:
+    - soupette
+  source: 'https://www.strapi.io/'
+  image_url: 'https://blog.strapi.io/content/images/2019/10/cover_wysiwyg-1.png'
+  topics:
+    - strapi
+    - admin customization
+    - wysiwyg
+  version: beta
+- title: How to connect the AWS S3 bucket with strapi for storing data.
+  link : https://www.mstweaks.com/how-to-connect-the-aws-s3-bucket-with-strapi-for-storing-data/
+  formats:
+    - article
+  language: en
+  date: 2019-11-11
+  authors:
+    - Muhammad Nauman
+  github_authors:
+    - Nauman440
+  source: 'https://www.mstweaks.com/'
+  image_url:
+  topics:
+    - strapi
+    - s3
+  version: beta
+- title: Create a Blog with React and Strapi
+  link : https://medium.com/@adeyinkakazeemolufemioluoje/create-a-blog-with-react-and-strapi-cc3d8f0f01e1
+  formats:
+    - article
+  language: en
+  date: 2018-09-05
+  authors:
+    - Adeyinka Kazeem Olufemi-Oluoje
+  github_authors:
+    - femithz
+  source: 'https://www.medium.com'
+  image_url: 'https://miro.medium.com/max/4000/1*y5d-je-3BZUrgg0Hxf7CyA.png'
+  topics:
+    - strapi
+    - react
+    - blog
+  version: alpha
+- title: Делаем клон сервиса по доставке еды используя Nuxt.js, GraphQL, Strapi и Stripe
+  link: https://habr.com/ru/post/489676/
+  formats:
+    - article
+  language: ru
+  date: 2020-02-25
+  authors:
+    - Ilia Belskii
+  github_authors:
+    - theartkod
+  source: https://habr.com
+  image_url: https://habrastorage.org/webt/ar/h_/h3/arh_h3abvo9q5lcl7wwcaeeq-ec.png
+  topics:
+    - nuxt.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
+- title: How to deploy and manage Node.js apps with Nesabox
+  link : https://katifrantz.com/how-to-deploy-and-manage-node-js-apps-with-nesabox/
+  formats:
+    - article
+  language: en
+  date: 2019-09-27
+  authors:
+    - Kati Frantz
+  github_authors:
+    - bahdcoder
+  source: 'https://katifrantz.com'
+  image_url: ''
+  topics:
+    - strapi
+    - nodejs
+    - nesabox
+    - digital ocean
+  version: beta
+- title: How to deploy strapi on AWS using Docker
+  link: https://www.youtube.com/watch?v=ctL-lZiIy5M
+  formats:
+    - video
+  language: en
+  date: 2019-08-25
+  authors:
+    - Rajdip Mondal
+  github_authors:
+    - rajdip34
+  source: https://youtube.com/
+  image_url:
+  topics:
+    - strapi
+    - aws
+    - docker
+  version: alpha
+- title: Build a file upload system with Strapi and React
+  link: https://www.youtube.com/watch?v=A4VZyo6BrJA
+  formats:
+    - video
+  language: en
+  date: 2020-03-10
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/A4VZyo6BrJA/hqdefault.jpg
+  topics:
+    - react
+  version: beta
+- title: Gatsby Personal Site with Strapi
+  link: https://www.youtube.com/watch?v=fJ-tUBJFM5w
+  formats:
+    - video
+  language: en
+  date: 2019-10-07
+  authors:
+    - John Smilga
+  github_authors:
+    - john-smilga
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/fJ-tUBJFM5w/maxresdefault.jpg
+  topics:
+    - strapi
+    - gatsby
+  version: beta
+- title: Construyendo un blog con Gatsby y Strapi
+  link : https://enbonnet.me/article/5/construyendo-un-blog-con-gatsby-y-strapi
+  formats:
+    - article
+  language: es
+  date: 2018-01-18
+  authors:
+    - Ender Bonnet
+  github_authors:
+    - enBonnet
+  source: https://enbonnet.me
+  image_url: https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png
+  topics:
+    - strapi
+    - gatsby
+    - Blog
+  version: beta
+- title: Getting started with Strapi
+  link: https://www.youtube.com/watch?v=9xK2iNdKcyw&t=171s
+  formats:
+    - video
+  language: en
+  date: 2019-12-03
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/9xK2iNdKcyw/hqdefault.jpg
+  topics:
+    - strapi
+    - content type
+    - API
+  version: beta
+- title: Getting started with Strapi
+  link: https://watch-learn.com/dev-tools/lets-checkout-strapi-cms
+  formats:
+    - video
+  language: en
+  date: 2019-12-24
+  authors:
+    - Ivan Dorić
+  github_authors:
+    - ivandoric
+  source: https://watch-learn.com/
+  image_url: https://i.ytimg.com/vi/8_qwhfI5VxI/maxresdefault.jpg
+  topics:
+    - strapi
+    - content type
+    - API
+  version: beta
+- title: How to create content types and fetch data through API in strapi.
+  link : https://www.mstweaks.com/how-to-create-content-types-and-fetch-data-through-api-in-strapi/
+  formats:
+    - article
+  language: en
+  date: 2019-11-05
+  authors:
+    - Muhammad Nauman
+  github_authors:
+    - Nauman440
+  source: https://www.mstweaks.com/
+  image_url: https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_870/https://www.mstweaks.com/wp-content/uploads/2019/11/Final.jpg
+  topics:
+    - strapi
+    - content type
+    - API
+  version: beta
+- title: How to install and create a project in Strapi?
+  link : https://www.mstweaks.com/how-to-install-and-create-a-project-in-strapi/
+  formats:
+    - article
+  language: en
+  date: 2019-10-31
+  authors:
+    - Muhammad Nauman
+  github_authors:
+    - Nauman440
+  source: https://www.mstweaks.com/
+  image_url: https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_980,h_520/https://www.mstweaks.com/wp-content/uploads/2019/10/16-980x520.jpg
+  topics:
+    - strapi
+    - installation
+  version: beta
+- title: Build a Mobile E-Commerce with Flutter, Redux and Stripe
+  link: https://www.udemy.com/course/mobile-e-commerce-with-flutter-redux-and-stripe/
+  formats:
+    - video
+  language: en
+  date: 2019-04-01
+  authors:
+    - Reed Barger
+  github_authors:
+    - reedbarger
+  source: udemy.com
+  image_url: https://i.udemycdn.com/course/480x270/2304884_b041_4.jpg
+  topics:
+    - strapi
+    - flutter
+    - mobile
+    - e-commerce
+    - redux
+    - stripe
+  version: alpha
+- title: Protected routes and Authentication with React and Node.js
+  link : https://strapi.io/blog/protected-routes-and-authentication-with-react-and-node-js?redirectPage=5
+  formats:
+    - article
+  language: en
+  date: 2018-02-21
+  authors:
+    - Cyril Lopez
+  github_authors:
+    - soupette
+  source: https://www.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/02/react-plus-strapi.png
+  topics:
+    - strapi
+    - nodejs
+    - authentication
+  version: beta
+- title: Une API en 10 minutes avec strapi
+  link: https://www.youtube.com/watch?v=oDisID9LdgQ
+  formats:
+    - video
+  language: fr
+  date: 2019-08-27
+  authors:
+    - Maxime Janton
+  github_authors:
+    - iam4x
+  source: https://youtube.com/
+  image_url:
+  topics:
+    - strapi
+  version: alpha
+- title: Set up Strapi as a CMS for Gatsby
+  link: https://www.youtube.com/watch?v=JkBxyurjeI8
+  formats:
+    - video
+  language: en
+  date: 2019-09-05
+  authors:
+    - David Kartuzinski
+    - Jason Lengstorf
+  github_authors:
+    - davidkartuzinski
+    - jlengstorf
+  source: https://youtube.com/
+  image_url: http://i3.ytimg.com/vi/JkBxyurjeI8/maxresdefault.jpg
+  topics:
+    - strapi
+    - gatsby
+    - blog
+  version: beta
+- title: Strapi getting started en Enspañol
+  link : https://www.youtube.com/watch?v=gpPrg7pGqBI
+  formats:
+    - video
+  language: en
+  date: 2019-04-14
+  authors:
+    - Gian Carlos Figueroa Revelo
+  github_authors:
+    -
+  source: https://www.youtube.com
+  image_url: http://i3.ytimg.com/vi/gpPrg7pGqBI/maxresdefault.jpg
+  topics:
+    - strapi
+    - s3
+  version: alpha
+- title: Strapi - Headless CMS
+  link: https://www.youtube.com/watch?v=T6yXnHRcplM
+  formats:
+    - video
+  language: es
+  date: 2019-09-08
+  authors:
+    - Rildo Pragana
+  github_authors:
+    - rpragana
+  source: https://youtube.com/
+  image_url:
+  topics:
+    - strapi
+  version: beta
+- title: Learn Strapi in 12 minutes
+  link: https://www.youtube.com/watch?v=hisau__LM-o&feature=youtu.be
+  formats:
+    - video
+  language: en
+  date: 2019-01-12
+  authors:
+    - Shahin Rostami
+  github_authors:
+    - shahinrostami
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/hisau__LM-o/maxresdefault.jpg
+  topics:
+    - strapi
+    - docker
+  version: alpha
+- title: Strapi installation with Docker
+  link : https://www.youtube.com/watch?v=k5KdguLX4NE
+  formats:
+    - video
+  language: en
+  date: 2019-01-28
+  authors:
+    - Shahin Rostami
+  github_authors:
+    - shahinrostami
+  source: https://www.youtube.com
+  image_url: http://i3.ytimg.com/vi/k5KdguLX4NE/maxresdefault.jpg
+  topics:
+    - strapi
+    - docker
+  version: alpha
+- title: STRAPI ⚡️ ️MLab ⚡️ ️Heroku ⚡️ S3 - Deployment for a non-developer
+  link : https://medium.com/@tamirp/strapi-️mlab-️heroku-️-s3-step-by-step-deployment-for-a-non-developer-1cae3ec3dfe0
+  formats:
+    - article
+  language: en
+  date: 2019-08-20
+  authors:
+    - Tamir Pomerantz
+  github_authors:
+    - tamirandtom
+  source: https://medium.com/
+  image_url:
+  topics:
+    - strapi
+    - mlab
+    - s3
+    - heroku
+  version: beta
+- title: Strapi + SSL + MariaDB = Awesome Sauce
+  link : https://derrickmehaffy.com/strapi-nginx-mariadb-lets-encrypt-awesome-sauce-part-1/
+  formats:
+    - article
+  language: en
+  date: 2019-08-09
+  authors:
+    - Derrick Mehaffy
+  github_authors:
+    - derrickmehaffy
+  source: https://derrickmehaffy.com/
+  image_url:
+  topics:
+    - strapi
+    - mariadb
+    - nginx
+    - ubuntu
+    - let's encrypt
+  version: beta
+- title: Deploying a Strapi API on Heroku
+  link : https://strapi.io/blog/deploying-a-strapi-api-on-heroku
+  formats:
+    - article
+  language: en
+  date: 2018-02-08
+  authors:
+    - Pierre Burgy
+  github_authors:
+    - pierreburgy
+  source: https://www.strapi.io.com
+  image_url:
+  topics:
+    - strapi
+    - heroku
+  version: alpha
+- title: Install Strapi on Ubuntu 18.04 LTS on Google Cloud with Cloud SQL
+  link : https://www.cloudbooklet.com/install-strapi-on-ubuntu-18-04-lts-on-google-cloud-with-cloud-sql/
+  formats:
+    - article
+  language: en
+  date: 2019-08-20
+  authors:
+    - Pappin Vijak
+  github_authors:
+    - pappinvijak
+  source: https://www.cloudbooklet.com
+  image_url: https://storage.googleapis.com/cloudbooklet-new/wp-content/uploads/2019/01/03054237/ad5bafec-install-strapi-on-ubuntu-18.04-lts-on-google-cloud-with-cloud-sql-1024x576.jpg
+  topics:
+    - strapi
+    - ubuntu
+    - google cloud
+    - cloud sql
+  version: beta
+- title: Strapi Tutorial and Introduction
+  link: https://www.youtube.com/watch?v=yH6cQRRWNFI
+  formats:
+    - video
+  language: en
+  date: 2019-09-12
+  authors:
+    - Strapi
+  github_authors:
+    - strapi
+  source: https://youtube.com
+  image_url:
+  topics:
+    - strapi
+    - content type
+  version: beta
+- title: Strapi and Unity - Cross-Platform Leaderboards
+  link : https://www.youtube.com/watch?v=oGM0GzKE_Aw
+  formats:
+    - video
+  language: en
+  date: 2019-01-20
+  authors:
+    - Shahin Rostami
+  github_authors:
+    - shahinrostami
+  source: https://www.youtube.com
+  image_url: http://i3.ytimg.com/vi/oGM0GzKE_Aw/maxresdefault.jpg
+  topics:
+    - strapi
+    - unity
+  version: alpha
+- title: Using Strapi for Node.js Content Management with a React SPA
+  link : https://snipcart.com/blog/node-js-react-strapi-tutorial
+  formats:
+    - article
+  language: en
+  date: 2018-08-09
+  authors:
+    - Michael Poirier-Ginter
+  github_authors:
+    - pgmichael
+  source: https://www.snipcart.com
+  image_url: https://snipcart.com/media/203792/node-js-react-strapi-1.png
+  topics:
+    - strapi
+    - react
+  version: alpha
+- title: Using mLab with Strapi
+  link : https://strapi.io/blog/using-mlab-with-strapi?redirectPage=4
+  formats:
+    - article
+  language: en
+  date: 2018-02-06
+  authors:
+    - Pierre Burgy
+  github_authors:
+    - pierreburgy
+  source: https://www.strapi.io.com
+  image_url:
+  topics:
+    - strapi
+    - mlab
+    - mongoDB
+  version: alpha
+- title: What is Strapi? Exploring headless CMS
+  link: https://www.youtube.com/watch?v=M4ZV72fl0tI
+  formats:
+    - video
+  language: en
+  date: 2019-10-03
+  authors:
+    - Tim Ermilov
+  github_authors:
+    - BuildingXwithJS
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/M4ZV72fl0tI/hqdefault.jpg
+  topics:
+    - strapi
+    - react
+    - next.js
+    - content-type
+  version: beta
+- title: Building a Blog using Angular, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-angular-js-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2019-12-19
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2019/12/blog_angular.png
+  topics:
+    - angular.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
+- title: Cooking a Deliveroo clone with Next and Strapi
+  link: https://strapi.io/blog/strapi-next-setup/
+  formats:
+    - article
+  language: en
+  date: 2019-11-12
+  authors:
+    - Ryan Belke
+  github_authors:
+    - ryanbelke
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/07/nuxt-article.png
+  topics:
+    - next.js
+    - strapi
+    - graphql
+    - stripe
+  version: alpha
+- title: Cooking a Deliveroo clone with Nuxt and Strapi
+  link: https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-setup-part-1-7/
+  formats:
+    - article
+  language: en
+  date: 2019-08-19
+  authors:
+    - Pierre Burgy
+    - Maxime Castres
+  github_authors:
+    - pierreburgy
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/10/Article-Next---1.png
+  topics:
+    - nuxt.js
+    - strapi
+    - graphql
+    - apollo
+    - uikit
+    - stripe
+  version: beta
+- title: Build a static blog with Gatsby and Strapi
+  link: https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi?redirectPage=1
+  formats:
+    - article
+  language: en
+  date: 2020-02-03
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2020/01/gatsby-blog.png
+  topics:
+    - gatsby
+    - react
+    - blog
+    - graphql
+    - uikit
+    - static
+  version: beta
+- title: Building a Static Blog using Gatsby and Strapi
+  link: https://blog.strapi.io/building-a-static-website-using-gatsby-and-strapi/
+  formats:
+    - article
+  language: en
+  date: 2018-01-18
+  authors:
+    - David Kartuzinski
+  github_authors:
+    - davidkartuzinski
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png
+  topics:
+    - gatsby
+    - strapi
+    - blog
+  version: beta
+- title: How to create an import content plugin
+  link: https://strapi.io/blog/how-to-create-an-import-content-plugin-part-1-4
+  formats:
+    - article
+  language: en
+  date: 2020-01-09
+  authors:
+    - Pouya Miralayi
+  github_authors:
+    - pouyamiralayi
+  source: https://strapi.io
+  image_url: https://blog.strapi.io/content/images/2019/12/strapi-banner.jpg
+  topics:
+    - strapi
+    - plugin
+    - react
+    - nodejs
+    - buffetjs
+  version: beta
+- title: Building a static blog using Jekyll and Strapi
+  link: https://strapi.io/blog/building-a-static-website-using-jekyll-and-strapi
+  formats:
+    - article
+  language: en
+  date: 2019-04-25
+  authors:
+    - Pierre Burgy
+  github_authors:
+    - pierreburgy
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2018/04/jekyll-plus-strapi.jpg
+  topics:
+    - strapi
+    - jekyll
+  version: alpha
+- title: Building a Blog using Next, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-next-react-js-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2019-12-05
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2019/11/blog_next-2.png
+  topics:
+    - next.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+    - react
+  version: beta
+- title: Building a Blog using Nuxt, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-using-nuxt-strapi-and-apollo/
+  formats:
+    - article
+  language: en
+  date: 2019-11-14
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2019/11/blog2.png
+  topics:
+    - nuxt.js
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
+- title: Creating a react-native app with strapi as backend
+  link: https://strapi.io/blog/creating-a-react-native-app-with-strapi-as-backend
+  formats:
+    - article
+  language: en
+  date: 2019-11-25
+  authors:
+    - Fabio Nettis
+  github_authors:
+    - fabio-nettis
+  source: https://medium.com/
+  image_url: https://blog.strapi.io/content/images/2019/11/react-native-banner-1.png
+  topics:
+    - mobile
+    - react native
+    - redux
+    - react
+    - authentication
+    - strapi
+  version: beta
+- title: Building a Blog using React, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-react-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2020-01-05
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2020/01/react-blog-1.png
+  topics:
+    - react
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
+- title: Building a Blog using Vue, Strapi and Apollo
+  link: https://strapi.io/blog/build-a-blog-with-vue-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2020-02-31
+  authors:
+    - Maxime Castres
+  github_authors:
+    - mcastres
+  source: https://strapi.io/blog
+  image_url: https://blog.strapi.io/content/images/2020/02/banner-vue.png
+  topics:
+    - vue
+    - apollo
+    - blog
+    - graphql
+    - uikit
+  version: beta
+- title: Single type and Unique ID
+  link: https://www.youtube.com/watch?v=NmThIyxtZH8
+  formats:
+    - video
+  language: en
+  date: 2020-03-18
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  image_url: https://i.ytimg.com/vi/NmThIyxtZH8/hqdefault.jpg
+  topics:
+    - single type
+    - UID
+  version: beta
