@@ -866,3 +866,19 @@
     - single type
     - UID
   version: beta
+- title: Delivering content with Strapi and Nuxt
+  link: https://blog.logrocket.com/delivering-content-with-strapi-and-nuxt/?utm_content=122450531&utm_medium=social&utm_source=twitter&hss_channel=tw-3832252517#utm_content=122450531&utm_medium=social&utm_source=twitter&hss_channel=tw-3832252517
+  formats:
+    - article
+  language: en
+  date: 2020-03-19
+  authors:
+    - Daniel Madalitso Phiri
+  github_authors:
+    - malgamves
+  image_url: https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/03/Nuxt-strapi.png
+  topics:
+    - nuxt.js
+    - apollo
+    - graphql
+  version: beta
