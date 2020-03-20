@@ -882,3 +882,20 @@
     - apollo
     - graphql
   version: beta
+- title: Install Strapi on DigitalOcean with 1-Click
+  link: https://scotch.io/tutorials/install-strapi-on-digitalocean-with-1-click
+  formats:
+    - article
+  language: en
+  date: 2020-03-20
+  authors:
+    - Chris On Code
+  github_authors:
+    - chrisoncode
+  image_url: https://scotch-res.cloudinary.com/image/upload/w_350,dpr_1,q_auto:good,f_auto/v1584724709/ugfv73qeqmff7mjeapay.png
+  topics:
+    - digital ocean
+    - deploy
+    - 1 click
+  version: beta
+
