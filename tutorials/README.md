@@ -116,6 +116,8 @@ Thank you to all the people who made tutorials for the community!
   <img src="https://github.com/juanpablogdl.png" width="80" height="80" />
   <img src="https://github.com/ghoshnirmalya.png" width="80" height="80" />
   <img src="https://scotch-res.cloudinary.com/image/upload/dpr_1,w_250,h_250,q_auto:good,f_auto,c_fill,g_face/media/1/w7Vhk81SyClJPlDQPMLh_17795826_10154678250924582_8102840950354615336_n.jpg" width="80" height="80" />
+  <img src="https://github.com/malgamves" width="80" height="80" />
+   
 
 </p>
 
