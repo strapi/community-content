@@ -898,4 +898,22 @@
     - deploy
     - 1 click
   version: beta
+- title: Authentication in the Jamstack
+  link: https://jamstack.training/p/authentication-in-the-jamstack
+  formats:
+    - video
+  language: en
+  date: 2020-03-23
+  authors:
+    - Tamas Piros
+  github_authors:
+    - tpiros
+  image_url: https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/mMq5nqTXRlK9vos291eG
+  topics:
+    - authentication
+    - JWT token
+    - heroku
+    - next.js
+    - zeit
+  version: beta
 
