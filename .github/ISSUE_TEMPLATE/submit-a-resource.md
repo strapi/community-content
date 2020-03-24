@@ -1,7 +1,7 @@
 ---
-name: Create a tutorial/article
+name: Submit a tutorial/article
 about: Create a new Strapi related tutorial/article
-title: "[CREATE]"
+title: "[SUBMIT]"
 labels: In progress
 assignees:
 ---
