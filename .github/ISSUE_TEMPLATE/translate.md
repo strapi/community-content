@@ -1,13 +1,13 @@
 ---
-name: Translate a tutorial
-about: Translate an existing tutorial
+name: Translate a tutorial/article
+about: Translate an existing resource
 title: "[TRANSLATE]"
 labels:
-assignees: Mcastres
+assignees:
 ---
 
 **The tutorial I want to translate**
-Which tutorial you want to translate
+Which resource you want to translate
 
 **Community vote**
 👍 Upvote if you need it too
