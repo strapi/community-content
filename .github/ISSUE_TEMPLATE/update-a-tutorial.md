@@ -1,6 +1,6 @@
 ---
-name: Update a tutorial/article
-about: Update an existing resource
+name: Update a tutorial
+about: Update an existing tutorial
 title: "[UPDATE]"
 labels: In progress
 assignees:
