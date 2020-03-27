@@ -1,0 +1,10 @@
+- title: Picke.rs
+  url: https://picke.rs
+  description: A site for organizing and saving "picks" from podcasts
+  categories:
+    - Community website
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+  made_by: Drew Town
+  made_by_url: https://www.drewtown.dev
