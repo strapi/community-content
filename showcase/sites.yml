@@ -8,3 +8,28 @@
     - TailwindCSS
   made_by: Drew Town
   made_by_url: https://www.drewtown.dev
+- title: Collusion
+  url: https://www.collusion.com/
+  description: Collusion is a new brand for the coming age.
+  categories:
+    - Catalogue
+  frontend:
+    
+  made_by: ASOS
+  made_by_url: https://asos.com
+- title: Freestyle Stats
+  url: https://freestylestats.com/
+  description: All the information about the best freestyle competitions and their participants. Results, matches, freestylers, DJs, judges and more!
+  categories:
+    - 
+  frontend:
+  made_by: Freestyle Stats
+  made_by_url: https://freestylestats.com/
+- title: Bioinn
+  url: https://bioinn.ca/
+  description: Bioinn allows the discovery and purchase of organic, ecoresponsible and handcrafted products from your key districts.
+  categories:
+    - 
+  frontend:
+  made_by: Phénix Web Agency
+  made_by_url: https://phenixweb.com/
