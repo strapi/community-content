@@ -30,3 +30,62 @@
   frontend:
   made_by: Phénix Web Agency
   made_by_url: https://phenixweb.com/
+- title: Beerbay
+  url: https://beerbay.net/
+  description: Buy craft beer online
+  categories:
+    - e-commerce
+  frontend:
+    - Vue.js
+    - Nuxt.js
+  made_by: Jesus
+  made_by_url: https://beerbay.net/about/
+- title: Ebrains
+  url: https://ebrains.eu/
+  description: EBRAINS provides new services and technologies addressing current and future challenges in brain research.
+  categories:
+    - Services
+    - AI
+    - Datasets
+  frontend:
+    - Vue.js
+    - Nuxt.js
+  made_by: Ebrains
+  made_by_url: https://ebrains.eu/about
+- title: Tiiz
+  url: https://www.tiiz.fr/
+  description: Your new alcohol delivery service, at tasting temperature. Door to door delivery in 30 minutes!
+  categories:
+    - Delivery
+    - Alcohol
+  frontend:
+  made_by: Tiiz
+  made_by_url: https://www.tiiz.fr/
+- title: RiderClub
+  url: https://www.riderclub.fr/
+  description: Rent, easily test a two-wheeler
+  categories:
+    - Rent
+    - Motorbike
+  frontend:
+    - Angular
+  made_by: RiderClub
+  made_by_url: https://www.riderclub.fr/
+- title: IBM AI Research
+  url: https://www.research.ibm.com/artificial-intelligence/experiments/try-our-tech/
+  description: At IBM Research, we create innovative tools and resources to help unleash the power of AI. See for yourself. Take our tech for a spin.
+  categories:
+    - AI
+    - Research
+  frontend:
+  made_by: IBM Research
+  made_by_url: https://www.research.ibm.com/
+- title: Coopz
+  url: https://www.coopz.io/en/
+  description: coopz is the first social dating app that lets you meet new people in real life across the world, by matching of interests and places.
+  categories:
+    - Social app
+    - Dating app
+  frontend:
+  made_by: Coopz
+  made_by_url: https://www.coopz.io/en/
