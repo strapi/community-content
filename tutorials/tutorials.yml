@@ -963,5 +963,19 @@
     - next.js
     - SEO
   version: beta
-
+- title: Strapi Docker composer example
+  link: https://www.youtube.com/watch?v=-8zJdKypCdQ
+  formats:
+    - video
+  language: en
+  date: 2020-04-06
+  authors:
+    - Victor Kane
+  github_authors:
+    - victorkane
+  image_url: https://i.ytimg.com/vi/-8zJdKypCdQ/hqdefault.jpg
+  topics:
+    - Docker
+    - mongodb
+  version: beta
 
