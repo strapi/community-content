@@ -40,18 +40,6 @@
     - Nuxt.js
   made_by: Jesus
   made_by_url: https://beerbay.net/about/
-- title: Ebrains
-  url: https://ebrains.eu/
-  description: EBRAINS provides new services and technologies addressing current and future challenges in brain research.
-  categories:
-    - Services
-    - AI
-    - Datasets
-  frontend:
-    - Vue.js
-    - Nuxt.js
-  made_by: Ebrains
-  made_by_url: https://ebrains.eu/about
 - title: Tiiz
   url: https://www.tiiz.fr/
   description: Your new alcohol delivery service, at tasting temperature. Door to door delivery in 30 minutes!
