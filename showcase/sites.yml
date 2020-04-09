@@ -77,3 +77,13 @@
   frontend:
   made_by: Coopz
   made_by_url: https://www.coopz.io/en/
+- title: Daniel Esteves
+  url: https://danestves.com
+  description: Portfolio and blog website to show information about Daniel Esteves and what he do
+  categories:
+    - Portfolio
+  frontend:
+    - Gatsby.js
+    - TailwindCSS
+  made_by: Daniel Esteves
+  made_by_url: https://danestves.com/
