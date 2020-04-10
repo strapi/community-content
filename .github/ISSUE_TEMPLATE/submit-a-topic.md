@@ -1,19 +1,14 @@
 ---
 name: Submit a topic
-about: Submit a tutorial idea
+about: Submit a tutorial/article idea
 title: "[TOPIC]"
 labels: Looking for author
 assignees:
 ---
 
 **My Request**
-What tutorial would you like to see?
-
-**Preferred Format**
-
-- [ ] Article
-- [ ] Video
+What tutorial/article would you like to see?
 
 **Community vote**
-👍 Upvote if you need it too
-🚀 If you can make the tutorial to help the community!
+👍 Upvote if you like this idea
+🚀 If you can make the tutorial/article!
