@@ -916,4 +916,66 @@
     - next.js
     - zeit
   version: beta
+- title: Making Websites With Next.js And Strapi 01
+  link: https://www.youtube.com/watch?v=HANfPCP_g4o
+  formats:
+    - video
+  language: en
+  date: 2020-03-24
+  authors:
+    - Ivan Dorić
+  github_authors:
+    - ivandoric
+  image_url: https://i.ytimg.com/vi/HANfPCP_g4o/hqdefault.jpg
+  topics:
+    - next.js
+    - SEO
+    - zeit
+  version: beta
+- title: Making Websites With Next.js And Strapi 02
+  link: https://www.youtube.com/watch?v=2k4pgYqi2Jc
+  formats:
+    - video
+  language: en
+  date: 2020-03-29
+  authors:
+    - Ivan Dorić
+  github_authors:
+    - ivandoric
+  image_url: https://i.ytimg.com/vi/2k4pgYqi2Jc/hqdefault.jpg
+  topics:
+    - next.js
+    - SEO
+    - css
+  version: beta
+- title: Making Websites With Next.js And Strapi 03
+  link: https://www.youtube.com/watch?v=Xwchwt8TIpk
+  formats:
+    - video
+  language: en
+  date: 2020-04-05
+  authors:
+    - Ivan Dorić
+  github_authors:
+    - ivandoric
+  image_url: https://i.ytimg.com/vi/Xwchwt8TIpk/hqdefault.jpg
+  topics:
+    - next.js
+    - SEO
+  version: beta
+- title: Strapi Docker composer example
+  link: https://www.youtube.com/watch?v=-8zJdKypCdQ
+  formats:
+    - video
+  language: en
+  date: 2020-04-06
+  authors:
+    - Victor Kane
+  github_authors:
+    - victorkane
+  image_url: https://i.ytimg.com/vi/-8zJdKypCdQ/hqdefault.jpg
+  topics:
+    - Docker
+    - mongodb
+  version: beta
 
