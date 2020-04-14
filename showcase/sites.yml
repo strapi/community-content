@@ -87,3 +87,269 @@
     - TailwindCSS
   made_by: Daniel Esteves
   made_by_url: https://danestves.com/
+- title: Solution To End Poverty (STEP)
+  url: https://stepasia.interaktiv.sg
+  description: STEP is a registered non-profit Singapore organisation founded by Aileen Ong in February 2012. STEP's mission applies a holistic approach to tackle all factors that affect poverty. They include housing, education, healthcare, debt & financial management and providing vocational skills training & support for social enterprises so as to grow the income of Smile Village residents.
+  categories:
+    - Non-profit organisation
+  frontend:
+    - Bootstrap
+  made_by: Aileen Ong
+  made_by_url: https://stepasia.interaktiv.sg/who-we-are 
+- title: Treum
+  url: https://treum.io/
+  description: Treum is building a next-generation, decentralized supply chain operating system that helps businesses build trust with their customers.
+  categories:
+    - Corporate website
+  frontend:
+    - React
+    - Next.js
+  made_by: Treum
+  made_by_url: https://treum.io/
+- title: Harry
+  url: https://www.thankyouharry.co/
+  description: Simply import you event contacts, schedule your messages and send them !
+  categories:
+    - Corporate website
+  frontend:
+    - React
+    - Ant Design
+  made_by: Sydney
+  made_by_url: https://www.twitter.com/chnsydney
+- title: Ultrahack
+  url: https://alpha-1.ultrahacker.click/
+  description: Ultrahack combines hackathons, an innovation platform and accelerators in a unique manner. Our mission is to build a community where the best talent and leading industry partners could meet and collaborate towards future innovations.
+  categories:
+    - Hackathons
+  frontend:
+  made_by: Ultrahack
+  made_by_url: https://alpha-1.ultrahacker.click/about
+- title: Solarmanager
+  url: https://www.solarmanager.ch
+  description: System for own comsuption, Optimization and visualization of solar power
+  categories:
+    - Corporate website
+  frontend:
+  made_by: Solarmanager
+  made_by_url: https://www.solarmanager.ch
+- title: Lemod
+  url: https://lemod.co
+  description: Motivate Practice Ambassadors to take action. Reward your patients with Points & Loyalty Status when they share your practice with like-minded individuals.
+  categories:
+    - Intelligent marketing
+  frontend:
+  made_by: Lemod
+  made_by_url: https://lemod.co/
+- title: UBreez
+  url: https://ubreez.com
+  description: Every breath matters. We filter our water, select healthy food, but don’t pay attention to the air we breathe. Use UBreez smart device to control it.
+  categories:
+    - Corporate website
+  frontend:
+    - JQuery
+    - Bootstrap
+  made_by: UBreez
+  made_by_url: https://ubreez.com
+- title: Viking SCADA
+  url: https://vikingscada.com
+  description: Viking SCADA has been manufacturing quality Viking SCADA devices for the oilfield, water and other industries for more than 15 years. Today, we manufacture RFSCADA units with 4G (fourth generation) technology. Our units have been proven to be the product of choice of cost-conscious customers that require the utmost in reliability and ease-of-use.
+  categories:
+    - Corporate website
+  frontend:
+    - JQuery
+    - Bootstrap
+  made_by: Viking SCADA
+  made_by_url: https://twitter.com/vikingscada
+- title: Sketch2Mail
+  url: http://www.sketch2mail.com
+  description: Automatically transform your email design into HTML code in minutes!
+  categories:
+    - Corporate website
+  frontend:
+    - JQuery
+    - Bootstrap
+  made_by: Sketch2Mail
+  made_by_url: http://www.sketch2mail.com
+- title: Moin
+  url: https://moin.camp
+  description: Wake up the entrepreneurial spirit and feel the energy inside you! Inspiring speakers, Workshops, crashing party and NETTwork - that's M01N Startup Camp.
+  categories:
+    - Speaks
+    - Workshops
+  frontend:
+    - React
+    - Next.js
+  made_by: Moin
+  made_by_url: https://twitter.com/moin_camp
+- title: Hackdoor
+  url: https://www.hackdoor.io
+  description: Where hackers grow.
+  categories:
+    - Speaks
+    - Workshops
+  frontend:
+    - Vue.js
+    - Nuxt.js
+  made_by: Michele Riva
+  made_by_url: https://github.com/micheleriva
+- title: Bullswap
+  url: https://www.bullswap.com
+  description: Rent your next machine directly from your home
+  categories:
+    - Corporate website
+    - Machine rental
+  frontend:
+    - Angular
+    - Hammer.js
+  made_by: Bullswap
+  made_by_url: https://www.instagram.com/bullswap_official
+- title: Heated
+  url: https://dev.heatedsports.com
+  description: Give the voice back to sports fans.
+  categories:
+    - Sports opinion platform
+  frontend:
+    - React
+    - Next.js
+  made_by: Heated
+  made_by_url: https://dev.heatedsports.com/page/about_as
+- title: Habrmanova Primary School website
+  url: https://www.habrmanova.cz
+  description: A safe place where childrens playfully find their way to the top of the mountains.
+  categories:
+    - School website
+  frontend:
+    - React
+    - Next.js
+  made_by: Habrmanova Primary School
+  made_by_url: https://www.habrmanova.cz/kontakty
+- title: Feedback house
+  url: https://feedback.house
+  description: Have everything you need in a single management tool: Goals, Performance evaluation, 1a1, PDI, 9Box, Internal Communication, Research, Calling Channel and Ombudsman
+  categories:
+    - Corporate website
+    - Marketing
+  frontend:
+    - React
+    - Gatsby
+  made_by: Feeback house
+  made_by_url: https://feedback.house
+- title: Marlbank
+  url: https://www.marlbank.net
+  description: Browse through our full list of jazz blog articles.
+  categories:
+    - Blog
+    - Jazz
+  frontend:
+    - Vue.js
+    - Nuxt.js
+  made_by: Sugar Projects
+  made_by_url: https://www.sugarprojects.com
+- title: Homadata
+  url: https://homadata.fr
+  description: Our mission is to promote the transparency of the real estate market by providing tools integrating all the relevant information for each real estate decision to buy, sell, invest or rent.
+  categories:
+    - Corporate website
+    - Real estate
+  frontend:
+    - Angular
+    - Hammer.js
+  made_by: Homadata
+  made_by_url: https://homadata.fr
+- title: Baby Shark Live
+  url: https://babysharklive.com
+  description: Take an adventure into the sea with Baby Shark as he joins his friend Pinkfong to sing and dance through some of your favorite new and classic songs!
+  categories:
+    - Tickets sale
+  frontend:
+    - Vue.js
+    - Nuxt.js
+  made_by: Baby Shark Tour
+  made_by_url: https://twitter.com/babysharktour
+- title: Mug & Snug
+  url: https://www.mugandsnug.com
+  description: Mug & Snug provides a platform that connects collectors, interior designers, businesses and home owners to one-of-a-kind homeware and kitchenware from the otherwise unreachable artists from around the world.
+  categories:
+    - e-commerce
+  frontend:
+    - Vue.js
+    - Nuxt.js
+  made_by: Phillip Gourley
+  made_by_url: https://twitter.com/philgourley
+- title: Paradigma
+  url: https://www.paradigmadigital.com
+  description: We are Paradigm, we are people who have decided to put their talent at the service of a purpose: to make exceptional projects to help create a better world.
+  categories:
+    - Corporate website
+  frontend:
+    - Vue.js
+  made_by: Paradigma Digital
+  made_by_url: https://twitter.com/paradigmate
+- title: Lachose
+  url: https://www.lachose.fr/agency
+  description: The thing is thus, an agency where everything moves, where nothing is frozen and in which ultimately, only one thing has not changed since its creation: its independence.
+  categories:
+    - Agency
+  frontend:
+    - Vue.js
+    - Nuxt.js
+  made_by: Lachoseparis
+  made_by_url: https://twitter.com/lachoseparis
+- title: Brajuu
+  url: https://brajuu.de
+  description: Now find your new favorite bra that fits you and your body perfectly!
+  categories:
+    - Corporate website
+    - Bra
+  frontend:
+    - React
+    - Gatsby
+  made_by: Brajuu
+  made_by_url: https://brajuu.de/faq
+- title: Sazkamobil
+  url: https://www.sazkamobil.cz
+  description: The Czech Republic’s biggest mobile virtual network operator. SAZKAmobil uses the Vodafone’s network with a 99% coverage.
+  categories:
+    - Corporate website
+    - Telecommunication
+  frontend:
+    - Vue.js
+  made_by: Sazkamobil
+  made_by_url: https://www.facebook.com/SAZKAmobil
+- title: Levio
+  url: https://www.levio.cz/
+  description: Find out how you are. Do the homework and get feedback from a senior in practice.
+  categories:
+    - Corporate website
+  frontend:
+  made_by: Leviocz
+  made_by_url: https://www.instagram.com/leviocz
+- title: Explorer Lamden
+  url: https://explorer.lamden.io
+  description: Built on the Lamden ecosystem to display all the blockchain information.
+  categories:
+    - Blockchain
+    - Cryptocurrency
+  frontend:
+    - Svelte
+    - Sapper
+  made_by: Lamden
+  made_by_url: https://explorer.lamden.io
+- title: WeFlyCheap
+  url: https://www.weflycheap.nl
+  description: Searching for a cheap vacation has never been easier. Weflycheap searches the websites of all holiday providers every day, looking for the best deal for you!
+  categories:
+    - Vacation deal
+  frontend:
+  made_by: WeFlyCheap
+  made_by_url: https://www.instagram.com/weflycheap
+- title: ESC Nasa
+  url: https://esc.gsfc.nasa.gov
+  description: The Exploration and Space Communications (ESC) projects division recognizes that every moment is an opportunity for action. We stand ready to provide cross-cutting technical expertise and creative problem-solving to deliver not only high rate/full coverage communications services, but bold, forward-thinking solutions to advance exploration and discovery.
+  categories:
+    - Exploration & Space communication
+  frontend:
+    - React
+    - Gatsby
+  made_by: Andre Young
+  made_by_url: http://andrejyoung.com
