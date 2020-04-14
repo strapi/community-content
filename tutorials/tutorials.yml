@@ -978,4 +978,20 @@
     - Docker
     - mongodb
   version: beta
+- title: How to Authenticate your Next.js application using Open Source Headless CMS Strapi
+  link: https://www.nirmalyaghosh.com/blog/how-to-authenticate-your-next-js-application-using-open-source-headless-cms-strapi
+  formats:
+    - article
+  language: en
+  date: 2020-03-30
+  authors:
+    - Nirmalya Ghosh
+  github_authors:
+    - ghoshnirmalya
+  image_url: https://www.nirmalyaghosh.com/images/content/how-to-authenticate-your-next-js-application-using-open-source-headless-cms-strapi/3.png
+  topics:
+    - next.js
+    - authentication
+    - nookies
+  version: beta
 
