@@ -203,16 +203,6 @@
     - Hammer.js
   made_by: Bullswap
   made_by_url: https://www.instagram.com/bullswap_official
-- title: Heated
-  url: https://dev.heatedsports.com
-  description: Give the voice back to sports fans.
-  categories:
-    - Sports opinion platform
-  frontend:
-    - React
-    - Next.js
-  made_by: Heated
-  made_by_url: https://dev.heatedsports.com/page/about_as
 - title: Habrmanova Primary School website
   url: https://www.habrmanova.cz
   description: A safe place where childrens playfully find their way to the top of the mountains.
