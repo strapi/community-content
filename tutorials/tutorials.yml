@@ -1005,6 +1005,7 @@
   github_authors:
     - lauriejim
   image_url:
+  topics:
     - heroku
     - postgres
   version: beta
@@ -1019,6 +1020,7 @@
   github_authors:
     - lauriejim
   image_url:
+  topics:
     - docker
     - postgres
   version: beta
@@ -1033,6 +1035,7 @@
   github_authors:
     - lauriejim
   image_url:
+  topics:
     - API controller
     - customization
     - services
@@ -1048,6 +1051,7 @@
   github_authors:
     - lauriejim
   image_url:
+  topics:
     - heroku
     - deploy
     - mongodb atlas
@@ -1063,6 +1067,7 @@
   github_authors:
     - lauriejim
   image_url:
+  topics:
     - data
   version: beta
 - title: Secure your register function with reCaptcha
@@ -1076,6 +1081,7 @@
   github_authors:
     - lauriejim
   image_url:
+  topics:
     - authentication
     - reCaptcha
   version: beta
