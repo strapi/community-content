@@ -994,4 +994,89 @@
     - authentication
     - nookies
   version: beta
+- title: Deploy Strapi app on Heroku using Postgres add-on
+  link: https://www.youtube.com/watch?v=Qd-xpaT0c48
+  formats:
+    - video
+  language: en
+  date: 2020-02-06
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url:
+    - heroku
+    - postgres
+  version: beta
+- title: Use tiers database container with Docker
+  link: https://www.youtube.com/watch?v=Pq4rjkL68zA
+  formats:
+    - video
+  language: en
+  date: 2020-02-06
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url:
+    - docker
+    - postgres
+  version: beta
+- title: Customize API controller and service
+  link: https://www.youtube.com/watch?v=FwscmVq1gcw
+  formats:
+    - video
+  language: en
+  date: 2020-02-10
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url:
+    - API controller
+    - customization
+    - services
+  version: beta
+- title: Deploy Strapi app on Heroku using MongoDB Atlas
+  link: https://www.youtube.com/watch?v=HHnRsZwFmR8
+  formats:
+    - video
+  language: en
+  date: 2020-03-27
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url:
+    - heroku
+    - deploy
+    - mongodb atlas
+  version: beta
+- title: Generate fake data
+  link: https://www.youtube.com/watch?v=DpR7NvJ2cAA
+  formats:
+    - video
+  language: en
+  date: 2020-03-30
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url:
+    - data
+  version: beta
+- title: Secure your register function with reCaptcha
+  link: https://www.youtube.com/watch?v=xviMhw49REg
+  formats:
+    - video
+  language: en
+  date: 2020-04-11
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url:
+    - authentication
+    - reCaptcha
+  version: beta
 
