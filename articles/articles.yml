@@ -6,3 +6,13 @@
     - Feature
   written_by: Kwinten Li
   written_by_url: https://github.com/kwinyyyc
+- title: How to run a Strapi dev stack with Docker compose
+  url: https://strapi.io/blog/how-to-run-a-strapi-dev-stack-with-docker-compose
+  source: https://strapi.io/
+  description: Strapi has great documentation, and includes pointers on Installing Strapi using Docker. By completing this tutorial, we're going to enjoy the experience of seeing how simple that really is, and what it feels like to have Docker Compose your workday as part of our regular development process.
+  categories:
+    - Docker
+    - Docker compose
+    - MongoDB
+  written_by: Victor Kane
+  written_by_url: https://twitter.com/AWebFactory
