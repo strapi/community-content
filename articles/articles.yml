@@ -1,0 +1,8 @@
+- title: Set default file upload provider as Cloudinary
+  url: https://medium.com/@kwinten.yc.li/strapi-set-default-file-upload-provider-to-s3-cloudinary-rackspace-5b8ef6f61daa
+  source: https://medium.com/
+  description: Programmatically set the default file upload provider in different environment, this article talks about Cloudinary specifically as an example
+  categories:
+    - Feature
+  written_by: Kwinten Li
+  written_by_url: https://github.com/kwinyyyc
