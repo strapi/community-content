@@ -343,3 +343,13 @@
     - Gatsby
   made_by: Andre Young
   made_by_url: http://andrejyoung.com
+- title: Cryptotesters
+  url: https://cryptotesters.com
+  description: Start your crypto journey and find the best cryptocurrency exchange or wallet on our crypto comparison platform
+  categories: 
+    - Crypto
+  frontend:
+    - Next.js
+    - React
+  made_by: Tiago Taveira and Emanuel Coen
+  made_by_url: https://tiagotaveira.com/
