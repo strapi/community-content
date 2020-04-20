@@ -1085,4 +1085,20 @@
     - authentication
     - reCaptcha
   version: beta
+- title: Making Websites With Next.js And Strapi 04
+  link: https://www.youtube.com/watch?v=ERFqQphWLhk
+  formats:
+    - video
+  language: en
+  date: 2020-04-11
+  authors:
+    - Ivan Dorić
+  github_authors:
+    - ivandoric
+  image_url: https://i.ytimg.com/vi/ERFqQphWLhk/hqdefault.jpg
+  topics:
+    - next.js
+    - SEO
+    - reflexbox
+  version: beta
 
