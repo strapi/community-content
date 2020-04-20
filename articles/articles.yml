@@ -16,3 +16,12 @@
     - MongoDB
   written_by: Victor Kane
   written_by_url: https://twitter.com/AWebFactory
+- title: The power of Strapi
+  url: https://medium.com/codechem/the-power-of-strapi-6339ee55b35a
+  source: https://medium.com/
+  description: In this article, we are going to build a simple web application using Strapi and Angular.
+  categories:
+    - Angular
+  written_by: Stefan Sheva Popovski
+  written_by_url: https://medium.com/@stefansheva
+
