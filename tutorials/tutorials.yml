@@ -1101,4 +1101,20 @@
     - SEO
     - reflexbox
   version: beta
+- title: Build your own API from any website with Puppeteer
+  link: https://dev.to/hichamelbsi/strapi-another-use-case-build-your-own-api-from-any-website-with-puppeteer-h92
+  formats:
+    - article
+  language: en
+  date: 2020-04-19
+  authors:
+    - Hicham Elabassi
+  github_authors:
+    - HichamELBSI
+  image_url:
+  topics:
+    - API
+    - pupeteer
+    - cron
+  version: beta
 
