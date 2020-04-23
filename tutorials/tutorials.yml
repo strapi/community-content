@@ -1004,7 +1004,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url:
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
   topics:
     - heroku
     - postgres
@@ -1019,7 +1019,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url:
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
   topics:
     - docker
     - postgres
@@ -1034,7 +1034,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url:
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
   topics:
     - API controller
     - customization
@@ -1050,7 +1050,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url:
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
   topics:
     - heroku
     - deploy
@@ -1066,7 +1066,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url:
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
   topics:
     - data
   version: beta
@@ -1080,7 +1080,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url:
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
   topics:
     - authentication
     - reCaptcha
@@ -1117,4 +1117,45 @@
     - pupeteer
     - cron
   version: beta
-
+- title: Customizing data populations from fetch requests
+  link: https://www.youtube.com/watch?v=VBNjCgUokLk
+  formats:
+    - video
+  language: en
+  date: 2020-04-23
+  authors:
+    - Jim Laurie
+  github_authors:
+    - jimlaurie
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  topics:
+    - data
+  version: beta
+- title: Creating a draft system
+  link: https://www.youtube.com/watch?v=RBfPsmupU70
+  formats:
+    - video
+  language: en
+  date: 2020-04-23
+  authors:
+    - Jim Laurie
+  github_authors:
+    - jimlaurie
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  topics:
+    - draft
+  version: beta
+- title: The power of Strapi
+  link: https://medium.com/codechem/the-power-of-strapi-6339ee55b35a
+  formats:
+    - article
+  language: en
+  date: 2020-04-19
+  authors:
+    - Stefan Sheva Popovski
+  github_authors:
+    - stefanSheva
+  image_url: https://miro.medium.com/max/1400/1*o9kSI3NhFNjaDKNE6NHaQA.jpeg
+  topics:
+    - angular
+  version: beta
