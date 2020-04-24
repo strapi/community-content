@@ -353,3 +353,23 @@
     - React
   made_by: Tiago Taveira and Emanuel Coen
   made_by_url: https://tiagotaveira.com/
+- title: Stratosphere
+  url: https://www.stratosphereapp.io
+  description: Quickly measure plans in the cloud
+  categories: 
+    - Cloud
+    - Architecture
+  frontend:
+    - JQuery
+  made_by: Stratosphere
+  made_by_url: https://www.stratosphereapp.io
+- title: Meilleur Reprise
+  url: https://www.meilleure-reprise.com
+  description: Get a firm trade-in price quickly and have your car taken back by a professional in complete safety!
+  categories: 
+    - Car sell
+  frontend:
+    - Gatsby
+    - React
+  made_by: Erlé Alberton
+  made_by_url: https://twitter.com/cubilizer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
