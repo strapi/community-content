@@ -12,10 +12,10 @@ Contribute and collaborate on educational content for the Strapi Community
 
 Follow along with our community tutorials to get you up and running with Strapi.
 
-  - [Request a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=To+do&template=request-a-tutorial.md&title=%5BREQUEST%5D)
-  - [Create a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
-  - [Improve a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=To+do&template=update-a-tutorial.md&title=%5BUPDATE%5D)
-  - [Translate a tutorial](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&template=translate-a-tutorial.md&title=%5BTRANSLATE%5D)
+  - [Submit a topic](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
+  - [Submit a tutorial](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
+  - [Update a tutorial](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=update-a-tutorial.md&title=%5BUPDATE%5D)
+  - [Translate a tutorial](https://github.com/strapi/community-content/issues/new?template=translate-a-resource.md&title=%5BTRANSLATE%5D)
 
 
   [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
@@ -24,6 +24,10 @@ Follow along with our community tutorials to get you up and running with Strapi.
 ## Articles
 
 Write about your experience with Strapi.
+
+  - [Submit a topic](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
+  - [Submit an article](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
+  - [Translate an article](https://github.com/strapi/community-content/issues/new?template=translate-a-resource.md&title=%5BTRANSLATE%5D)
 
 We're looking for writers who'd like to talk about their experience using Strapi, JAMstack or open source related things. Although we're mostly looking for experienced authors who have already published blog posts on websites such as [Medium](https://medium.com), [Dev.to](http://dev.to/), [Hackernoon](https://hackernoon.com), [Scotch.io](http://scotch.io/) or your personal blog, we're also supportive of people who have never published anything but interesting in a writing their first technical piece.
 
