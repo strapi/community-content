@@ -373,3 +373,14 @@
     - React
   made_by: Erlé Alberton
   made_by_url: https://twitter.com/cubilizer?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+- title: SwissDev Python Jobs
+  url: https://swissdevjobs.ch/jobs/Python/All
+  description: A transparent job board dedicated for Software Developers
+  categories: 
+    - Business Website
+    - Job Board
+  frontend:
+    - Material UI
+    - ReactJS
+  made_by: SwissDev Python Jobs
+  made_by_url: https://swissdevjobs.ch/jobs/Python/All
