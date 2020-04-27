@@ -4,9 +4,9 @@
 
 Write about your experience with Strapi.
 
-We're looking for writers who'd like to talk about their experience using Strapi, JAMstack or open source related things. Although we're mostly looking for experienced authors who have already published blog posts on websites such as [Medium](https://medium.com), [Dev.to](http://dev.to/), [Hackernoon](https://hackernoon.com), [Scotch.io](http://scotch.io/) or your personal blog, we're also supportive of people who have never published anything but interesting in a writing their first technical piece.
+We're looking for writers who'd like to talk about their experience using Strapi, JAMstack or open source related things. Although we're mostly looking for experienced authors who have already published blog posts on websites such as [Medium](https://medium.com), [Dev.to](http://dev.to/), [Hackernoon](https://hackernoon.com), [Scotch.io](http://scotch.io/) or your personal blog, we're also supportive of people who have never published anything but are interested in writing their first technical piece.
 
-You will definitely pick our interest if you can write articles that go quite in-depth and include a significant number of learning nuggets. We're absolutely NOT looking for promotional pieces or marketing pitches. It's all about interesting thins to tell to the community concerning everything that operate in the Strapi environment.
+You will definitely pick our interest if you can write articles that go quite in-depth and include a significant number of learning nuggets. We're absolutely NOT looking for promotional pieces or marketing pitches. It's all about interesting things to tell to the community concerning everything that operates in the Strapi environment.
 
 ## How to add an article
 
