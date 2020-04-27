@@ -1159,3 +1159,18 @@
   topics:
     - angular
   version: beta
+- title: Uploading a file to Strapi with in Node.js
+  link: https://www.drewtown.dev/post/uploading-a-file-to-strapi-in-node-js
+  formats:
+    - article
+  language: en
+  date: 2020-03-18
+  authors:
+    - Drew Town
+  github_authors:
+    - drewtownchi
+  image_url:
+  topics:
+    - upload
+    - node.js
+  version: beta
