@@ -1174,3 +1174,19 @@
     - upload
     - node.js
   version: beta
+- title: Making Websites With Next.js and Strapi 05
+  link: https://www.youtube.com/watch?v=fhYjWncgxyU
+  formats:
+    - video
+  language: en
+  date: 2020-04-25
+  authors:
+    - Ivan Dorić
+  github_authors:
+    - ivandoric
+  image_url: https://i.ytimg.com/vi/fhYjWncgxyU/hqdefault.jpg
+  topics:
+    - next.js
+    - static routes
+    - navigation
+  version: beta
