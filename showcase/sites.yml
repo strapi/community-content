@@ -1,3 +1,13 @@
+- title: theLifeBoard
+  url: https://thelifeboard.app
+  description: theLifeBoard helps users identify and achieve their goals creating habits, organising their weeks and providing curated resources
+  categories:
+    - Productivity 
+  frontend:
+    - Vue.js
+    - Vuetify
+  made_by: Antonio Ufano
+  made_by_url: https://antonioufano.com
 - title: Picke.rs
   url: https://picke.rs
   description: A site for organizing and saving "picks" from podcasts
