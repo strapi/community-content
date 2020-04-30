@@ -1190,3 +1190,20 @@
     - static routes
     - navigation
   version: beta
+- title: Strapi.js Crash Course | Headless CMS
+  link: https://www.youtube.com/watch?v=6FnwAbd2SDY
+  formats:
+    - video
+  language: en
+  date: 2020-04-30
+  authors:
+    - Brad Traversy
+  github_authors:
+    - bradtraversy
+  image_url: https://i.ytimg.com/vi/6FnwAbd2SDY/hqdefault.jpg
+  topics:
+    - API
+    - strapi
+    - content type
+  version: beta
+  
