@@ -1206,4 +1206,20 @@
     - strapi
     - content type
   version: beta
+- title: Why I like Strapo
+  link: https://www.youtube.com/watch?v=EBqRR8-Hd84
+  formats:
+    - video
+  language: en
+  date: 2020-04-19
+  authors:
+    - Chris Hawkes
+  github_authors:
+    - chawk
+  image_url: https://i.ytimg.com/vi/EBqRR8-Hd84/hqdefault.jpg
+  topics:
+    - API
+    - strapi
+    - content type
+  version: beta
   
