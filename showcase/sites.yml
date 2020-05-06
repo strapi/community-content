@@ -394,3 +394,27 @@
     - ReactJS
   made_by: SwissDev Python Jobs
   made_by_url: https://swissdevjobs.ch/jobs/Python/All
+- title: SessionForward
+  url: https://sessionforward.com
+  description: Minimal, quick, and affordable user session heatmaps and replays.
+  categories:
+    - User Experience
+    - UI Research
+    - Saas
+  frontend:
+    - Vue.js
+    - Tachyons
+    - Bulma
+  made_by: Dr. Mahesh Marcello Casiraghi
+  made_by_url: https://ntplab.com
+- title: Vintoria.com
+  url: https://vintoria.com
+  description: Authentic Second Hand Designer Bags for Any Mood.
+  categories:
+    - e-commerce
+  frontend:
+    - Vue.js
+    - Bulma
+    - Paypal
+  made_by: Dr. Mahesh Marcello Casiraghi
+  made_by_url: https://ntplab.com
