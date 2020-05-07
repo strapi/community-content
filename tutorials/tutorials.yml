@@ -1222,4 +1222,20 @@
     - strapi
     - content type
   version: beta
+- title: APIs in less than 5 minutes with Strapi
+  link: https://www.infracloud.io/strapi-api-quickstart/?utm_content=buffer40790&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+  formats:
+    - article
+  language: en
+  date: 2020-05-07
+  authors:
+    - Bhavin Gandhi
+  github_authors:
+    - bhavin192
+  image_url: https://www.infracloud.io/wp-content/uploads/2019/05/app-design-blue-yeti-blur-907487-600x403.jpg
+  topics:
+    - API
+    - strapi
+    - content type
+  version: beta
   
