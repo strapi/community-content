@@ -1238,4 +1238,47 @@
     - strapi
     - content type
   version: beta
+- title: Update your own user data
+  link: https://www.youtube.com/watch?v=ITk-pYtOCnQ
+  formats:
+    - video
+  language: en
+  date: 2020-05-05
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  topics:
+    - user
+  version: beta
+- title: Strapi e-commerce with Shopify
+  link: https://www.youtube.com/watch?v=4C9FgMVAAKA
+  formats:
+    - video
+  language: en
+  date: 2020-05-06
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  topics:
+    - e-commerce
+    - shopify
+  version: beta
+- title: How login provider process works
+  link: https://www.youtube.com/watch?v=s_vQqQ4tpHs
+  formats:
+    - video
+  language: en
+  date: 2020-05-07
+  authors:
+    - Jim Laurie
+  github_authors:
+    - lauriejim
+  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  topics:
+    - authentication
+  version: beta
   
