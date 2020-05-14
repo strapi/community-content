@@ -1281,4 +1281,19 @@
   topics:
     - authentication
   version: beta
+- title: Strapi Jest Testing with Gitlab CI.
+  link: https://medium.com/qunabu-interactive/strapi-jest-testing-with-gitlab-ci-82ffe4c5715a
+  formats:
+    - article
+  language: en
+  date: 2020-04-19
+  authors:
+    - Mateusz Wojczal
+  github_authors:
+    - qunabu
+  image_url:
+  topics:
+    - test
+    - gitlab
+  version: beta
   
