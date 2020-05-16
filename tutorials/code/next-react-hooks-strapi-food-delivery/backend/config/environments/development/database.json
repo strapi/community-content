@@ -1,0 +1,19 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "database": "backend",
+        "host": "127.0.0.1",
+        "srv": false,
+        "port": 27017,
+        "username": "",
+        "password": ""
+      },
+      "options": {
+        "authenticationDatabase": ""
+      }
+    }
+  }
+}
