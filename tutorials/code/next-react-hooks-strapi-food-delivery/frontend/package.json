@@ -1,6 +1,11 @@
 {
   "dependencies": {
+    "@apollo/react-hooks": "3.1.5",
+    "@apollo/react-ssr": "3.1.5",
+    "apollo-boost": "0.4.7",
+    "graphql": "15.0.0",
     "next": "9.4.0",
+    "next-apollo": "3.1.10",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "reactstrap": "^8.4.1"
