@@ -982,6 +982,18 @@
   resolved "https://registry.yarnpkg.com/@next/react-refresh-utils/-/react-refresh-utils-9.4.0.tgz#6f8732e1909fb12f6dca8a82b7fc4b79c6c8cfcd"
   integrity sha512-AaEC/diS2two2JLsEItGhuAux8UfPo0o34/7l1SIw0t4SYunUYJsxM/Y55OR2ljiVn9ffKR1n1U9IEQhsK80jw==
 
+"@stripe/react-stripe-js@1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@stripe/react-stripe-js/-/react-stripe-js-1.1.2.tgz#a7f5ef5b4d7dc7fa723501b706644414cfe6dcba"
+  integrity sha512-07hu8RJXwWKGbvdvd1yt1cYvGtDB8jFX+q10f7FQuItUt9rlSo0am3WIx845iMHANiYgxyRb1PS201Yle9xxPQ==
+  dependencies:
+    prop-types "^15.7.2"
+
+"@stripe/stripe-js@1.5.0":
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/@stripe/stripe-js/-/stripe-js-1.5.0.tgz#95540ebadd40875fb5c36c64df366ca370fb987e"
+  integrity sha512-KCctMhOYCKtyXf0lnO7D+1aHRC566LQf2I490GqvLHhgjGfzf4O44eUXZsOi5IxJkJTtcCBtxKYXXlwuDif/KA==
+
 "@types/color-name@^1.1.1":
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
@@ -4861,7 +4873,7 @@ prop-types-exact@1.2.0:
     object.assign "^4.1.0"
     reflect.ownkeys "^0.2.0"
 
-prop-types@15.7.2, prop-types@^15.5.8, prop-types@^15.6.1, prop-types@^15.6.2:
+prop-types@15.7.2, prop-types@^15.5.8, prop-types@^15.6.1, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
