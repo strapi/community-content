@@ -1,15 +1,38 @@
-/* pages/index.js */
-import { Button, Alert } from "reactstrap";
+/* /pages/index.js */
+import React, { useState } from "react";
 
-export default () => {
+import { Col, Input, InputGroup, InputGroupAddon, Row } from "reactstrap";
+import RestaurantList from "../components/RestaurantList";
+
+function Home() {
+  const [query, updateQuery] = useState("");
   return (
-    <div>
-      <div>
-        <Alert color="primary">
-          Hello Project is strapi-next with Bootstrap
-        </Alert>
-        &nbsp; <Button color="primary">Hello from nextjs</Button>
-      </div>
+    <div className="container-fluid">
+      <Row>
+        <Col>
+          <div className="search">
+            <InputGroup>
+              <InputGroupAddon addonType="append"> Search </InputGroupAddon>
+              <Input
+                onChange={(e) =>
+                  updateQuery(e.target.value.toLocaleLowerCase())
+                }
+                value={query}
+              />
+            </InputGroup>
+          </div>
+          <RestaurantList search={query} />
+        </Col>
+      </Row>
+      <style jsx>
+        {`
+          .search {
+            margin: 20px;
+            width: 500px;
+          }
+        `}
+      </style>
     </div>
   );
-};
+}
+export default Home;
