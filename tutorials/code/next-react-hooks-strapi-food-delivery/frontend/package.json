@@ -2,6 +2,8 @@
   "dependencies": {
     "@apollo/react-hooks": "3.1.5",
     "@apollo/react-ssr": "3.1.5",
+    "@stripe/react-stripe-js": "1.1.2",
+    "@stripe/stripe-js": "1.5.0",
     "apollo-boost": "0.4.7",
     "axios": "0.19.2",
     "express": "^4.17.1",
