@@ -57,7 +57,11 @@ function Restaurants() {
                 <CardImg
                   top={true}
                   style={{ height: 250 }}
-                  src={`${process.env.NEXT_PUBLIC_API_URL}${res.image.url}`}
+                  src={
+                    process.env.NODE_ENV === "production"
+                      ? res.image.url
+                      : `${process.env.NEXT_PUBLIC_API_URL}${res.image.url}`
+                  }
                 />
                 <CardBody>
                   <CardTitle>{res.name}</CardTitle>
