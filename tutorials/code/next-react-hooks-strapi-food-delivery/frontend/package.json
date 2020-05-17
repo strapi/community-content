@@ -3,6 +3,7 @@
     "@apollo/react-hooks": "3.1.5",
     "@apollo/react-ssr": "3.1.5",
     "apollo-boost": "0.4.7",
+    "express": "^4.17.1",
     "graphql": "15.0.0",
     "next": "9.4.0",
     "next-apollo": "3.1.10",
@@ -11,8 +12,8 @@
     "reactstrap": "^8.4.1"
   },
   "scripts": {
-    "dev": "next",
+    "dev": "node server.js",
     "build": "next build",
-    "start": "next start"
+    "start": "NODE_ENV=production node server.js"
   }
 }
