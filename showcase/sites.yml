@@ -418,3 +418,14 @@
     - Paypal
   made_by: Dr. Mahesh Marcello Casiraghi
   made_by_url: https://ntplab.com
+- title: lekh.pw
+  url: https://lekh.pw
+  description: Articles without distraction
+  categories:
+    - Blog
+  frontend:
+    - Sapper and Svelte
+    - tailwind
+    - Netlify
+  made_by: Narayan Singh
+  made_by_url: https://instagram.com/the_yadu
