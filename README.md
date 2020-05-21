@@ -46,3 +46,48 @@ We decided to create a [Showcase](https://github.com/strapi/community-content/tr
 
 
 [Showcase](https://github.com/strapi/community-content/tree/master/showcase)
+
+## Members
+
+Thank you to all the people who created content for the community!
+
+<p float="left">
+  <img src="https://github.com/iam4x.png" width="80" height="80" />
+  <img src="https://github.com/ryanbelke.png" width="80" height="80" />
+  <img src="https://github.com/bahdcoder.png" width="80" height="80" />
+  <img src="https://github.com/john-smilga.png" width="80" height="80" />
+  <img src="https://github.com/pappinvijak.png" width="80" height="80" />
+  <img src="https://github.com/jlengstorf.png" width="80" height="80" />
+  <img src="https://github.com/rpragana.png" width="80" height="80" />
+  <img src="https://github.com/pgmichael.png" width="80" height="80" />
+  <img src="https://github.com/shahinrostami.png" width="80" height="80" />
+  <img src="https://github.com/tamirandtom.png" width="80" height="80" />
+  <img src="https://github.com/femithz.png" width="80" height="80" />
+  <img src="https://github.com/reedbarger.png" width="80" height="80" />
+  <img src="https://github.com/davidkartuzinski.png" width="80" height="80" />
+  <img src="https://github.com/pierreburgy.png" width="80" height="80" />
+  <img src="https://github.com/mcastres.png" width="80" height="80" />
+  <img src="https://github.com/fabio-nettis.png" width="80" height="80" />
+  <img src="https://github.com/pouyamiralayi.png" width="80" height="80" />
+  <img src="https://github.com/ivandoric.png" width="80" height="80" />
+  <img src="https://github.com/GalloDaSballo.png" width="80" height="80" />
+  <img src="https://github.com/Nauman440.png" width="80" height="80" />
+  <img src="https://github.com/rajdip34.png" width="80" height="80" />
+  <img src="https://github.com/derrickmehaffy.png" width="80" height="80" />
+  <img src="https://github.com/soupette.png" width="80" height="80" />
+  <img src="https://github.com/enBonnet.png" width="80" height="80" />
+  <img src="https://github.com/juanpablogdl.png" width="80" height="80" />
+  <img src="https://github.com/ghoshnirmalya.png" width="80" height="80" />
+  <img src="https://scotch-res.cloudinary.com/image/upload/dpr_1,w_250,h_250,q_auto:good,f_auto,c_fill,g_face/media/1/w7Vhk81SyClJPlDQPMLh_17795826_10154678250924582_8102840950354615336_n.jpg" width="80" height="80" />
+  <img src="https://github.com/malgamves.png" width="80" height="80" />
+  <img src="https://github.com/tpiros.png" width="80" height="80" />
+  <img src="https://github.com/victorkane.png" width="80" height="80" />
+  <img src="https://github.com/xAgustin93.png" width="80" height="80" />
+  <img src="https://github.com/drewtownchi.png" width="80" height="80" />
+  <img src="https://github.com/kwinyyyc.png" width="80" height="80" />
+  <img src="https://github.com/stefanSheva.png" width="80" height="80" />
+  <img src="https://github.com/adriatic.png" width="80" height="80" />
+</p>
+
+[Join them by creating content](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
+
