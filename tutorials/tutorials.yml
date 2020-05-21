@@ -1296,7 +1296,7 @@
     - test
     - gitlab
   version: beta
-- title: Strapi: Crea tu API REST en 5 minutos 🚀
+- title: Strapi - Crea tu API REST en 5 minutos 🚀
   link: https://www.youtube.com/watch?v=8kVVV287kGg
   formats:
     - video
@@ -1306,7 +1306,7 @@
     - Agustin Navarro Galdon
   github_authors:
     - xAgustin93
-  image_url:
+  image_url: https://i.ytimg.com/vi/8kVVV287kGg/hqdefault.jpg
   topics:
     - strapi
     - collection types
