@@ -1311,4 +1311,19 @@
     - strapi
     - collection types
   version: beta
+- title: The Strapi Media Library - File Upload in the Strapi Admin Panel
+  link: https://www.youtube.com/watch?v=gQD24HJP1mc
+  formats:
+    - video
+  language: en
+  date: 2020-05-18
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  image_url: https://i.ytimg.com/vi/gQD24HJP1mc/hqdefault.jpg
+  topics:
+    - strapi
+    - media library
+  version: beta
   
