@@ -1,3 +1,22 @@
+- title: Beginner Strapi tutorial for historians and digital humanities
+  link: https://dhh.uni.lu/2020/03/12/tutorial/
+  formats:
+    - article
+  language: en
+  date: 2020-03-12
+  authors:
+    - Floor Koeleman
+    - Thijs van Beek
+  github_authors:
+    - tvanbeek
+  source: https://dhh.uni.lu/
+  image_url: https://i.postimg.cc/Y23gZ45G/strapi-tutorial-blog-header-image-1040-508.png
+  topics:
+    - strapi
+    - terminal
+    - database
+    - dataset
+  version: 3.0.0-beta.18.1
 - title: Aprendiendo Strapi un CMS Headless (Parte 1 de 2)
   link : https://www.youtube.com/watch?v=yuwJSlsuAvI
   formats:
