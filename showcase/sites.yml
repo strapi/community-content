@@ -435,6 +435,7 @@
   categories:
     - Corporate website
   frontend:
+    - React
     - Next.js
     - Apollo
     - Cloudinary
