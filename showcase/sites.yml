@@ -429,3 +429,15 @@
     - Netlify
   made_by: Narayan Singh
   made_by_url: https://instagram.com/the_yadu
+- title: Develocraft Website
+  url: https://develocraft.com
+  description: Develocraft is a software development agency. We help the founders of tech startups get their ideas off the drawing board and onto people’s devices.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Apollo
+    - Cloudinary
+    - Styled-components
+  made_by: Develocraft Team
+  made_by_url: https://develocraft.com
