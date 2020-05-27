@@ -1345,4 +1345,20 @@
     - strapi
     - media library
   version: beta
-  
+- title: Deploying Strapi app on Heroku
+  link: https://medium.com/techzap/deploying-strapi-on-heroku-ac48e663afd8
+  formats:
+    - article
+  language: en
+  date: 2020-05-26
+  authors:
+    - Balaji Boominathan
+  github_authors:
+    - Balaji2198
+  image_url: https://miro.medium.com/max/1400/1*W7v4O1RBT8IOFHM9cnjNEA.png
+  topics:
+    - strapi
+    - heroku
+    - postgres
+    - deploy
+  version: beta
