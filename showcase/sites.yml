@@ -1,3 +1,13 @@
+- title: Koninklijke Harmonie De Verenigde Vrienden
+  url: https://www.deverenigdevriendenheusden.be
+  description: Koninklijke Harmonie De Verenigde Vrienden is a great group of musicians of all ages who enjoy musical fun together. It's a progressive web app with a blog and webshop. 
+  categories:
+    - Non-profit organisation 
+  frontend:
+    - Nuxt.js
+    - BootstrapVue
+  made_by: Ruben Claes
+  made_by_url: https://www.deverenigdevriendenheusden.be
 - title: theLifeBoard
   url: https://thelifeboard.app
   description: theLifeBoard helps users identify and achieve their goals creating habits, organising their weeks and providing curated resources
