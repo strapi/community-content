@@ -463,3 +463,14 @@
     - Styled-components
   made_by: Develocraft Team
   made_by_url: https://develocraft.com
+- title: livingwatersmuseum
+  url: https://livingwatersmuseum.org/
+  description: This website is for Virtual museum collecting and curatingvisual narratives about Water Heritage of India
+  categories:
+    - Creative website
+  frontend:
+    - Next.js
+    - React Js
+    - Bootstrap 
+  made_by: Pedalsup 
+  made_by_url: https:/pedalsup.com 
