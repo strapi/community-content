@@ -467,6 +467,7 @@
   url: https://livingwatersmuseum.org/
   description: This website is for Virtual museum collecting and curatingvisual narratives about Water Heritage of India
   categories:
+    - Non-profit organisation 
     - Creative website
   frontend:
     - Next.js
