@@ -475,3 +475,15 @@
     - Bootstrap 
   made_by: Pedalsup 
   made_by_url: https:/pedalsup.com 
+- title: Freatle
+  url: https://freatle.com
+  description: Organize your event with Freatle. The simplest to know who brings what.
+  categories:
+    - Productivity
+    - Event manager
+  frontend:
+    - Nuxt.js
+    - Bulma
+    - Tailwind 
+  made_by: Freatle 
+  made_by_url: https://freatle.com/en/about/
