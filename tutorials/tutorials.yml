@@ -1362,3 +1362,98 @@
     - postgres
     - deploy
   version: beta
+- title: Introdução ao Strapi - Headless CMS
+  link: https://www.youtube.com/watch?v=L3LWzYOaWMQ
+  formats:
+    - video
+  language: pt
+  date: 2020-06-17
+  authors:
+    - Willian Justen
+  github_authors:
+    - willianjusten
+  image_url: https://i.ytimg.com/vi/L3LWzYOaWMQ/hqdefault.jpg
+  topics:
+    - strapi
+  version: stable
+- title: Deploy Strapi on Heroku and configure file upload on Digital Ocean Spaces
+  link: https://www.youtube.com/watch?v=lAPWwXcNa7Q
+  formats:
+    - video
+  language: en
+  date: 2020-06-14
+  authors:
+    - Hemanshu Mahajan
+  github_authors:
+    - hemanshum
+  image_url: https://i.ytimg.com/vi/lAPWwXcNa7Q/hqdefault.jpg
+  topics:
+    - strapi
+    - heroku
+    - digital Ocean
+    - deploy
+  version: stable
+- title: How to deploy Strapi on AWS Elastic Beanstalk using Docker
+  link: https://medium.com/@yinjisheng/how-to-deploy-strapi-on-aws-elastic-beanstalk-using-docker-31766b2dd73e
+  formats:
+    - article
+  language: en
+  date: 2020-06-07
+  authors:
+    - Yin Ji Sheng
+  github_authors:
+    - yinjisheng311
+  image_url: https://miro.medium.com/max/2880/1*Bt_Ur46xhZi-Nzn69IbxeQ.png
+  topics:
+    - docker
+    - AWS
+    - Elastic Beanstalk
+    - deploy
+  version: stable
+- title: Building A Web Application In 15 Minutes Using StrapiJS And NextJS
+  link: https://marmelab.com/blog/2020/06/18/build-an-application-in-fiften-minutes-using-strapijs.html
+  formats:
+    - article
+  language: en
+  date: 2020-06-18
+  authors:
+    - Julien Demangeon
+  github_authors:
+    - jdemangeon
+  image_url: https://pbs.twimg.com/card_img/1273541658118967297/SKG7QoVh?format=jpg&name=medium
+  topics:
+    - next.js
+    - docker
+  version: beta
+- title: Building APIs FAST with Strapi, an overview
+  link: https://dev.to/uf4no/building-apis-fast-with-strapi-an-overview-3cbl
+  formats:
+    - article
+  language: en
+  date: 2020-06-15
+  authors:
+    - Antonio
+  github_authors:
+    - uF4No
+  image_url:
+  topics:
+    - strapi
+    - collection-type
+  version: beta
+- title: How to build an e-commerce site with Strapi, Vue.js, and Flutterwave
+  link: https://blog.logrocket.com/how-to-build-an-ecommerce-site-with-strapi-vue-js-and-flutterwave
+  formats:
+    - article
+  language: en
+  date: 2020-06-04
+  authors:
+    - Peter Ekene Eze
+  github_authors:
+    - kenny-io
+  image_url: https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2020/06/flutterwavestrapivue.png
+  topics:
+    - strapi
+    - e-commerce
+    - vue.js
+    - flutterwave
+  version: beta
