@@ -1457,3 +1457,105 @@
     - vue.js
     - flutterwave
   version: beta
+- title: Strapi Introduction & Deploy to Google App Engine
+  link: https://www.youtube.com/watch?v=4Z79lmOpHGo
+  formats:
+    - video
+  language: en
+  date: 2020-06-23
+  authors:
+    - GrandReality
+  github_authors:
+  image_url: https://i.ytimg.com/vi/4Z79lmOpHGo/hqdefault.jpg
+  topics:
+    - google app engine
+    - deploy
+  version: stable
+- title: Strapi e-commerce Product variation generator
+  link: https://hashinteractive.com/blog/strapi-ecommerce-product-variations-generator
+  formats:
+    - article
+  language: en
+  date: 2020-04-28
+  authors:
+    - HashInteractive
+  github_authors:
+    - hashinteractive
+  image_url: https://blog.hashinteractive.com/wp-content/uploads/2020/04/strapi-product-variations-generator.jpg
+  topics:
+    - e-commerce
+  version: beta
+- title: Strapi Customize GraphQL Schema Example
+  link: https://hashinteractive.com/blog/strapi-customize-graphql-schema-example
+  formats:
+    - article
+  language: en
+  date: 2020-06-17
+  authors:
+    - HashInteractive
+  github_authors:
+    - hashinteractive
+  image_url: https://blog.hashinteractive.com/wp-content/uploads/2020/06/strapi-graphql-customize-schema.jpg
+  topics:
+    - graphql
+  version: beta
+- title: Update Strapi Beta to Strapi Stable Community Edition
+  link: https://hashinteractive.com/blog/update-strapi-beta-to-strapi-stable-community-edition
+  formats:
+    - article
+  language: en
+  date: 2020-06-15
+  authors:
+    - HashInteractive
+  github_authors:
+    - hashinteractive
+  image_url: https://blog.hashinteractive.com/wp-content/uploads/2020/06/strapi-migration-beta-stable.jpg
+  topics:
+    - stable
+  version: stable
+- title: Nuxt GraphQL Authentication With Strapi
+  link: https://hashinteractive.com/blog/nuxt-graphql-authentication-with-strapi
+  formats:
+    - article
+  language: en
+  date: 2020-05-20
+  authors:
+    - HashInteractive
+  github_authors:
+    - hashinteractive
+  image_url: https://blog.hashinteractive.com/wp-content/uploads/2020/05/nuxt-js-graphql-authentication-strapi.jpg
+  topics:
+    - nuxt.js
+    - graphql
+    - authentication
+  version: beta
+- title: Gatsby Authentication With Strapi.io
+  link: https://hashinteractive.com/blog/gatsby-authentication-with-strapi-io
+  formats:
+    - article
+  language: en
+  date: 2020-05-14
+  authors:
+    - HashInteractive
+  github_authors:
+    - hashinteractive
+  image_url: https://blog.hashinteractive.com/wp-content/uploads/2020/05/gatsby-strapi-authentication-1.jpg
+  topics:
+    - gatsby
+    - authentication
+  version: beta
+- title: Strapi Mailchimp Service Add Contact to List
+  link: https://hashinteractive.com/blog/strapi-mailchimp-service-add-contact-to-list/
+  formats:
+    - article
+  language: en
+  date: 2020-04-30
+  authors:
+    - HashInteractive
+  github_authors:
+    - hashinteractive
+  image_url: https://blog.hashinteractive.com/wp-content/uploads/2020/04/strapi-mailchimp-service.jpg
+  topics:
+    - mailchimp
+    - authentication
+  version: beta
