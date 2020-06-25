@@ -1559,3 +1559,34 @@
     - mailchimp
     - authentication
   version: beta
+- title: Create a Custom Back-End for Jamstack Apps with Strapi
+  link: https://www.netlify.com/blog/2020/06/23/create-a-custom-back-end-for-jamstack-apps-with-strapi/
+  formats:
+    - article
+  language: en
+  date: 2020-06-23
+  authors:
+    - Jason Lengstorf
+  github_authors:
+    - jlengstorf
+  image_url:
+  topics:
+    - Digital Ocean
+    - deploy
+  version: stable
+- title: Use a Custom Strapi Back-End to Build a Jamstack App
+  link: https://www.netlify.com/blog/2020/06/24/use-a-custom-strapi-back-end-to-build-a-jamstack-app/
+  formats:
+    - article
+  language: en
+  date: 2020-06-24
+  authors:
+    - Jason Lengstorf
+  github_authors:
+    - jlengstorf
+  image_url:
+  topics:
+    - netlify
+    - deploy
+    - serverless functions
+  version: stable
