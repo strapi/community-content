@@ -1590,3 +1590,20 @@
     - deploy
     - serverless functions
   version: stable
+- title: How to create a portfolio project with Strapi and Gatsby
+  link: https://www.youtube.com/watch?v=Oc_ITwxiG-Y
+  formats:
+    - video
+  language: en
+  date: 2020-06-25
+  authors:
+    - John Smilga
+  github_authors:
+    - john-smilga
+  image_url: https://i.ytimg.com/vi/Oc_ITwxiG-Y/hqdefault.jpg
+  topics:
+    - gatsby
+    - deploy
+    - netlify
+    - portfolio
+  version: beta
