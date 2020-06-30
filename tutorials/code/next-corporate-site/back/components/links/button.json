@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_links_buttons",
+  "info": {
+    "name": "Button",
+    "icon": "fingerprint"
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "white",
+        "purple"
+      ]
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    }
+  }
+}
