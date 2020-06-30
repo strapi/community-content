@@ -487,3 +487,18 @@
     - Tailwind 
   made_by: Freatle 
   made_by_url: https://freatle.com/en/about/
+- title: Exponent
+  url: https://www.tryexponent.com
+  description: Prepare for tech interviews with Exponent, the ultimate community of career advancers.
+  categories:
+    - Corporate Website
+    - E-commerce
+    - Education
+  frontend:
+    - React
+    - Webpack
+    - React-router
+    - SCSS
+    - React-helmet
+  made_by: Exponent team
+  made_by_url: https://www.tryexponent.com/about
