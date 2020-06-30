@@ -502,3 +502,13 @@
     - React-helmet
   made_by: Exponent team
   made_by_url: https://www.tryexponent.com/about
+- title: MISTER MISERY
+  url: https://mistermisery.com/
+  description: This is a band website made with Nuxt.js and Vuetify for the band MISTER MISERY.
+  categories:
+    - Band website
+  frontend:
+    - Nuxt.js
+    - Vuetify
+  made_by: Fabian Mieller
+  made_by_url: https://fabianmieller.de
