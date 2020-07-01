@@ -25,13 +25,13 @@ const FeatureRowsGroup = ({ data }) => {
             // Common classes
             "flex flex-col justify-start md:justify-between md:items-center gap-10",
             {
-              "md:flex-row": index % 2 === 0,
-              "md:flex-row-reverse": index % 2 === 1,
+              "lg:flex-row": index % 2 === 0,
+              "lg:flex-row-reverse": index % 2 === 1,
             }
           )}
         >
           {/* Text section */}
-          <div className="w-full md:w-6/12 md:pr-6 text-lg">
+          <div className="w-full lg:w-6/12 lg:pr-6 text-lg">
             <h3 className="title">{feature.title}</h3>
             <p className="my-6">{feature.description}</p>
             <a className="text-blue-600 with-arrow" href={feature.link.href}>
@@ -39,7 +39,7 @@ const FeatureRowsGroup = ({ data }) => {
             </a>
           </div>
           {/* Media section */}
-          <div className="w-full md:w-6/12 max-h-full">
+          <div className="w-full sm:9/12 lg:w-6/12 max-h-full">
             {showMedia(feature.media)}
           </div>
         </div>

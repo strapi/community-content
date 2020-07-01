@@ -1,12 +1,12 @@
 import Head from "next/head";
 import { getStrapiURL } from "utils/api";
-import Stack from "@/components/stack";
+import Slices from "@/components/slices";
 import Layout from "@/components/layout";
 
 export default function Index({ slices }) {
   return (
     <Layout>
-      <Stack slices={slices} />
+      <Slices slices={slices} />
     </Layout>
   );
 }

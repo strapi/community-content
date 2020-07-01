@@ -3,7 +3,7 @@ import LargeVideo from "@/components/large-video";
 import FeatureColumnsGroup from "@/components/feature-columns-group";
 import FeatureRowsGroup from "@/components/feature-rows-group";
 
-const Stack = ({ slices }) => {
+const Slices = ({ slices }) => {
   const showSlice = (slice) => {
     switch (slice.__component) {
       case "slices.hero":
@@ -28,4 +28,4 @@ const Stack = ({ slices }) => {
   );
 };
 
-export default Stack;
+export default Slices;
