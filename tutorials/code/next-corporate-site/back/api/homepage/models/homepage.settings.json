@@ -17,7 +17,8 @@
         "slices.feature-columns-group",
         "slices.feature-column",
         "slices.feature-row",
-        "slices.feature-rows-group"
+        "slices.feature-rows-group",
+        "slices.bottom-actions"
       ]
     }
   }

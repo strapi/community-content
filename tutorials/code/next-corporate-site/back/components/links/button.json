@@ -9,7 +9,8 @@
     "theme": {
       "type": "enumeration",
       "enum": [
-        "white",
+        "white_full",
+        "white_outline",
         "purple"
       ]
     },

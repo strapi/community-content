@@ -11,9 +11,13 @@ const ButtonLink = ({ button }) => {
         {
           "bg-primary text-white border-primary": button.theme === "purple",
         },
-        // Specific to when the button is white
+        // Specific to when the button is fully white
         {
-          "bg-white text-primary border-primary": button.theme === "white",
+          "bg-white text-primary border-primary": button.theme === "white_full",
+        },
+        // Specific to when the button is outlines of white
+        {
+          "text-white border-white": button.theme === "white_outline",
         }
       )}
       // Change target and rel attributes is newTab is turned on

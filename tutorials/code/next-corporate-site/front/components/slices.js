@@ -2,6 +2,7 @@ import Hero from "@/components/hero";
 import LargeVideo from "@/components/large-video";
 import FeatureColumnsGroup from "@/components/feature-columns-group";
 import FeatureRowsGroup from "@/components/feature-rows-group";
+import BottomActions from "@/components/bottom-actions";
 
 const Slices = ({ slices }) => {
   const showSlice = (slice) => {
@@ -14,6 +15,8 @@ const Slices = ({ slices }) => {
         return <FeatureColumnsGroup data={slice} />;
       case "slices.feature-rows-group":
         return <FeatureRowsGroup data={slice} />;
+      case "slices.bottom-actions":
+        return <BottomActions data={slice} />;
       default:
         return "unknown";
     }

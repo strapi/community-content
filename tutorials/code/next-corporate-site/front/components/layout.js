@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
         </div>
       </nav>
       <div>{children}</div>
-      <footer className="bg-gray-200 py-4 mt-10">
+      <footer className="bg-gray-200 pt-16 pb-8">
         <div className="container">Copyright Slack</div>
       </footer>
     </div>
