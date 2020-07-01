@@ -12,7 +12,9 @@
     "slices": {
       "type": "dynamiczone",
       "components": [
-        "slices.hero"
+        "slices.hero",
+        "slices.large-video",
+        "slices.feature-columns-group"
       ]
     }
   }

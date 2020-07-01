@@ -4,15 +4,13 @@ import ButtonLink from "./button-link";
 
 const Hero = ({ data }) => {
   return (
-    <div className="container flex flex-col md:flex-row items-center justify-between">
+    <main className="container flex flex-col md:flex-row items-center justify-between">
       {/* Left column for content */}
       <div className="flex-1 pr-8">
         {/* Hero section label */}
         <p className="uppercase tracking-wide font-semibold">{data.label}</p>
         {/* Big title */}
-        <h1 className="text-4xl md:text-5xl leading-snug font-semibold mb-2">
-          {data.title}
-        </h1>
+        <h1 className="title mb-2">{data.title}</h1>
         {/* Description paragraph */}
         <p className="text-xl mb-6">{data.description}</p>
         {/* Buttons row */}
@@ -32,7 +30,7 @@ const Hero = ({ data }) => {
         alt={data.picture.alternativeText}
         className="flex-shrink-0 object-contain w-full md:w-6/12 mt-6 md:mt-0"
       />
-    </div>
+    </main>
   );
 };
 

@@ -23,3 +23,13 @@ html {
 .rich-text a {
   @apply text-blue-600 underline;
 }
+
+.title {
+  @apply text-4xl leading-snug font-semibold;
+}
+
+@media (min-width: 768px) {
+  .title {
+    @apply text-5xl;
+  }
+}
