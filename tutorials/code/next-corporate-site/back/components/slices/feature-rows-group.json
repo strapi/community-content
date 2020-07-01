@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_feature_rows_groups",
+  "info": {
+    "name": "FeatureRowsGroup",
+    "icon": "bars"
+  },
+  "options": {},
+  "attributes": {
+    "features": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.feature-row"
+    }
+  }
+}

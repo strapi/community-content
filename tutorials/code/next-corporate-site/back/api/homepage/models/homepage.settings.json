@@ -14,7 +14,10 @@
       "components": [
         "slices.hero",
         "slices.large-video",
-        "slices.feature-columns-group"
+        "slices.feature-columns-group",
+        "slices.feature-column",
+        "slices.feature-row",
+        "slices.feature-rows-group"
       ]
     }
   }

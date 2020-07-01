@@ -6,6 +6,7 @@
 
 html {
   font-size: 13px;
+  @apply text-gray-900;
 }
 
 @media screen and (min-width: 640px) {
@@ -32,4 +33,13 @@ html {
   .title {
     @apply text-5xl;
   }
+}
+
+.with-arrow:after {
+  background-image: url(data:image/svg+xml;charset=utf-8,%3Csvg%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22M1%206a.5.5%200%200%200%200%201V6zM12.854.646a.5.5%200%200%200-.708.708l.708-.708zM18%206.5l.354.354a.5.5%200%200%200%200-.708L18%206.5zm-5.854%205.146a.5.5%200%200%200%20.708.708l-.708-.708zM1%207h16.5V6H1v1zm16.646-.854l-5.5%205.5.708.708%205.5-5.5-.708-.708zm-5.5-4.792l2.75%202.75.708-.708-2.75-2.75-.708.708zm2.75%202.75l2.75%202.75.708-.708-2.75-2.75-.708.708z%22%20fill%3D%22%231264A3%22%2F%3E%3C%2Fsvg%3E);
+  content: "";
+  width: 19px;
+  height: 13px;
+  display: inline-block;
+  margin-left: 0.5em;
 }
