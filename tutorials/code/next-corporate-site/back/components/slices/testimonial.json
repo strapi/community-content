@@ -34,9 +34,7 @@
       "type": "string"
     },
     "link": {
-      "type": "component",
-      "repeatable": false,
-      "component": "links.link"
+      "type": "string"
     }
   }
 }

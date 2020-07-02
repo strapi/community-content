@@ -4,7 +4,7 @@ const FeatureColumnsGroup = ({ data }) => {
   return (
     <div className="container flex flex-col lg:flex-row lg:flex-wrap gap-12 align-top">
       {data.features.map((feature) => (
-        <div className="flex-1 text-lg">
+        <div className="flex-1 text-lg" key={feature.id}>
           <img
             src={getStrapiImage(feature.icon.url)}
             alt={feature.icon.alternativeText}

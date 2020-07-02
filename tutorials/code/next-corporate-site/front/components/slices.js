@@ -18,7 +18,7 @@ const Slices = ({ slices }) => {
         return <FeatureRowsGroup data={slice} />;
       case "slices.bottom-actions":
         return <BottomActions data={slice} />;
-      case "slices.testimonial-group":
+      case "slices.testimonials-group":
         return <TestimonialsGroup data={slice} />;
       default:
         return "unknown";

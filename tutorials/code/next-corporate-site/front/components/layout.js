@@ -4,7 +4,7 @@ import ButtonLink from "./button-link";
 const Layout = ({ children }) => {
   return (
     <div>
-      <nav className="border-gray-200 border-b-2 py-2 mb-10">
+      <nav className="border-gray-200 border-b-2 py-6 sm:py-2 mb-10">
         <div className="container flex flex-row items-center justify-between">
           <Link href="/">
             <a>
@@ -30,8 +30,11 @@ const Layout = ({ children }) => {
         </div>
       </nav>
       <div>{children}</div>
-      <footer className="bg-gray-200 pt-16 pb-8">
-        <div className="container">Copyright Slack</div>
+      <footer className="bg-gray-200 py-6">
+        <div className="container text-sm text-gray-700">
+          © Copyright 2020 Slack Technologies, Inc. All rights reserved. Various
+          trademarks held by their respective owners.
+        </div>
       </footer>
     </div>
   );

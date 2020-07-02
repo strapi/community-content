@@ -6,11 +6,11 @@ const Hero = ({ data }) => {
   return (
     <main className="container flex flex-col md:flex-row items-center justify-between">
       {/* Left column for content */}
-      <div className="flex-1 pr-8">
+      <div className="flex-1 sm:pr-8">
         {/* Hero section label */}
         <p className="uppercase tracking-wide font-semibold">{data.label}</p>
         {/* Big title */}
-        <h1 className="title mb-2">{data.title}</h1>
+        <h1 className="title mt-2 sm:mt-0 mb-4 sm:mb-2">{data.title}</h1>
         {/* Description paragraph */}
         <p className="text-xl mb-6">{data.description}</p>
         {/* Buttons row */}
@@ -20,7 +20,7 @@ const Hero = ({ data }) => {
           ))}
         </div>
         {/* Small rich text */}
-        <div className="hidden md:block text-base md:text-sm mt-3 rich-text">
+        <div className="text-base md:text-sm mt-4 sm:mt-3 rich-text">
           <Markdown source={data.smallTextWithLink} />
         </div>
       </div>

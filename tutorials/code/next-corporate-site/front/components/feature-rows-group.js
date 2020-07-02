@@ -4,7 +4,6 @@ import { getStrapiImage } from "utils/images";
 const FeatureRowsGroup = ({ data }) => {
   // Handle the media differently depending on its type
   const showMedia = (media) => {
-    console.log("show", media);
     switch (media.mime) {
       case "video/mp4":
         return (
@@ -29,6 +28,7 @@ const FeatureRowsGroup = ({ data }) => {
               "lg:flex-row-reverse": index % 2 === 1,
             }
           )}
+          key={feature.id}
         >
           {/* Text section */}
           <div className="w-full lg:w-6/12 lg:pr-6 text-lg">
