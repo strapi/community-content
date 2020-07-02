@@ -3,6 +3,7 @@ import LargeVideo from "@/components/large-video";
 import FeatureColumnsGroup from "@/components/feature-columns-group";
 import FeatureRowsGroup from "@/components/feature-rows-group";
 import BottomActions from "@/components/bottom-actions";
+import TestimonialsGroup from "@/components/testimonials-group";
 
 const Slices = ({ slices }) => {
   const showSlice = (slice) => {
@@ -17,6 +18,8 @@ const Slices = ({ slices }) => {
         return <FeatureRowsGroup data={slice} />;
       case "slices.bottom-actions":
         return <BottomActions data={slice} />;
+      case "slices.testimonial-group":
+        return <TestimonialsGroup data={slice} />;
       default:
         return "unknown";
     }
