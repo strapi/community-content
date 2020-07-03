@@ -1,4 +1,4 @@
-const { getStrapiImage } = require("utils/images");
+const { getStrapiMedia } = require("utils/images");
 
 const LargeVideo = ({ data }) => {
   return (
@@ -9,10 +9,10 @@ const LargeVideo = ({ data }) => {
       <div className="w-full lg:w-9/12 mx-auto overflow-hidden shadow-2xl">
         <video
           className="w-full max-h-full"
-          poster={getStrapiImage(data.poster.url)}
+          poster={getStrapiMedia(data.poster.url)}
           controls
         >
-          <source src={getStrapiImage(data.video.url)} type={data.video.mime} />
+          <source src={getStrapiMedia(data.video.url)} type={data.video.mime} />
         </video>
       </div>
     </section>

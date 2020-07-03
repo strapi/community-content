@@ -1,4 +1,4 @@
-import { getStrapiImage } from "utils/images";
+import { getStrapiMedia } from "utils/images";
 
 const FeatureColumnsGroup = ({ data }) => {
   return (
@@ -6,7 +6,7 @@ const FeatureColumnsGroup = ({ data }) => {
       {data.features.map((feature) => (
         <div className="flex-1 text-lg" key={feature.id}>
           <img
-            src={getStrapiImage(feature.icon.url)}
+            src={getStrapiMedia(feature.icon.url)}
             alt={feature.icon.alternativeText}
           />
           <h3 className="font-bold mt-6 mb-4">{feature.title}</h3>

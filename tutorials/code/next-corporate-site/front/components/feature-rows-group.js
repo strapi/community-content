@@ -1,5 +1,5 @@
 import classNames from "classnames";
-import { getStrapiImage } from "utils/images";
+import { getStrapiMedia } from "utils/images";
 
 const FeatureRowsGroup = ({ data }) => {
   // Handle the media differently depending on its type
@@ -8,7 +8,7 @@ const FeatureRowsGroup = ({ data }) => {
       case "video/mp4":
         return (
           <video className="w-full h-auto" autoPlay loop>
-            <source src={getStrapiImage(media.url)} type={media.mime} />
+            <source src={getStrapiMedia(media.url)} type={media.mime} />
           </video>
         );
       default:

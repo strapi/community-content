@@ -1,5 +1,5 @@
 import { NextSeo } from "next-seo";
-import { getStrapiImage } from "utils/images";
+import { getStrapiMedia } from "utils/images";
 
 const Seo = ({ metadata }) => {
   return (
@@ -9,7 +9,7 @@ const Seo = ({ metadata }) => {
       openGraph={{
         images: Object.values(metadata.shareImage.formats).map((image) => {
           return {
-            url: getStrapiImage(image.url),
+            url: getStrapiMedia(image.url),
             width: image.width,
             height: image.height,
           };
