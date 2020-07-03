@@ -21,6 +21,11 @@
         "slices.bottom-actions",
         "slices.testimonials-group"
       ]
+    },
+    "metadata": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.metadata"
     }
   }
 }
