@@ -1,0 +1,45 @@
+{
+  "kind": "singleType",
+  "collectionName": "globals",
+  "info": {
+    "name": "Global"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "metadata": {
+      "type": "component",
+      "repeatable": false,
+      "component": "meta.metadata"
+    },
+    "navLogo": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "navLinks": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.link"
+    },
+    "navButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    },
+    "metaTitleSuffix": {
+      "type": "string"
+    },
+    "footerSections": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.footer-section"
+    }
+  }
+}

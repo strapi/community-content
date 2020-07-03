@@ -9,7 +9,7 @@
     "features": {
       "type": "component",
       "repeatable": true,
-      "component": "slices.feature-row"
+      "component": "elements.feature-row"
     }
   }
 }

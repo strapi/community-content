@@ -14,10 +14,15 @@
         "purple"
       ]
     },
-    "link": {
-      "type": "component",
-      "repeatable": false,
-      "component": "links.link"
+    "href": {
+      "type": "string"
+    },
+    "newTab": {
+      "type": "boolean",
+      "default": false
+    },
+    "text": {
+      "type": "string"
     }
   }
 }
