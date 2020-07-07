@@ -1607,3 +1607,25 @@
     - netlify
     - portfolio
   version: beta
+- title: Build a static blog with Gatsby and Strapi using TypeScript
+  link: https://strapi.io/blog/build-a-static-blog-with-gatsby-and-strapi-using-typescript?redirectPage=1
+  formats:
+    - article
+  language: en
+  date: 2020-07-04
+  authors:
+    - Juan Manuel Incaurgarat
+  github_authors:
+    - kilinkis
+  source: https://blog.strapi.io/
+  image_url: https://blog.strapi.io/content/images/2020/01/gatsby-blog.png
+  topics:
+    - gatsby
+    - react
+    - blog
+    - graphql
+    - uikit
+    - static
+    - typescript
+    - gatsby-image
+  version: beta
