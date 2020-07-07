@@ -10,7 +10,9 @@
   },
   "attributes": {
     "slug": {
-      "type": "uid"
+      "type": "uid",
+      "required": false,
+      "default": ""
     },
     "parentPage": {
       "model": "page"

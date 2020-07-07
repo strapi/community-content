@@ -1,8 +1,6 @@
-import Head from "next/head";
 import { getStrapiURL } from "utils/api";
-import Sections from "@/components/sections";
 import Layout from "@/components/layout";
-import Seo from "@/components/seo";
+import Sections from "@/components/sections";
 
 const DynamicPage = ({ sections, metadata }) => {
   return (
@@ -17,35 +15,44 @@ const DynamicPage = ({ sections, metadata }) => {
   );
 };
 
-export default DynamicPage;
-
-// Create one page per Strapi document
 export async function getStaticPaths() {
-  const pagesData = await (await fetch(getStrapiURL("/pages"))).json();
-  // console.log(pagesData);
-  const paths = pagesData.map((page) => {
-    // if (page.slug == null) {
-    //   return { params: { slug: [] } };
-    // }
-    return { params: { slug: [page.slug] } };
-  });
+  const paths = [
+    {
+      params: { slug: [] },
+    },
+    {
+      params: { slug: ["home"] },
+    },
+    {
+      params: { slug: ["home", "page"] },
+    },
+  ];
   return { paths, fallback: false };
 }
 
 export async function getStaticProps({ params }) {
-  // Fetch global and page-specific data from Strapi
-  console.log("PARAMS", { params });
-  const pageData = await (
-    await fetch(getStrapiURL(`/pages?slug=${params.slug}`))
+  // Find the page data for the current slug
+  let queryParams;
+  if (params == {} || !params.slug) {
+    // To get the homepage, find the only page where slug is null or empty string
+    queryParams = `?slug=`;
+  } else {
+    // Otherwise find a page with a matching slug
+    queryParams = `?slug=${params.slug[params.slug.length - 1]}`;
+  }
+  console.log(params, getStrapiURL(`/pages${queryParams}`));
+  const pagesData = await (
+    await fetch(getStrapiURL(`/pages${queryParams}`))
   ).json();
-  const globalData = await (await fetch(getStrapiURL("/global"))).json();
-  // Process the response to get the data we need
-  const { metadata, contentSections } = pageData[0];
-  // Pass the data to our page via props
+  console.log(pagesData);
+  const { contentSections, metadata } = pagesData[0];
+
   return {
     props: {
-      metadata,
       sections: contentSections,
+      metadata,
     },
   };
 }
+
+export default DynamicPage;
