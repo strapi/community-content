@@ -15,18 +15,28 @@ const DynamicPage = ({ sections, metadata }) => {
   );
 };
 
+// List the slugs of a page's parents
+function getPagePath(page, slugs) {
+  // Add current page slug to the list
+  const newSlugs = [page.slug, ...slugs];
+  // Check if page has a parent
+  if (page.parentPage) {
+    // Check if this parent has a parent via recursion
+    return getPagePath(page.parentPage, newSlugs);
+  }
+  // Return the list of slugs as path
+  return newSlugs;
+}
+
 export async function getStaticPaths() {
-  const paths = [
-    {
-      params: { slug: [] },
-    },
-    {
-      params: { slug: ["home"] },
-    },
-    {
-      params: { slug: ["home", "page"] },
-    },
-  ];
+  // Get all pages from Strapi
+  const pages = await (await fetch(getStrapiURL("/pages"))).json();
+  const paths = pages.map((page) => {
+    const slugs = getPagePath(page, []);
+    return {
+      params: { slug: slugs },
+    };
+  });
   return { paths, fallback: false };
 }
 
@@ -34,17 +44,15 @@ export async function getStaticProps({ params }) {
   // Find the page data for the current slug
   let queryParams;
   if (params == {} || !params.slug) {
-    // To get the homepage, find the only page where slug is null or empty string
+    // To get the homepage, find the only page where slug is an empty string
     queryParams = `?slug=`;
   } else {
     // Otherwise find a page with a matching slug
     queryParams = `?slug=${params.slug[params.slug.length - 1]}`;
   }
-  console.log(params, getStrapiURL(`/pages${queryParams}`));
   const pagesData = await (
     await fetch(getStrapiURL(`/pages${queryParams}`))
   ).json();
-  console.log(pagesData);
   const { contentSections, metadata } = pagesData[0];
 
   return {
