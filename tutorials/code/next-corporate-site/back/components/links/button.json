@@ -14,7 +14,7 @@
         "purple"
       ]
     },
-    "href": {
+    "url": {
       "type": "string"
     },
     "newTab": {

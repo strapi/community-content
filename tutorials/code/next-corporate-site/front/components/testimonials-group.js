@@ -8,11 +8,11 @@ const TestimonialsGroup = ({ data }) => {
   const selectedTestimonial = data.testimonials[selectedTestimonialIndex];
 
   return (
-    <section className="text-center text-lg bg-gray-200">
+    <section className="text-center text-lg bg-gray-100 py-10">
       <h2 className="title mb-4">{data.title}</h2>
       <p className="text-gray-700 mb-4">{data.description}</p>
       <a
-        href={data.link.href}
+        href={data.link.url}
         className="with-arrow text-blue-700 hover:underline"
       >
         {data.link.text}

@@ -4,6 +4,7 @@ import "@/styles/index.css";
 import { DefaultSeo } from "next-seo";
 import { getStrapiMedia } from "utils/images";
 import { getStrapiURL } from "utils/api";
+import Layout from "@/components/layout";
 
 const MyApp = ({ Component, pageProps }) => {
   // Extract the data we need
@@ -36,7 +37,9 @@ const MyApp = ({ Component, pageProps }) => {
         }}
       />
       {/* Display the content */}
-      <Component {...pageProps} />
+      <Layout global={global}>
+        <Component {...pageProps} />
+      </Layout>
     </>
   );
 };

@@ -21,7 +21,7 @@
         "images"
       ],
       "plugin": "upload",
-      "required": false
+      "required": true
     },
     "navLinks": {
       "type": "component",
@@ -34,7 +34,8 @@
       "component": "links.button"
     },
     "metaTitleSuffix": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "footerSections": {
       "type": "component",

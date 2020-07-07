@@ -6,7 +6,7 @@
   },
   "options": {},
   "attributes": {
-    "href": {
+    "url": {
       "type": "string"
     },
     "newTab": {
