@@ -7,10 +7,12 @@
   "options": {},
   "attributes": {
     "metaTitle": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "metaDescription": {
-      "type": "text"
+      "type": "text",
+      "required": true
     },
     "shareImage": {
       "model": "file",

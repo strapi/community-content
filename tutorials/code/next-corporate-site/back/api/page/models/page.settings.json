@@ -11,8 +11,7 @@
   "attributes": {
     "slug": {
       "type": "uid",
-      "required": false,
-      "default": ""
+      "required": false
     },
     "parentPage": {
       "model": "page"
@@ -20,7 +19,8 @@
     "metadata": {
       "type": "component",
       "repeatable": false,
-      "component": "meta.metadata"
+      "component": "meta.metadata",
+      "required": true
     },
     "contentSections": {
       "type": "dynamiczone",

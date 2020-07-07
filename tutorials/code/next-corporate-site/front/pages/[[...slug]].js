@@ -1,12 +1,13 @@
 import { getStrapiURL } from "utils/api";
 import Layout from "@/components/layout";
 import Sections from "@/components/sections";
+import Seo from "@/components/seo";
 
 const DynamicPage = ({ sections, metadata }) => {
   return (
     <>
       {/* Add meta tags for SEO*/}
-      {/* <Seo metadata={metadata} /> */}
+      <Seo metadata={metadata} />
       <Layout>
         {/* Display content sections */}
         <Sections sections={sections} />
