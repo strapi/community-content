@@ -58,7 +58,7 @@ const Layout = ({ children, global }) => {
         <div>{children}</div>
       </div>
       {/* Aligned to bottom */}
-      <footer className="bg-gray-200 pt-12 pb-6">
+      <footer className="pt-12">
         <div className="container flex flex-row justify-between">
           <div>
             {footerLogo && (
@@ -93,7 +93,9 @@ const Layout = ({ children, global }) => {
             ))}
           </nav>
         </div>
-        <div className="container text-sm text-gray-700">{footerSmallText}</div>
+        <div className="container text-sm bg-gray-100 py-6 text-gray-700">
+          {footerSmallText}
+        </div>
       </footer>
     </div>
   );
