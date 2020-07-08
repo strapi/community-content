@@ -11,11 +11,12 @@ const Layout = ({ children, global }) => {
     footerLogo,
     footerSmallText,
   } = global;
+
   return (
     <div className="flex flex-col justify-between min-h-screen">
       {/* Aligned to top */}
       <div className="flex-1">
-        <nav className="border-gray-200 border-b-2 py-6 sm:py-2 mb-10">
+        <nav className="border-gray-200 border-b-2 py-6 sm:py-2">
           <div className="container flex flex-row items-center justify-between">
             {/* Content aligned to the left */}
             <div className="flex flex-row items-center">
