@@ -44,6 +44,10 @@ const MyApp = ({ Component, pageProps }) => {
   );
 };
 
+// getInitialProps disables automatic static optimization for pages that don't
+// have getStaticProps. So [[...slug]] pages still get SSG.
+// Hopefully we can replace this with getStaticProps once this issue is fixed:
+// https://github.com/vercel/next.js/discussions/10949
 MyApp.getInitialProps = async (ctx) => {
   // Calls page's `getInitialProps` and fills `appProps.pageProps`
   const appProps = await App.getInitialProps(ctx);

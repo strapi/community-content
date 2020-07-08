@@ -3,7 +3,14 @@ import ButtonLink from "./button-link";
 import { getStrapiMedia } from "utils/images";
 
 const Layout = ({ children, global }) => {
-  const { navLogo, navButton, navLinks } = global;
+  const {
+    navLogo,
+    navButton,
+    navLinks,
+    footerSections,
+    footerLogo,
+    footerSmallText,
+  } = global;
   return (
     <div className="flex flex-col justify-between min-h-screen">
       {/* Aligned to top */}
@@ -24,7 +31,10 @@ const Layout = ({ children, global }) => {
               <ul className="hidden list-none md:flex flex-row gap-4 items-baseline ml-10">
                 {navLinks.map((navLink) => (
                   <li key={navLink.id}>
-                    <a href={navLink.url} className="hover:underline px-2 py-1">
+                    <a
+                      href={navLink.url}
+                      className="hover:text-gray-900 px-2 py-1"
+                    >
                       {navLink.text}
                     </a>
                   </li>
@@ -48,11 +58,42 @@ const Layout = ({ children, global }) => {
         <div>{children}</div>
       </div>
       {/* Aligned to bottom */}
-      <footer className="bg-gray-200 py-6">
-        <div className="container text-sm text-gray-700">
-          © Copyright 2020 Slack Technologies, Inc. All rights reserved. Various
-          trademarks held by their respective owners.
+      <footer className="bg-gray-200 pt-12 pb-6">
+        <div className="container flex flex-row justify-between">
+          <div>
+            {footerLogo && (
+              <img
+                className="h-8 w-auto object-contain"
+                src={getStrapiMedia(footerLogo.url)}
+              />
+            )}
+          </div>
+          <nav className="flex flex-row gap-20 items-start justify-end mb-10">
+            {footerSections.map((footerSection) => (
+              <div key={footerSection.id}>
+                <p className="uppercase tracking-wide font-semibold">
+                  {footerSection.title}
+                </p>
+                <ul className="mt-2">
+                  {footerSection.links.map((link) => (
+                    <li key={link.id} className="text-gray-700 py-1 px-1 -mx-1">
+                      <a
+                        href={link.url}
+                        className="hover:text-gray-900"
+                        // Change target and rel attributes is newTab is turned on
+                        target={link.newTab ? "_blank" : "_self"}
+                        rel={link.newTab ? "noopener noreferrer" : ""}
+                      >
+                        {link.text}
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </nav>
         </div>
+        <div className="container text-sm text-gray-700">{footerSmallText}</div>
       </footer>
     </div>
   );

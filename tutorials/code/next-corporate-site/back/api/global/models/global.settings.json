@@ -50,6 +50,18 @@
       ],
       "plugin": "upload",
       "required": false
+    },
+    "footerLogo": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "footerSmallText": {
+      "type": "string"
     }
   }
 }
