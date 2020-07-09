@@ -23,9 +23,11 @@ export default async (req, res) => {
 
   // Redirect to the path from the fetched post
   // We don't redirect to req.query.slug as that might lead to open redirect vulnerabilities
-  res.writeHead(307, { Location: `/${pageData.slug}` });
+  res.writeHead(307, { Location: `/${pageData.slug.replace("__", "/")}` });
   res.end();
 };
 
 // You can view Preview pages with URLs like this:
-// http://localhost:3000/api/preview?secret=5uper53cr3tc0d3&slug=secret
+// http://localhost:3000/api/preview?secret=<preview-secret>&slug=<slug>
+// where <preview-secret> is the secret token defined in your .env config
+// and where <slug> is the slug you entered in Strapi for your page
