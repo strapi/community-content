@@ -32,6 +32,15 @@
         "sections.testimonials-group",
         "sections.large-video"
       ]
+    },
+    "status": {
+      "type": "enumeration",
+      "enum": [
+        "published",
+        "draft"
+      ],
+      "default": "draft",
+      "required": true
     }
   }
 }

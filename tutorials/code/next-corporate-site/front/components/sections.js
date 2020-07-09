@@ -38,7 +38,7 @@ const sectionComponents = [
   },
 ];
 
-const Sections = ({ sections }) => {
+const Sections = ({ sections, preview }) => {
   // Detect the spacings required around a section based on its settings
   // and its siblings' settings
   const getSpacings = (componentData, index) => {
@@ -89,7 +89,18 @@ const Sections = ({ sections }) => {
     );
   };
 
-  return <div className="flex flex-col">{sections.map(showSection)}</div>;
+  return (
+    <div className="flex flex-col">
+      {/* Show a banner if preview mode is on */}
+      {preview && (
+        <div className="py-4 bg-red-600 text-red-100 font-semibold uppercase tracking-wide">
+          <div className="container">Preview mode is on</div>
+        </div>
+      )}
+      {/* Show the actual sections */}
+      {sections.map(showSection)}
+    </div>
+  );
 };
 
 export default Sections;

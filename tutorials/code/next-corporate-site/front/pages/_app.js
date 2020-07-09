@@ -3,10 +3,17 @@ import Head from "next/head";
 import "@/styles/index.css";
 import { DefaultSeo } from "next-seo";
 import { getStrapiMedia } from "utils/images";
-import { getStrapiURL } from "utils/api";
+import { getStrapiURL, getGlobalData } from "utils/api";
 import Layout from "@/components/layout";
+import { useRouter } from "next/dist/client/router";
 
 const MyApp = ({ Component, pageProps }) => {
+  // Prevent Next bug when it tries to render the [[...slug]] route
+  const router = useRouter();
+  if (router.asPath === "/[[...slug]]") {
+    return null;
+  }
+
   // Extract the data we need
   const { global } = pageProps;
   const { metadata } = global;
@@ -52,9 +59,9 @@ MyApp.getInitialProps = async (ctx) => {
   // Calls page's `getInitialProps` and fills `appProps.pageProps`
   const appProps = await App.getInitialProps(ctx);
   // Fetch global site settings from Strapi
-  const global = await (await fetch(getStrapiURL("/global"))).json();
+  const global = await getGlobalData();
   // Pass the data to our page via props
-  return { ...appProps, pageProps: { global } };
+  return { ...appProps, pageProps: { global, path: ctx.pathname } };
 };
 
 export default MyApp;
