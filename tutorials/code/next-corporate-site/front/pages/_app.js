@@ -1,11 +1,12 @@
 import App from "next/app";
 import Head from "next/head";
-import "@/styles/index.css";
+import ErrorPage from "next/error";
 import { DefaultSeo } from "next-seo";
 import { getStrapiMedia } from "utils/images";
 import { getStrapiURL, getGlobalData } from "utils/api";
 import Layout from "@/components/layout";
 import { useRouter } from "next/dist/client/router";
+import "@/styles/index.css";
 
 const MyApp = ({ Component, pageProps }) => {
   // Prevent Next bug when it tries to render the [[...slug]] route
@@ -16,6 +17,9 @@ const MyApp = ({ Component, pageProps }) => {
 
   // Extract the data we need
   const { global } = pageProps;
+  if (global == null) {
+    return <ErrorPage statusCode={404} />;
+  }
   const { metadata } = global;
 
   return (

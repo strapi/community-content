@@ -13,9 +13,6 @@
       "type": "uid",
       "required": false
     },
-    "parentPage": {
-      "model": "page"
-    },
     "metadata": {
       "type": "component",
       "repeatable": false,
