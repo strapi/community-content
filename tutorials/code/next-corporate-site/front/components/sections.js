@@ -38,6 +38,13 @@ const sectionComponents = [
   },
 ];
 
+const sections2 = {
+  "sections.testimonials-group": {
+    Component: TestimonialsGroup,
+    hasMargins: false,
+  },
+};
+
 const Sections = ({ sections, preview }) => {
   // Detect the spacings required around a section based on its settings
   // and its siblings' settings

@@ -1,4 +1,6 @@
-const { getStrapiMedia } = require("utils/images");
+import Video from "./elements/video";
+
+const { getStrapiMedia } = require("utils/media");
 
 const LargeVideo = ({ data }) => {
   return (
@@ -7,13 +9,11 @@ const LargeVideo = ({ data }) => {
       <p className="text-lg mb-10">{data.description}</p>
       {/* Video wrapper */}
       <div className="w-full lg:w-9/12 mx-auto overflow-hidden shadow-2xl">
-        <video
+        <Video
+          media={data.video}
+          poster={data.poster}
           className="w-full max-h-full"
-          poster={getStrapiMedia(data.poster.url)}
-          controls
-        >
-          <source src={getStrapiMedia(data.video.url)} type={data.video.mime} />
-        </video>
+        />
       </div>
     </section>
   );

@@ -1,6 +1,7 @@
 import classNames from "classnames";
-import { getStrapiMedia } from "utils/images";
+import { getStrapiMedia } from "utils/media";
 import { useState } from "react";
+import Image from "./elements/image";
 
 const TestimonialsGroup = ({ data }) => {
   // Only show one testimonial at a time
@@ -19,14 +20,14 @@ const TestimonialsGroup = ({ data }) => {
       </a>
       {/* Current testimonial card */}
       <div className="w-8/12 sm:w-8/12 bg-white shadow-md sm:shadow-xl mx-auto flex flex-col sm:flex-row mt-10 text-left">
-        <img
-          src={getStrapiMedia(selectedTestimonial.picture.url)}
+        <Image
+          media={selectedTestimonial.picture}
           className="w-full md:w-4/12 object-cover flex-shrink-0"
         />
         <div className="px-4 py-4 sm:px-12 sm:pt-12 sm:pb-4 flex flex-col justify-between">
           <div>
-            <img
-              src={getStrapiMedia(selectedTestimonial.logo.url)}
+            <Image
+              media={selectedTestimonial.logo}
               className="h-8 w-auto mb-6 sm:mb-10 mt-2 sm:mt-0"
             />
             <p className="italic mb-6">"{selectedTestimonial.text}"</p>
@@ -65,9 +66,8 @@ const TestimonialsGroup = ({ data }) => {
       {/* Logos list */}
       <div className="flex flex-row flex-wrap items-center gap-6 sm:gap-16 justify-around mt-10 px-6 sm:px-0">
         {data.logos.map((logo) => (
-          <img
-            src={getStrapiMedia(logo.logo.url)}
-            alt={logo.name}
+          <Image
+            media={logo.logo}
             className="max-h-6 sm:max-h-8 max-w-xs w-auto object-contain"
             key={logo.id}
           />

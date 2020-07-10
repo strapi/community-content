@@ -1,5 +1,5 @@
 import { NextSeo } from "next-seo";
-import { getStrapiMedia } from "utils/images";
+import { getStrapiMedia } from "utils/media";
 
 const Seo = ({ metadata }) => {
   // Prevent errors if no metadata was set

@@ -1,21 +1,9 @@
 import classNames from "classnames";
-import { getStrapiMedia } from "utils/images";
+import { getStrapiMedia } from "utils/media";
+import Image from "./elements/image";
+import Video from "./elements/video";
 
 const FeatureRowsGroup = ({ data }) => {
-  // Handle the media differently depending on its type
-  const showMedia = (media) => {
-    switch (media.mime) {
-      case "video/mp4":
-        return (
-          <video className="w-full h-auto" autoPlay loop>
-            <source src={getStrapiMedia(media.url)} type={media.mime} />
-          </video>
-        );
-      default:
-        return null;
-    }
-  };
-
   return (
     <div className="container flex flex-col gap-12">
       {data.features.map((feature, index) => (
@@ -43,7 +31,19 @@ const FeatureRowsGroup = ({ data }) => {
           </div>
           {/* Media section */}
           <div className="w-full sm:9/12 lg:w-6/12 max-h-full">
-            {showMedia(feature.media)}
+            {/* Images */}
+            {feature.media.mime.startsWith("image") && (
+              <Image media={feature.media} className="w-full h-auto" />
+            )}
+            {/* Videos */}
+            {feature.media.mime.startsWith("video") && (
+              <Video
+                media={feature.media}
+                className="w-full h-auto"
+                autoPlay
+                controls={false}
+              />
+            )}
           </div>
         </div>
       ))}

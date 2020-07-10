@@ -1,6 +1,7 @@
 import Markdown from "react-markdown";
-import { getStrapiMedia } from "utils/images";
+import { getStrapiMedia } from "utils/media";
 import ButtonLink from "./button-link";
+import Image from "./elements/image";
 
 const Hero = ({ data }) => {
   return (
@@ -25,9 +26,8 @@ const Hero = ({ data }) => {
         </div>
       </div>
       {/* Right column for the image */}
-      <img
-        src={getStrapiMedia(data.picture.url)}
-        alt={data.picture.alternativeText}
+      <Image
+        media={data.picture}
         className="flex-shrink-0 object-contain w-full md:w-6/12 mt-6 md:mt-0"
       />
     </main>
