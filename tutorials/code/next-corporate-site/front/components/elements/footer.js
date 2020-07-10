@@ -49,7 +49,7 @@ const Footer = ({ footerSections, footerSmallText, footerLogo }) => {
 Footer.propTypes = {
   footerSections: PropTypes.arrayOf(
     PropTypes.shape({
-      id: PropTypes.string.isRequired,
+      id: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired,
       title: PropTypes.string.isRequired,
       links: PropTypes.arrayOf(linkPropTypes),
     })

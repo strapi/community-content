@@ -11,7 +11,7 @@ import {
 } from "utils/types";
 
 const Navbar = ({ navLogo, navLinks, navButton }) => {
-  const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
+  const [mobileMenuIsShown, setMobileMenuIsShown] = useState(true);
 
   return (
     <>
@@ -25,6 +25,7 @@ const Navbar = ({ navLogo, navLinks, navButton }) => {
                 <Image media={navLogo} className="h-8 w-auto object-contain" />
               </a>
             </Link>
+            {/* List of links on desktop */}
             <ul className="hidden list-none md:flex flex-row gap-4 items-baseline ml-10">
               {navLinks.map((navLink) => (
                 <li key={navLink.id}>
@@ -38,6 +39,18 @@ const Navbar = ({ navLogo, navLinks, navButton }) => {
               ))}
             </ul>
           </div>
+          {/* Hamburger menu on mobile */}
+          <button
+            onClick={() => setMobileMenuIsShown(true)}
+            className="p-1 block md:hidden"
+          >
+            <img
+              src="/icons/hamburger.svg"
+              alt="Menu"
+              className="h-6 w-auto -m-1"
+            />
+          </button>
+          {/* CTA button on desktop */}
           {navButton && (
             <div className="hidden md:block">
               <ButtonLink
@@ -59,6 +72,7 @@ const Navbar = ({ navLogo, navLinks, navButton }) => {
           navLogo={navLogo}
           navLinks={navLinks}
           navButton={navButton}
+          closeSelf={() => setMobileMenuIsShown(false)}
         />
       )}
     </>
