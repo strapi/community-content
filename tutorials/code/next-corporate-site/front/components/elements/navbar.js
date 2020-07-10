@@ -1,8 +1,14 @@
 import Link from "next/link";
+import PropTypes from "prop-types";
 import { useState } from "react";
 import MobileNavMenu from "./mobile-nav-menu";
 import ButtonLink from "./button-link";
 import Image from "./image";
+import {
+  mediaPropTypes,
+  linkPropTypes,
+  buttonLinkPropTypes,
+} from "utils/types";
 
 const Navbar = ({ navLogo, navLinks, navButton }) => {
   const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
@@ -57,6 +63,12 @@ const Navbar = ({ navLogo, navLinks, navButton }) => {
       )}
     </>
   );
+};
+
+Navbar.propTypes = {
+  navLogo: mediaPropTypes,
+  navLinks: PropTypes.arrayOf(linkPropTypes),
+  navButton: buttonLinkPropTypes,
 };
 
 export default Navbar;

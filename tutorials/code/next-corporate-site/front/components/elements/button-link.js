@@ -1,4 +1,6 @@
 import classNames from "classnames";
+import PropTypes from "prop-types";
+import { buttonLinkPropTypes } from "utils/types";
 
 const ButtonLink = ({ button }) => {
   return (
@@ -27,6 +29,10 @@ const ButtonLink = ({ button }) => {
       {button.text}
     </a>
   );
+};
+
+ButtonLink.propTypes = {
+  button: buttonLinkPropTypes,
 };
 
 export default ButtonLink;

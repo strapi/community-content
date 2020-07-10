@@ -1,4 +1,10 @@
+import PropTypes from "prop-types";
 import Image from "./image";
+import {
+  mediaPropTypes,
+  linkPropTypes,
+  buttonLinkPropTypes,
+} from "utils/types";
 
 const MobileNavMenu = ({ navLogo, navLinks, navButton }) => {
   return (
@@ -18,6 +24,12 @@ const MobileNavMenu = ({ navLogo, navLinks, navButton }) => {
       </div>
     </div>
   );
+};
+
+MobileNavMenu.propTypes = {
+  navLogo: mediaPropTypes,
+  navLinks: PropTypes.arrayOf(linkPropTypes),
+  navButton: buttonLinkPropTypes,
 };
 
 export default MobileNavMenu;
