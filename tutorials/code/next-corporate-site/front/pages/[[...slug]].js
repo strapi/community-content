@@ -1,7 +1,7 @@
 import ErrorPage from "next/error";
 import { getStrapiURL, getPageData } from "utils/api";
 import Sections from "@/components/sections";
-import Seo from "@/components/seo";
+import Seo from "@/components/elements/seo";
 import { useRouter } from "next/dist/client/router";
 
 // The file is called [[...slug]].js because we're using Next's

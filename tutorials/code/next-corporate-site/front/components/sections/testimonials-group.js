@@ -1,7 +1,6 @@
 import classNames from "classnames";
-import { getStrapiMedia } from "utils/media";
 import { useState } from "react";
-import Image from "./elements/image";
+import Image from "../elements/image";
 
 const TestimonialsGroup = ({ data }) => {
   // Only show one testimonial at a time

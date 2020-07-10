@@ -1,11 +1,10 @@
 import classNames from "classnames";
-import { getStrapiMedia } from "utils/media";
-import Image from "./elements/image";
-import Video from "./elements/video";
+import Image from "../elements/image";
+import Video from "../elements/video";
 
 const FeatureRowsGroup = ({ data }) => {
   return (
-    <div className="container flex flex-col gap-12">
+    <div className="container flex flex-col gap-12 py-12">
       {data.features.map((feature, index) => (
         <div
           className={classNames(

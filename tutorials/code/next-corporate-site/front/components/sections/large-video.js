@@ -1,10 +1,8 @@
-import Video from "./elements/video";
-
-const { getStrapiMedia } = require("utils/media");
+import Video from "../elements/video";
 
 const LargeVideo = ({ data }) => {
   return (
-    <section className="container flex flex-col align-middle text-center">
+    <section className="container flex flex-col align-middle text-center pt-12 pb-16">
       <h2 className="title mb-6">{data.title}</h2>
       <p className="text-lg mb-10">{data.description}</p>
       {/* Video wrapper */}

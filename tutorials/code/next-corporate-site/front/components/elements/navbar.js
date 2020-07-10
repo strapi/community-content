@@ -1,8 +1,7 @@
 import Link from "next/link";
 import { useState } from "react";
 import MobileNavMenu from "./mobile-nav-menu";
-import { getStrapiMedia } from "utils/media";
-import ButtonLink from "../button-link";
+import ButtonLink from "./button-link";
 import Image from "./image";
 
 const Navbar = ({ navLogo, navLinks, navButton }) => {

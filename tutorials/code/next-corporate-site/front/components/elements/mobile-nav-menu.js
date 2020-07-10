@@ -1,4 +1,3 @@
-import { getStrapiMedia } from "utils/media";
 import Image from "./image";
 
 const MobileNavMenu = ({ navLogo, navLinks, navButton }) => {

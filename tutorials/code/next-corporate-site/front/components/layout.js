@@ -1,7 +1,5 @@
 import Link from "next/link";
-import ButtonLink from "./button-link";
-import { getStrapiMedia } from "utils/media";
-import { useState } from "react";
+import ButtonLink from "./elements/button-link";
 import Navbar from "./elements/navbar";
 import Footer from "./elements/footer";
 
