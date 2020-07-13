@@ -111,3 +111,18 @@ coverage
 exports
 .cache
 build
+
+
+# Custom
+
+data/*
+!data.zip
+__MACOSX/*
+
+############################
+# Strapi
+############################
+
+exports
+.cache
+build
