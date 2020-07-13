@@ -126,3 +126,7 @@ __MACOSX/*
 exports
 .cache
 build
+
+# Custom
+
+.vscode/*
