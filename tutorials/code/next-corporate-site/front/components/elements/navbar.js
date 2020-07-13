@@ -11,7 +11,7 @@ import {
 } from "utils/types";
 
 const Navbar = ({ navLogo, navLinks, navButton }) => {
-  const [mobileMenuIsShown, setMobileMenuIsShown] = useState(true);
+  const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
 
   return (
     <>
