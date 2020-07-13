@@ -62,6 +62,11 @@
     },
     "footerSmallText": {
       "type": "string"
+    },
+    "notificationBanner": {
+      "type": "component",
+      "repeatable": false,
+      "component": "elements.notification-banner"
     }
   }
 }

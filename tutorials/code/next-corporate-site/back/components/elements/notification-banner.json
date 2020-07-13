@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_elements_notification_banners",
+  "info": {
+    "name": "NotificationBanner",
+    "icon": "exclamation"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "richtext"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "alert",
+        "info",
+        "warning"
+      ],
+      "required": true
+    }
+  }
+}

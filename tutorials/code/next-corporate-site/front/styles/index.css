@@ -21,8 +21,16 @@ html {
   }
 }
 
-.rich-text a {
+.rich-text-hero a {
   @apply text-blue-600 underline;
+}
+
+.rich-text {
+  @apply whitespace-pre-line;
+}
+
+.rich-text a {
+  @apply underline;
 }
 
 .title {

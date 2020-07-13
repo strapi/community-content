@@ -1,8 +1,8 @@
-import { useLayoutEffect } from "react";
+import { useLayoutEffect, useEffect } from "react";
 
 // Got from https://usehooks.com/useLockBodyScroll/
 export function useLockBodyScroll() {
-  useLayoutEffect(() => {
+  useEffect(() => {
     // Get original body overflow
     const originalStyle = window.getComputedStyle(document.body).overflow;
 
