@@ -11,7 +11,11 @@
   "attributes": {
     "slug": {
       "type": "uid",
-      "required": false
+      "required": false,
+      "targetField": "shortName"
+    },
+    "shortName": {
+      "type": "string"
     },
     "metadata": {
       "type": "component",
