@@ -512,3 +512,15 @@
     - Vuetify
   made_by: Fabian Mieller
   made_by_url: https://fabianmieller.de
+- title: HANAJANA SWIMWEAR
+  url: https://hanajanaswimwear.com/
+  description: This is an E-commerce website made with Next.js for a famous bikini brand.
+  categories:
+    - E-commerce
+  frontend:
+    - Next.js
+    - React
+    - Formik
+    - SCSS
+  made_by: Steven Sturkop
+  made_by_url: https://www.linkedin.com/in/stevensturkop/
