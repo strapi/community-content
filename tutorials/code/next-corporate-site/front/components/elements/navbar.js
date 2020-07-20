@@ -10,7 +10,7 @@ import {
   buttonLinkPropTypes,
 } from "utils/types";
 
-const Navbar = ({ navLogo, navLinks, navButton }) => {
+const Navbar = ({ navbar }) => {
   const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
 
   return (
@@ -22,12 +22,15 @@ const Navbar = ({ navLogo, navLinks, navButton }) => {
           <div className="flex flex-row items-center">
             <Link href="/[[...slug]]" as="/">
               <a>
-                <Image media={navLogo} className="h-8 w-auto object-contain" />
+                <Image
+                  media={navbar.logo}
+                  className="h-8 w-auto object-contain"
+                />
               </a>
             </Link>
             {/* List of links on desktop */}
             <ul className="hidden list-none md:flex flex-row gap-4 items-baseline ml-10">
-              {navLinks.map((navLink) => (
+              {navbar.links.map((navLink) => (
                 <li key={navLink.id}>
                   <a
                     href={navLink.url}
@@ -51,16 +54,9 @@ const Navbar = ({ navLogo, navLinks, navButton }) => {
             />
           </button>
           {/* CTA button on desktop */}
-          {navButton && (
+          {navbar.button && (
             <div className="hidden md:block">
-              <ButtonLink
-                button={{
-                  theme: navButton.theme,
-                  url: navButton.url,
-                  text: navButton.text,
-                  newTab: navButton.newTab,
-                }}
-              />
+              <ButtonLink button={navbar.button} />
             </div>
           )}
         </div>
@@ -69,9 +65,7 @@ const Navbar = ({ navLogo, navLinks, navButton }) => {
       {/* Mobile navigation menu panel */}
       {mobileMenuIsShown && (
         <MobileNavMenu
-          navLogo={navLogo}
-          navLinks={navLinks}
-          navButton={navButton}
+          navbar={navbar}
           closeSelf={() => setMobileMenuIsShown(false)}
         />
       )}
@@ -80,9 +74,11 @@ const Navbar = ({ navLogo, navLinks, navButton }) => {
 };
 
 Navbar.propTypes = {
-  navLogo: mediaPropTypes,
-  navLinks: PropTypes.arrayOf(linkPropTypes),
-  navButton: buttonLinkPropTypes,
+  navbar: PropTypes.shape({
+    logo: mediaPropTypes,
+    links: PropTypes.arrayOf(linkPropTypes),
+    button: buttonLinkPropTypes,
+  }),
 };
 
 export default Navbar;

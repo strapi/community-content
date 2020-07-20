@@ -14,33 +14,9 @@
       "repeatable": false,
       "component": "meta.metadata"
     },
-    "navLogo": {
-      "model": "file",
-      "via": "related",
-      "allowedTypes": [
-        "images"
-      ],
-      "plugin": "upload",
-      "required": true
-    },
-    "navLinks": {
-      "type": "component",
-      "repeatable": true,
-      "component": "links.link"
-    },
-    "navButton": {
-      "type": "component",
-      "repeatable": false,
-      "component": "links.button"
-    },
     "metaTitleSuffix": {
       "type": "string",
       "required": true
-    },
-    "footerSections": {
-      "type": "component",
-      "repeatable": true,
-      "component": "elements.footer-section"
     },
     "favicon": {
       "model": "file",
@@ -51,22 +27,20 @@
       "plugin": "upload",
       "required": false
     },
-    "footerLogo": {
-      "model": "file",
-      "via": "related",
-      "allowedTypes": [
-        "images"
-      ],
-      "plugin": "upload",
-      "required": false
-    },
-    "footerSmallText": {
-      "type": "string"
-    },
     "notificationBanner": {
       "type": "component",
       "repeatable": false,
       "component": "elements.notification-banner"
+    },
+    "navbar": {
+      "type": "component",
+      "repeatable": false,
+      "component": "layout.navbar"
+    },
+    "footer": {
+      "type": "component",
+      "repeatable": false,
+      "component": "layout.footer"
     }
   }
 }

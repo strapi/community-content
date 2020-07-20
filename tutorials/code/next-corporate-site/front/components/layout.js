@@ -6,21 +6,13 @@ import NotificationBanner from "./elements/notification-banner";
 import { useState } from "react";
 
 const Layout = ({ children, global }) => {
-  const {
-    navLogo,
-    navButton,
-    navLinks,
-    footerSections,
-    footerLogo,
-    footerSmallText,
-    notificationBanner,
-  } = global;
+  const { navbar, footer, notificationBanner } = global;
 
   const [bannerIsShown, setBannerIsShown] = useState(true);
 
   return (
     <div className="flex flex-col justify-between min-h-screen">
-      {/* Aligned to top */}
+      {/* Aligned to the top */}
       <div className="flex-1">
         {notificationBanner && bannerIsShown && (
           <NotificationBanner
@@ -28,15 +20,11 @@ const Layout = ({ children, global }) => {
             closeSelf={() => setBannerIsShown(false)}
           />
         )}
-        <Navbar navLogo={navLogo} navLinks={navLinks} navButton={navButton} />
+        <Navbar navbar={navbar} />
         <div>{children}</div>
       </div>
-      {/* Aligned to bottom */}
-      <Footer
-        footerSections={footerSections}
-        footerSmallText={footerSmallText}
-        footerLogo={footerLogo}
-      />
+      {/* Aligned to the bottom */}
+      <Footer footer={footer} />
     </div>
   );
 };

@@ -8,7 +8,7 @@ import {
 import ButtonLink from "./button-link";
 import { useLockBodyScroll } from "utils/hooks";
 
-const MobileNavMenu = ({ navLogo, navLinks, navButton, closeSelf }) => {
+const MobileNavMenu = ({ navbar, closeSelf }) => {
   // Prevent window scroll while mobile nav menu is open
   useLockBodyScroll();
 
@@ -18,7 +18,7 @@ const MobileNavMenu = ({ navLogo, navLinks, navButton, closeSelf }) => {
         {/* Top section */}
         <div className="flex flex-row justify-between items-center">
           {/* Company logo */}
-          <Image media={navLogo} className="h-8 w-auto object-contain" />
+          <Image media={navbar.logo} className="h-8 w-auto object-contain" />
           {/* Close button */}
           <button onClick={closeSelf} className="py-1 px-1">
             <img
@@ -31,7 +31,7 @@ const MobileNavMenu = ({ navLogo, navLinks, navButton, closeSelf }) => {
         {/* Bottom section */}
         <div className="flex flex-col justify-end w-9/12 mx-auto">
           <ul className="flex flex-col list-none gap-6 items-baseline text-xl mb-10">
-            {navLinks.map((navLink) => (
+            {navbar.links.map((navLink) => (
               <li key={navLink.id} className="block w-full">
                 <a
                   href={navLink.url}
@@ -47,7 +47,7 @@ const MobileNavMenu = ({ navLogo, navLinks, navButton, closeSelf }) => {
               </li>
             ))}
           </ul>
-          <ButtonLink button={navButton} />
+          <ButtonLink button={navbar.button} />
         </div>
       </div>
     </div>
@@ -55,9 +55,11 @@ const MobileNavMenu = ({ navLogo, navLinks, navButton, closeSelf }) => {
 };
 
 MobileNavMenu.propTypes = {
-  navLogo: mediaPropTypes,
-  navLinks: PropTypes.arrayOf(linkPropTypes),
-  navButton: buttonLinkPropTypes,
+  navbar: PropTypes.shape({
+    logo: mediaPropTypes,
+    links: PropTypes.arrayOf(linkPropTypes),
+    button: buttonLinkPropTypes,
+  }),
   closeSelf: PropTypes.func,
 };
 

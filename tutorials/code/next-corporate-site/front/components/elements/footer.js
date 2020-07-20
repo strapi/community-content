@@ -2,26 +2,26 @@ import Image from "./image";
 import PropTypes from "prop-types";
 import { linkPropTypes, mediaPropTypes } from "utils/types";
 
-const Footer = ({ footerSections, footerSmallText, footerLogo }) => {
+const Footer = ({ footer }) => {
   return (
     <footer className="pt-12">
       <div className="container flex flex-col lg:flex-row lg:justify-between">
         <div>
-          {footerLogo && (
-            <Image media={footerLogo} className="h-8 w-auto object-contain" />
+          {footer.logo && (
+            <Image media={footer.logo} className="h-8 w-auto object-contain" />
           )}
         </div>
         <nav className="flex flex-wrap flex-row lg:gap-20 items-start lg:justify-end mb-10">
-          {footerSections.map((footerSection) => (
+          {footer.columns.map((footerColumn) => (
             <div
-              key={footerSection.id}
+              key={footerColumn.id}
               className="mt-10 lg:mt-0 w-6/12 lg:w-auto"
             >
               <p className="uppercase tracking-wide font-semibold">
-                {footerSection.title}
+                {footerColumn.title}
               </p>
               <ul className="mt-2">
-                {footerSection.links.map((link) => (
+                {footerColumn.links.map((link) => (
                   <li key={link.id} className="text-gray-700 py-1 px-1 -mx-1">
                     <a
                       href={link.url}
@@ -40,22 +40,25 @@ const Footer = ({ footerSections, footerSmallText, footerLogo }) => {
         </nav>
       </div>
       <div className="text-sm bg-gray-100 py-6 text-gray-700">
-        <div className="container">{footerSmallText}</div>
+        <div className="container">{footer.smallText}</div>
       </div>
     </footer>
   );
 };
 
 Footer.propTypes = {
-  footerSections: PropTypes.arrayOf(
-    PropTypes.shape({
-      id: PropTypes.oneOfType([PropTypes.string, PropTypes.number]).isRequired,
-      title: PropTypes.string.isRequired,
-      links: PropTypes.arrayOf(linkPropTypes),
-    })
-  ),
-  footerSmallText: PropTypes.string.isRequired,
-  footerLogo: mediaPropTypes.isRequired,
+  logo: mediaPropTypes.isRequired,
+  footer: PropTypes.shape({
+    columns: PropTypes.arrayOf(
+      PropTypes.shape({
+        id: PropTypes.oneOfType([PropTypes.string, PropTypes.number])
+          .isRequired,
+        title: PropTypes.string.isRequired,
+        links: PropTypes.arrayOf(linkPropTypes),
+      })
+    ),
+  }),
+  smallText: PropTypes.string.isRequired,
 };
 
 export default Footer;
