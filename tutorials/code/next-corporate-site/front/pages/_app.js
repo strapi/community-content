@@ -1,11 +1,11 @@
 import App from "next/app";
 import Head from "next/head";
 import ErrorPage from "next/error";
+import { useRouter } from "next/router";
 import { DefaultSeo } from "next-seo";
 import { getStrapiMedia } from "utils/media";
 import { getStrapiURL, getGlobalData } from "utils/api";
 import Layout from "@/components/layout";
-import { useRouter } from "next/dist/client/router";
 import "@/styles/index.css";
 
 const MyApp = ({ Component, pageProps }) => {

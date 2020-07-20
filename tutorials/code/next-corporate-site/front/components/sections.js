@@ -17,7 +17,7 @@ const sectionComponents = {
 };
 
 // Display a section individually
-const Section = ({ sectionData, index }) => {
+const Section = ({ sectionData }) => {
   // Prepare the component
   const SectionComponent = sectionComponents[sectionData.__component];
 
@@ -28,8 +28,6 @@ const Section = ({ sectionData, index }) => {
   // Display the section
   return <SectionComponent data={sectionData} />;
 };
-
-function useExitPreviewModeLink() {}
 
 const PreviewModeBanner = () => {
   const router = useRouter();
@@ -59,10 +57,9 @@ const Sections = ({ sections, preview }) => {
       {/* Show a banner if preview mode is on */}
       {preview && <PreviewModeBanner />}
       {/* Show the actual sections */}
-      {sections.map((section, index) => (
+      {sections.map((section) => (
         <Section
           sectionData={section}
-          index={index}
           key={`${section.__component}${section.id}`}
         />
       ))}
