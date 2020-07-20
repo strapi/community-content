@@ -11,11 +11,13 @@ const ButtonLink = ({ button }) => {
         "block w-full lg:w-auto text-center uppercase tracking-wide font-semibold text-base md:text-sm px-8 py-4 border-2 rounded-md",
         // Specific to when the button is purple
         {
-          "bg-primary text-white border-primary": button.theme === "purple",
+          "bg-primary-600 text-white border-primary-600":
+            button.theme === "purple",
         },
         // Specific to when the button is fully white
         {
-          "bg-white text-primary border-primary": button.theme === "white_full",
+          "bg-white text-primary-600 border-primary-600":
+            button.theme === "white_full",
         },
         // Specific to when the button is outlines of white
         {
