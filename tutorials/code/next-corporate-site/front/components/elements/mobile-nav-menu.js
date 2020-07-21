@@ -7,6 +7,7 @@ import {
 } from "utils/types";
 import ButtonLink from "./button-link";
 import { useLockBodyScroll } from "utils/hooks";
+import { getButtonAppearance } from "utils/button";
 
 const MobileNavMenu = ({ navbar, closeSelf }) => {
   // Prevent window scroll while mobile nav menu is open
@@ -47,7 +48,10 @@ const MobileNavMenu = ({ navbar, closeSelf }) => {
               </li>
             ))}
           </ul>
-          <ButtonLink button={navbar.button} />
+          <ButtonLink
+            button={navbar.button}
+            appearance={getButtonAppearance(navbar.button.type, "light")}
+          />
         </div>
       </div>
     </div>

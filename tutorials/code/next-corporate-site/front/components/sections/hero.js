@@ -1,6 +1,7 @@
 import Markdown from "react-markdown";
 import ButtonLink from "../elements/button-link";
 import Image from "../elements/image";
+import { getButtonAppearance } from "utils/button";
 
 const Hero = ({ data }) => {
   return (
@@ -16,7 +17,11 @@ const Hero = ({ data }) => {
         {/* Buttons row */}
         <div className="flex flex-row flex-wrap gap-4">
           {data.buttons.map((button) => (
-            <ButtonLink button={button} key={button.id} />
+            <ButtonLink
+              button={button}
+              appearance={getButtonAppearance(button.type, "light")}
+              key={button.id}
+            />
           ))}
         </div>
         {/* Small rich text */}

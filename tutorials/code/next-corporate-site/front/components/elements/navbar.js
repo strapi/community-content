@@ -9,6 +9,7 @@ import {
   linkPropTypes,
   buttonLinkPropTypes,
 } from "utils/types";
+import { getButtonAppearance } from "utils/button";
 
 const Navbar = ({ navbar }) => {
   const [mobileMenuIsShown, setMobileMenuIsShown] = useState(false);
@@ -56,7 +57,10 @@ const Navbar = ({ navbar }) => {
           {/* CTA button on desktop */}
           {navbar.button && (
             <div className="hidden md:block">
-              <ButtonLink button={navbar.button} />
+              <ButtonLink
+                button={navbar.button}
+                appearance={getButtonAppearance(navbar.button.type, "light")}
+              />
             </div>
           )}
         </div>

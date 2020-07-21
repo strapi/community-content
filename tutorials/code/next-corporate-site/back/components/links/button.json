@@ -6,14 +6,6 @@
   },
   "options": {},
   "attributes": {
-    "theme": {
-      "type": "enumeration",
-      "enum": [
-        "white_full",
-        "white_outline",
-        "purple"
-      ]
-    },
     "url": {
       "type": "string"
     },
@@ -23,6 +15,13 @@
     },
     "text": {
       "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "primary",
+        "secondary"
+      ]
     }
   }
 }
