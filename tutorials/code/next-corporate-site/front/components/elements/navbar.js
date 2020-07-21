@@ -1,6 +1,7 @@
+import { useState } from "react";
 import Link from "next/link";
 import PropTypes from "prop-types";
-import { useState } from "react";
+import { MdMenu } from "react-icons/md";
 import MobileNavMenu from "./mobile-nav-menu";
 import ButtonLink from "./button-link";
 import Image from "./image";
@@ -48,11 +49,7 @@ const Navbar = ({ navbar }) => {
             onClick={() => setMobileMenuIsShown(true)}
             className="p-1 block md:hidden"
           >
-            <img
-              src="/icons/hamburger.svg"
-              alt="Menu"
-              className="h-6 w-auto -m-1"
-            />
+            <MdMenu className="h-8 w-auto" />
           </button>
           {/* CTA button on desktop */}
           {navbar.button && (

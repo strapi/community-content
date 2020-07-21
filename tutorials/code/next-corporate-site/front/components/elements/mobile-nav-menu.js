@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import { MdClose, MdChevronRight } from "react-icons/md";
 import Image from "./image";
 import {
   mediaPropTypes,
@@ -14,19 +15,15 @@ const MobileNavMenu = ({ navbar, closeSelf }) => {
   useLockBodyScroll();
 
   return (
-    <div className="w-screen h-screen fixed top-0 left-0 overflow-y-scroll bg-white z-10 py-6">
+    <div className="w-screen h-screen fixed top-0 left-0 overflow-y-scroll bg-white z-10 pb-6">
       <div className="container h-full flex flex-col justify-between">
         {/* Top section */}
-        <div className="flex flex-row justify-between items-center">
+        <div className="flex flex-row justify-between py-2 items-center">
           {/* Company logo */}
           <Image media={navbar.logo} className="h-8 w-auto object-contain" />
           {/* Close button */}
           <button onClick={closeSelf} className="py-1 px-1">
-            <img
-              src="/icons/cross.svg"
-              alt="Close"
-              className="h-8 w-auto -my-1 -mr-1"
-            />
+            <MdClose className="h-8 w-auto" />
           </button>
         </div>
         {/* Bottom section */}
@@ -39,11 +36,7 @@ const MobileNavMenu = ({ navbar, closeSelf }) => {
                   className="hover:text-gray-900 py-6 flex flex-row justify-between items-center"
                 >
                   <span>{navLink.text}</span>
-                  <img
-                    src="/icons/chevron.svg"
-                    alt=""
-                    className="transform -rotate-90 h-3 w-auto"
-                  />
+                  <MdChevronRight className="h-8 w-auto" />
                 </a>
               </li>
             ))}
