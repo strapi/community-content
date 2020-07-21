@@ -45,29 +45,31 @@ const TestimonialsGroup = ({ data }) => {
           </a>
         </div>
       </div>
-      {/* Change selected testimonial */}
-      <div className="flex flex-row gap-4 mt-10 justify-center">
-        {data.testimonials.map((testimonial, index) => (
-          <button
-            onClick={() => setSelectedTestimonialIndex(index)}
-            className={classNames(
-              // Common classes
-              "rounded-full h-3 w-3",
-              {
-                "bg-gray-500": index !== selectedTestimonialIndex,
-                "bg-primary-600": index === selectedTestimonialIndex,
-              }
-            )}
-            key={testimonial.id}
-          ></button>
-        ))}
-      </div>
+      {/* Change selected testimonial (only if there is more than one) */}
+      {data.testimonials.length > 1 && (
+        <div className="flex flex-row gap-4 mt-10 justify-center">
+          {data.testimonials.map((testimonial, index) => (
+            <button
+              onClick={() => setSelectedTestimonialIndex(index)}
+              className={classNames(
+                // Common classes
+                "rounded-full h-3 w-3",
+                {
+                  "bg-gray-500": index !== selectedTestimonialIndex,
+                  "bg-primary-600": index === selectedTestimonialIndex,
+                }
+              )}
+              key={testimonial.id}
+            ></button>
+          ))}
+        </div>
+      )}
       {/* Logos list */}
-      <div className="flex flex-row flex-wrap items-center gap-6 sm:gap-16 justify-around mt-10 px-6 sm:px-0">
+      <div className="flex flex-row flex-wrap items-center gap-6 sm:gap-20 justify-center mt-10 px-6 sm:px-0">
         {data.logos.map((logo) => (
           <Image
             media={logo.logo}
-            className="max-h-6 sm:max-h-8 max-w-xs w-auto object-contain"
+            className="h-8 max-w-xs w-auto object-contain"
             key={logo.id}
           />
         ))}

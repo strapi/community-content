@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_elements_plans",
+  "info": {
+    "name": "plan",
+    "icon": "search-dollar"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "features": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.feature"
+    },
+    "isRecommended": {
+      "type": "boolean"
+    },
+    "price": {
+      "type": "decimal"
+    },
+    "pricePeriod": {
+      "type": "string"
+    }
+  }
+}

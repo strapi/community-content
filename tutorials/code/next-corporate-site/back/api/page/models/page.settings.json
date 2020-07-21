@@ -32,7 +32,8 @@
         "sections.feature-rows-group",
         "sections.testimonials-group",
         "sections.large-video",
-        "sections.rich-text"
+        "sections.rich-text",
+        "sections.pricing"
       ]
     },
     "status": {

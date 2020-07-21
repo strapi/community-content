@@ -47,8 +47,8 @@ const Footer = ({ footer }) => {
 };
 
 Footer.propTypes = {
-  logo: mediaPropTypes.isRequired,
   footer: PropTypes.shape({
+    logo: mediaPropTypes.isRequired,
     columns: PropTypes.arrayOf(
       PropTypes.shape({
         id: PropTypes.oneOfType([PropTypes.string, PropTypes.number])
@@ -57,8 +57,8 @@ Footer.propTypes = {
         links: PropTypes.arrayOf(linkPropTypes),
       })
     ),
+    smallText: PropTypes.string.isRequired,
   }),
-  smallText: PropTypes.string.isRequired,
 };
 
 export default Footer;
