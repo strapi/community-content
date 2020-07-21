@@ -31,7 +31,8 @@
         "sections.feature-columns-group",
         "sections.feature-rows-group",
         "sections.testimonials-group",
-        "sections.large-video"
+        "sections.large-video",
+        "sections.rich-text"
       ]
     },
     "status": {

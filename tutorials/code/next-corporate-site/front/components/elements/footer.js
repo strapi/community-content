@@ -4,7 +4,7 @@ import { linkPropTypes, mediaPropTypes } from "utils/types";
 
 const Footer = ({ footer }) => {
   return (
-    <footer className="pt-12">
+    <footer className="pt-12 bg-gray-100">
       <div className="container flex flex-col lg:flex-row lg:justify-between">
         <div>
           {footer.logo && (
@@ -39,7 +39,7 @@ const Footer = ({ footer }) => {
           ))}
         </nav>
       </div>
-      <div className="text-sm bg-gray-100 py-6 text-gray-700">
+      <div className="text-sm bg-gray-200 py-6 text-gray-700">
         <div className="container">{footer.smallText}</div>
       </div>
     </footer>

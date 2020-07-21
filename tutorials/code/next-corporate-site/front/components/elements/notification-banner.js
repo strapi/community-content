@@ -12,7 +12,7 @@ const NotificationBanner = ({ data: { text, type }, closeSelf }) => {
         "bg-red-600": type === "alert",
       })}
     >
-      <div className="rich-text">
+      <div className="rich-text-banner">
         <Markdown source={text} />
       </div>
       <button onClick={closeSelf} className="px-1 py-1">

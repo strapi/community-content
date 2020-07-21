@@ -2,8 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
-
 html {
   font-size: 13px;
   @apply text-gray-900;
@@ -25,12 +23,11 @@ html {
   @apply text-blue-600 underline;
 }
 
-.rich-text {
+.rich-text-banner {
   @apply whitespace-pre-line;
-}
-
-.rich-text a {
-  @apply underline;
+  a {
+    @apply underline;
+  }
 }
 
 .title {
@@ -50,4 +47,51 @@ html {
   height: 13px;
   display: inline-block;
   margin-left: 0.5em;
+}
+
+.rich-text-section {
+  @apply text-lg max-w-screen-lg;
+
+  h1,
+  h2,
+  h3 {
+    @apply font-medium;
+  }
+
+  h1 {
+    @apply text-3xl mt-6;
+  }
+
+  h2 {
+    @apply text-2xl mt-4;
+  }
+
+  h3 {
+    @apply text-xl mt-4;
+  }
+
+  ul {
+    @apply list-disc list-inside;
+  }
+
+  li {
+    @apply mt-2;
+  }
+
+  p {
+    @apply mt-4;
+  }
+
+  a {
+    @apply text-blue-600 underline mt-4;
+  }
+
+  pre {
+    @apply mt-4;
+  }
+
+  /* Remove margin-top on the fist child */
+  > *:first-child {
+    @apply mt-0 !important;
+  }
 }

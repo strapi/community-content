@@ -2,13 +2,21 @@ import classNames from "classnames";
 import PropTypes from "prop-types";
 import { buttonLinkPropTypes } from "utils/types";
 
-const ButtonLink = ({ button, appearance }) => {
+const ButtonLink = ({ button, appearance, compact = false }) => {
   return (
     <a
       href={button.url}
       className={classNames(
         // Common classes
-        "block w-full lg:w-auto text-center uppercase tracking-wide font-semibold text-base md:text-sm px-8 py-4 border-2 rounded-md",
+        "block w-full lg:w-auto text-center uppercase tracking-wide font-semibold text-base md:text-sm border-2 rounded-md",
+        // Full-size button
+        {
+          "px-8 py-4": compact === false,
+        },
+        // Compact button
+        {
+          "px-6 py-2": compact === true,
+        },
         // Specific to when the button is fully dark
         {
           "bg-primary-600 text-white border-primary-600": appearance === "dark",
@@ -43,6 +51,7 @@ ButtonLink.propTypes = {
     "light",
     "dark-outline",
   ]),
+  compact: PropTypes.bool,
 };
 
 export default ButtonLink;

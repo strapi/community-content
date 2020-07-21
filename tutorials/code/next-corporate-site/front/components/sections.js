@@ -5,6 +5,7 @@ import FeatureColumnsGroup from "@/components/sections/feature-columns-group";
 import FeatureRowsGroup from "@/components/sections/feature-rows-group";
 import BottomActions from "@/components/sections/bottom-actions";
 import TestimonialsGroup from "@/components/sections/testimonials-group";
+import RichText from "./sections/rich-text";
 
 // Map Strapi sections to section components
 const sectionComponents = {
@@ -14,6 +15,7 @@ const sectionComponents = {
   "sections.feature-rows-group": FeatureRowsGroup,
   "sections.bottom-actions": BottomActions,
   "sections.testimonials-group": TestimonialsGroup,
+  "sections.rich-text": RichText,
 };
 
 // Display a section individually

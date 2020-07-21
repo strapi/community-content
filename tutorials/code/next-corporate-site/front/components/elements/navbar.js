@@ -60,6 +60,7 @@ const Navbar = ({ navbar }) => {
               <ButtonLink
                 button={navbar.button}
                 appearance={getButtonAppearance(navbar.button.type, "light")}
+                compact
               />
             </div>
           )}
