@@ -1,3 +1,12 @@
+- title: School Website
+  url: https://alidhuniya.github.io/schoolWebsite-StrapiCMS/
+  description: This awesome website is using Strapi for managing the content of my Vanilla JS School application
+  categories:
+    - School website
+  frontend:
+    - Vanilla JS
+  made_by: Ali Hussain Dhuniya
+  made_by_url: https://github.com/Alidhuniya
 - title: Java Saga Coffee
   url: https://javasagacoffee.com
   description: This is a website made with Angular & Three JS. We use Strapi mostly for menu, contact, and catering.
