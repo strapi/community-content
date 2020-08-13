@@ -1,3 +1,20 @@
+- title: Recriando estrutura de aulas da Udemy com o Strapi
+  link: https://www.youtube.com/watch?v=ReEutDvYPQY&
+  formats:
+    - video
+  language: Portuguese
+  date: '2020-07-06T00:00:00.000Z'
+  authors:
+    - Willian Justen
+  github_authors:
+    - willianjusten
+  image_url: https://i.ytimg.com/vi/ReEutDvYPQY/hqdefault.jpg
+  stack:
+    - Strapi
+  use_case: Getting started
+  topics:
+    - strapi
+  version: stable
 - title: How to create a portfolio project with Strapi and Gatsby
   link: https://www.youtube.com/watch?v=Oc_ITwxiG-Y
   formats:
