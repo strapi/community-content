@@ -24,4 +24,11 @@
     - Angular
   written_by: Stefan Sheva Popovski
   written_by_url: https://medium.com/@stefansheva
-
+- title: Audit Log/Trail with Strapi
+  url: https://medium.com/@adenleabbey/audit-log-trail-with-strapi-74f6bdf70daf
+  source: https://medium.com/
+  description: This article is about creating an Audit log or trail for a Strapi Application using strapi middleware. This will enable the admin to see all requests to API routes and all other activities which include Admin page visits and all CRUD done. This will also cover visibility to public API calls by unauthenticated users.
+  categories:
+    - Feature
+  written_by: Adenle Abiodun
+  written_by_url: https://medium.com/@adenleabbey
