@@ -1985,3 +1985,20 @@
     - gatsby
     - Blog
   version: beta
+- title: Bundling Strapi & Nuxt: E-Commerce Tutorial with Snipcart
+  link: https://snipcart.com/blog/strapi-nuxt-ecommerce-tutorial
+  formats:
+    - article
+  language: English
+  date: '2020-08-13T00:00:00.000Z'
+  authors:
+    - Maxime Laboissonniere
+  github_authors:
+    - maximelaboisson
+  source: https://snipcart.com
+  image_url: https://snipcart.com/media/204964/strapi-nuxt-ecommerce.png
+  stack:
+    - Nuxt.js
+    - Snipcart
+  use_case: E-commerce
+  version: stable
