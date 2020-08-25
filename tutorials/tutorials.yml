@@ -2002,3 +2002,21 @@
     - Snipcart
   use_case: E-commerce
   version: stable
+- title: Helm chart for strapi 
+  link: https://medium.com/@manel.lemin/helm-chart-for-strapi-5a72b01c1e62
+  formats:
+    - article
+  language: English
+  date: '2020-06-25T00:00:00.000Z'
+  authors:
+    - Manal Lamine
+  github_authors:
+    - geekette86
+  image_url: 
+  topics:
+   - deploy
+   - strapi
+   - blog
+  stack:
+    - helm
+  version: beta
