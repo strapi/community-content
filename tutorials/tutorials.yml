@@ -1,3 +1,17 @@
+- title: How to use Next.js with Strapi and Apollo
+  link: https://nirmalyaghosh.com/articles/2020-08-20-how-to-use-next.js-with-strapi-and-apollo
+  formats:
+    - article
+  language: en
+  date: 2020-08-20
+  authors:
+    - Nirmalya Ghosh
+  github_authors:
+    - ghoshnirmalya
+  image_url: https://user-images.githubusercontent.com/6391763/90599044-ca070300-e211-11ea-8b8a-89354dd30bd5.png
+  topics:
+   - next.js
+   - strapi
 - title: Recriando estrutura de aulas da Udemy com o Strapi
   link: https://www.youtube.com/watch?v=ReEutDvYPQY&
   formats:
