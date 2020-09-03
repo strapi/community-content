@@ -1,3 +1,13 @@
+- title: CON&SEL15
+  url: https://conisel.com
+  description: CON&SEL15 Consulting and Selection. Trust and a leadership based on transparency are the basis of our values, beliefs and motivations.
+  categories:
+    - Corporate Website
+  frontend:
+    - Vue.js
+    - Bootstrap
+  made_by: Michel Díaz Martínez
+  made_by_url: https://michelmartinez.com
 - title: Java Saga Coffee
   url: https://javasagacoffee.com
   description: This is a website made with Angular & Three JS. We use Strapi mostly for menu, contact, and catering.
