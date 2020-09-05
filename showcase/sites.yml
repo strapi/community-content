@@ -1,3 +1,13 @@
+- title: Trabajos Remotos
+  url: https://trabajosremotos.es
+  description: Spanish job aggregator made with Strpai, React and Next.js.
+  categories:
+    - Job aggregator
+  frontend:
+    - React
+    - Next.js
+  made_by: Brew Crew Labs
+  made_by_url: https://brewcrewlabs.com
 - title: Java Saga Coffee
   url: https://javasagacoffee.com
   description: This is a website made with Angular & Three JS. We use Strapi mostly for menu, contact, and catering.
