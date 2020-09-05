@@ -1,6 +1,6 @@
 - title: Trabajos Remotos
   url: https://trabajosremotos.es
-  description: Spanish job aggregator made with Strpai, React and Next.js.
+  description: Spanish job aggregator made with Strapi, React and Next.js.
   categories:
     - Job aggregator
   frontend:
