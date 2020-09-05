@@ -6,8 +6,8 @@
   frontend:
     - React
     - Next.js
-  made_by: Brew Crew Labs
-  made_by_url: https://brewcrewlabs.com
+  made_by: Mango Milkshake
+  made_by_url: https://www.mango.moe
 - title: Java Saga Coffee
   url: https://javasagacoffee.com
   description: This is a website made with Angular & Three JS. We use Strapi mostly for menu, contact, and catering.
