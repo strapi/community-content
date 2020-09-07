@@ -536,3 +536,25 @@
     - SCSS
   made_by: Gaetan SENN
   made_by_url: https://dewib.com
+ - title: Sudoku Lovers
+  url: https://www.sudokulovers.com
+  description: Free Curated Online Sudoku Puzzles For Sudoku Fans
+  categories:
+    - Games
+    - Community website
+  frontend:
+    - Nuxt.js
+    - Vue
+  made_by: Team Regunt
+  made_by_url: https://regunt.com
+- title: Barbecue Planner
+  url: https://www.barbecueplanner.com
+  description: Barbecue planner helps you plan the perfect BBQ for your friends and family.
+  categories:
+    - Tools
+    - Food
+  frontend:
+    - Nuxt.js
+    - Vue
+  made_by: Team Regunt
+  made_by_url: https://regunt.com
