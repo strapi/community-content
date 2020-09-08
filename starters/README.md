@@ -4,13 +4,7 @@ Show to the community your starters with Strapi!
 
 ## How to add your starter
 
-- Edit the `starters.yml` file by adding your submission with the following format:
-
-```yaml
-- file: 'your-awesome-starter.yml'
-```
-
-Create a `your-awesome-starter.yml` file with the following format:
+  - Edit the `starters.yml` file by adding your submission with the following format:
 
 ```yaml
 - title: Title of your Starter
