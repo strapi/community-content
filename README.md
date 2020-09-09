@@ -1,5 +1,5 @@
 ![Community content](/assets/banner-community-content.png)
-
+fd
 # Community content
 
 Contribute and collaborate on educational content for the Strapi Community
