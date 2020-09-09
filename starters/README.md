@@ -1,3 +1,5 @@
+![Starters](/assets/banner-starters.png)
+
 # Starters
 
 Show to the community your starters with Strapi!
