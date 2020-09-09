@@ -9,4 +9,4 @@ jobs:
       uses: ibiqlik/action-yamllint@v1
       with:
 	file_or_dir: tutorials/tutorials.yml articles/articles.yml showcase/showcase.yml starters/starters.yml
-	config_file: yamllint.yml
+	config_file: .github/workflows/yamllint.yml
