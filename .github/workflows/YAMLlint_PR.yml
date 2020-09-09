@@ -1,5 +1,5 @@
 name: Yaml Lint
-on: [pull_request]
+on: [push]
 jobs:
   lintAllTheThings:
     runs-on: ubuntu-latest
