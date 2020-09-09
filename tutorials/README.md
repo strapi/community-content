@@ -53,10 +53,9 @@ There are different cases:
    - davidkartuzinski
  source: https://blog.strapi.io/
  image_url: https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png
- topics:
-   - gatsby
-   - strapi
-   - blog
+ use_case: "Blog"
+ stack: 
+   - Gatsby
  version: beta
 ```
 
@@ -69,7 +68,8 @@ There are different cases:
 - `github_authors` - Github username of author(s) or speaker(s) (`array` of `strings`; optional)
 - `source` - Source of the tutorial (`string`; optional)
 - `image_url` - Url image of the tutorial (`string`; optional)
-- `topics` - Main topic(s) covered by the tutorial (`array` of `strings`; **required**)
+- `use_case` - Use case for this tutorial (`strings`; **required**)
+- `stack` - Main stack used in the tutorial (`array` of `strings`; **required**)
 - `version` - Version of Strapi used in the tutorial (`string`; require)
 
 ## Why write for us?
