@@ -9,9 +9,9 @@
   github_authors:
     - ghoshnirmalya
   image_url: https://user-images.githubusercontent.com/6391763/90599044-ca070300-e211-11ea-8b8a-89354dd30bd5.png
-  topics:
+  use_case: "Boilerplate"
+  stack:
    - next.js
-   - strapi
 - title: Recriando estrutura de aulas da Udemy com o Strapi
   link: https://www.youtube.com/watch?v=ReEutDvYPQY&
   formats:
@@ -26,8 +26,6 @@
   stack:
     - Strapi
   use_case: Getting started
-  topics:
-    - strapi
   version: stable
 - title: How to create a portfolio project with Strapi and Gatsby
   link: https://www.youtube.com/watch?v=Oc_ITwxiG-Y
