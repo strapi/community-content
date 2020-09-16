@@ -1,12 +1,12 @@
 - title: Strapi Starter React Blog 
   author: Maxime castres
-  photo: https://github.com/mcastres.png
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-react-blog/master/screenshot.png
   repo: strapi/strapi-starter-react-blog
   slug: strapi-starter-react-blog
   preview:
   integration: React
   use_cases:
-    - blog
+    - Blog
   description: Bootstrap a simple blog application using React, Apollo and Strapi, the most suitable headless CMS for React.
   features:
     - 2 Collection types
@@ -15,5 +15,190 @@
     - Permissions set to `true` for article and category
     - Responsive design using UIkit
   youtube:
-  how_to_install: Add a short description here, application using Gatsby and Strapi. lorem ipsum dolor sit you'll be able to use all the latest features
-  command: yarn create strapi-starter https://github.com/strapi/strapi-starter-react-blog
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-react-blog
+- title: Strapi Starter Vue.js Blog 
+  author: Maxime castres
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-vue-blog/master/screenshot.png
+  repo: strapi/strapi-starter-vue-blog
+  slug: strapi-starter-vue-js-blog
+  preview:
+  integration: Vue.js
+  use_cases:
+    - Blog
+  description: Bootstrap a simple blog application using Vue.js, Apollo and Strapi, the most suitable headless CMS for Vue.js.
+  features:
+    - 2 Collection types
+    - 2 Created articles
+    - 3 Created categories
+    - Permissions set to `true` for article and category
+    - Responsive design using UIkit
+  youtube:
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-vue-blog
+- title: Strapi Starter Angular Blog 
+  author: Maxime castres
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-angular-blog/master/screenshot.png
+  repo: strapi/strapi-starter-angular-blog
+  slug: strapi-starter-angular-blog
+  preview:
+  integration: Angular
+  use_cases:
+    - Blog
+  description: Bootstrap a simple blog application using Angular, Apollo and Strapi, the most suitable headless CMS for Angular.
+  features:
+    - 2 Collection types
+    - 2 Created articles
+    - 3 Created categories
+    - Permissions set to `true` for article and category
+    - Responsive design using UIkit
+  youtube:
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-angular-blog
+- title: Strapi Starter Next.js Blog 
+  author: Maxime castres
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-blog/master/screenshot.png
+  repo: strapi/strapi-starter-next-blog
+  slug: strapi-starter-next-js-blog
+  preview:
+  integration: Next.js
+  use_cases:
+    - Blog
+  description: Bootstrap a simple blog application using Next.js, Apollo and Strapi, the most suitable headless CMS for Next.js.
+  features:
+    - 2 Collection types
+    - 2 Created articles
+    - 3 Created categories
+    - Permissions set to `true` for article and category
+    - Responsive design using UIkit
+  youtube: https://www.youtube.com/watch?v=zE1S8CHkev8
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-next-blog
+- title: Strapi Starter Nuxt.js Blog 
+  author: Maxime castres
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-blog/master/screenshot.png
+  repo: strapi/strapi-starter-nuxt-blog
+  slug: strapi-starter-nuxt-js-blog
+  preview:
+  integration: Nuxt.js
+  use_cases:
+    - Blog
+  description: Bootstrap a simple blog application using Nuxt.js, Apollo and Strapi, the most suitable headless CMS for Nuxt.js.
+  features:
+    - 2 Collection types
+    - 2 Created articles
+    - 3 Created categories
+    - Permissions set to `true` for article and category
+    - Responsive design using UIkit
+  youtube:
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-nuxt-blog
+- title: Strapi Starter Gatsby Blog 
+  author: Maxime castres
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-blog-v2/master/screenshot.png
+  repo: strapi/strapi-starter-gatsby-blog-v2
+  slug: strapi-starter-gatsby-blog
+  preview:
+  integration: Gatsby
+  use_cases:
+    - Blog
+  description: Bootstrap a simple blog application using Gatsby and Strapi, the most suitable headless CMS for Gatsby.
+  features:
+    - 1 Single type
+    - 4 Components
+    - 3 Collection types - Article, Category, User
+    - 6 Created articles
+    - 5 Created categories
+    - Permissions set to true for article, category and user
+    - Responsive design using UIkit
+    - Slug system
+    - Publication system (draft & published)
+    - Role based access control
+  youtube: https://www.youtube.com/watch?v=wsFuSebpv0I
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-gatsby-blog-v2
+- title: Strapi Starter Gridsome Blog 
+  author: Maxime castres
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-blog/master/screenshot.png
+  repo: strapi/strapi-starter-gridsome-blog
+  slug: strapi-starter-gridsome-blog
+  preview:
+  integration: Gridsome
+  use_cases:
+    - Blog
+  description: Bootstrap a simple blog application using Gridsome and Strapi, the most suitable headless CMS for Gridsome.
+  features:
+    - 1 Single type
+    - 4 Components
+    - 3 Collection types - Article, Category, User
+    - 6 Created articles
+    - 5 Created categories
+    - Permissions set to true for article, category and user
+    - Responsive design using UIkit
+    - Slug system
+    - Publication system (draft & published)
+    - Role based access control
+  youtube:
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-gridsome-blog
+- title: Strapi Starter Nuxt.js E-commerce 
+  author: Maxime castres
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-e-commerce/master/screenshot.png
+  repo: strapi/strapi-starter-nuxt-e-commerce
+  slug: strapi-starter-nuxt-js-e-commerce
+  preview:
+  integration: Nuxt.js
+  use_cases:
+    - E-commerce
+  description: Bootstrap a simple e-commerce application using Nuxt.js, Snipcart and Strapi, the most suitable headless CMS for Nuxt.js.
+  features:
+    - 1 Component
+    - 2 Collection types - Product, Category
+    - 27 Created products
+    - 6 Created categories
+    - Permissions set to true for product and category
+    - Responsive design using Tailwind css
+    - Slug system
+    - Publication system (draft & published)
+    - Role based access controls
+  youtube:
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-nuxt-e-commerce
+- title: Strapi Starter Next.js Corporate 
+  author: Rémi de Juvigny
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/medias/screen-website.png
+  repo: strapi/strapi-starter-next-corporate
+  slug: strapi-starter-next-js-corporate
+  preview:
+  integration: Next.js
+  use_cases:
+    - Corporate
+  description: Bootstrap a simple corporate website using Next.js and Strapi, the most suitable headless CMS for Next.js.
+  features:
+    - Pages creation within Strapi, no code necessary
+    - Fully flexible page structure - design the pages you want using UI Sections
+    - 8 UI Sections out of the box - Hero, RichText, LargeVideo, Testimonials, Pricing, BottomActions, FeatureRows, FeatureColumns
+    - Easy to theme with Tailwind
+    - Static site generation with Next
+    - An integrated Preview Mode, to view your pages on a private URL before publishing them
+  youtube:
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-next-corporate
+- title: Strapi Starter Gridsome Portfolio 
+  author: Rémi de Juvigny
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-portfolio/master/medias/screen-website.png
+  repo: strapi/strapi-starter-gridsome-portfolio
+  slug: strapi-starter-gridsome-portfolio
+  preview:
+  integration: Gridsome
+  use_cases:
+    - Portfolio
+  description: Bootstrap a simple portfolio website using Gridsome and Strapi, the most suitable headless CMS for Gridsome.
+  features:
+    - Collection types for projects and categories
+    - Single types for the homepage, the about page and the global config
+    - Components for reusable UI components and SEO metadata
+    - Dynamic zones to have full control over your content
+  youtube: https://www.youtube.com/watch?v=4g3Pzj-wdXo
+  how_to_install: Clone the repository and start both of your backend server and frontend server
+  command: git clone https://github.com/strapi/strapi-starter-gridsome-portfolio
