@@ -169,7 +169,7 @@
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/medias/screen-website.png
   repo: strapi/strapi-starter-next-corporate
   slug: strapi-starter-next-js-corporate
-  preview:
+  preview: https://strapi-starter-next-corporate.vercel.app
   integration: Next.js
   use_cases:
     - Corporate
@@ -189,7 +189,7 @@
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-portfolio/master/medias/screen-website.png
   repo: strapi/strapi-starter-gridsome-portfolio
   slug: strapi-starter-gridsome-portfolio
-  preview:
+  preview: https://strapi-starter-gridsome-portfolio.vercel.app
   integration: Gridsome
   use_cases:
     - Portfolio
