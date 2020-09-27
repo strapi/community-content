@@ -202,3 +202,33 @@
   youtube: https://www.youtube.com/watch?v=4g3Pzj-wdXo
   how_to_install: Clone the repository and start both of your backend server and frontend server
   command: git clone https://github.com/strapi/strapi-starter-gridsome-portfolio
+- title: Strapi Starter Next.js Blog
+  auhtor: Alex Noir
+  cover: 
+  repo: https://github.com/AlexTechNoir/Next.js-Strapi-Blog
+  slug: AlexTechNoir-Next.js-Strapi-Blog
+  preview: https://brave-northcutt-60bde9.netlify.app/
+  integration: Next.js
+  use_cases:
+    - Blog
+  description: Blog made with Next.js and Strapi
+  features:
+    - static
+    - responsive
+    - mobile first
+    - Strapi uses MongoDB Atlas as database
+    - images stored on Cloudinary
+    - Strapi deployed on Heroku
+    - autocomplete search (material-UI)
+    - search results with highlighted match and cut text around match (hardcoded)
+    - sound
+    - dark mode with auto-detection of preferred option and saved value in Local Storage
+    - hamburger menu for mobile layout
+    - "Load More" pagination
+    - SEO-friendly article list initially fetched on server-side (paginated - on client-side)
+    - progressive featured images
+    - categories
+    - like\share\tweet buttons, comment section
+   youtube: 
+   how_to_install: clone the repo and launch "npm run dev" command
+   command: git clone https://github.com/AlexTechNoir/Next.js-Strapi-Blog
