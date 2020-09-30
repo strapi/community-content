@@ -14,7 +14,7 @@
     - 3 Created categories
     - Permissions set to true for the required content types
     - Responsive design using UIkit
-  youtube: https://www.youtube.com/watch?v=zE1S8CHkev8
+  youtube: https://www.youtube.com/embed/zE1S8CHkev8
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-next-blog
 - title: Strapi Starter Nuxt.js Blog 
@@ -57,7 +57,7 @@
     - Slug system
     - Publication system (draft & published)
     - Role-based access control
-  youtube: https://www.youtube.com/watch?v=wsFuSebpv0I
+  youtube: https://www.youtube.com/embed/wsFuSebpv0I
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-gatsby-blog-v2
 - title: Strapi Starter Gridsome Blog 
@@ -161,6 +161,6 @@
     - Single types for the homepage, the about page and the global config
     - Components for reusable UI components and SEO metadata
     - Dynamic zones to have full control over your content
-  youtube: https://www.youtube.com/watch?v=4g3Pzj-wdXo
+  youtube: https://www.youtube.com/embed/4g3Pzj-wdXo
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-gridsome-portfolio
