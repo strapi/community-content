@@ -108,7 +108,7 @@
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-e-commerce/master/screenshot.png
   repo: strapi/strapi-starter-nuxt-e-commerce
   slug: strapi-starter-nuxt-js-e-commerce
-  preview:
+  preview: https://strapi-starter-nuxt-e-commerce-iota.vercel.app/
   integration: Nuxt.js
   use_cases:
     - E-commerce
