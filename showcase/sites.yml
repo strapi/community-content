@@ -578,3 +578,15 @@
     - Vue
   made_by: Team Regunt
   made_by_url: https://regunt.com
+
+- title: Chris Wray's Developer Portfolio
+  url: https://chriswray.dev
+  description: This was my first project with Strapi and Nuxt! It was a lot of fun to work on and I learned so much.
+  categories:
+    - Portfolio Websites
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+    - TailwindUI
+  made_by: Chris Wray
+  made_by_url: https://chriswray.dev
