@@ -588,3 +588,13 @@
     - Vue
   made_by: Team Regunt
   made_by_url: https://regunt.com
+- title: Aravind Portfolio 
+  url: http://aravind.netlify.com/
+  description: Aravind Personal Portfolio and Blog site
+  categories:
+    - Portfolio and Blog 
+  frontend:
+    - Gatsby.js
+    - React.js
+  made_by: Aravind
+  made_by_url: https://twitter.com/aravindviewz
