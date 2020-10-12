@@ -588,3 +588,12 @@
     - Vue
   made_by: Team Regunt
   made_by_url: https://regunt.com
+  - title: Lucas NP
+  url: https://lucasnp.com
+  description: Web Developer Portfolio
+  categories:
+    - Portfolio
+  frontend:
+    - Angular
+  made_by: Lucas Neves Pereira
+  made_by_url: https://lucasnp.com
