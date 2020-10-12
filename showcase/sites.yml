@@ -1,3 +1,13 @@
+- title: Intuz
+  url: https://www.intuz.com/
+  description: Software Application Development Company Website made with Strapi, React and Next.js.
+  categories:
+    - Corporate Website
+  frontend:
+    - React
+    - Next.js
+  made_by: Intuz
+  made_by_url: https://www.intuz.com/
 - title: CON&SEL15
   url: https://conisel.com
   description: CON&SEL15 Consulting and Selection. Trust and a leadership based on transparency are the basis of our values, beliefs and motivations.
@@ -578,7 +588,15 @@
     - Vue
   made_by: Team Regunt
   made_by_url: https://regunt.com
-
+- title: Lucas NP
+  url: https://lucasnp.com
+  description: Web Developer Portfolio
+  categories:
+    - Portfolio
+  frontend:
+    - Angular
+  made_by: Lucas Neves Pereira
+  made_by_url: https://lucasnp.com
 - title: Chris Wray's Developer Portfolio
   url: https://chriswray.dev
   description: This was my first project with Strapi and Nuxt! It was a lot of fun to work on and I learned so much.
@@ -589,4 +607,3 @@
     - TailwindCSS
     - TailwindUI
   made_by: Chris Wray
-  made_by_url: https://chriswray.dev
