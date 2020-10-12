@@ -34,3 +34,12 @@
     - Logs
   written_by: Adenle Abiodun
   written_by_url: https://medium.com/@adenleabbey
+  
+  - title: Triggering a deploy in Netlify automatically after updating content in Strapi.
+  url: https://chriswray.dev/posts/triggering-a-deploy-in-netlify-automatically-after-updating-content-in-strapi
+  source: https://chriswray.dev
+  description: Netlify offers a feature called "Build hooks". These are unique URLs that you can configure for your application to trigger deployments automatically whenever a post request is made to that endpoint. With Strapi, Build hooks are incredibly easy to integrate.
+  categories:
+    - Webhooks
+  written_by: Chris Wray
+  written_by_url: https://chriswray.dev
