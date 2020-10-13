@@ -2032,3 +2032,20 @@
   stack:
     - helm
   version: beta
+- title: How to cross-publish posts from Strapi with Zapier
+ link: https://chriswray.dev/posts/how-to-cross-publish-posts-from-strapi-with-zapier
+ formats:
+   - article
+ language: en
+ date: 2020-10-10
+ authors:
+   - Christopher Wray
+ github_authors:
+   - cwray-tech
+ source: https://chriswray.dev/posts
+ image_url: https://res.cloudinary.com/personal-portfolio/image/upload/v1602179789/catch_hook_bfa279d432.jpg
+ use_case: "Blog"
+ stack: 
+   - Strapi
+   - Zapier
+ version: 3.2.3
