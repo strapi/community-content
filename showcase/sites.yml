@@ -588,7 +588,7 @@
     - Vue
   made_by: Team Regunt
   made_by_url: https://regunt.com
-  - title: Lucas NP
+- title: Lucas NP
   url: https://lucasnp.com
   description: Web Developer Portfolio
   categories:
@@ -607,3 +607,13 @@
     - React.js
   made_by: Aravind
   made_by_url: https://twitter.com/aravindviewz
+- title: Chris Wray's Developer Portfolio
+  url: https://chriswray.dev
+  description: This was my first project with Strapi and Nuxt! It was a lot of fun to work on and I learned so much.
+  categories:
+    - Portfolio Websites
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+    - TailwindUI
+  made_by: Chris Wray
