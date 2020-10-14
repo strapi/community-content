@@ -627,3 +627,12 @@
     - TailwindCSS
     - TailwindUI
   made_by: Chris Wray
+- title: Koj Blog
+  url: https://koj.co/en-ch/blog/
+  description: Koj's official blog and content pages are powered entirely by Strapi
+  categories:
+    - Blog
+  frontend:
+    - Svelte
+    - Sapper
+  made_by: Anand Chowdhary
