@@ -1,13 +1,13 @@
 ---
-name: Submit a tutorial/article
-about: Create a new Strapi related tutorial/article
+name: Submit an article/a video
+about: Create a new Strapi community content
 title: "[SUBMIT]"
 labels: In progress
 assignees:
 ---
 
 **My resource**
-Describe what your resource will be about. (tutorial or article)
+Describe what your resource will be about. (article or video)
 
 **My format**
 
