@@ -112,7 +112,7 @@
     - Julien Demangeon
   github_authors:
     - jdemangeon
-  image_url: https://pbs.twimg.com/card_img/1273541658118967297/SKG7QoVh?format=jpg&name=medium
+  image_url:
   stack:
     - Next.js
     - Docker
@@ -359,7 +359,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Authentication
@@ -396,7 +396,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Shopify
   use_case: E-commerce
@@ -414,7 +414,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Getting started
@@ -504,7 +504,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Customization
@@ -521,7 +521,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Customization
@@ -650,7 +650,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Authentication
@@ -705,7 +705,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Customization
@@ -761,7 +761,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Heroku
     - MongoDB Atlas
@@ -1030,7 +1030,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Customization
@@ -1049,7 +1049,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Heroku
     - Postgresql
@@ -1068,7 +1068,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://blog.strapi.io/content/images/2020/04/jim-recipes-twitter.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Docker
     - Postgresql
@@ -1908,7 +1908,7 @@
   github_authors:
     - soupette
   source: https://www.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2018/02/react-plus-strapi.png
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-react-cms_09dce2416d.jpeg
   stack:
     - NodeJs
   use_case: Authentication
@@ -1968,7 +1968,7 @@
   github_authors:
     - davidkartuzinski
   source: https://blog.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png
+  image_url:
   stack:
     - Gatsby
   use_case: Blog
