@@ -1362,7 +1362,7 @@
   github_authors:
     - ryanbelke
   source: https://blog.strapi.io/
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-nuxtjs-cms_2ef085f946.jpeg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/next-js_995cbe0c2e.jpeg
   stack:
     - Next.js
     - GraphQL
@@ -1463,7 +1463,7 @@
   github_authors:
     - john-smilga
   source: https://youtube.com/
-  image_url: https://i.ytimg.com/vi/fJ-tUBJFM5w/maxresdefault.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-gatsby_636a0a4228.jpeg
   stack:
     - Gatsby
   use_case: Portfolio
@@ -1676,7 +1676,7 @@
   github_authors:
     - pappinvijak
   source: https://www.cloudbooklet.com
-  image_url: https://storage.googleapis.com/cloudbooklet-new/wp-content/uploads/2019/01/03054237/ad5bafec-install-strapi-on-ubuntu-18.04-lts-on-google-cloud-with-cloud-sql-1024x576.jpg
+  image_url:
   stack:
     - Google Cloud
   use_case: Deployment
