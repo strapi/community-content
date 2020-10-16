@@ -940,7 +940,7 @@
   github_authors:
     - mcastres
   source: https://strapi.io/blog
-  image_url: https://blog.strapi.io/content/images/2020/02/banner-vue.png
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-vuejs-cms_94780dde12.jpeg
   stack:
     - Vue.js
     - Apollo
@@ -1171,7 +1171,7 @@
   github_authors:
     - pouyamiralayi
   source: https://strapi.io
-  image_url: https://blog.strapi.io/content/images/2019/12/strapi-banner.jpg
+  image_url:
   stack:
     - Strapi
     - React
@@ -1261,7 +1261,7 @@
   github_authors:
     - mcastres
   source: https://blog.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2019/12/blog_angular.png
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/angular_af1ba4ed75.jpeg
   stack:
     - Angular
     - Apollo
@@ -1286,7 +1286,7 @@
   github_authors:
     - mcastres
   source: https://blog.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2019/11/blog_next-2.png
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/next-js_995cbe0c2e.jpeg
   stack:
     - Next.js
     - Apollo
@@ -1313,7 +1313,7 @@
   github_authors:
     - fabio-nettis
   source: https://medium.com/
-  image_url: https://blog.strapi.io/content/images/2019/11/react-native-banner-1.png
+  image_url:
   stack:
     - React Native
     - React
@@ -1337,7 +1337,7 @@
   github_authors:
     - mcastres
   source: https://blog.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2019/11/blog2.png
+  image_url:
   stack:
     - Nuxt.js
     - Apollo
@@ -1362,7 +1362,7 @@
   github_authors:
     - ryanbelke
   source: https://blog.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2018/07/nuxt-article.png
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-nuxtjs-cms_2ef085f946.jpeg
   stack:
     - Next.js
     - GraphQL
@@ -1443,7 +1443,7 @@
   github_authors:
     - soupette
   source: https://www.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2019/10/cover_wysiwyg-1.png
+  image_url:
   stack:
     - Strapi
   use_case: Customization
@@ -1699,7 +1699,7 @@
     - pierreburgy
     - mcastres
   source: https://blog.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2018/10/Article-Next---1.png
+  image_url:
   stack:
     - Nuxt.js
     - Stripe
@@ -1749,7 +1749,7 @@
   github_authors:
     - pierreburgy
   source: https://blog.strapi.io/
-  image_url: https://blog.strapi.io/content/images/2018/04/jekyll-plus-strapi.jpg
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover_jekyll_cms_8f74ffb67a.png
   stack:
     - Jekyll
   use_case: Blog
@@ -1988,7 +1988,7 @@
   github_authors:
     - enBonnet
   source: https://enbonnet.me
-  image_url: https://blog.strapi.io/content/images/2018/11/gatsby-strapi.png
+  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-gatsby_636a0a4228.jpeg
   stack:
     - Gatsby
   use_case: Blog
