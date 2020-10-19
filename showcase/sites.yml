@@ -637,3 +637,16 @@
     - Sapper
   made_by: Anand Chowdhary
   made_by_url: https://anandchowdhary.com
+- title: Beshak - Indian Insurance portal
+  url: https://www.beshak.org
+  description: India's first insurance community portal for consumers by consumers.
+  categories:
+    - Content
+    - Forum
+    - Insurance
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+  made_by: Sandip Baradiya
+  made_by_url: https://twitter.com/sandiprb
+ 
