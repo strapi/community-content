@@ -3,7 +3,7 @@ name: [ISSUE] Create an issue
 about: Create an issue concerning a content
 title: "[ISSUE]"
 labels:
-assignees: Mcastres, malgamves
+assignees: Mcastres
 ---
 
 **The concerning content**
