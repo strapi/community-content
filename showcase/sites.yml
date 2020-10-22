@@ -637,3 +637,15 @@
     - Sapper
   made_by: Anand Chowdhary
   made_by_url: https://anandchowdhary.com
+- title: Henrik Larsson
+  url: https://larssonhenrik.com/
+  description: Henrik's portfolio website uses Strapi for managing the content on the site.
+  categories:
+    - Portfolio
+    - Freelance website
+  frontend:
+    - Gatsby.js
+    - React.js
+    - Tailwind CSS
+  made_by: Henrik Larsson
+  made_by_url: https://larssonhenrik.com/
