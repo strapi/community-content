@@ -1,5 +1,5 @@
 ---
-name: Submit an article/a video
+name: [SUBMIT] Submit a content
 about: Create a new Strapi community content
 title: "[SUBMIT]"
 labels: In progress
@@ -7,7 +7,14 @@ assignees:
 ---
 
 **My resource**
-Describe what your resource will be about. (article or video)
+<!--
+Hello 👋 Thank you for submitting a topic.
+
+Before you start, please make sure your issue is understandable and reproducible.
+To make your issue readable make sure you use valid Markdown syntax.
+
+Please describe what your resource will be about. (article or video).
+-->
 
 **My format**
 
