@@ -1,5 +1,5 @@
 ---
-name: [SUBMIT] Submit a content
+name: Submit a content
 about: Create a new Strapi community content
 title: "[SUBMIT]"
 labels: In progress

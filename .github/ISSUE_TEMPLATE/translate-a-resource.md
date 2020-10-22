@@ -1,5 +1,5 @@
 ---
-name: [TRANSLATE] Translate an article
+name: Translate an article
 about: Translate an existing content
 title: "[TRANSLATE]"
 labels: In progress

@@ -1,5 +1,5 @@
 ---
-name: [ISSUE] Create an issue
+name: Create an issue
 about: Create an issue concerning a content
 title: "[ISSUE]"
 labels:

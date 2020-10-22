@@ -1,5 +1,5 @@
 ---
-name: [TOPIC] Submit a topic
+name: Submit a topic
 about: Submit an article/video topic
 title: "[TOPIC]"
 labels: Looking for author
