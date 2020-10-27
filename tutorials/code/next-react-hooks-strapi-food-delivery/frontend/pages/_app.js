@@ -69,7 +69,7 @@ class MyApp extends App {
             total: this.state.cart.total + item.price,
           },
         },
-        () => Cookie.set("cart", this.state.items)
+        () => Cookie.set("cart", this.state.cart.items)
       );
     } else {
       this.setState(
@@ -83,7 +83,7 @@ class MyApp extends App {
             total: this.state.cart.total + item.price,
           },
         },
-        () => Cookie.set("cart", this.state.items)
+        () => Cookie.set("cart", this.state.cart.items)
       );
     }
   };
@@ -104,7 +104,7 @@ class MyApp extends App {
             total: this.state.cart.total - item.price,
           },
         },
-        () => Cookie.set("cart", this.state.items)
+        () => Cookie.set("cart", this.state.cart.items)
       );
     } else {
       const items = [...this.state.cart.items];
@@ -113,7 +113,7 @@ class MyApp extends App {
       items.splice(index, 1);
       this.setState(
         { cart: { items: items, total: this.state.cart.total - item.price } },
-        () => Cookie.set("cart", this.state.items)
+        () => Cookie.set("cart", this.state.cart.items)
       );
     }
   };
