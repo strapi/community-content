@@ -21,12 +21,9 @@ class MyApp extends App {
     if (typeof cart === "string" && cart !== "undefined") {
       JSON.parse(cart).forEach((item) => {
         this.setState({
-          cart: { total: item.price * item.quantity },
+          cart: { items: JSON.parse(cart), total: item.price * item.quantity },
         });
       });
-      this.setState({
-        items: JSON.parse(cart)
-      })
     }
     if (token) {
       // authenticate the token on the server and place set user object
