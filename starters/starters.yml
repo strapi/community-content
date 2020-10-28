@@ -164,3 +164,24 @@
   youtube: https://www.youtube.com/embed/4g3Pzj-wdXo
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-gridsome-portfolio
+- title: Strapi Starter Next.js E-commerce 
+  author: Rémi de Juvigny
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-ecommerce/master/screenshot.png
+  repo: strapi/strapi-starter-next-ecommerce
+  slug: strapi-starter-next-js-ecommerce
+  preview: https://strapi-starter-next-ecommerce.vercel.app/
+  integration: Next.js
+  use_cases:
+    - E-commerce
+  description: Bootstrap a simple e-commerce application using Next.js, Snipcart and Strapi, the headless CMS for Next.js.
+  features:
+    - 1 Component
+    - 2 Collection types - Product, Category
+    - 27 Created products
+    - 6 Created categories
+    - Permissions set to true for product and category
+    - Responsive design using Tailwind CSS
+    - Slug system
+  youtube:
+  how_to_install: Clone the repository and follow the readme instructions
+  command: git clone https://github.com/strapi/strapi-starter-next-ecommerce

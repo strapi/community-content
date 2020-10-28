@@ -2037,7 +2037,7 @@
   formats:
    - article
   language: en
-  date: 2020-10-10
+  date: '2020-10-10T00:00:00.000Z'
   authors:
    - Christopher Wray
   github_authors:
@@ -2049,3 +2049,273 @@
    - Strapi
    - Zapier
   version: 3.2.3
+- title: Strapi Webhooks | API Key validation middleware in a Go Fiber API
+  link: https://www.youtube.com/watch?v=tqqFQKME2vc
+  formats:
+   - video
+  language: English
+  date: 2020-10-19
+  authors:
+   - Pragmatic reviews
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/tqqFQKME2vc/hq720.jpg
+  use_case: Webhooks
+  stack: 
+   - Go Fiber
+  version: 3.2.3
+- title: 1- React + Strapi e-commerce - Backend Setup [In Arabic]
+  link: https://www.youtube.com/watch?v=852kv5aZM6M 
+  formats:
+   - video
+  language: Arabic
+  date: '2020-10-17T00:00:00.000Z'
+  authors:
+   - Khalid Elshafie
+  github_authors:
+    - abolkog
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/rz4NT4tmXks/hq720.jpg
+  use_case: E-commerce
+  stack: 
+   - React
+   - Paypal
+  version: 3.2.4
+- title: Strapi Webhooks | Calling a Go Fiber API
+  link: https://www.youtube.com/watch?v=NSA747OkfJQ
+  formats:
+   - video
+  language: English
+  date: '2020-10-18T00:00:00.000Z'
+  authors:
+   - Pragmatic reviews
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/NSA747OkfJQ/hq720.jpg
+  use_case: Webhook
+  stack: 
+   - Go Fiber
+  version: 3.2.3
+- title: Membuat Blog Dengan Strapi & NextJS - PART 1 SETUP STRAPI
+  link: https://www.youtube.com/watch?v=vWIulwa_qk4
+  formats:
+   - video
+  language: Indonesian
+  date: '2020-10-18T00:00:00.000Z'
+  authors:
+   - Apsya Dira
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/vWIulwa_qk4/hq720.jpg
+  use_case: Blog
+  stack: 
+   - Next.js
+  version: 3.2.4
+- title: Introduction to Strapi - Headless CMS [In Arabic]
+  link: https://www.youtube.com/watch?v=VUjbfjQF0XY
+  formats:
+   - video
+  language: Arabic
+  date: '2020-10-18T00:00:00.000Z'
+  authors:
+   - Khalid Elshafie
+  github_authors:
+    - abolkog
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/VUjbfjQF0XY/hq720.jpg
+  use_case: Getting started
+  stack: 
+   - Strapi
+  version: 3.2.3
+- title: Setting up a Strapi project with MongoDB
+  link: https://www.youtube.com/watch?v=WH-yMuZB2Yk
+  formats:
+   - video
+  language: English
+  date: '2020-10-11T00:00:00.000Z'
+  authors:
+   - Pragmatic reviews
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/WH-yMuZB2Yk/hq720.jpg
+  use_case: Deployment
+  stack: 
+   - MongoDB
+  version: 3.2.3
+- title: Strapi, Headless CMS | Introducción Práctica a Strapi
+  link: https://www.youtube.com/watch?v=8B9r8eOje_k
+  formats:
+   - video
+  language: Spanish
+  date: '2020-10-07T00:00:00.000Z'
+  authors:
+   - Fazt
+  github_authors:
+    - FaztTech
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/8B9r8eOje_k/hq720.jpg
+  use_case: Getting started
+  stack: 
+   - Strapi
+  version: 3.2.1
+- title: Strapi - Crear una API REST en minutos
+  link: https://www.youtube.com/watch?v=9O0AjucHecc
+  formats:
+   - video
+  language: Spanish
+  date: '2020-10-06T00:00:00.000Z'
+  authors:
+   - Oscar Barajas
+  github_authors:
+    - gndx
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/9O0AjucHecc/hq720.jpg
+  use_case: Getting started
+  stack: 
+   - Strapi
+  version: 3.1.7
+- title: Sending emails from Strapi with Twilio SendGrid API
+  link: https://www.youtube.com/watch?v=nf8KH-K6Xlw
+  formats:
+   - video
+  language: English
+  date: '2020-10-04T00:00:00.000Z'
+  authors:
+   - Pragmatic reviews
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/nf8KH-K6Xlw/hq720.jpg
+  use_case: Customization
+  stack: 
+   - Email
+   - Twilio SendGrid
+  version: 3.1.4
+- title: Strapi | GraphQL API
+  link: https://www.youtube.com/watch?v=uPhUXT0o5gs
+  formats:
+   - video
+  language: English
+  date: '2020-09-27T00:00:00.000Z'
+  authors:
+   - Pragmatic reviews
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/uPhUXT0o5gs/hq720.jpg
+  use_case: GraphQL
+  stack: 
+   - GraphQL
+  version: 3.1.4
+- title: Building a Flutter News Mobile App with Strapi as a REST API backend
+  link: https://www.youtube.com/watch?v=XjsGin5csWs
+  formats:
+   - video
+  language: Arabic
+  date: '2020-07-24T00:00:00.000Z'
+  authors:
+   - DevDizer
+  github_authors:
+   - devdizer
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/3K7N81EtJO8/hqdefault.jpg
+  use_case: Mobile App
+  stack: 
+   - Flutter
+  version: 3.1.4
+- title: Create a strapi project on Digital Ocean
+  link: https://www.youtube.com/watch?v=oNpYyNUXkQs
+  formats:
+   - video
+  language: Arabic
+  date: '2020-09-27T00:00:00.000Z'
+  authors:
+   - Freelance 4 Arabs
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/oNpYyNUXkQs/hq720.jpg
+  use_case: Deployment
+  stack: 
+   - Digital Ocean
+  version: 3.1.6
+- title: Creando un CMS - Strapi, Digital Ocean, NodeJs, SQL
+  link: https://www.youtube.com/watch?v=M6c_KMAo4VQ
+  formats:
+   - video
+  language: Spanish
+  date: '2020-09-15T00:00:00.000Z'
+  authors:
+   - Codealo
+  github_authors:
+   - johnnietirado
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/M6c_KMAo4VQ/hq720.jpg
+  use_case: Getting started
+  stack: 
+   - Digital Ocean
+   - NodeJs
+   - SQL
+  version: 3.1.4
+- title: Build an Event App with Vue.js, Gridsome & Strapi.js
+  link: https://www.youtube.com/watch?v=vB6rmWCmANA
+  formats:
+   - video
+  language: English
+  date: '2020-08-31T00:00:00.000Z'
+  authors:
+   - Gwendolyn Faraday
+  github_authors:
+   - gwenf
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/vB6rmWCmANA/hq720.jpg
+  use_case: Getting started
+  stack: 
+   - Vue.js
+   - Gridsome
+  version: 3.0.6
+- title: Creando un blog sencillo con Nextjs y Strapi
+  link: https://www.youtube.com/watch?v=FkMalIhLWjY
+  formats:
+   - video
+  language: Spanish
+  date: '2020-09-07T00:00:00.000Z'
+  authors:
+   - Diego Segura
+  github_authors:
+   - dieguezz
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/FkMalIhLWjY/hq720.jpg
+  use_case: Blog
+  stack: 
+   - Next.js
+  version: 3.1.3
+- title: Deploying Strapi CMS to Azure Cloud using Docker container and CI/CD with Github.
+  link: https://www.youtube.com/watch?v=kJ4c9U5JStU
+  formats:
+   - video
+  language: English
+  date: '2020-09-04T00:00:00.000Z'
+  authors:
+   - Pragmatic Lead
+  github_authors:
+   - abachuk
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/kJ4c9U5JStU/hqdefault.jpg
+  use_case: Deployment
+  stack: 
+   - Azure
+   - Docker
+  version: 3.1.4
+- title: Introduction to Strapi
+  link: https://www.youtube.com/watch?v=bKyYRLGV6JQ
+  formats:
+   - video
+  language: Vietnamese
+  date: '2020-09-04T00:00:00.000Z'
+  authors:
+   - Nodemy
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/bKyYRLGV6JQ/hqdefault.jpg
+  use_case: Getting started
+  stack: 
+   - Strapi
+  version: 3.1.4
