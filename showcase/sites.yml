@@ -1,3 +1,13 @@
+- title: AllDadsTalk
+  url: https://alldadstalk.com
+  description: Blog webapp made with Strapi, Next.js and Styled Components.
+  categories:
+    - Blog
+  frontend:
+    - Next.js
+    - Styled Components
+  made_by: Justinian Boghici
+  made_by_url: https://justinian.page
 - title: Intuz
   url: https://www.intuz.com/
   description: Software Application Development Company Website made with Strapi, React and Next.js.
@@ -649,3 +659,15 @@
     - SCSS
   made_by: digisquad
   made_by_url: https://digisquad.io
+- title: Henrik Larsson
+  url: https://larssonhenrik.com/
+  description: Henrik's portfolio website uses Strapi for managing the content on the site.
+  categories:
+    - Portfolio
+    - Freelance website
+  frontend:
+    - Gatsby.js
+    - React.js
+    - Tailwind CSS
+  made_by: Henrik Larsson
+  made_by_url: https://larssonhenrik.com/
