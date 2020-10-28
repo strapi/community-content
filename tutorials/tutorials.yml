@@ -2319,3 +2319,20 @@
   stack: 
    - Strapi
   version: 3.1.4
+- title: A Great NodeJs Backend Option for Frontend Developers or No-Coders
+  link: https://chriswray.dev/posts/a-great-nodejs-backend-option-for-frontend-developers-or-no-coders
+  formats:
+    - video
+    - article
+  language: en
+  date: 2020-10-22
+  authors:
+    - Christopher Wray
+  github_authors:
+    - cwray-tech
+  source: https://chriswray.dev
+  image_url: https://res.cloudinary.com/personal-portfolio/image/upload/v1601747683/strapi_slug_content_c92b565145.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+  version: 3.2.3
