@@ -683,3 +683,15 @@
     - Tailwind CSS
   made_by: Henrik Larsson
   made_by_url: https://larssonhenrik.com/
+- title: Test site
+  url: test/url
+  description: Lorem ipsum
+  categories:
+    - Portfolio
+    - Freelance website
+  frontend:
+    - Gatsby.js
+    - React.js
+    - Tailwind CSS
+  made_by: Me
+  made_by_url: lol
