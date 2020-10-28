@@ -5,12 +5,15 @@
 Contribute and collaborate on educational content for the Strapi Community.
 
   - [Tutorials](#Tutorials)
-  - [Articles](#Articles)
+  - [Starters](#Starters)
   - [Showcase](#Showcase)
 
 ## Tutorials
 
 Follow along with our community tutorials to get you up and running with Strapi.
+You can also write non-tutorial articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/reasons-why-you-should-make-your-project-open-source).
+
+Considering writing for the Strapi community? Please read our [FAQ](https://www.notion.so/strapi/Strapi-Write-for-the-Community-FAQs-b1fa0282d68a4c3e933fdd5e05f61a46)
 
   - [Submit a topic](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
   - [Submit a tutorial](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
@@ -20,20 +23,18 @@ Follow along with our community tutorials to get you up and running with Strapi.
 
   [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
 
+## Starters
 
-## Articles
+Do you want to create your own e-commerce starter with Strapi and Svelte and share it with the community?
+It is totally possible for you to submit your starter using our official templates:
 
-Write about your experience with Strapi.
+   - E-commerce: https://github.com/strapi/strapi-template-ecommerce
+   - Corporate: https://github.com/strapi/strapi-template-corporate
+   - Blog: https://github.com/strapi/strapi-template-blog
+   - Portfolio: https://github.com/strapi/strapi-template-portfolio
 
-  - [Submit a topic](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
-  - [Submit an article](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
-  - [Translate an article](https://github.com/strapi/community-content/issues/new?template=translate-a-resource.md&title=%5BTRANSLATE%5D)
 
-We're looking for writers who'd like to talk about their experience using Strapi, JAMstack or open source related things. Although we're mostly looking for experienced authors who have already published blog posts on websites such as [Medium](https://medium.com), [Dev.to](http://dev.to/), [Hackernoon](https://hackernoon.com), [Scotch.io](http://scotch.io/) or your personal blog, we're also supportive of people who have never published anything but are interested in writing their first technical piece.
-
-You will definitely pique our interest if you can write articles that go quite in-depth and include a significant number of learning nuggets. We're absolutely NOT looking for promotional pieces or marketing pitches. It's all about interesting things to tell to the community concerning everything that operates in the Strapi environment.
-
-[Articles](https://github.com/strapi/community-content/tree/master/articles)
+[Starters](https://github.com/strapi/community-content/tree/master/starters)
 
 
 ## Showcase
@@ -87,7 +88,14 @@ Thank you to all the people who created content for the community!
   <img src="https://github.com/kwinyyyc.png" width="80" height="80" />
   <img src="https://github.com/stefanSheva.png" width="80" height="80" />
   <img src="https://github.com/adriatic.png" width="80" height="80" />
+  <img src="https://github.com/daryllukas.png" width="80" height="80" />
+  <img src="https://github.com/willianjusten.png" width="80" height="80" />
+  <img src="https://github.com/hemanshum.png" width="80" height="80" />
+  <img src="https://github.com/yinjisheng311.png" width="80" height="80" />
+  <img src="https://github.com/ramigs.png" width="80" height="80" />
+  <img src="https://github.com/kilinkis.png" width="80" height="80" />
+  <img src="https://github.com/tarekbozo.png" width="80" height="80" />
+  <img src="https://github.com/bastianhilton.png" width="80" height="80" />
 </p>
 
-[Join them by creating content](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=In+progress&template=create-a-tutorial.md&title=%5BCREATE%5D)
-
+[Join them by creating content](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)

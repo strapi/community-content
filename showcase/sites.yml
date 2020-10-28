@@ -51,9 +51,9 @@
   made_by_url: https://brewcrewlabs.com
 - title: Koninklijke Harmonie De Verenigde Vrienden
   url: https://www.deverenigdevriendenheusden.be
-  description: Koninklijke Harmonie De Verenigde Vrienden is a great group of musicians of all ages who enjoy musical fun together. It's a progressive web app with a blog and webshop. 
+  description: Koninklijke Harmonie De Verenigde Vrienden is a great group of musicians of all ages who enjoy musical fun together. It's a progressive web app with a blog and webshop.
   categories:
-    - Non-profit organisation 
+    - Non-profit organisation
   frontend:
     - Nuxt.js
     - BootstrapVue
@@ -63,7 +63,7 @@
   url: https://thelifeboard.app
   description: theLifeBoard helps users identify and achieve their goals creating habits, organising their weeks and providing curated resources
   categories:
-    - Productivity 
+    - Productivity
   frontend:
     - Vue.js
     - Vuetify
@@ -166,7 +166,7 @@
   frontend:
     - Bootstrap
   made_by: Aileen Ong
-  made_by_url: https://stepasia.interaktiv.sg/who-we-are 
+  made_by_url: https://stepasia.interaktiv.sg/who-we-are
 - title: Treum
   url: https://treum.io/
   description: Treum is building a next-generation, decentralized supply chain operating system that helps businesses build trust with their customers.
@@ -417,7 +417,7 @@
 - title: Cryptotesters
   url: https://cryptotesters.com
   description: Start your crypto journey and find the best cryptocurrency exchange or wallet on our crypto comparison platform
-  categories: 
+  categories:
     - Crypto
   frontend:
     - Next.js
@@ -427,7 +427,7 @@
 - title: Stratosphere
   url: https://www.stratosphereapp.io
   description: Quickly measure plans in the cloud
-  categories: 
+  categories:
     - Cloud
     - Architecture
   frontend:
@@ -437,7 +437,7 @@
 - title: Meilleur Reprise
   url: https://www.meilleure-reprise.com
   description: Get a firm trade-in price quickly and have your car taken back by a professional in complete safety!
-  categories: 
+  categories:
     - Car sell
   frontend:
     - Gatsby
@@ -447,7 +447,7 @@
 - title: SwissDev Python Jobs
   url: https://swissdevjobs.ch/jobs/Python/All
   description: A transparent job board dedicated for Software Developers
-  categories: 
+  categories:
     - Business Website
     - Job Board
   frontend:
@@ -507,14 +507,14 @@
   url: https://livingwatersmuseum.org/
   description: This website is for Virtual museum collecting and curatingvisual narratives about Water Heritage of India
   categories:
-    - Non-profit organisation 
+    - Non-profit organisation
     - Creative website
   frontend:
     - Next.js
     - React Js
-    - Bootstrap 
-  made_by: Pedalsup 
-  made_by_url: https:/pedalsup.com 
+    - Bootstrap
+  made_by: Pedalsup
+  made_by_url: https:/pedalsup.com
 - title: Freatle
   url: https://freatle.com
   description: Organize your event with Freatle. The simplest to know who brings what.
@@ -524,8 +524,8 @@
   frontend:
     - Nuxt.js
     - Bulma
-    - Tailwind 
-  made_by: Freatle 
+    - Tailwind
+  made_by: Freatle
   made_by_url: https://freatle.com/en/about/
 - title: Exponent
   url: https://www.tryexponent.com

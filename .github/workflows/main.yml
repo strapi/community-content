@@ -1,18 +1,12 @@
-name: 'Yamllint GitHub Actions'
-on:
-  - pull_request
+name: Yaml Lint
+on: pull_request
 jobs:
-  yamllint:
-    name: 'Yamllint'
+  lintAllTheThings:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Checkout'
-        uses: actions/checkout@master
-      - name: 'Yamllint'
-        uses: karancode/yamllint-github-action@master
-        with:
-          yamllint_file_or_dir: ' ./showcase/sites.yml ./starters/starters.yml ./tutorials/tutorials.yml'
-          yamllint_strict: false
-          yamllint_comment: true
-        env:
-          GITHUB_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - uses: actions/checkout@v1
+    - name: yaml-lint
+      uses: ibiqlik/action-yamllint@v2
+      with:
+        file_or_dir: './showcase/sites.yml ./tutorials/tutorials.yml ./starters/starters.yml'
+        config_file: .yamllint.yml

@@ -3,6 +3,12 @@
 # Starters
 
 Show to the community your starters with Strapi!
+Remember to use our official templates right below:
+
+   - E-commerce: https://github.com/strapi/strapi-template-ecommerce
+   - Corporate: https://github.com/strapi/strapi-template-corporate
+   - Blog: https://github.com/strapi/strapi-template-blog
+   - Portfolio: https://github.com/strapi/strapi-template-portfolio
 
 ## How to add your starter
 
