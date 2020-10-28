@@ -647,6 +647,18 @@
     - Sapper
   made_by: Anand Chowdhary
   made_by_url: https://anandchowdhary.com
+- title: Outdoormix Festival
+  url: https://www.outdoormixfestival.com
+  description: A full history of 7 years of Ride & Party at Outdoormix Festival propulsed by Strapi
+  categories:
+    - Event
+  frontend:
+    - Nuxt.js
+    - Vue
+    - Apollo
+    - SCSS
+  made_by: digisquad
+  made_by_url: https://digisquad.io
 - title: Henrik Larsson
   url: https://larssonhenrik.com/
   description: Henrik's portfolio website uses Strapi for managing the content on the site.
