@@ -5,3 +5,4 @@ rules:
   line-length: disable
   document-start: disable
   trailing-spaces: disable
+  key-duplicates: disable
