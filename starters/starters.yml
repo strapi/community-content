@@ -1,4 +1,4 @@
-- title: Strapi Starter Next.js Blog
+- title: Next.js Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-blog/master/screenshot.png
   repo: strapi/strapi-starter-next-blog
@@ -17,7 +17,7 @@
   youtube: https://www.youtube.com/embed/zE1S8CHkev8
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-next-blog
-- title: Strapi Starter Nuxt.js Blog
+- title: Nuxt.js Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-blog/master/screenshot.png
   repo: strapi/strapi-starter-nuxt-blog
@@ -36,7 +36,7 @@
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-nuxt-blog
-- title: Strapi Starter Gatsby Blog
+- title: Gatsby Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-blog/master/screenshot.png
   repo: strapi/strapi-starter-gatsby-blog
@@ -60,7 +60,7 @@
   youtube: https://www.youtube.com/embed/wsFuSebpv0I
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-gatsby-blog-v2
-- title: Strapi Starter Gridsome Blog
+- title: Gridsome Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-blog/master/screenshot.png
   repo: strapi/strapi-starter-gridsome-blog
@@ -84,7 +84,7 @@
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-gridsome-blog
-- title: Strapi Starter Angular Blog
+- title: Angular Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-angular-blog/master/screenshot.png
   repo: strapi/strapi-starter-angular-blog
@@ -103,7 +103,7 @@
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server
   command: git clone https://github.com/strapi/strapi-starter-angular-blog
-- title: Strapi Starter Nuxt.js E-commerce
+- title: Nuxt.js E-commerce Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-e-commerce/master/screenshot.png
   repo: strapi/strapi-starter-nuxt-e-commerce
@@ -126,7 +126,7 @@
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-nuxt-e-commerce
-- title: Strapi Starter Next.js Corporate
+- title: Next.js Corporate Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/screenshot.png
   repo: strapi/strapi-starter-next-corporate
@@ -146,7 +146,7 @@
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server
   command: git clone https://github.com/strapi/strapi-starter-next-corporate
-- title: Strapi Starter Gridsome Portfolio
+- title: Gridsome Portfolio Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-portfolio/master/screenshot.png
   repo: strapi/strapi-starter-gridsome-portfolio
@@ -164,7 +164,7 @@
   youtube: https://www.youtube.com/embed/4g3Pzj-wdXo
   how_to_install: Clone the repository and start both of your backend server and frontend server.
   command: git clone https://github.com/strapi/strapi-starter-gridsome-portfolio
-- title: Strapi Starter Next.js E-commerce
+- title: Next.js E-commerce Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-ecommerce/master/screenshot.png
   repo: strapi/strapi-starter-next-ecommerce
