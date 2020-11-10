@@ -683,3 +683,13 @@
     - Tailwind CSS
   made_by: Henrik Larsson
   made_by_url: https://larssonhenrik.com/
+- title: Indeed Career Guide
+  url: https://www.indeed.com/career-advice
+  description: Career advice on how to find a job, write your resume and cover letter, ace your interviews, start a new job, and choose career paths.
+  categories:
+    - Blog
+  frontend:
+    - Gatsby.js
+    - React.js
+  made_by: Indeed
+  made_by_url: https://www.indeed.com/career-advice
