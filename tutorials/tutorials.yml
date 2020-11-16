@@ -2383,3 +2383,19 @@
   stack:
     - MongoDB Atlas
   version: 3.2.5
+- title: Exploring Strapi - Build an instagram clone with Strapi and Svelte
+  link: https://dev.to/arnu515/exploring-strapi-js-build-an-instagram-clone-with-strapi-and-svelte-35i6
+  formats:
+    - article
+  language: en
+  date: 2020-11-11
+  authors:
+    - arnu515
+  github_authors:
+    - arnu515
+  source: https://dev.to
+  image_url:
+  use_case: Getting started
+  stack:
+    - Svelte
+  version: 3.2.1
