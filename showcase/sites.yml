@@ -693,3 +693,14 @@
     - React.js
   made_by: Indeed
   made_by_url: https://www.indeed.com/career-advice
+- title: LilO. Moino
+  url: https://lilomoino.fr
+  description: Blog photo, video and music.
+  categories:
+    - Blog
+  frontend:
+    - Vue.js
+    - Nuxt.js
+    - KNACSS
+  made_by: Nicolas Hamelin
+  made_by_url: https://nicolashamelin.fr/
