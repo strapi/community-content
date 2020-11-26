@@ -693,3 +693,14 @@
     - React.js
   made_by: Indeed
   made_by_url: https://www.indeed.com/career-advice
+- title: OwlTing Blockchain Services™
+  url: https://www.owlting.com/obs/?lang=en
+  description: Use OwlTing Blockchain Services™ to boost your business with greater transparency and security
+  categories:
+    - Corporate website
+  frontend:
+    - Vue.js
+    - Tailwind CSS
+    - Puppeteer
+  made_by: Phantas Weng (F2E@OwlTing)
+  made_by_url: https://phantas.tw/
