@@ -695,7 +695,7 @@
   made_by_url: https://www.indeed.com/career-advice
 - title: Zirve Yazılım
   url: https://zirveyazilim.net
-  description: Zirve Yazılım offers the most useful accounting programs to more than 45,000 customers with its financial advisor, SME, e-transformation and online accounting products.
+  description: Zirve Yazılım offers the most useful accounting programs to more than 45000 customers with its financial advisor SME e-transformation and online accounting products.
   categories:
     - Corporate website
   frontend:
@@ -715,9 +715,9 @@
     - 11ty
   made_by: Efabrika Service Design Agency
   made_by_url: https://efabrika.com
-- title: Logsign: Next-Gen SIEM, SOAR and Value Added Services
+- title: Logsign Next-Gen SIEM SOAR and Value Added Services
   url: https://logsign.com
-  description: Delivering automation-driven cyber security solutions and are committed to providing the smartest, easiest-to-use and most affordable cybersecurity detection and response solutions and value-added services.
+  description: Delivering automation-driven cyber security solutions and are committed to providing the smartest easiest-to-use and most affordable cybersecurity detection and response solutions and value-added services.
   categories:
     - Corporate website
   frontend:
