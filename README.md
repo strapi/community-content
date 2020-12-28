@@ -41,9 +41,9 @@ It is totally possible for you to submit your starter using our official templat
 
 Show to the community what your project looks like
 
-The entire Strapi team is very curious to see what you guy's can build using our product and it may be the same for people in the community who want to reassure themselves about what we can create with Strapi.
+The entire Strapi team is very curious to see what you guys can build using our product and it may be the same for people in the community who want to reassure themselves about what we can create with Strapi.
 
-We decided to create a [Showcase](https://github.com/strapi/community-content/tree/master/showcase) section where anyone can list his site that has been made with love, and Strapi of course! This list will be displayed on our website soon.
+We decided to create a [Showcase](https://github.com/strapi/community-content/tree/master/showcase) section where anyone can list their site that has been made with love, and Strapi of course! This list will be displayed on our website soon.
 
 
 [Showcase](https://github.com/strapi/community-content/tree/master/showcase)
