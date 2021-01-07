@@ -8,6 +8,15 @@
     - Styled Components
   made_by: Justinian Boghici
   made_by_url: https://justinian.page
+- title: Caroster
+  url: https://caroster.io/
+  description: Carpooling Webapp made with Strapi & React.js.
+  categories:
+    - WebApp
+  frontend:
+    - React.js
+  made_by: Octree, Lean Startup Studio
+  made_by_url: https://octree.ch/
 - title: Intuz
   url: https://www.intuz.com/
   description: Software Application Development Company Website made with Strapi, React and Next.js.
