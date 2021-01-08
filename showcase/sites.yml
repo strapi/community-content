@@ -693,3 +693,12 @@
     - React.js
   made_by: Indeed
   made_by_url: https://www.indeed.com/career-advice
+- title: T10 Studios website
+  url: https://turn10studios.com/
+  description: A creative website for T10 Studios, part of Xbox Gaming Studio and creators of the Forza Franchise.
+  categories:
+    - Corporate website
+  frontend:
+    - Vue.js
+  made_by: 1minus1
+  made_by_url: https://1minus1.com/
