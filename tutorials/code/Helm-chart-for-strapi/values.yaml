@@ -13,9 +13,9 @@ envs:
   - name: NODE_ENV
     value: development
   - name: DATABASE_HOST
-    value: mongodb://{ Change to your mongo service }:27017/starpi-db?authSource=starpi-db&gssapiServiceName=mongodb
+    value: mongodb://{ Change to your mongo service }:27017/strapi-db?authSource=strapi-db&gssapiServiceName=mongodb
   - name: DATABASE_NAME
-    value: "starpi-db"
+    value: "strapi-db"
   - name: DATABASE_SRV
     value: "false"
   - name: DATABASE_PORT
