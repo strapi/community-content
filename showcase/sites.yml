@@ -702,3 +702,14 @@
     - Vue.js
   made_by: 1minus1
   made_by_url: https://1minus1.com/
+  - title: Iran Cyber Game
+  url: https://irancybergame.com
+  description: We are using Strapi as our backend. IranCyberGame is online gaming tournament plattform.
+  categories:
+    - Corporate website
+  frontend:
+    - Nuxt.js
+    - Vue
+    - Vuetify
+  made_by: Mohammad Ghonchesefidi
+  made_by_url: https://samasarin.com
