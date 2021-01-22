@@ -2399,3 +2399,53 @@
   stack:
     - Svelte
   version: 3.2.1
+- title: Build a FullStack Ecommerce with Nextjs, Strapi, Magic and Stripe
+  link: https://www.youtube.com/watch?v=385cpCpGRC0&t=2721s
+  formats:
+    - video
+  language: en
+  date: 2020-11-24
+  authors:
+    - Alessandro Valerani
+  github_authors:
+    - GalloDaSballo
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/385cpCpGRC0/hq720.jpg
+  use_case: E-commerce
+  stack:
+    - Next.js
+    - Magic
+    - Stripe
+  version: 3.2.5
+- title: Secure Cookie Authentication (React + Strapi Headless CMS live coding)
+  link: https://www.youtube.com/watch?v=OESLVW_lAQ8
+  formats:
+    - video
+  language: en
+  date: 2020-11-22
+  authors:
+    - Arthur Chmarusso
+  github_authors:
+    - Chmarusso
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/OESLVW_lAQ8/hq720.jpg
+  use_case: Authentication
+  stack:
+    - React
+  version: 3.2.5
+- title: Strapi & Ionic (Angular) | CRUD
+  link: https://www.youtube.com/watch?v=aTDphAsHDDE
+  formats:
+    - video
+  language: es
+  date: 2020-11-22
+  authors:
+    - Fazt
+  github_authors:
+    - FaztTech
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/aTDphAsHDDE/hq720.jpg
+  use_case: Getting starter
+  stack:
+    - Angular
+  version: 3.3.3
