@@ -704,7 +704,7 @@
   made_by_url: https://1minus1.com/
   - title: Iran Cyber Game
   url: https://irancybergame.com
-  description: We are using Strapi as our backend. IranCyberGame is online gaming tournament plattform.
+  description: We are using Strapi as our backend. IranCyberGame is online gaming tournament platform.
   categories:
     - Corporate website
   frontend:
