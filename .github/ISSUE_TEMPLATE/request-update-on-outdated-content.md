@@ -21,7 +21,7 @@ Please describe your modifications.
 **Link of the content**
 
 
-**What do you guy's think?**
+**What do you all think?**
 👍 Nice!
 ❤️ I love it!
 🚀 I can help you!

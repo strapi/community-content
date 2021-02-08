@@ -16,7 +16,7 @@ To make your issue readable make sure you use valid Markdown syntax.
 Please describe your modifications.
 -->
 
-**What do you guy's think?**
+**What do you all think?**
 👍 Nice!
 ❤️ I love it!
 🚀 I can help you!

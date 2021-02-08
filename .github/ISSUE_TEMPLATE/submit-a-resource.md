@@ -21,6 +21,6 @@ Please describe what your resource will be about. (article or video).
 - [ ] Article
 - [ ] Video
 
-**What do you guy's think?**
+**What do you all think?**
 ❤️ I love it!
 🚀 I can help you!
