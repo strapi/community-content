@@ -2445,7 +2445,263 @@
     - FaztTech
   source: https://youtube.com
   image_url: https://i.ytimg.com/vi/aTDphAsHDDE/hq720.jpg
-  use_case: Getting starter
+  use_case: Getting started
   stack:
     - Angular
   version: 3.3.3
+- title: Proyecto catálogo músicos - Introducción (StrapiJS, VueJS y más)
+  link: https://www.youtube.com/watch?v=fdq2GsHyXvY
+  formats:
+    - video
+  language: es
+  date: 2021-01-31
+  authors:
+    - Roberto Nunez Corrales
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/fdq2GsHyXvY/hqdefault.jpg
+  use_case: Getting started
+  stack:
+    - Vue.js
+    - Heroku
+  version: 3.4.0
+- title: Build fast with Strapi | CMBJS 2021 February Edition EP-1 (Online)
+  link: https://www.youtube.com/watch?v=i5WPfMvSHeY
+  formats:
+    - video
+  language: en
+  date: 2021-02-18
+  authors:
+    - SLDevTalks
+  github_authors:
+    - sldevtalks
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/i5WPfMvSHeY/hq720.jpg
+  use_case: Getting started
+  stack:
+  version: 3.4.6
+- title: How to Use Slug as URL for Querying Strapi Collection Type Items
+  link: https://www.youtube.com/watch?v=oprEHjQ6hlY
+  formats:
+    - video
+  language: en
+  date: 2021-02-13
+  authors:
+    - marvthedev
+  github_authors:
+    - marvthedev
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/oprEHjQ6hlY/hq720.jpg
+  use_case: Customization
+  stack:
+  version: 3.4.6
+- title: How to setup Strapi using Docker
+  link: https://www.youtube.com/watch?v=oEtj0Vpmgro
+  formats:
+    - video
+  language: en
+  date: 2021-02-13
+  authors:
+    - Malith dev
+  github_authors:
+    - malithmcr
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/oEtj0Vpmgro/hq720.jpg
+  use_case: Deployment
+  stack:
+    - Docker
+    - Docker compose
+    - MongoDB
+  version: 3.4.6
+- title: Build APIs Fast With Strapi.io | Podcast
+  link: https://www.youtube.com/watch?v=YWzV7z0_VZY
+  formats:
+    - video
+  language: en
+  date: 2021-02-13
+  authors:
+    - HTML All The Things
+  github_authors:
+    - digitaldynastydesign
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/YWzV7z0_VZY/hq720.jpg
+  use_case: Getting started
+  stack:
+  version: 3.4.6
+- title: Next.js & Strapi - Register Users
+  link: https://www.youtube.com/watch?v=xZUqdhmutKw
+  formats:
+    - video
+  language: en
+  date: 2021-02-12
+  authors:
+    - Watch and Learn
+  github_authors:
+    - ivandoric
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/xZUqdhmutKw/hq720.jpg
+  use_case: Authentication
+  stack:
+    - Next.js
+  version: 3.4.6
+- title: Making Authenticated Requests to a Strapi API
+  link: https://www.youtube.com/watch?v=EjBpJuqqi3U
+  formats:
+    - video
+  language: en
+  date: 2021-02-11
+  authors:
+    - Daniel Madalitso Phiri
+  github_authors:
+    - malgamves
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/EjBpJuqqi3U/hq720.jpg
+  use_case: Authentication
+  stack:
+  version: 3.4.6
+- title: Build a Fullstack App With Strapi and Next.js | 1-Hour Tech Talk | DigitalOcean
+  link: https://www.youtube.com/watch?v=WrmndNpWSJw
+  formats:
+    - video
+  language: en
+  date: 2021-02-10
+  authors:
+    - Digital Ocean
+  github_authors:
+    - digitalocean
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/WrmndNpWSJw/hq720.jpg
+  use_case: Blog
+  stack:
+    - Next.js
+  version: 3.4.6
+- title: Connecting Your Nuxt App to Strapi with GraphQL
+  link: https://www.youtube.com/watch?v=yDkoV-8krcA
+  formats:
+    - video
+  language: en
+  date: 2021-02-09
+  authors:
+    - Daniel Madalitso Phiri
+  github_authors:
+    - malgamves
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/yDkoV-8krcA/hq720.jpg
+  use_case: Getting started
+  stack:
+    - Nuxt.js
+    - GraphQL
+  version: 3.4.6
+- title: Ionic ReactJS - Quick Intro to Strapi As Headless CMS for Mobile App Using GraphQL
+  link: https://www.youtube.com/watch?v=KCDtQocnZcQ
+  formats:
+    - video
+  language: en
+  date: 2021-02-08
+  authors:
+    - Aaron Saunders
+  github_authors:
+    - aaronksaunders
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/KCDtQocnZcQ/hq720.jpg
+  use_case: Mobile App
+  stack:
+    - React
+    - Ionic JS
+  version: 3.4.6
+- title: Ionic VueJS - Quick Introduction to Strapi As HeadlessCMS for Mobile App
+  link: https://www.youtube.com/watch?v=82Z7Ojsm8NQ
+  formats:
+    - video
+  language: en
+  date: 2021-02-02
+  authors:
+    - Aaron Saunders
+  github_authors:
+    - aaronksaunders
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/82Z7Ojsm8NQ/hq720.jpg
+  use_case: Mobile App
+  stack:
+    - Vue.js
+    - Ionic JS
+  version: 3.4.6
+- title: Next.js & Strapi - Filters With React Query
+  link: https://www.youtube.com/watch?v=1GLQROeWoC4
+  formats:
+    - video
+  language: en
+  date: 2021-02-01
+  authors:
+    - Watch and Learn
+  github_authors:
+    - ivandoric
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/1GLQROeWoC4/hq720.jpg
+  use_case: Getting started
+  stack:
+    - React
+  version: 3.4.5
+- title: Strapi API Deploy to Heroku Step by Step
+  link: https://www.youtube.com/watch?v=k_MwTnHpUGg
+  formats:
+    - video
+  language: en
+  date: 2021-01-29
+  authors:
+    - Programming Night
+  github_authors:
+    - Sameera-Perera
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/k_MwTnHpUGg/hq720.jpg
+  use_case: Deployment
+  stack:
+    - Heroku
+    - Cloudinary
+    - MongoDB
+  version: 3.4.5
+- title: Next.js | Fetching data from Strapi GraphQL API
+  link: https://www.youtube.com/watch?v=3OY-VpN_5N8
+  formats:
+    - video
+  language: en
+  date: 2021-01-18
+  authors:
+    - Pragmatic Reviews
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/3OY-VpN_5N8/hq720.jpg
+  use_case: API 
+  stack:
+    - Next.js
+  version: 3.4.5
+- title: Strapi Open Source Node js Headless CMS to Easily Build Customizable APIs - Radek, Salsita
+  link: https://www.youtube.com/watch?v=D7FWQ9UiA60
+  formats:
+    - video
+  language: en
+  date: 2021-01-18
+  authors:
+    - Salsita Software
+  github_authors:
+    - salsita
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/D7FWQ9UiA60/hqdefault.jpg
+  use_case: Getting started 
+  stack:
+  version: 3.4.3
+- title: Deploy a Strapi headless CMS backend site with Cleavr
+  link: https://www.youtube.com/watch?v=VTflJbYUob8
+  formats:
+    - video
+  language: en
+  date: 2021-01-14
+  authors:
+    - Cleavr
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/VTflJbYUob8/hq720.jpg
+  use_case: Deployment
+  stack:
+  version: 3.4.3
+ 
