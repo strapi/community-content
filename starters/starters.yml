@@ -185,3 +185,22 @@
   youtube:
   how_to_install: Clone the repository and follow the readme instructions
   command: git clone https://github.com/strapi/strapi-starter-next-ecommerce
+- title: Gatsby Catalog Starter
+  author: Mark Kaylor
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-catalog/main/screenshot.png
+  repo: strapi/strapi-starter-gatsby-catalog
+  slug: strapi-starter-gatsby-catalog
+  preview: https://strapi-starter-gatsby-catalog.vercel.app/
+  integration: Gatsby
+  use_cases:
+    - Catalog
+  description: Bootstrap a simple catalog application using Gatsby and Strapi, the headless CMS for Gatsby.
+  features:
+    - Specifications component for Products
+    - 2 Collection types - Product, Category
+    - Related Products
+    - Local search using gatsby-plugin-local-search
+    - Responsive design using Tailwind CSS
+  youtube:
+  how_to_install: Clone the repository and follow the readme instructions
+  command: git clone https://github.com/strapi/strapi-starter-gatsby-catalog
