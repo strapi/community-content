@@ -1,3 +1,13 @@
+- title: Occhiolino Design
+  url: https://www.occhiolinodesign.com/
+  description: French eco-friendly furniture store.
+  categories:
+    - E-commerce
+  frontend:
+    - Angular
+    - Cloudinary
+  made_by: PlaceMe SAS
+  made_by_url: https://www.placeme.io/
 - title: AllDadsTalk
   url: https://alldadstalk.com
   description: Blog webapp made with Strapi, Next.js and Styled Components.
