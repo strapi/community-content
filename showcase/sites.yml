@@ -702,6 +702,39 @@
     - React.js
   made_by: Indeed
   made_by_url: https://www.indeed.com/career-advice
+- title: Zirve Yazılım
+  url: https://zirveyazilim.net
+  description: Zirve Yazılım offers the most useful accounting programs to more than 45000 customers with its financial advisor SME e-transformation and online accounting products.
+  categories:
+    - Corporate website
+  frontend:
+    - HTML
+    - JQuery
+    - 11ty
+  made_by: Efabrika Service Design Agency
+  made_by_url: https://efabrika.com
+- title: Mobilsen Özgürsün! | Toyota Start Your Impossible
+  url: https://mobilsenozgursun.com
+  description: The goal is to lead a world where everyone can move freely! Discover the inspiring story of Okan and Mert and Toyota mobility solutions. Start Your Impossible! 
+  categories:
+    - Landing Page
+  frontend:
+    - HTML
+    - JQuery
+    - 11ty
+  made_by: Efabrika Service Design Agency
+  made_by_url: https://efabrika.com
+- title: Logsign Next-Gen SIEM SOAR and Value Added Services
+  url: https://logsign.com
+  description: Delivering automation-driven cyber security solutions and are committed to providing the smartest easiest-to-use and most affordable cybersecurity detection and response solutions and value-added services.
+  categories:
+    - Corporate website
+  frontend:
+    - HTML
+    - JQuery
+    - 11ty
+  made_by: Efabrika Service Design Agency
+  made_by_url: https://efabrika.com
 - title: LilO. Moino
   url: https://lilomoino.fr
   description: Blog photo, video and music.
