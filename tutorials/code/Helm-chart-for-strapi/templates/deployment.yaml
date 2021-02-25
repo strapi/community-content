@@ -1,22 +1,22 @@
 apiVersion: apps/v1beta2
 kind: Deployment
 metadata:
-  name: {{ template "starpi.fullname" . }}
+  name: {{ template "strapi.fullname" . }}
   labels:
-    app: {{ template "starpi.name" . }}
-    chart: {{ template "starpi.chart" . }}
+    app: {{ template "strapi.name" . }}
+    chart: {{ template "strapi.chart" . }}
     release: {{ .Release.Name }}
     heritage: {{ .Release.Service }}
 spec:
   replicas: {{ .Values.replicaCount }}
   selector:
     matchLabels:
-      app: {{ template "starpi.name" . }}
+      app: {{ template "strapi.name" . }}
       release: {{ .Release.Name }}
   template:
     metadata:
       labels:
-        app: {{ template "starpi.name" . }}
+        app: {{ template "strapi.name" . }}
         release: {{ .Release.Name }}
     spec:
       containers:

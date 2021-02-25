@@ -2,17 +2,17 @@
 apiVersion: autoscaling/v2beta1
 kind: HorizontalPodAutoscaler
 metadata:
-  name: {{ template "starpi.fullname" . }}
+  name: {{ template "strapi.fullname" . }}
   labels:
-    app: {{ template "starpi.name" . }}
-    chart: {{ template "starpi.chart" . }}
+    app: {{ template "strapi.name" . }}
+    chart: {{ template "strapi.chart" . }}
     release: {{ .Release.Name }}
     heritage: {{ .Release.Service }}
 spec:
   scaleTargetRef:
     apiVersion: apps/v1beta1
     kind: Deployment
-    name: {{ template "starpi.fullname" . }}
+    name: {{ template "strapi.fullname" . }}
   minReplicas: {{ .Values.autoscaling.minReplicas }}
   maxReplicas: {{ .Values.autoscaling.maxReplicas }}
   metrics:
