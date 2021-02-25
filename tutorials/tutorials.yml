@@ -359,7 +359,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Authentication
@@ -396,7 +396,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Shopify
   use_case: E-commerce
@@ -414,7 +414,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Getting started
@@ -504,7 +504,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Customization
@@ -521,7 +521,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Customization
@@ -650,7 +650,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Authentication
@@ -705,7 +705,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Customization
@@ -761,7 +761,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Heroku
     - MongoDB Atlas
@@ -940,7 +940,7 @@
   github_authors:
     - mcastres
   source: https://strapi.io/blog
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-vuejs-cms_94780dde12.jpeg
+  image_url: https://assets.strapi.io/uploads/cover-vuejs-cms_94780dde12.jpeg
   stack:
     - Vue.js
     - Apollo
@@ -1030,7 +1030,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Strapi
   use_case: Customization
@@ -1049,7 +1049,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Heroku
     - Postgresql
@@ -1068,7 +1068,7 @@
     - Jim Laurie
   github_authors:
     - lauriejim
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
+  image_url: https://assets.strapi.io/uploads/recipe-recaps-april_cd2fee9717_fe14d5c7b3.jpeg
   stack:
     - Docker
     - Postgresql
@@ -1261,7 +1261,7 @@
   github_authors:
     - mcastres
   source: https://blog.strapi.io/
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/angular_af1ba4ed75.jpeg
+  image_url: https://assets.strapi.io/uploads/angular_af1ba4ed75.jpeg
   stack:
     - Angular
     - Apollo
@@ -1286,7 +1286,7 @@
   github_authors:
     - mcastres
   source: https://blog.strapi.io/
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/next-js_995cbe0c2e.jpeg
+  image_url: https://assets.strapi.io/uploads/next-js_995cbe0c2e.jpeg
   stack:
     - Next.js
     - Apollo
@@ -1362,7 +1362,7 @@
   github_authors:
     - ryanbelke
   source: https://blog.strapi.io/
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/next-js_995cbe0c2e.jpeg
+  image_url: https://assets.strapi.io/uploads/next-js_995cbe0c2e.jpeg
   stack:
     - Next.js
     - GraphQL
@@ -1463,7 +1463,7 @@
   github_authors:
     - john-smilga
   source: https://youtube.com/
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-gatsby_636a0a4228.jpeg
+  image_url: https://assets.strapi.io/uploads/cover-gatsby_636a0a4228.jpeg
   stack:
     - Gatsby
   use_case: Portfolio
@@ -1749,7 +1749,7 @@
   github_authors:
     - pierreburgy
   source: https://blog.strapi.io/
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover_jekyll_cms_8f74ffb67a.png
+  image_url: https://assets.strapi.io/uploads/cover_jekyll_cms_8f74ffb67a.png
   stack:
     - Jekyll
   use_case: Blog
@@ -1908,7 +1908,7 @@
   github_authors:
     - soupette
   source: https://www.strapi.io/
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-react-cms_09dce2416d.jpeg
+  image_url: https://assets.strapi.io/uploads/cover-react-cms_09dce2416d.jpeg
   stack:
     - NodeJs
   use_case: Authentication
@@ -1988,7 +1988,7 @@
   github_authors:
     - enBonnet
   source: https://enbonnet.me
-  image_url: https://d2zv2ciw0ln4h1.cloudfront.net/uploads/cover-gatsby_636a0a4228.jpeg
+  image_url: https://assets.strapi.io/uploads/cover-gatsby_636a0a4228.jpeg
   stack:
     - Gatsby
   use_case: Blog
@@ -2445,7 +2445,410 @@
     - FaztTech
   source: https://youtube.com
   image_url: https://i.ytimg.com/vi/aTDphAsHDDE/hq720.jpg
-  use_case: Getting starter
+  use_case: Getting started
   stack:
     - Angular
   version: 3.3.3
+- title: Proyecto catálogo músicos - Introducción (StrapiJS, VueJS y más)
+  link: https://www.youtube.com/watch?v=fdq2GsHyXvY
+  formats:
+    - video
+  language: es
+  date: 2021-01-31
+  authors:
+    - Roberto Nunez Corrales
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/fdq2GsHyXvY/hqdefault.jpg
+  use_case: Getting started
+  stack:
+    - Vue.js
+    - Heroku
+  version: 3.4.0
+- title: Build fast with Strapi | CMBJS 2021 February Edition EP-1 (Online)
+  link: https://www.youtube.com/watch?v=i5WPfMvSHeY
+  formats:
+    - video
+  language: en
+  date: 2021-02-18
+  authors:
+    - SLDevTalks
+  github_authors:
+    - sldevtalks
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/i5WPfMvSHeY/hq720.jpg
+  use_case: Getting started
+  stack:
+  version: 3.4.6
+- title: How to Use Slug as URL for Querying Strapi Collection Type Items
+  link: https://www.youtube.com/watch?v=oprEHjQ6hlY
+  formats:
+    - video
+  language: en
+  date: 2021-02-13
+  authors:
+    - marvthedev
+  github_authors:
+    - marvthedev
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/oprEHjQ6hlY/hq720.jpg
+  use_case: Customization
+  stack:
+  version: 3.4.6
+- title: How to setup Strapi using Docker
+  link: https://www.youtube.com/watch?v=oEtj0Vpmgro
+  formats:
+    - video
+  language: en
+  date: 2021-02-13
+  authors:
+    - Malith dev
+  github_authors:
+    - malithmcr
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/oEtj0Vpmgro/hq720.jpg
+  use_case: Deployment
+  stack:
+    - Docker
+    - Docker compose
+    - MongoDB
+  version: 3.4.6
+- title: Build APIs Fast With Strapi.io | Podcast
+  link: https://www.youtube.com/watch?v=YWzV7z0_VZY
+  formats:
+    - video
+  language: en
+  date: 2021-02-13
+  authors:
+    - HTML All The Things
+  github_authors:
+    - digitaldynastydesign
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/YWzV7z0_VZY/hq720.jpg
+  use_case: Getting started
+  stack:
+  version: 3.4.6
+- title: Next.js & Strapi - Register Users
+  link: https://www.youtube.com/watch?v=xZUqdhmutKw
+  formats:
+    - video
+  language: en
+  date: 2021-02-12
+  authors:
+    - Watch and Learn
+  github_authors:
+    - ivandoric
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/xZUqdhmutKw/hq720.jpg
+  use_case: Authentication
+  stack:
+    - Next.js
+  version: 3.4.6
+- title: Making Authenticated Requests to a Strapi API
+  link: https://www.youtube.com/watch?v=EjBpJuqqi3U
+  formats:
+    - video
+  language: en
+  date: 2021-02-11
+  authors:
+    - Daniel Madalitso Phiri
+  github_authors:
+    - malgamves
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/EjBpJuqqi3U/hq720.jpg
+  use_case: Authentication
+  stack:
+  version: 3.4.6
+- title: Build a Fullstack App With Strapi and Next.js | 1-Hour Tech Talk | DigitalOcean
+  link: https://www.youtube.com/watch?v=WrmndNpWSJw
+  formats:
+    - video
+  language: en
+  date: 2021-02-10
+  authors:
+    - Digital Ocean
+  github_authors:
+    - digitalocean
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/WrmndNpWSJw/hq720.jpg
+  use_case: Blog
+  stack:
+    - Next.js
+  version: 3.4.6
+- title: Connecting Your Nuxt App to Strapi with GraphQL
+  link: https://www.youtube.com/watch?v=yDkoV-8krcA
+  formats:
+    - video
+  language: en
+  date: 2021-02-09
+  authors:
+    - Daniel Madalitso Phiri
+  github_authors:
+    - malgamves
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/yDkoV-8krcA/hq720.jpg
+  use_case: Getting started
+  stack:
+    - Nuxt.js
+    - GraphQL
+  version: 3.4.6
+- title: Ionic ReactJS - Quick Intro to Strapi As Headless CMS for Mobile App Using GraphQL
+  link: https://www.youtube.com/watch?v=KCDtQocnZcQ
+  formats:
+    - video
+  language: en
+  date: 2021-02-08
+  authors:
+    - Aaron Saunders
+  github_authors:
+    - aaronksaunders
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/KCDtQocnZcQ/hq720.jpg
+  use_case: Mobile App
+  stack:
+    - React
+    - Ionic JS
+  version: 3.4.6
+- title: Ionic VueJS - Quick Introduction to Strapi As HeadlessCMS for Mobile App
+  link: https://www.youtube.com/watch?v=82Z7Ojsm8NQ
+  formats:
+    - video
+  language: en
+  date: 2021-02-02
+  authors:
+    - Aaron Saunders
+  github_authors:
+    - aaronksaunders
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/82Z7Ojsm8NQ/hq720.jpg
+  use_case: Mobile App
+  stack:
+    - Vue.js
+    - Ionic JS
+  version: 3.4.6
+- title: Next.js & Strapi - Filters With React Query
+  link: https://www.youtube.com/watch?v=1GLQROeWoC4
+  formats:
+    - video
+  language: en
+  date: 2021-02-01
+  authors:
+    - Watch and Learn
+  github_authors:
+    - ivandoric
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/1GLQROeWoC4/hq720.jpg
+  use_case: Getting started
+  stack:
+    - React
+  version: 3.4.5
+- title: Strapi API Deploy to Heroku Step by Step
+  link: https://www.youtube.com/watch?v=k_MwTnHpUGg
+  formats:
+    - video
+  language: en
+  date: 2021-01-29
+  authors:
+    - Programming Night
+  github_authors:
+    - Sameera-Perera
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/k_MwTnHpUGg/hq720.jpg
+  use_case: Deployment
+  stack:
+    - Heroku
+    - Cloudinary
+    - MongoDB
+  version: 3.4.5
+- title: Next.js | Fetching data from Strapi GraphQL API
+  link: https://www.youtube.com/watch?v=3OY-VpN_5N8
+  formats:
+    - video
+  language: en
+  date: 2021-01-18
+  authors:
+    - Pragmatic Reviews
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/3OY-VpN_5N8/hq720.jpg
+  use_case: API 
+  stack:
+    - Next.js
+  version: 3.4.5
+- title: Strapi Open Source Node js Headless CMS to Easily Build Customizable APIs - Radek, Salsita
+  link: https://www.youtube.com/watch?v=D7FWQ9UiA60
+  formats:
+    - video
+  language: en
+  date: 2021-01-18
+  authors:
+    - Salsita Software
+  github_authors:
+    - salsita
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/D7FWQ9UiA60/hqdefault.jpg
+  use_case: Getting started 
+  stack:
+  version: 3.4.3
+- title: Deploy a Strapi headless CMS backend site with Cleavr
+  link: https://www.youtube.com/watch?v=VTflJbYUob8
+  formats:
+    - video
+  language: en
+  date: 2021-01-14
+  authors:
+    - Cleavr
+  github_authors:
+  source: https://youtube.com
+  image_url: https://i.ytimg.com/vi/VTflJbYUob8/hq720.jpg
+  use_case: Deployment
+  stack:
+  version: 3.4.3
+- title: Create a guided tour plugin using reactour
+  link: https://strapi.io/blog/create-a-guided-tour-plugin-using-reactour
+  formats:
+    - article
+  language: en
+  date: 2021-02-22
+  authors:
+    - Strapi
+  github_authors:
+    - strapi
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Guided_Tour_2_9ba4f2fa2a.png
+  use_case: Customization
+  stack:
+    - React
+  version: 3.5.0
+- title: How to use the @nuxtjs/strapi Module to add Authentication to a Nuxt Application
+  link: https://strapi.io/blog/how-to-use-the-nuxt-strapi-module-to-add-authentication-to-a-nuxt-application
+  formats:
+    - article
+  language: en
+  date: 2021-02-08
+  authors:
+    - Alex Godwin
+  github_authors:
+    - oviecodes
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/categories_of_Strapi_Hooks_1_0855f72761.png
+  use_case: Authentication
+  stack:
+    - Nuxt.js
+    - Vue.js
+  version: 3.5.0
+- title: How to Build a Real-time Chat Forum using Strapi, Socket.io, React and MongoDB
+  link: https://strapi.io/blog/how-to-build-a-real-time-chat-forum-using-strapi-socket-io-react-and-mongo-db
+  formats:
+    - article
+  language: en
+  date: 2021-02-05
+  authors:
+    - Purnima Gupta
+  github_authors:
+    - purnimagupta
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Build_a_Real_time_Chat_Forum_using_Strapi_Socket_io_React_and_Mongo_DB_ad3b0fc8d0.png
+  use_case: Getting started
+  stack:
+    - React
+    - Socket.io
+    - MongoDB
+  version: 3.5.0
+- title: How to build an E-commerce Store with Nuxt.js and Strapi
+  link: https://strapi.io/blog/how-to-build-a-real-time-chat-forum-using-strapi-socket-io-react-and-mongo-db
+  formats:
+    - article
+  language: en
+  date: 2021-02-03
+  authors:
+    - Alex Godwin
+  github_authors:
+    - oviecodes
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Building_An_e_Commerce_Store_with_Nuxt_js_Mongo_DB_Stripe_and_Strapi_5ec4788891.png
+  use_case: E-commerce
+  stack:
+    - Nuxt.js
+  version: 3.5.0
+- title: Web scraping with Strapi
+  link: https://strapi.io/blog/web-scraping-with-strapi
+  formats:
+    - article
+  language: en
+  date: 2021-01-27
+  authors:
+    - Strapi
+  github_authors:
+    - strapi
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Web_scraping_with_Strapi_baf0bccedb.png
+  use_case: Getting started
+  stack:
+    - Puppeteer
+  version: 3.5.0
+- title: User Authentication in Next.js with Strapi2
+  link: https://strapi.io/blog/user-authentication-in-next-js-with-strapi
+  formats:
+    - article
+  language: en
+  date: 2021-01-25
+  authors:
+    - Nirmalya Ghosh
+  github_authors:
+    - ghoshnirmalya
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Next_Auth_7ddf938c4d.png
+  use_case: Authentication
+  stack:
+    - Next.js
+  version: 3.5.0
+- title: Change the default WYSIWYG to Toast UI editor
+  link: https://strapi.io/blog/change-the-default-wysiwyg-to-toast-ui-editor
+  formats:
+    - article
+  language: en
+  date: 2021-01-18
+  authors:
+    - Strapi
+  github_authors:
+    - strapi
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/How_to_change_the_default_1_2c6a5f0488.png
+  use_case: Customization
+  stack:
+    - React
+  version: 3.5.0
+- title: Adding Cloudinary support to your Strapi Application
+  link: https://strapi.io/blog/adding-cloudinary-support-to-your-strapi-application
+  formats:
+    - article
+  language: en
+  date: 2020-12-09
+  authors:
+    - Cretu Razvan
+  github_authors:
+    - RazvanCretu
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_and_Next_Corporate_Starter_3ee079d385.png
+  use_case: Customization
+  stack:
+    - Cloudinary
+  version: 3.5.0
+- title: Analyzing data from a Strapi API with Python
+  link: https://strapi.io/blog/analyzing-data-from-a-strapi-api-with-python
+  formats:
+    - article
+  language: en
+  date: 2020-12-01
+  authors:
+    - Cretu Razvan
+  github_authors:
+    - RazvanCretu
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Analysing_Data_from_bf5f76ea41.png
+  use_case: API
+  stack:
+    - Python
+  version: 3.5.0
+ 

@@ -8,6 +8,15 @@
     - Styled Components
   made_by: Justinian Boghici
   made_by_url: https://justinian.page
+- title: Caroster
+  url: https://caroster.io/
+  description: Carpooling Webapp made with Strapi & React.js.
+  categories:
+    - WebApp
+  frontend:
+    - React.js
+  made_by: Octree, Lean Startup Studio
+  made_by_url: https://octree.ch/
 - title: Intuz
   url: https://www.intuz.com/
   description: Software Application Development Company Website made with Strapi, React and Next.js.
@@ -726,3 +735,23 @@
     - 11ty
   made_by: Efabrika Service Design Agency
   made_by_url: https://efabrika.com
+- title: LilO. Moino
+  url: https://lilomoino.fr
+  description: Blog photo, video and music.
+  categories:
+    - Blog
+  frontend:
+    - Vue.js
+    - Nuxt.js
+    - KNACSS
+  made_by: Nicolas Hamelin
+  made_by_url: https://nicolashamelin.fr/
+- title: T10 Studios website
+  url: https://turn10studios.com/
+  description: A creative website for T10 Studios, part of Xbox Gaming Studio and creators of the Forza Franchise.
+  categories:
+    - Corporate website
+  frontend:
+    - Vue.js
+  made_by: 1minus1
+  made_by_url: https://1minus1.com/
