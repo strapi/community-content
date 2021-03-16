@@ -33,6 +33,8 @@ It is totally possible for you to submit your starter using our official templat
    - Blog: https://github.com/strapi/strapi-template-blog
    - Portfolio: https://github.com/strapi/strapi-template-portfolio
 
+A template is a Strapi project containing existing content-types and data.
+A starter is a front-end project ready to fetch a Strapi template project data.
 
 [Starters](https://github.com/strapi/community-content/tree/master/starters)
 
