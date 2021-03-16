@@ -5,6 +5,9 @@
 Show to the community your starters with Strapi!
 Remember to use our official templates right below:
 
+A template is a Strapi project containing existing content-types and data.
+A starter is a front-end project ready to fetch a Strapi template project data.
+
    - E-commerce: https://github.com/strapi/strapi-template-ecommerce
    - Corporate: https://github.com/strapi/strapi-template-corporate
    - Blog: https://github.com/strapi/strapi-template-blog
