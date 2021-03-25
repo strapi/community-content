@@ -2851,4 +2851,90 @@
   stack:
     - Python
   version: 3.5.0
- 
+- title: Strapi Draft System Explained
+  link: https://strapi.io/blog/strapi-draft-system-explained
+  formats:
+    - article
+  language: en
+  date: 2021-02-24
+  authors:
+    - Precious Luke
+  github_authors:
+    - bigpreshy
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Draft_and_Publish_System_Explained_2_1_ebecaa7555.jpg
+  use_case: Blog
+  stack:
+    - Strapi
+    - Heroku
+    - GraphQL
+    - Next.js
+  version: 3.5.0
+- title: How to build a Jamstack App with Scully.io
+  link: https://strapi.io/blog/how-to-build-a-jamstack-app-with-scully-io
+  formats:
+    - article
+  language: en
+  date: 2021-03-15
+  authors:
+    - Alejandro Soto
+  github_authors:
+    - asotog
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_and_Next_Corporate_Starter_1_374dc3d420.png
+  use_case: getting_started
+  stack:
+    - Strapi
+    - Angular
+    - GraphQL
+  version: 3.5.0
+- title: Headless CMS and Strapi SEO best practices
+  link: https://strapi.io/blog/headless-cms-strapi-seo-best-practices
+  formats:
+    - article
+  language: en
+  date: 2021-03-16
+  authors:
+    - Maxime Castres
+  github_authors:
+    - maxCastres
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/The_Best_Headless_CMS_for_SEO_1_85e5613568.png
+  use_case: SEO
+  stack:
+    - Strapi
+  version: 3.5.0
+- title: How to build a Strapi Custom Plugin
+  link: https://strapi.io/blog/how-to-build-a-strapi-custom-plugin
+  formats:
+    - article
+  language: en
+  date: 2021-03-16
+  authors:
+    - Anumadu Moses
+  github_authors:
+    - alloyking1
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_2_7d92c96106.jpg
+  use_case: Plugin
+  stack:
+    - Strapi
+  version: 3.5.0
+- title: Learning Strapi Authentication Flows with the Facebook Provider
+  link: https://strapi.io/blog/learning-strapi-authentication-flows-facebook-provider
+  formats:
+    - article
+  language: en
+  date: 2021-03-23
+  authors:
+    - Anumadu Moses
+  github_authors:
+    - alloyking1
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_3_a41d3c19c8.jpg
+  use_case: Authentication
+  stack:
+    - Strapi
+    - Ngrok
+    - Nuxt.js
+  version: 3.5.0
