@@ -16,7 +16,10 @@
     - Responsive design using UIkit
   youtube: https://www.youtube.com/embed/zE1S8CHkev8
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: yarn create strapi-starter next-blog
+  command: |-
+    yarn create strapi-starter next-blog
+    // or
+    npx create-strapi-starter next-blog
 - title: Nuxt.js Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-blog/master/screenshot.png
