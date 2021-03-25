@@ -38,7 +38,10 @@
     - Responsive design using UIkit
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: yarn create strapi-starter nuxt-blog
+  command: |-
+    yarn create strapi-starter nuxt-blog
+    // or
+    npx create-strapi-starter nuxt-blog
 - title: Gatsby Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-blog/master/screenshot.png
@@ -62,7 +65,10 @@
     - Role-based access control
   youtube: https://www.youtube.com/embed/wsFuSebpv0I
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: yarn create strapi-starter gatsby-blog
+  command: |-
+    yarn create strapi-starter gatsby-blog
+    // or
+    npx create-strapi-starter gatsby-blog
 - title: Gridsome Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-blog/master/screenshot.png
@@ -86,7 +92,10 @@
     - Role-based access control
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: yarn create strapi-starter gridsome-blog
+  command: |-
+    yarn create strapi-starter gridsome-blog
+    // or
+    npx create-strapi-starter gridsome-blog
 - title: Nuxt.js E-commerce Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-e-commerce/master/screenshot.png
@@ -109,7 +118,10 @@
     - Role-based access control
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: yarn create strapi-starter nuxt-e-commerce
+  command: |-
+    yarn create strapi-starter nuxt-e-commerce
+    // or
+    npx create-strapi-starter nuxt-e-commerce
 - title: Next.js Corporate Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/screenshot.png
@@ -129,7 +141,10 @@
     - An integrated Preview Mode, to view your pages on a private URL before publishing them
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server
-  command: yarn create strapi-starter next-corporate
+  command: |-
+    yarn create strapi-starter next-corporate
+    // or
+    npx create-strapi-starter next-corporate
 - title: Gridsome Portfolio Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-portfolio/master/screenshot.png
@@ -147,7 +162,10 @@
     - Dynamic zones to have full control over your content
   youtube: https://www.youtube.com/embed/4g3Pzj-wdXo
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: yarn create strapi-starter gridsome-portfolio
+  command: |-
+    yarn create strapi-starter gridsome-portfolio
+    // or
+    npx create-strapi-starter gridsome-portfolio
 - title: Next.js E-commerce Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-ecommerce/master/screenshot.png
@@ -168,7 +186,10 @@
     - Slug system
   youtube:
   how_to_install: Clone the repository and follow the readme instructions
-  command: yarn create strapi-starter next-ecommerce
+  command: |-
+    yarn create strapi-starter next-ecommerce
+    // or
+    npx create-strapi-starter next-ecommerce
 - title: Gatsby Catalog Starter
   author: Mark Kaylor
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-catalog/main/screenshot.png
@@ -187,4 +208,7 @@
     - Responsive design using Tailwind CSS
   youtube:
   how_to_install: Clone the repository and follow the readme instructions
-  command: yarn create strapi-starter gatsby-catalog
+  command: |-
+    yarn create strapi-starter gatsby-catalog
+    // or
+    npx create-strapi-starter gatsby-catalog
