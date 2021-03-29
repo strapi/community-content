@@ -776,3 +776,13 @@
     - Puppeteer
   made_by: Phantas Weng (F2E@OwlTing)
   made_by_url: https://phantas.tw/
+- title: Adapttive
+  url: https://adapttive.com
+  description: A tech blog focused on ecommerce and opensource 
+  categories:
+    - Blog
+  frontend:
+    - Vue.js
+    - Gridsome
+  made_by: Milind Singh
+  made_by_url: https://adapttive.com/milind
