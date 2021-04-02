@@ -16,10 +16,9 @@
     - Responsive design using UIkit
   youtube: https://www.youtube.com/embed/zE1S8CHkev8
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: |-
-    yarn create strapi-starter my-project next-blog
-    // or
-    npx create-strapi-starter my-project next-blog
+  command:
+    yarn: yarn create strapi-starter my-project next-blog
+    npm: npx create-strapi-starter my-project next-blog
 - title: Nuxt.js Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-blog/master/screenshot.png
@@ -38,10 +37,9 @@
     - Responsive design using UIkit
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: |-
-    yarn create strapi-starter my-project nuxt-blog
-    // or
-    npx create-strapi-starter my-project nuxt-blog
+  command:
+    yarn: yarn create strapi-starter my-project nuxt-blog
+    npm: npx create-strapi-starter my-project nuxt-blog
 - title: Gatsby Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-blog/master/screenshot.png
@@ -65,10 +63,9 @@
     - Role-based access control
   youtube: https://www.youtube.com/embed/wsFuSebpv0I
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: |-
-    yarn create strapi-starter my-project gatsby-blog
-    // or
-    npx create-strapi-starter my-project gatsby-blog
+  command:
+    yarn: yarn create strapi-starter my-project gatsby-blog
+    npm: npx create-strapi-starter my-project gatsby-blog
 - title: Gridsome Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-blog/master/screenshot.png
@@ -92,10 +89,9 @@
     - Role-based access control
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: |-
-    yarn create strapi-starter my-project gridsome-blog
-    // or
-    npx create-strapi-starter my-project gridsome-blog
+  command:
+    yarn: yarn create strapi-starter my-project gridsome-blog
+    npm: npx create-strapi-starter my-project gridsome-blog
 - title: Nuxt.js E-commerce Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-e-commerce/master/screenshot.png
@@ -118,10 +114,9 @@
     - Role-based access control
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: |-
-    yarn create strapi-starter my-project nuxt-e-commerce
-    // or
-    npx create-strapi-starter my-project nuxt-e-commerce
+  command:
+    yarn: yarn create strapi-starter my-project nuxt-e-commerce
+    npm: npx create-strapi-starter my-project nuxt-e-commerce
 - title: Next.js Corporate Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/screenshot.png
@@ -141,10 +136,9 @@
     - An integrated Preview Mode, to view your pages on a private URL before publishing them
   youtube:
   how_to_install: Clone the repository and start both of your backend server and frontend server
-  command: |-
-    yarn create strapi-starter my-project next-corporate
-    // or
-    npx create-strapi-starter my-project next-corporate
+  command:
+    yarn: yarn create strapi-starter my-project next-corporate
+    npm: npx create-strapi-starter my-project next-corporate
 - title: Gridsome Portfolio Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-portfolio/master/screenshot.png
@@ -162,10 +156,9 @@
     - Dynamic zones to have full control over your content
   youtube: https://www.youtube.com/embed/4g3Pzj-wdXo
   how_to_install: Clone the repository and start both of your backend server and frontend server.
-  command: |-
-    yarn create strapi-starter my-project gridsome-portfolio
-    // or
-    npx create-strapi-starter my-project gridsome-portfolio
+  command:
+    yarn: yarn create strapi-starter my-project gridsome-portfolio
+    npm: npx create-strapi-starter my-project gridsome-portfolio
 - title: Next.js E-commerce Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-ecommerce/master/screenshot.png
@@ -186,10 +179,9 @@
     - Slug system
   youtube:
   how_to_install: Clone the repository and follow the readme instructions
-  command: |-
-    yarn create strapi-starter my-project next-ecommerce
-    // or
-    npx create-strapi-starter my-project next-ecommerce
+  command:
+    yarn: yarn create strapi-starter my-project next-ecommerce
+    npm: npx create-strapi-starter my-project next-ecommerce
 - title: Gatsby Catalog Starter
   author: Mark Kaylor
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-catalog/main/screenshot.png
@@ -208,7 +200,6 @@
     - Responsive design using Tailwind CSS
   youtube:
   how_to_install: Clone the repository and follow the readme instructions
-  command: |-
-    yarn create strapi-starter my-project gatsby-catalog
-    // or
-    npx create-strapi-starter my-project gatsby-catalog
+  command:
+    yarn: yarn create strapi-starter my-project gatsby-catalog
+    npm: npx create-strapi-starter my-project gatsby-catalog
