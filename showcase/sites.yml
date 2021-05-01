@@ -1,3 +1,13 @@
+- title: Lag and Log
+  url: https://lagandlog.com/
+  description: Grow yourself by writing.
+  categories:
+    - Blog
+  frontend:
+    - Gatsby
+    - AWS(s3)
+  made_by: sasidharan
+  made_by_url: https://sudo.lglg.me/
 - title: Occhiolino Design
   url: https://www.occhiolinodesign.com/
   description: French eco-friendly furniture store.
