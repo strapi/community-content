@@ -1,3 +1,13 @@
+- title: Lag and Log
+  url: https://lagandlog.com/
+  description: Grow yourself by writing.
+  categories:
+    - Blog
+  frontend:
+    - Gatsby
+    - AWS(s3)
+  made_by: https://twitter.com/sasiKdharan
+  made_by_url: https://twitter.com/sasiKdharan
 - title: Occhiolino Design
   url: https://www.occhiolinodesign.com/
   description: French eco-friendly furniture store.
@@ -786,3 +796,14 @@
     - Gridsome
   made_by: Milind Singh
   made_by_url: https://adapttive.com/milind
+- title: BoltAPI - Monitoring of Websites and APIs
+  url: https://boltapi.com/
+  description: Monitor your Websites and APIs and certificate in realtime. When something is down get notified in many different ways.
+  categories:
+    - Developer Tools
+    - Website Monitoring
+  frontend:
+    - Nuxt.js
+    - Bootstrap
+  made_by: Tobias Thiele
+  made_by_url: https://tobias-thiele.de/

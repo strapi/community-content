@@ -2938,3 +2938,20 @@
     - Ngrok
     - Nuxt.js
   version: 3.5.0
+- title: Strapi сохранение файлов на Яндекс Object Storage
+  link: https://habr.com/ru/post/546938/
+  formats:
+    - article
+  language: Russian
+  date: 2021-03-14
+  authors:
+    - Gayrat Vlasov
+  github_authors:
+    - Ulibka68
+  source: https://habr.com/
+  image_url: https://habrastorage.org/getpro/habr/upload_files/da0/8fd/c19/da08fdc198eda115fe5cdc8d3408b9d1.png
+  use_case: Media library
+  stack:
+    - Strapi
+    - Yandex Object storage
+  version: 3.5.0
