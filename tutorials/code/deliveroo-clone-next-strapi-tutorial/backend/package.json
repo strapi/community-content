@@ -21,7 +21,7 @@
     "knex": "latest",
     "lodash": "^4.17.5",
     "sqlite3": "latest",
-    "strapi": "3.0.0-beta.14",
+    "strapi": "3.0.0-beta.17.8",
     "strapi-admin": "3.0.0-beta.14",
     "strapi-hook-bookshelf": "3.0.0-beta.14",
     "strapi-hook-knex": "3.0.0-beta.14",
