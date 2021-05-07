@@ -2756,7 +2756,7 @@
     - MongoDB
   version: 3.5.0
 - title: How to build an E-commerce Store with Nuxt.js and Strapi
-  link: https://strapi.io/blog/how-to-build-a-real-time-chat-forum-using-strapi-socket-io-react-and-mongo-db
+  link: https://strapi.io/blog/how-to-build-an-e-commerce-store-with-nuxt-js-and-strapi
   formats:
     - article
   language: en
