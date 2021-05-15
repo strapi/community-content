@@ -1,3 +1,16 @@
+- title: artmall.global
+  url: https://artmall.global/
+  description: I want to present to you my project, this is an art marketplace artmall.global. Our goal is to provide an opportunity to sell art work to new and established artists around the world.
+  categories:
+    - e-commerce
+    - marketplace
+  frontend:
+    - Nuxt.js
+    - Vue.js
+    - Composition API
+    - AWS (s3)
+  made_by: Alexander Antonyuk
+  made_by_url: https://www.linkedin.com/in/antonyuk-space/
 - title: Lag and Log
   url: https://lagandlog.com/
   description: Grow yourself by writing.
