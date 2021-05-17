@@ -205,7 +205,7 @@
     npm: npx create-strapi-starter my-project gatsby-catalog
 - title: Gatsby Corporate Starter
   author: Mark Kaylor
-  cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-catalog/main/screenshot.png
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/screenshot.png
   repo: strapi/strapi-starter-gatsby-corporate
   slug: strapi-starter-gatsby-catalog
   preview: https://strapi-starter-gatsby-corporate-git-main-strapijs.vercel.app/
