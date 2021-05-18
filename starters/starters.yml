@@ -207,7 +207,7 @@
   author: Mark Kaylor
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/screenshot.png
   repo: strapi/strapi-starter-gatsby-corporate
-  slug: strapi-starter-gatsby-catalog
+  slug: strapi-starter-gatsby-corporate
   preview: https://strapi-starter-gatsby-corporate-git-main-strapijs.vercel.app/
   integration: Gatsby
   use_cases:
