@@ -10,7 +10,11 @@
     - 2 Created articles
     - 3 Created categories
     - Permissions set to true for the required content types
-    - Responsive design using UIkit
+  starters:
+    - https://github.com/strapi/strapi-starter-next-blog
+    - https://github.com/strapi/strapi-starter-nuxt-blog
+    - https://github.com/strapi/strapi-starter-gatsby-blog
+    - https://github.com/strapi/strapi-starter-gridsome-blog
   command:
     yarn: yarn create strapi-app my-project --template blog
     npm: npx create-strapi-app my-project --template blog
@@ -27,10 +31,12 @@
     - 27 Created products
     - 6 Created categories
     - Permissions set to true for product and category
-    - Responsive design using Tailwind css
     - Slug system
     - Publication system (draft & published)
     - Role-based access control
+  starters:
+    - https://github.com/strapi/strapi-starter-nuxt-e-commerce
+    - https://github.com/strapi/strapi-starter-next-ecommerce
   command:
     yarn: yarn create strapi-app my-project --template e-commerce
     npm: npx create-strapi-app my-project --template e-commerce
@@ -45,8 +51,10 @@
     - Pages creation within Strapi, no code necessary
     - Fully flexible page structure - design the pages you want using UI Sections
     - 8 UI Sections out of the box - Hero, RichText, LargeVideo, Testimonials, Pricing, BottomActions, FeatureRows, FeatureColumns
-    - Easy to theme with Tailwind
     - Static site generation with Next
+  starters:
+    - https://github.com/strapi/strapi-starter-next-corporate
+    - https://github.com/strapi/strapi-starter-gatsby-corporate
   command:
     yarn: yarn create strapi-app my-project --template corporate
     npm: npx create-strapi-app my-project --template corporate
@@ -62,6 +70,8 @@
     - Single types for the homepage, the about page and the global config
     - Components for reusable UI components and SEO metadata
     - Dynamic zones to have full control over your content
+  starters:
+    - https://strapi.io/starters/strapi-starter-gridsome-portfolio
   command:
     yarn: yarn create strapi-app my-project --template portfolio
     npm: npx create-strapi-app my-project --template portfolio
@@ -77,8 +87,8 @@
     - Specifications component for Products
     - 2 Collection types - Product, Category
     - Related Products
-    - Local search using gatsby-plugin-local-search
-    - Responsive design using Tailwind CSS
+  starters:
+    - https://github.com/strapi/strapi-starter-gatsby-catalog
   command:
     yarn: yarn create strapi-app my-project --template catalog
     npm: npx create-strapi-app my-project --template catalog

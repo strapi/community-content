@@ -1,35 +1,10 @@
-![Starters](/assets/banner-starters.png)
-
 # Template
 
 A template is a Strapi project containing existing content-types and data.
 
 Show the community your template with Strapi!
 
-## How to develop a template
-
-**Create** a Strapi project from scratch using:
-
-```bash
-# yarn
-yarn create strapi-app my-project
-
-# npm 
-npx create-strapi-app my-project
-```
-
-**Build** out your project by adding content-types, components, dynamic zones or plugins.
-
-**Generate** the template by running:
-
-```bash
-# yarn
-yarn strapi generate:template <path/to/name-of-template>
-
-# npm 
-npx strapi generate:template <path/to/name-of-template>
-```
-
+Learn more about templates [here](https://strapi.io/documentation/developer-docs/latest/developer-resources/cli/CLI.html#strapi-generate-template)
 
 ## How to add your template
 
@@ -45,10 +20,11 @@ npx strapi generate:template <path/to/name-of-template>
   description: A pre-configured Strapi <name> template to build projects with any frontend.
   features:
     - 2 Collection types
-    - 2 Created articles
-    - 3 Created categories
     - Permissions set to true for the required content types
-    - Responsive design using UIkit
+    - Internationalization with i18n
+    - Draft and publish
+  starters:
+    - https://github.com/<username>/<some-public-repo>
   command:
     yarn: yarn create strapi-app my-project --template <name>
     npm: npx create-strapi-app my-project --template <name>
