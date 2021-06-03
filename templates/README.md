@@ -1,3 +1,5 @@
+![Templates](/assets/banner-templates.png)
+
 # Template
 
 A template is a Strapi project containing existing content-types and data.
