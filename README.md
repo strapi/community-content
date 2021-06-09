@@ -10,15 +10,12 @@ Contribute and collaborate on educational content for the Strapi Community.
 
 ## Articles
 
-You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin).
+You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin) covering the following topics: Headless and CMS, jamstack, javascript, open source, and Strapi tutorials, guides, and How-tos.
 
 Considering writing for the Strapi community? Please [register your author details and read our FAQ](https://strapi.io/write-for-the-community) before submitting content.
 
   - [Have your own topic or tutorial? Submit your article proposal](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
   - [Write about topics / tutorials requested by our community](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22)
-  - [Update a content](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=update-a-tutorial.md&title=%5BUPDATE%5D)
-  - [Translate a content](https://github.com/strapi/community-content/issues/new?template=translate-a-resource.md&title=%5BTRANSLATE%5D)
-
 
   [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
 
