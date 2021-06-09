@@ -78,8 +78,6 @@ Here are few things that writing for strapi can do for you:
 
 - Learn while sharing your knowledge. You know how to create an application with Strapi and Nuxt? Pass this knowledge to others!
 - Get your name on this repository README.md
-- Get access to a private slack channel `makers`
-- Get some strapi goodies (stickers, cap, t-shirt)
 - Get a complete Strapi course
 
 **By making a tutorial for us you participate in the growth of an open source project.**
