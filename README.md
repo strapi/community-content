@@ -4,21 +4,19 @@
 
 Contribute and collaborate on educational content for the Strapi Community.
 
-  - [Tutorials](#Tutorials)
+  - [Articles](#Articles)
   - [Starters](#Starters)
   - [Showcase](#Showcase)
 
-## Tutorials
+## Articles
 
-Follow along with our community tutorials to get you up and running with Strapi.
-You can also write non-tutorial articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/reasons-why-you-should-make-your-project-open-source).
+You can write technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin).
 
-Considering writing for the Strapi community? Please read our [FAQ](https://www.notion.so/strapi/Strapi-Write-for-the-Community-FAQs-b1fa0282d68a4c3e933fdd5e05f61a46)
+Considering writing for the Strapi community? Please read our [FAQ](https://strapi.io/write-for-the-community)
 
-  - [Submit a topic](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
-  - [Submit a tutorial](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
-  - [Update a tutorial](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=update-a-tutorial.md&title=%5BUPDATE%5D)
-  - [Translate a tutorial](https://github.com/strapi/community-content/issues/new?template=translate-a-resource.md&title=%5BTRANSLATE%5D)
+  - [Submit a topic/tutorial](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
+  - [Update a content](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=update-a-tutorial.md&title=%5BUPDATE%5D)
+  - [Translate a content](https://github.com/strapi/community-content/issues/new?template=translate-a-resource.md&title=%5BTRANSLATE%5D)
 
 
   [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
