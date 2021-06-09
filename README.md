@@ -14,7 +14,8 @@ You can write both technical and non technical articles that can be featured on 
 
 Considering writing for the Strapi community? Please [register your author details and read our FAQ](https://strapi.io/write-for-the-community) before submitting content.
 
-  - [Submit a topic or tutorial](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
+  - [Have your own topic or tutorial? Submit your article idea](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
+  - [Write about topics / tutorials requested by our community](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22)
   - [Update a content](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=update-a-tutorial.md&title=%5BUPDATE%5D)
   - [Translate a content](https://github.com/strapi/community-content/issues/new?template=translate-a-resource.md&title=%5BTRANSLATE%5D)
 
