@@ -1,6 +1,6 @@
 # Strapi Article Guidelines
 
-These guidelines will help you to have your article published on Strapi. We do not post articles that don't follow our guidelines.
+These guidelines will help you to have your article published on Strapi. 
 
 ## Article
 If you read this, you are interested by writing articles for strapi and that's great!
@@ -61,18 +61,20 @@ The conclusion must summarize what the reader has just accomplished but also pro
 
 #### Do not forget to:
   - Add the word count at the end of your article - excluding the code.
-  - Add a meta description for your article - [Here are few examples](https://themeisle.com/blog/meta-description-examples/) 
+  - Use Grammarly https://app.grammarly.com/ to fix all spelling and grammar mistakes.
   - Create the images for your article - [Access the template](https://www.figma.com/community/file/984457206556704992) Duplicate the template and create two images for your article. Add your image and edit the title, icons, and emojis to best match your article subject. Use either "Tutorial" or "Ecosystem" category based on your article content. You can check our blog for reference.
+  
+
 
 ### SEO Guidelines
   
   ## Title
 Include (1-2) keywords in the title.
 No more than 60 characters.
-  
-  ## Description
-Place essential keywords (2-3) in the first two sentences of the description.
-No more than 155 characters.
+
+  ## Meta Description
+Add a meta description for your article. Place essential keywords (2-3) in the first two sentences of the description.
+No more than 155 characters. [Here are few examples](https://themeisle.com/blog/meta-description-examples/) 
 
   ## Content
   - Introduction: The introduction needs to quickly hook your reader and convince them to read the rest of your blog post. It also has to let the reader know what your post is about. Whether your approach is humour, interesting and surprising facts, or asking a question, find a way to make the first lines of your blog posts as attention-grabbing as possible. Write an introduction that would make you want to keep reading an article -- a quick few paragraphs to draw the reader in and let him know what he's about to read.
@@ -86,49 +88,53 @@ No more than 155 characters.
 Let keywords flow naturally and in a contextual way inside your content.
   
 *Here is a list of keywords about Strapi to use in our articles.*
-api	
-best cms for x (stack)	
-build process	
-content delivery	
-content delivery network	
-content hub	
-content management	
-content management system	
-content model	
-create content	
-deliver content	
-digital experiences	
-free headless cms	
-graphql cms	
-headless cms	
-headless cms ecommerce	
-headless ecommerce open source	
-jamstack	
-javascript	
-javascript apis and markup	
-javascript cms	
-learn javascript	
-learn javascript	
-mobile apps	
-nodejs	
-nodejs cms	
-open source headless cms	
-open-source	
-programming languages	
-react cms	
-real time	
-restful api	
-self hosted headless cms	
-self-hosted	
-site generator	
-static site	
-strapi	
-web server	
-x (stack) cms	
+  - api	
+  - best cms for x (stack)	
+  - build process	
+  - content delivery	
+  - content delivery network	
+  - content hub	
+  - content management	
+  - content management system	
+  - content model	
+  - create content	
+  - deliver content	
+  - digital experiences	
+  - free headless cms	
+  - graphql cms	
+  - headless cms	
+  - headless cms ecommerce	
+  - headless ecommerce open source	
+  - jamstack	
+  - javascript	
+  - javascript apis and markup	
+  - javascript cms	
+  - learn javascript	
+  - learn javascript	
+  - mobile apps	
+  - nodejs	
+  - nodejs cms	
+  - open source headless cms	
+  - open-source	
+  - programming languages	
+  - react cms	
+  - real time	
+  - restful api	
+  - self hosted headless cms	
+  - self-hosted	
+  - site generator	
+  - static site	
+  - strapi	
+  - web server	
+  - x (stack) cms	
 
  
- 
- 
+ # Before you submit, Make sure you
+ ✅ Followed Article Content Structure
+ ✅ Followed SEO Guidelines
+ ✅ Proofread your article for errors in grammar, spelling, and typography.
+  
+ We do not post articles that don't follow our guidelines.
   
  
 
