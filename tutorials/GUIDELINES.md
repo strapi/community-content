@@ -52,7 +52,7 @@ This part defines the different steps of your tutorial and indicates precisely w
 There must be an introduction for each step and a transition before the next one
 All commands must be explained and must reside in their own code block. It is important to specify the path in which they are executed so that the reader is not lost.
   
-It is also advisable to add screenshots. 
+It is also strongly advisable to add screenshots. 
 
 It is obvious to detail each script / code that you include so that the reader can really understand its usefulness and subsequently customize it. As well as the link to the source code (Github)
 
@@ -60,9 +60,9 @@ It is obvious to detail each script / code that you include so that the reader c
 The conclusion must summarize what the reader has just accomplished but also propose what he could do afterwards. Indeed proposing improvements, adjustments is a very good point. 
 
 #### Do not forget to:
-Add the word count at the end of your article - excluding the code.
-Add a meta description for your article - [Here are few examples](https://themeisle.com/blog/meta-description-examples/) 
-Create the images for your article - [Access the template](https://www.figma.com/community/file/984457206556704992) Duplicate the template and create two images for your article. Add your image and edit the title, icons, and emojis to best match your article subject. Use either "Tutorial" or "Ecosystem" category based on your article content. You can check our blog for reference.
+  - Add the word count at the end of your article - excluding the code.
+  - Add a meta description for your article - [Here are few examples](https://themeisle.com/blog/meta-description-examples/) 
+  - Create the images for your article - [Access the template](https://www.figma.com/community/file/984457206556704992) Duplicate the template and create two images for your article. Add your image and edit the title, icons, and emojis to best match your article subject. Use either "Tutorial" or "Ecosystem" category based on your article content. You can check our blog for reference.
 
 ### SEO Guidelines
   
@@ -73,10 +73,18 @@ No more than 60 characters.
   ## Description
 Place essential keywords (2-3) in the first two sentences of the description.
 No more than 155 characters.
-  
+
+  ## Content
+  - Introduction: The introduction needs to quickly hook your reader and convince them to read the rest of your blog post. It also has to let the reader know what your post is about. Whether your approach is humour, interesting and surprising facts, or asking a question, find a way to make the first lines of your blog posts as attention-grabbing as possible. Write an introduction that would make you want to keep reading an article -- a quick few paragraphs to draw the reader in and let him know what he's about to read.
+  - Paragraphs: Please use sub-headers to split up sections of your blog post (H2 tag). Optimize them by using keywords.
+  - Linking: Please link to what you are referring to in a sentence. Make sure to link to high ranking websites. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
+  - The longer your article is, the better Google will reference it.
+  - Please compress your images before uploading them.
+  - Please, be sure to not write hard sentences. You can use this great tool for that https://hemingwayapp.com.
+
   ## Keywords
 Let keywords flow naturally and in a contextual way inside your content.
-
+  
 *Here is a list of keywords about Strapi to use in our articles.*
 api	
 best cms for x (stack)	
