@@ -10,9 +10,9 @@ Contribute and collaborate on educational content for the Strapi Community.
 
 ## Articles
 
-You can write technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin).
+You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin).
 
-Considering writing for the Strapi community? Please read our [FAQ](https://strapi.io/write-for-the-community) <a href="https://strapi.io/write-for-the-community" target="_blank">FAQ</a>
+Considering writing for the Strapi community? Please read our [FAQ](https://strapi.io/write-for-the-community)
 
   - [Submit a topic/tutorial](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
   - [Update a content](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=update-a-tutorial.md&title=%5BUPDATE%5D)
@@ -97,5 +97,3 @@ Thank you to all the people who created content for the community!
   <img src="https://github.com/tarekbozo.png" width="80" height="80" />
   <img src="https://github.com/bastianhilton.png" width="80" height="80" />
 </p>
-
-[Join them by creating content](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D)
