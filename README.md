@@ -22,8 +22,10 @@ You can write both technical and non technical articles that can be featured on 
 
 ### Resources:
 Before you start working on your first draft, please read thoroughly [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md)
+
 Improve your Writing Skills: Strapi's technical writing workshop [Watch Video](https://drive.google.com/file/d/1uN5c-PY2pdOH1TidZLYiiP9HmgFD9OHU/view) 
-Still have questions? Learn how to get paid and submit your invoice: [read our FAQ](https://strapi.io/write-for-the-community)
+
+Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/write-for-the-community)
 
 #### Help us Improve our Content
 
