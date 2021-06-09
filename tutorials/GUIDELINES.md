@@ -57,4 +57,70 @@ It is also advisable to add screenshots.
 It is obvious to detail each script / code that you include so that the reader can really understand its usefulness and subsequently customize it. As well as the link to the source code (Github)
 
 #### Conclusion
-The conclusion must summarize what the reader has just accomplished but also propose what he could do afterwards. Indeed proposing improvements, adjustments is a very good point
+The conclusion must summarize what the reader has just accomplished but also propose what he could do afterwards. Indeed proposing improvements, adjustments is a very good point. 
+
+#### Do not forget to:
+Add the word count at the end of your article - excluding the code.
+Add a meta description for your article - [Here are few examples](https://themeisle.com/blog/meta-description-examples/) 
+Create the images for your article - [Access the template](https://www.figma.com/community/file/984457206556704992) Duplicate the template and create two images for your article. Add your image and edit the title, icons, and emojis to best match your article subject. Use either "Tutorial" or "Ecosystem" category based on your article content. You can check our blog for reference.
+
+### SEO Guidelines
+  
+  ## Title
+Include (1-2) keywords in the title.
+No more than 60 characters.
+  
+  ## Description
+Place essential keywords (2-3) in the first two sentences of the description.
+No more than 155 characters.
+  
+  ## Keywords
+Let keywords flow naturally and in a contextual way inside your content.
+
+*Here is a list of keywords about Strapi to use in our articles.*
+api	
+best cms for x (stack)	
+build process	
+content delivery	
+content delivery network	
+content hub	
+content management	
+content management system	
+content model	
+create content	
+deliver content	
+digital experiences	
+free headless cms	
+graphql cms	
+headless cms	
+headless cms ecommerce	
+headless ecommerce open source	
+jamstack	
+javascript	
+javascript apis and markup	
+javascript cms	
+learn javascript	
+learn javascript	
+mobile apps	
+nodejs	
+nodejs cms	
+open source headless cms	
+open-source	
+programming languages	
+react cms	
+real time	
+restful api	
+self hosted headless cms	
+self-hosted	
+site generator	
+static site	
+strapi	
+web server	
+x (stack) cms	
+
+ 
+ 
+ 
+  
+ 
+
