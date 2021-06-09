@@ -12,7 +12,8 @@ Contribute and collaborate on educational content for the Strapi Community.
 
 #### Write for the Community Program
 
-Considering writing for the Strapi community and sharing your technical expertise? Please [register your author details and read our FAQ](https://strapi.io/write-for-the-community) before submitting content.
+Considering writing for the Strapi community and sharing your technical expertise? 
+  - Please [register your author details](https://strapi.io/write-for-the-community) before submitting content.
 
 You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin) covering the following topics: Headless and CMS, jamstack, javascript, open source, and Strapi tutorials, guides, and How-tos.
 
@@ -22,7 +23,7 @@ You can write both technical and non technical articles that can be featured on 
 ### Resources:
 Before you start working on your first draft, please read thoroughly [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md)
 Improve your Writing Skills: Strapi's technical writing workshop [Watch Video](https://drive.google.com/file/d/1uN5c-PY2pdOH1TidZLYiiP9HmgFD9OHU/view) 
-
+Still have questions? Learn how to get paid and submit your invoice: [read our FAQ](https://strapi.io/write-for-the-community)
 
 #### Help us Improve our Content
 
