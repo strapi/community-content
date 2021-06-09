@@ -130,8 +130,11 @@ Let keywords flow naturally and in a contextual way inside your content.
 
  
  # Before you submit, Make sure you
+  
  ✅ Followed Article Content Structure
+  
  ✅ Followed SEO Guidelines
+  
  ✅ Proofread your article for errors in grammar, spelling, and typography.
   
  We do not post articles that don't follow our guidelines.
