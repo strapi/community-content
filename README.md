@@ -40,9 +40,6 @@ Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/
 [Tutorial Guide:](https://github.com/strapi/community-content/tree/master/tutorials) Follow the step by step process to add your [tutorial on Strapi Website](https://strapi.io/tutorials) or request a tutorial.
 
 
-
-  [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
-
 ## Starters
 
 Do you want to create your own e-commerce starter with Strapi and Svelte and share it with the community?
