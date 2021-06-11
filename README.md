@@ -35,6 +35,12 @@ Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/
 
 [Create an issue concerning a content:](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=&template=issue.md&title=%5BISSUE%5D)  Please explain which article or tutorial has an issue.
 
+### Feature or request a Tutorial
+
+[Tutorial Guide:](https://github.com/strapi/community-content/tree/master/tutorials) Follow the step by step process to add your [tutorial on Strapi Website](https://strapi.io/tutorials) or request a tutorial.
+
+
+
   [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
 
 ## Starters
