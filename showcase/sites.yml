@@ -807,3 +807,13 @@
     - Bootstrap
   made_by: Tobias Thiele
   made_by_url: https://tobias-thiele.de/
+  - title: Café Hamlet - Café Restaurant Rouen - Aître Saint Maclou
+  url: https://www.cafe-hamlet.fr/
+  description: Website of french restaurant of ex 2 star Chef Gilles Tournadre (Café Hamlet)
+  categories:
+    - Corporate Website
+  frontend:
+    - Create react app
+    - Bootstrap
+  made_by: Gaylord Julien
+  made_by_url: https://www.emael76.fr/
