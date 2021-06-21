@@ -807,3 +807,12 @@
     - Bootstrap
   made_by: Tobias Thiele
   made_by_url: https://tobias-thiele.de/
+  - title: Orange Flex blog
+  url: https://flex.orange.pl/blog
+  description: A blog abour Flex news, technology information and tips
+  categories:
+    - Blog
+  frontend:
+    - React
+  made_by: Orange PL
+  made_by_url: https://flex.orange.pl/
