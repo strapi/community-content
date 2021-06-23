@@ -1,7 +1,7 @@
 ---
 name: Request New Content
 about: Ask for new content to be created by the Strapi team or the community
-title: "[TOPIC]"
+title: "[Request New Content]"
 labels: Looking for author
 assignees:
 ---
