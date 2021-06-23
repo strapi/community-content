@@ -13,12 +13,13 @@ Contribute and collaborate on educational content for the Strapi Community.
 ### Write for the Community Program
 
 Considering writing for the Strapi community and sharing your technical expertise? 
-  - Please [register your author details](https://strapi.io/write-for-the-community) before submitting content.
+  - 1- Please [register your author details](https://strapi.io/write-for-the-community) before submitting content.
 
 You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin) covering the following topics: Headless and CMS, jamstack, javascript, open source, and Strapi tutorials, guides, and How-tos.
 
-  - [Submit your article proposal](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D) Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. Our team will review your request and assign you the article.
-  - [Write about topics / tutorials requested by our community](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22) Browse and select any topic labeled with "looking for an author". Add a comment to show your interest and include a short summary and a detailed outline. Our team will review your request and assign you the article.
+  - 2- [Submit your article proposal](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D) Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. Our team will review your request and assign you the article.
+  
+  - 3- [Write about topics / tutorials requested by our community](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22) Browse and select any topic labeled with "looking for an author". Add a comment to show your interest and include a short summary and a detailed outline. Our team will review your request and assign you the article.
 
 #####  Resources:
 Before you start working on your first draft, please read thoroughly [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md)
