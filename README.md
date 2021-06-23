@@ -8,9 +8,9 @@ Contribute and collaborate on educational content for the Strapi Community.
   - [Starters](#Starters)
   - [Showcase](#Showcase)
 
-## Articles
+## Articles:
 
-## Write for the Community Program
+## 1- Write for the Community Program
 
 Considering writing for the Strapi community and sharing your technical expertise? 
 
@@ -46,7 +46,7 @@ Improve your Writing Skills: Strapi's technical writing workshop [Watch Video](h
 
 Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/write-for-the-community)
 
-## Help us Improve our Content
+## 2- Help us Improve our Content
 
 [Report outdated content:](https://github.com/strapi/community-content/issues/new?assignees=&labels=Looking+for+author%2C+Outdated+content&template=request-update-on-outdated-content.md&title=%5BUPDATE+OUTDATED+CONTENT%5D) Ask for an outdated content to be updated by the Strapi team or the community
 
