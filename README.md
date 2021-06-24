@@ -24,7 +24,7 @@ You can write both technical and non technical articles that can be featured on 
 
 #### Step 2: Propose a topic and an outline
 
-  - [Submit your article proposal](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D) Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. 
+  - [Submit your own article proposal](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D) Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. 
   
   - [Write about topics / tutorials requested by our community](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22) Browse and select any topic labeled with "looking for an author". Add a comment to show your interest and include a short summary and a detailed outline. 
 
