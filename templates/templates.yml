@@ -20,8 +20,8 @@
     npm: npx create-strapi-app my-project --template blog
 - title: E-commerce Template
   author: Maxime Castres
-  repo: strapi/strapi-template-e-commerce
-  slug: strapi-template-e-commerce
+  repo: strapi/strapi-template-ecommerce
+  slug: strapi-template-ecommerce
   use_cases:
     - E-commerce
   description: A pre-configured Strapi e-commerce template to build projects with any frontend.
