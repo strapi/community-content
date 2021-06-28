@@ -807,7 +807,7 @@
     - Bootstrap
   made_by: Tobias Thiele
   made_by_url: https://tobias-thiele.de/
-  - title: Café Hamlet - Café Restaurant Rouen - Aître Saint Maclou
+- title: Café Hamlet - Café Restaurant Rouen - Aître Saint Maclou
   url: https://www.cafe-hamlet.fr/
   description: Website of french restaurant of ex 2 star Chef Gilles Tournadre (Café Hamlet)
   categories:
@@ -817,3 +817,12 @@
     - Bootstrap
   made_by: Gaylord Julien
   made_by_url: https://www.emael76.fr/
+- title: Orange Flex blog
+  url: https://flex.orange.pl/blog
+  description: A blog abour Flex news, technology information and tips
+  categories:
+    - Blog
+  frontend:
+    - React
+  made_by: Orange PL
+  made_by_url: https://flex.orange.pl/

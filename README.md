@@ -8,17 +8,43 @@ Contribute and collaborate on educational content for the Strapi Community.
   - [Starters](#Starters)
   - [Showcase](#Showcase)
 
-## Articles
+## Articles:
 
-### Write for the Community Program
+## 1- Write for the Community Program
 
 Considering writing for the Strapi community and sharing your technical expertise? 
+
+### How it Works?
+
+#### Step 1: Register to join the program
+
   - Please [register your author details](https://strapi.io/write-for-the-community) before submitting content.
 
 You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin) covering the following topics: Headless and CMS, jamstack, javascript, open source, and Strapi tutorials, guides, and How-tos.
 
-  - [Submit your article proposal](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D) Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. Our team will review your request and assign you the article.
-  - [Write about topics / tutorials requested by our community](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22) Browse and select any topic labeled with "looking for an author". Add a comment to show your interest and include a short summary and a detailed outline. Our team will review your request and assign you the article.
+#### Step 2: Join our Discord Channel
+
+We have a dedicated space for the ["Write for the community"](https://discord-wfc.strapi.io) for news & updates.
+
+#### Step 3: Propose a topic and an outline
+
+  - [Submit your own article proposal](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D) Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. 
+  
+  - [Write about topics / tutorials requested by our community](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22) Browse and select any topic labeled with "looking for an author". Add a comment to show your interest and include a short summary and a detailed outline. 
+
+#### Step 4: Topic review
+
+Our team will review your request, approve and assign you the article.
+
+
+#### Step 5: Review Guidelines and Submit your article
+  - Please go over the [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md) BEFORE working on your first draft. Make sure that you go over our [FAQ](https://strapi.io/write-for-the-community) to learn more about the submission process.
+ 
+
+#### Step 6: Get paid
+
+  - Once your article is reviewed and published on our blog, you can submit your invoice to get paid. To issue and submit your invoice, please check the "how to get paid" section in our [FAQ](https://strapi.io/write-for-the-community)
+
 
 #####  Resources:
 Before you start working on your first draft, please read thoroughly [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md)
@@ -27,7 +53,7 @@ Improve your Writing Skills: Strapi's technical writing workshop [Watch Video](h
 
 Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/write-for-the-community)
 
-### Help us Improve our Content
+## 2- Help us Improve our Content
 
 [Report outdated content:](https://github.com/strapi/community-content/issues/new?assignees=&labels=Looking+for+author%2C+Outdated+content&template=request-update-on-outdated-content.md&title=%5BUPDATE+OUTDATED+CONTENT%5D) Ask for an outdated content to be updated by the Strapi team or the community
 
@@ -35,7 +61,10 @@ Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/
 
 [Create an issue concerning a content:](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=&template=issue.md&title=%5BISSUE%5D)  Please explain which article or tutorial has an issue.
 
-  [Tutorials](https://github.com/strapi/community-content/tree/master/tutorials)
+### Feature or request a Tutorial
+
+[Tutorial Guide:](https://github.com/strapi/community-content/tree/master/tutorials) Follow the step by step process to add your [tutorial on Strapi Website](https://strapi.io/tutorials) or request a tutorial.
+
 
 ## Starters
 
