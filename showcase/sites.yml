@@ -838,3 +838,15 @@
     - React
   made_by: Orange PL
   made_by_url: https://flex.orange.pl/
+- title: artmall.global
+  url: https://artmall.global/
+  description: I want to present to you my project, this is an art marketplace artmall.global. Our goal is to provide an opportunity to sell art work to new and established artists around the world.
+  categories:
+    - E-commerce
+    - Marketplace
+  frontend:
+    - Nuxt.js
+    - Vue.js
+    - AWS (s3)
+  made_by: Alexander Antonyuk
+  made_by_url: https://www.linkedin.com/in/antonyuk-space/
