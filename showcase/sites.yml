@@ -809,6 +809,16 @@
     - Bootstrap
   made_by: Tobias Thiele
   made_by_url: https://tobias-thiele.de/
+- title: Ops One - Swiss DevOps services
+  url: https://opsone.ch/
+  description: Whether consulting, managed servers, managed Kubernetes or managed applications - Ops One offers you individual solutions that fit you exactly.
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Nuxt.js
+  made_by: Unknown Digital
+  made_by_url: https://unknown.digital/
 - title: Café Hamlet - Café Restaurant Rouen - Aître Saint Maclou
   url: https://www.cafe-hamlet.fr/
   description: Website of french restaurant of ex 2 star Chef Gilles Tournadre (Café Hamlet)
