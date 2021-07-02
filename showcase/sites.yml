@@ -117,10 +117,12 @@
   made_by: ASOS
   made_by_url: https://asos.com
 - title: Freestyle Stats
-  url: https://freestylestats.com/
+  url: https://freestylestats.com
   description: All the information about the best freestyle competitions and their participants. Results, matches, freestylers, DJs, judges and more!
   categories:
   frontend:
+    - Web Components
+    - Lit
   made_by: Freestyle Stats
   made_by_url: https://freestylestats.com/
 - title: Bioinn
