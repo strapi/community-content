@@ -15,13 +15,13 @@
     "csv-parse": "4.8.2",
     "get-urls": "9.2.0",
     "knex": "<0.20.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "request": "^2.88.0",
     "rss-parser": "3.7.3",
     "simple-statistics": "7.0.7",
     "sqlite3": "latest",
-    "strapi": "3.0.0-beta.18.3",
+    "strapi": "3.2.5",
     "strapi-admin": "3.0.0-beta.18.3",
     "strapi-connector-bookshelf": "3.0.0-beta.18.3",
     "strapi-plugin-content-manager": "3.0.0-beta.18.3",
@@ -31,7 +31,7 @@
     "strapi-plugin-upload": "3.0.0-beta.18.3",
     "strapi-plugin-users-permissions": "3.0.0-beta.18.3",
     "strapi-utils": "3.0.0-beta.18.3",
-    "striptags": "3.1.1"
+    "striptags": "3.2.0"
   },
   "author": {
     "name": "A Strapi developer"

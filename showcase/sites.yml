@@ -117,10 +117,12 @@
   made_by: ASOS
   made_by_url: https://asos.com
 - title: Freestyle Stats
-  url: https://freestylestats.com/
+  url: https://freestylestats.com
   description: All the information about the best freestyle competitions and their participants. Results, matches, freestylers, DJs, judges and more!
   categories:
   frontend:
+    - Web Components
+    - Lit
   made_by: Freestyle Stats
   made_by_url: https://freestylestats.com/
 - title: Bioinn
@@ -817,3 +819,22 @@
     - Nuxt.js
   made_by: Unknown Digital
   made_by_url: https://unknown.digital/
+- title: Café Hamlet - Café Restaurant Rouen - Aître Saint Maclou
+  url: https://www.cafe-hamlet.fr/
+  description: Website of french restaurant of ex 2 star Chef Gilles Tournadre (Café Hamlet)
+  categories:
+    - Corporate Website
+  frontend:
+    - Create react app
+    - Bootstrap
+  made_by: Gaylord Julien
+  made_by_url: https://www.emael76.fr/
+- title: Orange Flex blog
+  url: https://flex.orange.pl/blog
+  description: A blog abour Flex news, technology information and tips
+  categories:
+    - Blog
+  frontend:
+    - React
+  made_by: Orange PL
+  made_by_url: https://flex.orange.pl/

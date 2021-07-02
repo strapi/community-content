@@ -2756,7 +2756,7 @@
     - MongoDB
   version: 3.5.0
 - title: How to build an E-commerce Store with Nuxt.js and Strapi
-  link: https://strapi.io/blog/how-to-build-a-real-time-chat-forum-using-strapi-socket-io-react-and-mongo-db
+  link: https://strapi.io/blog/how-to-build-an-e-commerce-store-with-nuxt-js-and-strapi
   formats:
     - article
   language: en
@@ -2955,3 +2955,464 @@
     - Strapi
     - Yandex Object storage
   version: 3.5.0
+- title: Install Strapi by PowerShell and Cake build
+  link: https://www.youtube.com/watch?v=Gq6WoYX1j8k
+  formats:
+    - video
+  language: English
+  date: 2021-06-03
+  authors:
+    - Fugbixist
+  github_authors:
+    - khiemnd777
+  source: https://youtube.com/
+  image_url:
+  use_case: Getting started
+  stack:
+    - Strapi
+  version: 3.6.0
+- title: An Introduction to Strapi Starters
+  link: https://www.youtube.com/watch?v=pVexw5sIPIY
+  formats:
+    - video
+  language: English
+  date: 2021-06-02
+  authors:
+    - Daniel Madalitso Phiri
+  github_authors:
+    - malgamves
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/pVexw5sIPIY/hq720.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Next.js
+    - Nuxt.js
+    - Gatsby
+    - Gridsome
+  version: 3.6.3
+- title: Strapi (Headless CMS) - Курс для старта
+  link: https://www.youtube.com/watch?v=Ng1af052FRA
+  formats:
+    - video
+  language: Russian
+  date: 2021-06-02
+  authors:
+    - Frontend connect
+  github_authors:
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/Ng1af052FRA/hqdefault.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+  version: 3.6.2
+- title: How to use JWT with SvelteKit and Strapi
+  link: https://www.youtube.com/watch?v=WgX87HDrAss
+  formats:
+    - video
+  language: English
+  date: 2021-05-30
+  authors:
+    - Brayden Girard
+  github_authors:
+    - BraydenGirard
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/WgX87HDrAss/hq720.jpg
+  use_case: Mobile App
+  stack:
+    - Strapi
+    - Svelte
+  version: 3.6.2
+- title: Web scraping with Strapi
+  link: https://www.youtube.com/watch?v=6d6CJ2q1x-Q
+  formats:
+    - video
+  language: English
+  date: 2021-04-30
+  authors:
+    - Maxime Castres
+  github_authors:
+    - Mcastres
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/6d6CJ2q1x-Q/hq720.jpg
+  use_case: Web Scraping
+  stack:
+    - Strapi
+    - Puppeteer
+  version: 3.6.0
+- title: Building a Localized iOS App using SwiftUI and Strapi
+  link: https://www.youtube.com/watch?v=1qO-OTk59rk
+  formats:
+    - video
+  language: English
+  date: 2021-05-28
+  authors:
+    - Headless Creator
+  github_authors:
+    - headlesscreator
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/1qO-OTk59rk/hq720.jpg
+  use_case: Mobile App
+  stack:
+    - Strapi
+    - Swift
+  version: 3.6.0
+- title: Build a production Strapi instance service by service with Platform.sh
+  link: https://www.youtube.com/watch?v=lDFMkMtIsvI
+  formats:
+    - video
+  language: English
+  date: 2021-05-28
+  authors:
+    - Platform.sh
+  github_authors:
+    - platformsh
+  source: https://youtube.com/
+  image_url:
+  use_case: Deployment
+  stack:
+    - Strapi
+    - Platform.sh
+  version: 3.6.0
+- title: How to do Pagination With Nuxt, Vue, GraphQL, Apollo, and Strapi Headless CMS
+  link: https://www.youtube.com/watch?v=v9kozaLjAR8
+  formats:
+    - video
+  language: English
+  date: 2021-05-27
+  authors:
+    - marvthedev
+  github_authors:
+    - marvthedev
+  source: https://youtube.com/
+  image_url:
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Nuxt.js
+    - GraphQL
+    - Vue.js
+    - Apollo
+  version: 3.6.0
+- title: Build a CRUD App in Next JS with Strapi CMS Cloudinary
+  link: https://www.youtube.com/watch?v=-9k6mQF7Kjg
+  formats:
+    - video
+  language: English
+  date: 2021-05-25
+  authors:
+    - CodeWithVishal
+  github_authors:
+    - trickjsprogram
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/-9k6mQF7Kjg/hqdefault.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Next.js
+    - Cloudinary
+  version: 3.6.0
+- title: Cloudinary Workshop - Strapi 101 - The Fundamentals
+  link: https://www.youtube.com/watch?v=LClLYd2_W9Y
+  formats:
+    - video
+  language: English
+  date: 2021-05-25
+  authors:
+    - cloudinary
+  github_authors:
+    - cloudinary
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/LClLYd2_W9Y/hq720.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Cloudinary
+  version: 3.6.0
+- title: Motiv Workshop - Moving Content Between Multiple Strapi Environments
+  link: https://www.youtube.com/watch?v=6RUZJuRxV5o
+  formats:
+    - video
+  language: English
+  date: 2021-05-25
+  authors:
+    - Motiv Solutions
+  github_authors:
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/6RUZJuRxV5o/hq720.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+  version: 3.6.0
+- title: Reactjs app Integration with Strapi (Headless CMS)
+  link: https://www.youtube.com/watch?v=YuHk9J8Bp_k
+  formats:
+    - video
+  language: English
+  date: 2021-05-15
+  authors:
+    - TechGeeks
+  github_authors:
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/YuHk9J8Bp_k/hq720.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+    - React
+  version: 3.6.0
+- title: An internationalisation with Nuxt and Strapi by Pixelhop
+  link: https://www.youtube.com/watch?v=AZh7m8ysI0U
+  formats:
+    - video
+  language: English
+  date: 2021-05-14
+  authors:
+    - Pixelhop
+  github_authors:
+    - pixelhop
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/AZh7m8ysI0U/hq720.jpg
+  use_case: Internationalization
+  stack:
+    - Strapi
+    - Nuxt.js
+  version: 3.6.0
+- title: How To Use Strapi (for beginners)
+  link: https://www.youtube.com/watch?v=x5cItrwQ6Vg
+  formats:
+    - video
+  language: English
+  date: 2021-05-13
+  authors:
+    - Coding After Thirty
+  github_authors:
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/x5cItrwQ6Vg/hq720.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+  version: 3.6.0
+- title: How to Build and Deploy a Vue.js Application Using Strapi on Render
+  link: https://strapi.io/blog/how-to-build-and-deploy-a-vue-js-application-using-strapi-on-render
+  formats:
+    - article
+  language: English
+  date: 2021-06-03
+  authors:
+    - Ukpai Ugochi
+  github_authors:
+    - hannydevelop
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_16_3d78a7fcfe.jpg
+  use_case: Deployment
+  stack:
+    - Strapi
+    - Vue.js
+  version: 3.6.0
+- title: How to Build a CSS Tricks Website Clone with Strapi and Next.js
+  link: https://strapi.io/blog/building-a-css-tricks-website-clone-with-strapi-next-js
+  formats:
+    - article
+  language: English
+  date: 2021-06-02
+  authors:
+    - Veronica Stork
+  github_authors:
+    - zealousAnemone
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/css_e1b3690178.png
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Next.js
+    - React
+  version: 3.6.0
+- title: Building Financial Literacy With Strapi & Gatsby
+  link: https://strapi.io/blog/moneygeek-building-financial-literacy-with-strapi-and-gatsby
+  formats:
+    - article
+  language: English
+  date: 2021-06-01
+  authors:
+    - Sam Bhagwat
+  github_authors:
+    - sambhagwat
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Snipcart_Strapi_5_11ac976dc5.png
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Gatsby
+    - React
+  version: 3.6.0
+- title: Unit Testing and end-to-end Testing of Strapi Application
+  link: https://strapi.io/blog/unit-testing-and-end-to-end-testing-of-strapi-applications
+  formats:
+    - article
+  language: English
+  date: 2021-05-31
+  authors:
+    - Ukpai Ugochi
+  github_authors:
+    - hannydevelop
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_15_224de2b413.jpg
+  use_case: Testing
+  stack:
+    - Strapi
+  version: 3.6.0
+- title: How to Build a Podcast app using Strapi and Nextjs
+  link: https://strapi.io/blog/how-to-build-a-podcast-app-using-strapi-and-nextjs
+  formats:
+    - article
+  language: English
+  date: 2021-05-28
+  authors:
+    - Chidume Nnamdi
+  github_authors:
+    - philipszdavido
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Snipcart_Strapi_3_cb6dcc46ab.png
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Next.js
+    - React
+  version: 3.6.0
+- title: A Beginners Guide to Authentication and Authorization in Strapi
+  link: https://strapi.io/blog/a-beginners-guide-to-authentication-and-authorization-in-strapi
+  formats:
+    - article
+  language: English
+  date: 2021-05-27
+  authors:
+    - Solomon Eseme
+  github_authors:
+    - Kaperskyguru
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_14_b96c43d0a2.jpg
+  use_case: Authentication
+  stack:
+    - Strapi
+  version: 3.6.0
+- title: How to Use and Create Services in Strapi ( SMS, Email Services)
+  link: https://strapi.io/blog/how-to-use-and-create-services-in-strapi-sms-email-services
+  formats:
+    - article
+  language: English
+  date: 2021-05-26
+  authors:
+    - Precious Luke
+  github_authors:
+    - bigpreshy
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_13_d7e382e3d0.jpg
+  use_case: Customization
+  stack:
+    - Strapi
+  version: 3.6.0
+- title: How to Self-Host your Headless CMS using Docker-Compose
+  link: https://strapi.io/blog/how-to-self-host-your-headless-cms-using-docker-compose
+  formats:
+    - article
+  language: English
+  date: 2021-05-25
+  authors:
+    - Maxime Castres
+  github_authors:
+    - Mcastres
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Guided_Tour_5_08b2ebf35f.png
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Docker
+    - Docker compose
+  version: 3.6.0
+- title: How to Build a Learning Platform with Strapi CMS and Gridsome
+  link: https://strapi.io/blog/how-to-build-a-learning-platform-with-strapi-cms-and-gridsome-1
+  formats:
+    - article
+  language: English
+  date: 2021-05-20
+  authors:
+    - Chimezie Enyinnaya
+  github_authors:
+    - ammezie
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_12_f8db4856d7.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Gridsome
+  version: 3.6.0
+- title: How to build a Movie app using Strapi and Angular
+  link: https://strapi.io/blog/how-to-build-a-movie-app-using-strapi-and-angular
+  formats:
+    - article
+  language: English
+  date: 2021-05-17
+  authors:
+    - Chidume Nnamdi
+  github_authors:
+    - philipszdavido
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_11_afa46c0f75.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Angular
+  version: 3.6.0
+- title: Build a News app using React.js, with i18n API in Strapi
+  link: https://strapi.io/blog/build-a-news-app-using-react-js-with-i18n-api-in-strapi
+  formats:
+    - article
+  language: English
+  date: 2021-05-07
+  authors:
+    - Chidume Nnamdi
+  github_authors:
+    - philipszdavido
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Guided_Tour_3_63b2959749.png
+  use_case: Internationalization
+  stack:
+    - Strapi
+    - React
+  version: 3.6.0
+- title: Strapi JWT Authentication in Next.js
+  link: https://strapi.io/blog/Strapi-JWT-Authentication-Next.js
+  formats:
+    - article
+  language: English
+  date: 2021-04-09
+  authors:
+    - Osmar Pérez
+  github_authors:
+    - osmarpb97
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_and_Next_Corporate_Starter_1_5c662ccc63.jpg
+  use_case: Authentication
+  stack:
+    - Strapi
+    - Next.js
+    - React
+  version: 3.6.0
+- title: How to build a To-do App using Next.js and Strapi
+  link: https://strapi.io/blog/how-to-build-a-to-do-app-using-next-js-and-strapi
+  formats:
+    - article
+  language: English
+  date: 2021-03-29
+  authors:
+    - Chidume Nnamdi
+  github_authors:
+    - philipszdavido
+  source: https://strapi.io
+  image_url: https://assets.strapi.io/uploads/Strapi_Custom_Plugin_4_c2c3786afb.jpg
+  use_case: Getting started
+  stack:
+    - Strapi
+    - Next.js
+    - React
+  version: 3.6.0

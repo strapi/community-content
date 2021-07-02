@@ -203,3 +203,25 @@
   command:
     yarn: yarn create strapi-starter my-project gatsby-catalog
     npm: npx create-strapi-starter my-project gatsby-catalog
+- title: Gatsby Corporate Starter
+  author: Mark Kaylor
+  cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/screenshot.png
+  repo: strapi/strapi-starter-gatsby-corporate
+  slug: strapi-starter-gatsby-corporate
+  preview: https://strapi-starter-gatsby-corporate-git-main-strapijs.vercel.app/
+  integration: Gatsby
+  use_cases:
+    - Corporate
+  description: Bootstrap a simple business website using Gatsby and Strapi, the headless CMS for Gatsby.
+  features:
+    - Pages creation within Strapi, no code necessary
+    - Fully flexible page structure - design the pages you want using UI Sections
+    - 9 UI Sections out of the box - Hero, RichText, LargeVideo, Testimonials, Pricing, BottomActions, FeatureRows, FeatureColumns, LeadForm
+    - Easy to theme with Tailwind
+    - Static site generation with Gatsby
+    - An integrated Preview Mode, to view your pages on a private URL before publishing them
+  youtube: 
+  how_to_install: Clone the repository and follow the readme instructions
+  command:
+    yarn: yarn create strapi-starter my-site gatsby-corporate
+    npm: npx create-strapi-starter my-site gatsby-corporate

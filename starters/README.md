@@ -2,16 +2,18 @@
 
 # Starters
 
-Show to the community your starters with Strapi!
-Remember to use our official templates right below:
+Show the community your starters with Strapi!
 
 A template is a Strapi project containing existing content-types and data.
 A starter is a front-end project ready to fetch a Strapi template project data.
 
+Feel free to use our official templates right below or [create your own template](https://github.com/strapi/community-content/tree/master/templates):
    - E-commerce: https://github.com/strapi/strapi-template-ecommerce
    - Corporate: https://github.com/strapi/strapi-template-corporate
    - Blog: https://github.com/strapi/strapi-template-blog
    - Portfolio: https://github.com/strapi/strapi-template-portfolio
+   - Catalog: https://github.com/strapi/strapi-template-catalog
+
 
 ## How to add your starter
 

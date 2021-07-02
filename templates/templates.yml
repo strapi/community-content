@@ -1,0 +1,94 @@
+- title: Blog Template
+  author: Maxime Castres
+  repo: strapi/strapi-template-blog
+  slug: strapi-template-blog
+  use_cases:
+    - Blog
+  description: A pre-configured Strapi blog template to build projects with any frontend.
+  features:
+    - 2 Collection types
+    - 2 Created articles
+    - 3 Created categories
+    - Permissions set to true for the required content types
+  starters:
+    - https://github.com/strapi/strapi-starter-next-blog
+    - https://github.com/strapi/strapi-starter-nuxt-blog
+    - https://github.com/strapi/strapi-starter-gatsby-blog
+    - https://github.com/strapi/strapi-starter-gridsome-blog
+  command:
+    yarn: yarn create strapi-app my-project --template blog
+    npm: npx create-strapi-app my-project --template blog
+- title: E-commerce Template
+  author: Maxime Castres
+  repo: strapi/strapi-template-ecommerce
+  slug: strapi-template-ecommerce
+  use_cases:
+    - E-commerce
+  description: A pre-configured Strapi e-commerce template to build projects with any frontend.
+  features:
+    - 1 Component
+    - 2 Collection types - Product, Category
+    - 27 Created products
+    - 6 Created categories
+    - Permissions set to true for product and category
+    - Slug system
+    - Publication system (draft & published)
+    - Role-based access control
+  starters:
+    - https://github.com/strapi/strapi-starter-nuxt-e-commerce
+    - https://github.com/strapi/strapi-starter-next-ecommerce
+  command:
+    yarn: yarn create strapi-app my-project --template e-commerce
+    npm: npx create-strapi-app my-project --template e-commerce
+- title: Corporate Template
+  author: Rémi de Juvigny
+  repo: strapi/strapi-template-corporate
+  slug: strapi-template-corporate
+  use_cases:
+    - Corporate
+  description: A pre-configured Strapi Corporate template to build projects with any frontend.
+  features:
+    - Pages creation within Strapi, no code necessary
+    - Fully flexible page structure - design the pages you want using UI Sections
+    - 8 UI Sections out of the box - Hero, RichText, LargeVideo, Testimonials, Pricing, BottomActions, FeatureRows, FeatureColumns
+    - Static site generation with Next
+  starters:
+    - https://github.com/strapi/strapi-starter-next-corporate
+    - https://github.com/strapi/strapi-starter-gatsby-corporate
+  command:
+    yarn: yarn create strapi-app my-project --template corporate
+    npm: npx create-strapi-app my-project --template corporate
+- title: Portfolio Template
+  author: Rémi de Juvigny
+  repo: strapi/strapi-template-portfolio
+  slug: strapi-template-portfolio
+  use_cases:
+    - Portfolio
+  description: A pre-configured Strapi portfolio template to build projects with any frontend.
+  features:
+    - Collection types for projects and categories
+    - Single types for the homepage, the about page and the global config
+    - Components for reusable UI components and SEO metadata
+    - Dynamic zones to have full control over your content
+  starters:
+    - https://strapi.io/starters/strapi-starter-gridsome-portfolio
+  command:
+    yarn: yarn create strapi-app my-project --template portfolio
+    npm: npx create-strapi-app my-project --template portfolio
+- title: Catalog Template
+  author: Mark Kaylor
+  repo: strapi/strapi-template-gatsby-catalog
+  slug: strapi-template-catalog
+  use_cases:
+    - Catalog
+    - E-Commerce
+  description: A pre-configured Strapi catalog template to build projects with any frontend.
+  features:
+    - Specifications component for Products
+    - 2 Collection types - Product, Category
+    - Related Products
+  starters:
+    - https://github.com/strapi/strapi-starter-gatsby-catalog
+  command:
+    yarn: yarn create strapi-app my-project --template catalog
+    npm: npx create-strapi-app my-project --template catalog

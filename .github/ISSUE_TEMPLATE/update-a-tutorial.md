@@ -8,7 +8,7 @@ assignees:
 
 **My update**
 <!--
-Hello 👋 Thank you for submitting a topic.
+Hello 👋 
 
 Before you start, please make sure your issue is understandable and reproducible.
 To make your issue readable make sure you use valid Markdown syntax.
@@ -20,3 +20,5 @@ Please describe your modifications.
 👍 Nice!
 ❤️ I love it!
 🚀 I can help you!
+
+Thank you.
