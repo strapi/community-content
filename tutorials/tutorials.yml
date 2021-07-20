@@ -3432,3 +3432,4 @@
   stack:
     - Nuxt.js
     - Vue.js
+  version: 3.6.2
