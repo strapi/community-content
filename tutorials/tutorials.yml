@@ -3416,3 +3416,19 @@
     - Next.js
     - React
   version: 3.6.0
+- title: How We Localized Our Website in 9 Languages in Under a Week: And So Can You
+  link: https://hackernoon.com/how-we-localized-our-website-in-9-languages-in-under-a-week-and-so-can-you-ev1z37dc
+  formats:
+    - article
+  language: en
+  date: 2020-07-01
+  authors:
+    - Sensorium Galaxy
+  github_authors:
+    - sensoriumxr
+  source: https://hackernoon.com
+  image_url: https://hackernoon.com/_next/image?url=https%3A%2F%2Fcdn.hackernoon.com%2Fimages%2FomntTsnn6cOvhf4x5Am3MjQaruA3-sq837v4.jpeg&w=1920&q=75
+  use_case: Internationalization
+  stack:
+    - Nuxt.js
+    - Vue.js
