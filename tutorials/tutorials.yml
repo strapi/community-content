@@ -3433,3 +3433,20 @@
     - Nuxt.js
     - Vue.js
   version: 3.6.2
+- title: Strapi Tutorial (with React & GraphQL)
+  link: https://youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn
+  formats: 
+    - video
+    language: en
+    date: 2021-07-19
+    authors: 
+    - The Net Ninja 
+    github_authors:
+    - iamshaunjp
+    source: https://youtube.com/
+    image_url: https://i.ytimg.com/vi/4Ntd414raYc/maxresdefault.jpg
+    use_case: Getting started
+    stack: 
+    - React
+    - GraphQL
+    
