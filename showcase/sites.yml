@@ -850,3 +850,14 @@
     - AWS (s3)
   made_by: Alexander Antonyuk
   made_by_url: https://www.linkedin.com/in/antonyuk-space/
+- title: The Paper Matter
+  url: https://papermatter.xyz/
+  description: Website and portfolio for a Mexican based 3D Visual Studio.
+  categories:
+    - Corporate website
+    - Portfolio
+  frontend:
+    - React.js
+    - Gatsby.js
+  made_by: Edgar López and Fabrizzio Moncada
+  made_by_url: https://edgarlr.com
