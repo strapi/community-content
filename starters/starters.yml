@@ -225,3 +225,33 @@
   command:
     yarn: yarn create strapi-starter my-site gatsby-corporate
     npm: npx create-strapi-starter my-site gatsby-corporate
+- title: Magazine Starter Kit
+  author: Edgar López
+  photo: https://res.cloudinary.com/dliiwavlg/image/upload/v1615590785/magazineog_qppjhg.jpg
+  repo: edgarlr/magazine
+  slug: edgarlr-magazine
+  use_cases:
+    - Digital Magazine
+    - Blog
+  integration: Next.js
+  preview: https://magazine-starter.vercel.app
+  description: All-in-one Next.js and Strapi digital magazine starter kit with high performance and fully customizable.
+  features:
+    - Great performance and Accessibility
+    - SEO and Social Media friendly (Open Graph and JSON-LD)
+    - Responsive
+    - UI Components
+    - Dark and light theme
+    - Offline support
+    - Save articles to read offline
+    - PWA Optimized (installable)
+    - Preview unpublished content.
+    - Seaarch module and hooks.
+    - Static Site Generated with Next.js
+    - Dynamically generated sitemap
+    - Content creation and managment from Strapi CMS (No code necessary).
+    - Google Analytics
+  youtube:
+  how_to_install: Clone the repository and follow the readme instructions.
+  command:
+
