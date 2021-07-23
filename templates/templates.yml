@@ -92,3 +92,24 @@
   command:
     yarn: yarn create strapi-app my-project --template catalog
     npm: npx create-strapi-app my-project --template catalog
+- title: Magazine template
+  author: Edgar López
+  repo: edgarlr/strapi-template-magazine
+  slug: edgarlr-strapi-template-magazine
+  use_cases:
+    - Digital Magazine
+    - Blog
+  description: A pre-configured Strapi blogs and digital magazine projects.
+  features:
+    - 4 Content types – Article, Category, Contributor, Pages.
+    - Publication system (draft & published).
+    - Preview unpublished content – Articles, pages.
+    - Slug system
+    - 2 Contributor types – Featured, default.
+    - SEO and social media friendly
+    - Role based access controls
+  starters:
+    - https://github.com/edgarlr/magazine
+  command:
+    yarn: yarn create strapi-app my-app-name --template https://github.com/edgarlr/strapi-template-magazine
+    npm: npx create-strapi-app my-app-name --template https://github.com/edgarlr/strapi-template-magazine
