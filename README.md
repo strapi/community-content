@@ -47,7 +47,7 @@ Our team will review your request, approve and assign you the article.
 
 #### Step 7: Provide Support
 
-Once your blog post is published. Please click on discussion at the end of the post, register here: https://forum.strapi.io and click on "watching" to receive automatically a notification once a new comment is made. We rely on you to monitor comments on your blog post and support the community.
+ Once your blog post is published. Please click on discussion at the end of your post, register here: https://forum.strapi.io and click on "watching" to receive automatically a notification once a new comment is made. We rely on you to monitor the comments and support the community.
 
 
 #####  Resources:
