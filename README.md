@@ -45,6 +45,10 @@ Our team will review your request, approve and assign you the article.
 
   - Once your article is reviewed and published on our blog, you can submit your invoice to get paid. To issue and submit your invoice, please check the "how to get paid" section in our [FAQ](https://strapi.io/write-for-the-community)
 
+#### Step 7: Monitor Comments
+
+Once your blog post is published. Please click on discussion at the end of the post, register here: https://forum.strapi.io and click on "watching" to receive automatically a notification once a new comment is made. We rely on you to supoort the community.
+
 
 #####  Resources:
 Before you start working on your first draft, please read thoroughly [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md)
