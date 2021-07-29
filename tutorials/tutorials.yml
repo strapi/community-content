@@ -3449,74 +3449,70 @@
    stack: 
     - React
     - GraphQL
-  - title: Blog with Next.js and and Strapi CMS
-    link: https://youtu.be/599ogMbXIyA
-    formats: 
-      - video
-    language: en
-    date: 2021-07-26
-    authors:
-      - Devistry
-    github_authors: 
-      - jgbijlsma
-    source: https://youtube.com/
-    image_url: https://i.ytimg.com/vi/599ogMbXIyA/hqdefault.jpg
-    use_case: Blog
-    stack: 
-      - Next.js
-      - Strapi
-      - React 
-   - title: Containerize and deploy Strapi applications on Kubernetes and Red Hat OpenShift
-     link: https://developers.redhat.com/blog/2021/04/09/containerize-and-deploy-strapi-applications-on-kubernetes-and-red-hat-openshift?sc_cid=7013a0000026GueAAE#
-     formats: 
-      - article
-     language: en
-     date: 2021-04-09
-     authors: 
-      - Joel Lord
-     github_authors: 
-      - joellord
-     source: https://developers.redhat.com/
-     image_url: https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/04/2021_Prometheus_NodeJS_OS_Featured_article_image_B.png?itok=K9ccKryA
-     use_case: Deployment
-     stack: 
-      - Strapi
-      - Kubernetes
-      - OpenShift
-    - title: Build a Sports News Blog Website using NEXT JS and Strapi CMS in 7 hour | NEXT JS News Blog Website
-      link: https://youtu.be/VlcmLgbj9-Y
-      formats: 
-        - video
-      language: en
-      date: 2021-07-13
-      authors: 
-        - CodeWithVishal
-      github_authors: 
-        - trickjsprogram
-      source: https://youtube.com/
-      image_url: https://i.ytimg.com/vi/VlcmLgbj9-Y/maxresdefault.jpg
-      use_case: Blog
-      stack: 
-        - Strapi
-        - Next.js
-        - Cloudinary 
-    - title: Deploying Strapi MongoDB for Flutter on Heroku
-      link: https://medium.com/geekculture/deploying-strapi-mongobd-for-flutter-on-heroku-f399bb3396a7
-      formats: 
-        - article
-      laguage: en
-      date: 2021-07-08
-      authors: 
-        - Siddhesh Shivdikar
-      source: https://medium.com/
-      image_url: https://miro.medium.com/max/1400/1*WZIVXtVYET-f-5_ZpDWE8A.png
-      use_case: Deployment
-      stack: 
-        - Strapi
-        - MongoDB
-        - Heroku
-        - Flutter
-      
-      
-     
-    
+- title: Blog with Next.js and and Strapi CMS
+  link: https://youtu.be/599ogMbXIyA
+  formats: 
+    - video
+  language: en
+  date: 2021-07-26
+  authors:
+    - Devistry
+  github_authors: 
+    - jgbijlsma
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/599ogMbXIyA/hqdefault.jpg
+  use_case: Blog
+  stack: 
+    - Next.js
+    - Strapi
+    - React 
+- title: Containerize and deploy Strapi applications on Kubernetes and Red Hat OpenShift
+  link: https://developers.redhat.com/blog/2021/04/09/containerize-and-deploy-strapi-applications-on-kubernetes-and-red-hat-openshift?sc_cid=7013a0000026GueAAE#
+  formats: 
+    - article
+  language: en
+  date: 2021-04-09
+  authors: 
+    - Joel Lord
+  github_authors: 
+    - joellord
+  source: https://developers.redhat.com/
+  image_url: https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2021/04/2021_Prometheus_NodeJS_OS_Featured_article_image_B.png?itok=K9ccKryA
+  use_case: Deployment
+  stack: 
+    - Strapi
+    - Kubernetes
+    - OpenShift
+- title: Build a Sports News Blog Website using NEXT JS and Strapi CMS in 7 hour | NEXT JS News Blog Website
+  link: https://youtu.be/VlcmLgbj9-Y
+  formats: 
+    - video
+  language: en
+  date: 2021-07-13
+  authors: 
+    - CodeWithVishal
+  github_authors: 
+    - trickjsprogram
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/VlcmLgbj9-Y/maxresdefault.jpg
+  use_case: Blog
+  stack: 
+    - Strapi
+    - Next.js
+    - Cloudinary 
+- title: Deploying Strapi MongoDB for Flutter on Heroku
+  link: https://medium.com/geekculture/deploying-strapi-mongobd-for-flutter-on-heroku-f399bb3396a7
+  formats: 
+    - article
+  laguage: en
+  date: 2021-07-08
+  authors: 
+    - Siddhesh Shivdikar
+  source: https://medium.com/
+  image_url: https://miro.medium.com/max/1400/1*WZIVXtVYET-f-5_ZpDWE8A.png
+  use_case: Deployment
+  stack: 
+    - Strapi
+    - MongoDB
+    - Heroku
+    - Flutter
