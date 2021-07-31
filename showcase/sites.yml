@@ -861,3 +861,12 @@
     - Gatsby.js
   made_by: Edgar López and Fabrizzio Moncada
   made_by_url: https://edgarlr.com
+- title: Oppidum
+  url: https://github.com/O-Plums/Oppidum
+  description: Oppidum is open source app that provide cultural, historical and touristic information on different cities. We use Strapi to manage all the back-end of the app.
+  categories:
+    - Mobile app
+  frontend:
+    - Flutter
+  made_by: Cyril Tongres and Henri Floren
+  made_by_url: https://github.com/O-Plums/Oppidum
