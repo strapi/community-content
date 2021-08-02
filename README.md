@@ -18,7 +18,7 @@ Considering writing for the Strapi community and sharing your technical expertis
 
 #### Step 1: Register to join the program
 
-  - Please [register your author details](https://strapi.io/write-for-the-community) before submitting content.
+  - Please [register your author details](https://strapi.io/write-for-the-community#contact) before submitting content.
 
 You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin) covering the following topics: Headless and CMS, jamstack, javascript, open source, and Strapi tutorials, guides, and How-tos.
 
@@ -43,7 +43,7 @@ Our team will review your request, approve and assign you the article.
 
 #### Step 6: Get paid
 
-  - Once your article is reviewed and published on our blog, you can submit your invoice to get paid. To issue and submit your invoice, please check the "how to get paid" section in our [FAQ](https://strapi.io/write-for-the-community)
+  - Once your article is reviewed and published on our blog, you can submit your invoice to get paid. To issue and submit your invoice, please check the "My blog post post is published, How do I submit an invoice?" section in our [FAQ](https://strapi.io/write-for-the-community)
 
 #### Step 7: Provide Support
 
