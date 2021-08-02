@@ -865,7 +865,7 @@
   url: https://oppidums.com/
   description: Oppidums is open source app that provide cultural, historical and touristic information on different cities. We use Strapi to manage all the back-end of the app.
   categories:
-    - Mobile app
+    - Mobile App
   frontend:
     - Flutter
   made_by: Cyril Tongres and Henri Floren
