@@ -14,7 +14,7 @@ Contribute and collaborate on educational content for the Strapi Community.
 
 Considering writing for the Strapi community and sharing your technical expertise? 
 
-NOTE: ALL CONTENT PRODUCED BEFORE THE RELEASE OF V4 SHOULD BE UPDATED BY THE AUTHOR AFTER THE RELEASE
+NOTE: ALL CONTENT CREATED BEFORE THE RELEASE OF V4 SHOULD BE UPDATED BY THE AUTHOR AFTER THE RELEASE
 
 ### How it Works?
 
