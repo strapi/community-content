@@ -138,6 +138,7 @@ Let keywords flow naturally and in a contextual way inside your content.
  ✅ Proofread your article for errors in grammar, spelling, and typography.
   
  We do not post articles that don't follow our guidelines.
-  
+ 
+ [HERE IS A TEMPLATE TO HELP YOU GET STARTED](https://www.dropbox.com/scl/fi/7o4rzejzmla65hygplkai/My-First-Strapi-Article.paper?dl=0&rlkey=zoc4r7k3iw7titgsxp8vrt55x)
  
 
