@@ -256,4 +256,3 @@
   command:
     yarn: yarn create strapi-starter my-site https://github.com/edgarlr/magazine
     npm: npx create-strapi-starter my-site https://github.com/edgarlr/magazine
-
