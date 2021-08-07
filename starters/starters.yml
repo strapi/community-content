@@ -228,8 +228,8 @@
 - title: Magazine Starter Kit
   author: Edgar López
   photo: https://res.cloudinary.com/dliiwavlg/image/upload/v1615590785/magazineog_qppjhg.jpg
-  repo: edgarlr/magazine
-  slug: edgarlr-magazine
+  repo: edgarlr/strapi-starter-magazine
+  slug: strapi-starter-magazine
   use_cases:
     - Digital Magazine
     - Blog
@@ -254,4 +254,6 @@
   youtube:
   how_to_install: Clone the repository and follow the readme instructions.
   command:
+    yarn: yarn create strapi-starter my-site https://github.com/edgarlr/magazine
+    npm: npx create-strapi-starter my-site https://github.com/edgarlr/magazine
 
