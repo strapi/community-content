@@ -111,5 +111,5 @@
   starters:
     - https://github.com/edgarlr/magazine
   command:
-    yarn: yarn create strapi-app my-app-name --template https://github.com/edgarlr/strapi-template-magazine
-    npm: npx create-strapi-app my-app-name --template https://github.com/edgarlr/strapi-template-magazine
+    yarn: yarn create strapi-app my-app-name --template edgarlr/magazine
+    npm: npx create-strapi-app my-app-name --template edgarlr/magazine
