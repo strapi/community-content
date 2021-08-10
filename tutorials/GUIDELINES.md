@@ -81,7 +81,7 @@ No more than 155 characters. [Here are few examples](https://themeisle.com/blog/
   ## Content
   - Introduction: The introduction needs to quickly hook your reader and convince them to read the rest of your blog post. It also has to let the reader know what your post is about. Whether your approach is humour, interesting and surprising facts, or asking a question, find a way to make the first lines of your blog posts as attention-grabbing as possible. Write an introduction that would make you want to keep reading an article -- a quick few paragraphs to draw the reader in and let him know what he's about to read.
   - Paragraphs: Please use sub-headers to split up sections of your blog post (H2 tag). Optimize them by using keywords.
-  - Linking: Please link to what you are referring to in a sentence. Make sure to link to high ranking websites. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
+  - Linking: Please link to at least [one blog post published on our Blog](https://strapi.io/blog) Make sure to also link to high ranking external websites. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
   - The longer your article is, the better Google will reference it.
   - Please compress your images before uploading them.
   - Please, be sure to not write hard sentences. You can use this great tool for that https://hemingwayapp.com.
