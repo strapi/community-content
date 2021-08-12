@@ -870,3 +870,13 @@
     - Flutter
   made_by: Cyril Tongres and Henri Floren
   made_by_url: https://github.com/O-Plums/Oppidums
+- title: iWellUP Digital
+  url: https://www.iwellup.com/
+  description: Digital strategy and IT consulting. This website is using Strapi for managing the content and post content (comming soon) of my react gatsby application web.
+  categories:
+    - Corporate Website 
+  frontend: 
+    - React
+    - Gatsby
+  made_by: Ivano J. Garcia 
+  made_by_url: https://www.linkedin.com/in/ivano-garcia-6742a0b7/
