@@ -254,5 +254,5 @@
   youtube:
   how_to_install: Clone the repository and follow the readme instructions.
   command:
-    yarn: yarn create strapi-starter my-site https://github.com/edgarlr/strapi-starter-magazine
-    npm: npx create-strapi-starter my-site https://github.com/edgarlr/strapi-starter-magazine
+    yarn: yarn create strapi-starter my-project edgarlr/next-magazine
+    npm: npx create-strapi-starter my-project edgarlr/next-magazine
