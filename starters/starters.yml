@@ -19,6 +19,7 @@
   command:
     yarn: yarn create strapi-starter my-project next-blog
     npm: npx create-strapi-starter my-project next-blog
+  verified: true
 - title: Nuxt.js Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-blog/master/screenshot.png
@@ -40,6 +41,7 @@
   command:
     yarn: yarn create strapi-starter my-project nuxt-blog
     npm: npx create-strapi-starter my-project nuxt-blog
+  verified: true
 - title: Gatsby Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-blog/master/screenshot.png
@@ -66,6 +68,7 @@
   command:
     yarn: yarn create strapi-starter my-project gatsby-blog
     npm: npx create-strapi-starter my-project gatsby-blog
+  verified: true
 - title: Gridsome Blog Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-blog/master/screenshot.png
@@ -92,6 +95,7 @@
   command:
     yarn: yarn create strapi-starter my-project gridsome-blog
     npm: npx create-strapi-starter my-project gridsome-blog
+  verified: true
 - title: Nuxt.js E-commerce Starter
   author: Maxime Castres
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-nuxt-e-commerce/master/screenshot.png
@@ -117,6 +121,7 @@
   command:
     yarn: yarn create strapi-starter my-project nuxt-e-commerce
     npm: npx create-strapi-starter my-project nuxt-e-commerce
+  verified: true
 - title: Next.js Corporate Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/screenshot.png
@@ -139,6 +144,7 @@
   command:
     yarn: yarn create strapi-starter my-project next-corporate
     npm: npx create-strapi-starter my-project next-corporate
+  verified: true
 - title: Gridsome Portfolio Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gridsome-portfolio/master/screenshot.png
@@ -159,6 +165,7 @@
   command:
     yarn: yarn create strapi-starter my-project gridsome-portfolio
     npm: npx create-strapi-starter my-project gridsome-portfolio
+  verified: true
 - title: Next.js E-commerce Starter
   author: Rémi de Juvigny
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-ecommerce/master/screenshot.png
@@ -182,6 +189,7 @@
   command:
     yarn: yarn create strapi-starter my-project next-ecommerce
     npm: npx create-strapi-starter my-project next-ecommerce
+  verified: true
 - title: Gatsby Catalog Starter
   author: Mark Kaylor
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-gatsby-catalog/main/screenshot.png
@@ -203,6 +211,7 @@
   command:
     yarn: yarn create strapi-starter my-project gatsby-catalog
     npm: npx create-strapi-starter my-project gatsby-catalog
+  verified: true
 - title: Gatsby Corporate Starter
   author: Mark Kaylor
   cover: https://raw.githubusercontent.com/strapi/strapi-starter-next-corporate/master/screenshot.png
@@ -225,3 +234,4 @@
   command:
     yarn: yarn create strapi-starter my-site gatsby-corporate
     npm: npx create-strapi-starter my-site gatsby-corporate
+  verified: true

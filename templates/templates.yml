@@ -18,6 +18,7 @@
   command:
     yarn: yarn create strapi-app my-project --template blog
     npm: npx create-strapi-app my-project --template blog
+  verified: true
 - title: E-commerce Template
   author: Maxime Castres
   repo: strapi/strapi-template-ecommerce
@@ -40,6 +41,7 @@
   command:
     yarn: yarn create strapi-app my-project --template e-commerce
     npm: npx create-strapi-app my-project --template e-commerce
+  verified: true
 - title: Corporate Template
   author: Rémi de Juvigny
   repo: strapi/strapi-template-corporate
@@ -58,6 +60,7 @@
   command:
     yarn: yarn create strapi-app my-project --template corporate
     npm: npx create-strapi-app my-project --template corporate
+  verified: true
 - title: Portfolio Template
   author: Rémi de Juvigny
   repo: strapi/strapi-template-portfolio
@@ -75,6 +78,7 @@
   command:
     yarn: yarn create strapi-app my-project --template portfolio
     npm: npx create-strapi-app my-project --template portfolio
+  verified: true
 - title: Catalog Template
   author: Mark Kaylor
   repo: strapi/strapi-template-gatsby-catalog
@@ -92,3 +96,4 @@
   command:
     yarn: yarn create strapi-app my-project --template catalog
     npm: npx create-strapi-app my-project --template catalog
+  verified: true
