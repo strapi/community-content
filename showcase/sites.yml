@@ -880,3 +880,12 @@
     - Gatsby
   made_by: Ivano J. Garcia 
   made_by_url: https://www.linkedin.com/in/ivano-garcia-6742a0b7/
+  - title: MyJodi Matrimony
+  url: https://myjodi.in/
+  description: India's first ever pay as you go matrimony. An attempt to make matrimonial services more easy and affordable.
+  categories:
+    - Mobile App
+  frontend: 
+    - Ionic
+  made_by: Shiva Gouraram
+  made_by_url: https://www.linkedin.com/in/shivagouraram/
