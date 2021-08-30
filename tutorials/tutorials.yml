@@ -3519,3 +3519,16 @@
     - MongoDB
     - Heroku
     - Flutter
+- title: "Don't bother with authorization anymore: Strapi + Auth0"
+  link: https://www.youtube.com/watch?v=8-AweO-cshw
+  formats:
+    - video
+  laguage: ru
+  date: 2021-08-09
+  authors:
+    - Frontend Connect
+  source: https://youtube.com/
+  image_url: https://i.ytimg.com/vi/8-AweO-cshw/hq720.jpg
+  use_case: Authorization
+  stack:
+    - Auth0
