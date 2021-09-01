@@ -826,3 +826,13 @@
     - React
   made_by: Orange PL
   made_by_url: https://flex.orange.pl/
+   title: Gill Côté Bistro - Restaurant, bistro à Rouen
+  url: https://www.gill-cote-bistro.fr/
+  description: Website of french restaurant, used Strapi for menus and QR Codes inside restaurant and booking service
+  categories:
+    - Corporate Website
+  frontend:
+    - Next js
+    - Bootstrap
+  made_by: Gaylord Julien
+  made_by_url: https://www.emael76.fr/
