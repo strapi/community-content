@@ -2,6 +2,8 @@
 
 These guidelines will help you to have your article published on Strapi. 
 
+ [HERE IS A TEMPLATE TO HELP YOU GET STARTED](https://www.dropbox.com/scl/fi/7o4rzejzmla65hygplkai/My-First-Strapi-Article.paper?dl=0&rlkey=zoc4r7k3iw7titgsxp8vrt55x)
+
 ## Article
 If you read this, you are interested by writing articles for strapi and that's great!
 However there is some point that we want to clarify before you get into this experience.
@@ -62,7 +64,7 @@ The conclusion must summarize what the reader has just accomplished but also pro
 #### Do not forget to:
   - Add the word count at the end of your article - excluding the code.
   - Use Grammarly https://app.grammarly.com/ to fix all spelling and grammar mistakes.
-  - Create the images for your article - [Access the template](https://www.figma.com/community/file/984457206556704992) Duplicate the template and create two images for your article. Add your image and edit the title, icons, and emojis to best match your article subject. Use either "Tutorial" or "Ecosystem" category based on your article content. You can check our blog for reference.
+  - Create two images for your article - [Access the template](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors?node-id=0%3A1) Duplicate the template and create two images for your article. Add your image and edit the title, icons, and emojis to best match your article subject. Use either "Tutorial" or "Ecosystem" category based on your article content. You can check our blog for reference.
   
 
 
@@ -79,7 +81,7 @@ No more than 155 characters. [Here are few examples](https://themeisle.com/blog/
   ## Content
   - Introduction: The introduction needs to quickly hook your reader and convince them to read the rest of your blog post. It also has to let the reader know what your post is about. Whether your approach is humour, interesting and surprising facts, or asking a question, find a way to make the first lines of your blog posts as attention-grabbing as possible. Write an introduction that would make you want to keep reading an article -- a quick few paragraphs to draw the reader in and let him know what he's about to read.
   - Paragraphs: Please use sub-headers to split up sections of your blog post (H2 tag). Optimize them by using keywords.
-  - Linking: Please link to what you are referring to in a sentence. Make sure to link to high ranking websites. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
+  - Linking: Please link to at least [one blog post published on our Blog](https://strapi.io/blog) Make sure to also link to high ranking external websites. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
   - The longer your article is, the better Google will reference it.
   - Please compress your images before uploading them.
   - Please, be sure to not write hard sentences. You can use this great tool for that https://hemingwayapp.com.
@@ -138,6 +140,7 @@ Let keywords flow naturally and in a contextual way inside your content.
  ✅ Proofread your article for errors in grammar, spelling, and typography.
   
  We do not post articles that don't follow our guidelines.
-  
+ 
+
  
 
