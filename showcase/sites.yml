@@ -880,3 +880,14 @@
     - Gatsby
   made_by: Ivano J. Garcia 
   made_by_url: https://www.linkedin.com/in/ivano-garcia-6742a0b7/
+- title: PPC Protect
+  url: https://ppcprotect.com/
+  description: PPC Protect is a SaaS platform that helps advertisers get the most out of their paid ads. We use Strapi as our CMS and integrate it with Gatsby to build the site.
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - React.js
+    - Gatsby.js
+  made_by: Alexander Winston
+  made_by_url: https://www.linkedin.com/in/alex-w-376160a7/
