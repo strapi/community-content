@@ -14,11 +14,13 @@ Contribute and collaborate on educational content for the Strapi Community.
 
 Considering writing for the Strapi community and sharing your technical expertise? 
 
+NOTE: ALL CONTENT CREATED BEFORE THE RELEASE OF V4 SHOULD BE UPDATED BY THE AUTHOR AFTER THE RELEASE
+
 ### How it Works?
 
 #### Step 1: Register to join the program
 
-  - Please [register your author details](https://strapi.io/write-for-the-community) before submitting content.
+  - Please [register your author details](https://strapi.io/write-for-the-community#contact) before submitting content.
 
 You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin) covering the following topics: Headless and CMS, jamstack, javascript, open source, and Strapi tutorials, guides, and How-tos.
 
@@ -43,7 +45,11 @@ Our team will review your request, approve and assign you the article.
 
 #### Step 6: Get paid
 
-  - Once your article is reviewed and published on our blog, you can submit your invoice to get paid. To issue and submit your invoice, please check the "how to get paid" section in our [FAQ](https://strapi.io/write-for-the-community)
+  - Once your article is reviewed and published on our blog, you can submit your invoice to get paid. To issue and submit your invoice, please check the "My blog post post is published, How do I submit an invoice?" section in our [FAQ](https://strapi.io/write-for-the-community)
+
+#### Step 7: Provide Support
+
+ Once your blog post is published. Please click on discussion at the end of your post, register here: https://forum.strapi.io and click on "watching" to receive automatically a notification once a new comment is made. We rely on you to monitor the comments and support the community.
 
 
 #####  Resources:
