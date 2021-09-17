@@ -117,10 +117,12 @@
   made_by: ASOS
   made_by_url: https://asos.com
 - title: Freestyle Stats
-  url: https://freestylestats.com/
+  url: https://freestylestats.com
   description: All the information about the best freestyle competitions and their participants. Results, matches, freestylers, DJs, judges and more!
   categories:
   frontend:
+    - Web Components
+    - Lit
   made_by: Freestyle Stats
   made_by_url: https://freestylestats.com/
 - title: Bioinn
@@ -807,6 +809,16 @@
     - Bootstrap
   made_by: Tobias Thiele
   made_by_url: https://tobias-thiele.de/
+- title: Ops One - Swiss DevOps services
+  url: https://opsone.ch/
+  description: Whether consulting, managed servers, managed Kubernetes or managed applications - Ops One offers you individual solutions that fit you exactly.
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Nuxt.js
+  made_by: Unknown Digital
+  made_by_url: https://unknown.digital/
 - title: Café Hamlet - Café Restaurant Rouen - Aître Saint Maclou
   url: https://www.cafe-hamlet.fr/
   description: Website of french restaurant of ex 2 star Chef Gilles Tournadre (Café Hamlet)
@@ -826,7 +838,49 @@
     - React
   made_by: Orange PL
   made_by_url: https://flex.orange.pl/
-   title: Gill Côté Bistro - Restaurant, bistro à Rouen
+- title: artmall.global
+  url: https://artmall.global/
+  description: I want to present to you my project, this is an art marketplace artmall.global. Our goal is to provide an opportunity to sell art work to new and established artists around the world.
+  categories:
+    - E-commerce
+    - Marketplace
+  frontend:
+    - Nuxt.js
+    - Vue.js
+    - AWS (s3)
+  made_by: Alexander Antonyuk
+  made_by_url: https://www.linkedin.com/in/antonyuk-space/
+- title: The Paper Matter
+  url: https://papermatter.xyz/
+  description: Website and portfolio for a Mexican based 3D Visual Studio.
+  categories:
+    - Corporate website
+    - Portfolio
+  frontend:
+    - React.js
+    - Gatsby.js
+  made_by: Edgar López and Fabrizzio Moncada
+  made_by_url: https://edgarlr.com
+- title: Oppidums
+  url: https://oppidums.com/
+  description: Oppidums is open source app that provide cultural, historical and touristic information on different cities. We use Strapi to manage all the back-end of the app.
+  categories:
+    - Mobile App
+  frontend:
+    - Flutter
+  made_by: Cyril Tongres and Henri Floren
+  made_by_url: https://github.com/O-Plums/Oppidums
+- title: iWellUP Digital
+  url: https://www.iwellup.com/
+  description: Digital strategy and IT consulting. This website is using Strapi for managing the content and post content (comming soon) of my react gatsby application web.
+  categories:
+    - Corporate Website 
+  frontend: 
+    - React
+    - Gatsby
+  made_by: Ivano J. Garcia 
+  made_by_url: https://www.linkedin.com/in/ivano-garcia-6742a0b7/
+- title: Gill Côté Bistro - Restaurant, bistro à Rouen
   url: https://www.gill-cote-bistro.fr/
   description: Website of french restaurant, used Strapi for menus and QR Codes inside restaurant and booking service
   categories:
