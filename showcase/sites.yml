@@ -891,3 +891,13 @@
     - Gatsby.js
   made_by: Alexander Winston
   made_by_url: https://www.linkedin.com/in/alex-w-376160a7/
+- title: Gill Côté Bistro - Restaurant, bistro à Rouen
+  url: https://www.gill-cote-bistro.fr/
+  description: Website of french restaurant, used Strapi for menus and QR Codes inside restaurant and booking service
+  categories:
+    - Corporate Website
+  frontend:
+    - Next js
+    - Bootstrap
+  made_by: Gaylord Julien
+  made_by_url: https://www.emael76.fr/
