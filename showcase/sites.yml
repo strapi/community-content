@@ -880,12 +880,33 @@
     - Gatsby
   made_by: Ivano J. Garcia 
   made_by_url: https://www.linkedin.com/in/ivano-garcia-6742a0b7/
-  - title: MyJodi Matrimony
+- title: MyJodi Matrimony
   url: https://myjodi.in/
-  description: India's first ever pay as you go matrimony. An attempt to make matrimonial services more easy and affordable.
+  description: India first ever pay as you go matrimony. An attempt to make matrimonial services more easy and affordable.
   categories:
     - Mobile App
   frontend: 
     - Ionic
   made_by: Shiva Gouraram
   made_by_url: https://www.linkedin.com/in/shivagouraram/
+- title: PPC Protect
+  url: https://ppcprotect.com/
+  description: PPC Protect is a SaaS platform that helps advertisers get the most out of their paid ads. We use Strapi as our CMS and integrate it with Gatsby to build the site.
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - React.js
+    - Gatsby.js
+  made_by: Alexander Winston
+  made_by_url: https://www.linkedin.com/in/alex-w-376160a7/
+- title: Gill Côté Bistro - Restaurant, bistro à Rouen
+  url: https://www.gill-cote-bistro.fr/
+  description: Website of french restaurant, used Strapi for menus and QR Codes inside restaurant and booking service
+  categories:
+    - Corporate Website
+  frontend:
+    - Next js
+    - Bootstrap
+  made_by: Gaylord Julien
+  made_by_url: https://www.emael76.fr/
