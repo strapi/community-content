@@ -910,3 +910,15 @@
     - Bootstrap
   made_by: Gaylord Julien
   made_by_url: https://www.emael76.fr/
+- title: Tiween
+  url: https://tiween.com
+  description: "Tiween from the Tunisian local dialect means: where is it taking place?...or where to find it, is an inventory of all the movie Theaters movies projections on Tunisia soil that tells where a movie is to be displayed and when on a weekly fashion. Tiween reach aims to expand it coverage to all cultural events in Tunisia: expositions, concerts...etc."
+  categories:
+    - Cultural News
+  frontend:
+    - Next.js
+    - Formik
+    - Algolia
+    - Tailwind CSS
+  made_by: Ayoub Hidri
+  made_by_url: https://www.linkedin.com/in/ayoub-hidri-67a29428
