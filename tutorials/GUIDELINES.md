@@ -64,7 +64,7 @@ The conclusion must summarize what the reader has just accomplished but also pro
 #### Do not forget to:
   - Add the word count at the end of your article - excluding the code.
   - Use Grammarly https://app.grammarly.com/ to fix all spelling and grammar mistakes.
-  - Create two images for your article - [Access the template](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors?node-id=0%3A1) Duplicate the template and create two images for your article. Add your image and edit the title, icons, and emojis to best match your article subject. Use either "Tutorial" or "Ecosystem" category based on your article content. You can check our blog for reference.
+  - Create two images for your article - [Access the template](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors) Duplicate the template and create two images for your article. Add your image and edit the title, icons, and emojis to best match your article subject. Use either "Tutorial" or "Ecosystem" category based on your article content. You can check our blog for reference.
   
 
 
