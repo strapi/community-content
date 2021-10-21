@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_slices_themed_cards",
+  "info": {
+    "name": "themedCards",
+    "icon": "theater-masks",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.themed-card-details"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_locations",
+  "info": {
+    "name": "location",
+    "icon": "location-arrow"
+  },
+  "options": {},
+  "attributes": {
+    "cities": {
+      "collection": "cities"
+    }
+  }
+}

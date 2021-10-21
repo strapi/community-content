@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_slices_plans_grids",
+  "info": {
+    "name": "plansGrid",
+    "icon": "tags",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "plans": {
+      "collection": "plans"
+    },
+    "compareButtonLabel": {
+      "type": "string"
+    }
+  }
+}

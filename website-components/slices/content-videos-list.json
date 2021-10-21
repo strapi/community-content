@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_slices_content_videos_lists",
+  "info": {
+    "name": "contentVideosList",
+    "icon": "play"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "category": {
+      "model": "content-video-categories"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    },
+    "displayLimitedList": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

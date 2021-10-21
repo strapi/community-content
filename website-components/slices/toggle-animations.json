@@ -1,0 +1,40 @@
+{
+  "collectionName": "components_slices_toggle_animations",
+  "info": {
+    "name": "ToggleAnimation",
+    "icon": "magic"
+  },
+  "options": {},
+  "attributes": {
+    "graphQlButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "graphQlDesktopAnimation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "graphQlMobileAnimation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "restApiButton": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "restApiDesktopAnimation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "restApiMobileAnimation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

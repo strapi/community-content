@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_slices_simple_text_next_to_images",
+  "info": {
+    "name": "simpleTextNextToImage",
+    "icon": "outdent"
+  },
+  "options": {},
+  "attributes": {
+    "darkMode": {
+      "type": "boolean",
+      "default": true
+    },
+    "label": {
+      "type": "string"
+    },
+    "headline": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "imagePosition": {
+      "type": "enumeration",
+      "enum": [
+        "left",
+        "right"
+      ],
+      "default": "left"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    },
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

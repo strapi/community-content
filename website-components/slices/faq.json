@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_slices_faqs",
+  "info": {
+    "name": "faq",
+    "icon": "info-circle"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "categories": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.faq-category"
+    }
+  }
+}

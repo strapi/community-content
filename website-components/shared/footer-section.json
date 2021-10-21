@@ -1,0 +1,20 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_footer_sections",
+  "info": {
+    "name": "footerSection",
+    "icon": "grip-lines"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.link"
+    }
+  }
+}

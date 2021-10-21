@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_shared_open_positions_ctas",
+  "info": {
+    "name": "openPositionsCTA",
+    "icon": "globe-africa",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": false
+    },
+    "href": {
+      "type": "string",
+      "required": false
+    },
+    "textOnButton": {
+      "type": "string"
+    }
+  }
+}

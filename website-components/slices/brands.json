@@ -1,0 +1,16 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_brands",
+  "info": {
+    "name": "brands",
+    "icon": "air-freshener"
+  },
+  "options": {},
+  "attributes": {
+    "brands": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.brand"
+    }
+  }
+}

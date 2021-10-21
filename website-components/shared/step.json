@@ -1,0 +1,47 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_steps",
+  "info": {
+    "name": "step",
+    "icon": "allergies"
+  },
+  "options": {},
+  "attributes": {
+    "description": {
+      "type": "richtext"
+    },
+    "secondaryImg": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "layout": {
+      "type": "enumeration",
+      "enum": [
+        "contentRight",
+        "contentLeft"
+      ],
+      "default": "contentRight"
+    },
+    "stepTitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "decoration": {
+      "type": "enumeration",
+      "enum": [
+        "type1",
+        "type2",
+        "type3",
+        "type4",
+        "type5"
+      ],
+      "default": "type1"
+    },
+    "parallaxMultiplier": {
+      "type": "integer"
+    }
+  }
+}

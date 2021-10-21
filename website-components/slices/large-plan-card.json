@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_slices_large_plan_cards",
+  "info": {
+    "name": "largePlanCard",
+    "icon": "id-card-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "plan": {
+      "model": "plans"
+    },
+    "starFeatures": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.star-features"
+    },
+    "label": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    }
+  }
+}

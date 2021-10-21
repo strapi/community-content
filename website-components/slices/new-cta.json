@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_slices_new_ctas",
+  "info": {
+    "name": "newCTA",
+    "icon": "clone"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.button"
+    }
+  }
+}

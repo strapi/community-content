@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_banners",
+  "info": {
+    "name": "banner",
+    "icon": "calendar-alt"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    },
+    "publishDate": {
+      "type": "date",
+      "required": true
+    }
+  }
+}

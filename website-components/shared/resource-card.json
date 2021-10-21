@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_shared_resource_cards",
+  "info": {
+    "name": "resourceCard",
+    "icon": "compress",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": ["gradientPurple", "gradientBlue", "gradientOrange"],
+      "default": "gradientPurple"
+    },
+    "title": {
+      "type": "richtext"
+    },
+    "text": {
+      "type": "string"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    },
+    "icon": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

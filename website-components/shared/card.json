@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_cards",
+  "info": {
+    "name": "card",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    }
+  }
+}

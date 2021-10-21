@@ -1,0 +1,45 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_text_next_to_images",
+  "info": {
+    "name": "textNextToImage",
+    "icon": "angle-down"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "content": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "quote": {
+      "type": "text"
+    },
+    "author": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.person"
+    },
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "textPosition": {
+      "type": "enumeration",
+      "enum": ["left", "right"],
+      "default": "left"
+    }
+  }
+}

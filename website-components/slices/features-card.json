@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_slices_features_cards",
+  "info": {
+    "name": "FeaturesCard",
+    "icon": "splotch",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "leftTitle": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    },
+    "features": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.star-features"
+    },
+    "rightTitle": {
+      "type": "string"
+    }
+  }
+}

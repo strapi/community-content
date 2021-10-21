@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_top_features",
+  "info": {
+    "name": "topFeatures",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "features": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.card"
+    }
+  }
+}

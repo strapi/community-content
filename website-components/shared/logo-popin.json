@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_shared_logo_popins",
+  "info": {
+    "name": "logoPopin",
+    "icon": "border-style"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "asset": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.button"
+    }
+  }
+}

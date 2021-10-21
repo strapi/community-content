@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_tech_stack_icon_lists",
+  "info": {
+    "name": "TechStackIconList",
+    "icon": "grip-horizontal"
+  },
+  "options": {},
+  "attributes": {
+    "icons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.icon-with-tooltip"
+    }
+  }
+}

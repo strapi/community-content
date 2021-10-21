@@ -1,0 +1,28 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_use_case_heroes",
+  "info": {
+    "name": "useCaseHero",
+    "icon": "ankh"
+  },
+  "options": {},
+  "attributes": {
+    "hero": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.hero"
+    },
+    "asideImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "introText": {
+      "type": "richtext"
+    },
+    "divider": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

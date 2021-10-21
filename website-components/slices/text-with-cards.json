@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_slices_text_with_cards",
+  "info": {
+    "name": "textWithCards",
+    "icon": "arrow-alt-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "triangleImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "cardsIntro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.card-with-link"
+    }
+  }
+}

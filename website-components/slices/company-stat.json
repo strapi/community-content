@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_slices_company_stats",
+  "info": {
+    "name": "CompanyStat",
+    "icon": "ellipsis-h"
+  },
+  "options": {},
+  "attributes": {
+    "boldTitle": {
+      "type": "string"
+    },
+    "title": {
+      "type": "richtext"
+    },
+    "text": {
+      "type": "richtext"
+    }
+  }
+}

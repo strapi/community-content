@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_slices_video_thumbnails",
+  "info": {
+    "name": "VideoThumbnail",
+    "icon": "file-image",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    },
+    "videoUrl": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_links_link_with_small_icons",
+  "info": {
+    "name": "linkWithSmallIcon",
+    "icon": "balance-scale"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    },
+    "icon": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

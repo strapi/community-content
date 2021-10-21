@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_slices_related_case_studies",
+  "info": {
+    "name": "relatedCaseStudies",
+    "icon": "arrow-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "caseStudies": {
+      "collection": "case-studies"
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  }
+}

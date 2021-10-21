@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_slices_icon_with_tooltips",
+  "info": {
+    "name": "IconWithTooltip",
+    "icon": "square"
+  },
+  "options": {},
+  "attributes": {
+    "tooltip": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.tooltip"
+    },
+    "icon": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos"
+      ],
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}

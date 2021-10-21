@@ -1,0 +1,35 @@
+{
+  "connection": "default",
+  "collectionName": "components_text_label_title_text_links",
+  "info": {
+    "name": "labelTitleTextLinks",
+    "icon": "text-height"
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": ["yellow", "purple", "blue", "white", "green", "darkMode"],
+      "default": "purple"
+    },
+    "label": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.button"
+    },
+    "smallTextWithLink": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.small-text-with-link"
+    }
+  }
+}

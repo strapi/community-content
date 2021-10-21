@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_embed_forms",
+  "info": {
+    "name": "embedForm",
+    "icon": "clipboard-list"
+  },
+  "options": {},
+  "attributes": {
+    "portalId": {
+      "type": "string"
+    },
+    "formId": {
+      "type": "string"
+    }
+  }
+}

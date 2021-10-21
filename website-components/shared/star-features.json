@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_star_features",
+  "info": {
+    "name": "starFeatures",
+    "icon": "star"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "tooltip": {
+      "type": "richtext"
+    }
+  }
+}

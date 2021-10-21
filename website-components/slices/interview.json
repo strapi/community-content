@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_interviews",
+  "info": {
+    "name": "Interview",
+    "icon": "users-cog"
+  },
+  "options": {},
+  "attributes": {
+    "introImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "questionAnswer": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.question-answer"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "connection": "default",
+  "collectionName": "components_links_small_text_with_links",
+  "info": {
+    "name": "smallTextWithLink",
+    "icon": "adjust"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "richtext"
+    },
+    "alignUnderButton": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

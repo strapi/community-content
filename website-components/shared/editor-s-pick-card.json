@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_shared_editor_s_pick_cards",
+  "info": {
+    "name": "Editor's pick card",
+    "icon": "balance-scale-left",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "commandLine": {
+      "type": "text"
+    }
+  }
+}

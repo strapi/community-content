@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_slices_related_showcases",
+  "info": {
+    "name": "relatedShowcases",
+    "icon": "baby"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "category": {
+      "type": "string"
+    }
+  }
+}

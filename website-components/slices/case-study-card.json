@@ -1,0 +1,22 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_case_study_cards",
+  "info": {
+    "name": "caseStudyCard",
+    "icon": "archive"
+  },
+  "options": {},
+  "attributes": {
+    "triangleImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "card": {
+      "model": "case-studies"
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  }
+}

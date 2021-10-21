@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_slices_headline_arts",
+  "info": {
+    "name": "HeadlineArt",
+    "icon": "broom"
+  },
+  "options": {},
+  "attributes": {
+    "darkMode": {
+      "type": "boolean",
+      "default": true
+    },
+    "layout": {
+      "type": "enumeration",
+      "enum": [
+        "left",
+        "right"
+      ],
+      "default": "left"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

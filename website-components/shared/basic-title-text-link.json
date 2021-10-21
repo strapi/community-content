@@ -1,0 +1,39 @@
+{
+  "collectionName": "components_shared_basic_title_text_links",
+  "info": {
+    "name": "BasicTitleTextLink",
+    "icon": "bath",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "yellow",
+        "purple",
+        "blue",
+        "white",
+        "green"
+      ],
+      "default": "purple"
+    },
+    "label": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    },
+    "withDownloadLink": {
+      "type": "boolean"
+    }
+  }
+}

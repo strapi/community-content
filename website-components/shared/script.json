@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_scripts",
+  "info": {
+    "name": "script",
+    "icon": "arrow-left"
+  },
+  "options": {},
+  "attributes": {
+    "embed": {
+      "type": "text"
+    }
+  }
+}

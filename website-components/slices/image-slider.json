@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_slices_image_sliders",
+  "info": {
+    "name": "ImageSlider",
+    "icon": "pause"
+  },
+  "options": {},
+  "attributes": {
+    "images": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_headers",
+  "info": {
+    "name": "header",
+    "icon": "bars"
+  },
+  "options": {},
+  "attributes": {
+    "panels": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.header-panel"
+    },
+    "home": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    }
+  }
+}

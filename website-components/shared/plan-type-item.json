@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_shared_plan_type_items",
+  "info": {
+    "name": "planTypeItem",
+    "icon": "baseball-ball"
+  },
+  "options": {},
+  "attributes": {
+    "type": {
+      "model": "plan-type"
+    },
+    "selected": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

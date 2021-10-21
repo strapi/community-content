@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_contributors_slice",
+  "info": {
+    "name": "contributorsSlice",
+    "icon": "arrow-circle-down"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    }
+  }
+}

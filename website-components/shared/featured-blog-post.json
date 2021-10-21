@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_featured_blog_posts",
+  "info": {
+    "name": "featuredBlogPost",
+    "icon": "arrows-alt"
+  },
+  "options": {},
+  "attributes": {
+    "featuredLabel": {
+      "type": "string"
+    },
+    "blogPost": {
+      "model": "blog-posts"
+    }
+  }
+}

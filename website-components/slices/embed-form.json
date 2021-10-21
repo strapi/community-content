@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_slices_embed_forms",
+  "info": {
+    "name": "embedForm",
+    "icon": "baby-carriage"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "embedForm": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.embed-form"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "connection": "default",
+  "collectionName": "components_links_links",
+  "info": {
+    "name": "link",
+    "icon": "address-book"
+  },
+  "options": {},
+  "attributes": {
+    "href": {
+      "type": "string"
+    },
+    "target": {
+      "type": "enumeration",
+      "enum": [
+        "_blank"
+      ]
+    },
+    "text": {
+      "type": "string"
+    },
+    "contentType": {
+      "type": "enumeration",
+      "enum": [
+        "single",
+        "universals",
+        "blog",
+        "integrations",
+        "partners",
+        "solutions",
+        "user_stories"
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_plan_type_selectors",
+  "info": {
+    "name": "planTypeSelector",
+    "icon": "mouse-pointer"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.plan-type-item"
+    }
+  }
+}

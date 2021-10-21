@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_slices_brands_with_intros",
+  "info": {
+    "name": "brandsWithIntro",
+    "icon": "audio-description"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "brands": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.brand"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_slices_large_features_slice",
+  "info": {
+    "name": "largeFeaturesSlice",
+    "icon": "arrow-circle-up"
+  },
+  "options": {},
+  "attributes": {
+    "asideImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "mainFeatures": {
+      "type": "component",
+      "repeatable": false,
+      "component": "slices.features-slice"
+    },
+    "extraFeatures": {
+      "type": "component",
+      "repeatable": false,
+      "component": "slices.features-slice"
+    }
+  }
+}

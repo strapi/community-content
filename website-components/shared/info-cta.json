@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_shared_info_ctas",
+  "info": {
+    "name": "infoCta",
+    "icon": "campground"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    }
+  }
+}

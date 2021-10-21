@@ -1,0 +1,44 @@
+{
+  "collectionName": "components_shared_newsletters",
+  "info": {
+    "name": "newsletter",
+    "icon": "at",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "networkErrorMessage": {
+      "type": "text"
+    },
+    "successMessage": {
+      "type": "text"
+    },
+    "invalidEmailMessage": {
+      "type": "text"
+    },
+    "requiredEmailMessage": {
+      "type": "text"
+    },
+    "placeholder": {
+      "type": "string"
+    },
+    "submitButtonText": {
+      "type": "string"
+    },
+    "portalId": {
+      "type": "string"
+    },
+    "formGuid": {
+      "type": "string"
+    },
+    "disclaimer": {
+      "type": "text"
+    }
+  }
+}

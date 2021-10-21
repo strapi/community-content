@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_slices_company_stat_lists",
+  "info": {
+    "name": "CompanyStatList",
+    "icon": "list",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "stats": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.company-stat"
+    }
+  }
+}

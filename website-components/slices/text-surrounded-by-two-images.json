@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_slices_text_surrounded_by_two_images",
+  "info": {
+    "name": "textSurroundedByTwoImages",
+    "icon": "arrow-alt-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "mainImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "secondaryImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "text": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    }
+  }
+}

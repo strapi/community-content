@@ -1,0 +1,19 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_stacking_cards",
+  "info": {
+    "name": "stackingCards",
+    "icon": "angle-left"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.card"
+    }
+  }
+}

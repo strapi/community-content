@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_slices_full_width_quotes",
+  "info": {
+    "name": "fullWidthQuote",
+    "icon": "quote-left"
+  },
+  "options": {},
+  "attributes": {
+    "triangleImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "label": {
+      "type": "string"
+    },
+    "quote": {
+      "type": "richtext"
+    },
+    "author": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.person"
+    }
+  }
+}

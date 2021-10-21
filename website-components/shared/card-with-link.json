@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_shared_card_with_links",
+  "info": {
+    "name": "cardWithLink",
+    "icon": "arrow-alt-circle-left"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    },
+    "card": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.card"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": ["purple", "yellow", "blue", "green"],
+      "default": "purple"
+    }
+  }
+}

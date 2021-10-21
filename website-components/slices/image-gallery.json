@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_image_galleries",
+  "info": {
+    "name": "imageGallery",
+    "icon": "chess-board"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "repeatable": true,
+      "component": "media.image"
+    }
+  }
+}

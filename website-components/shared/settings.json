@@ -1,0 +1,38 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_settings",
+  "info": {
+    "name": "settings",
+    "icon": "atom"
+  },
+  "options": {},
+  "attributes": {
+    "theme": {
+      "type": "enumeration",
+      "enum": ["light", "dark"],
+      "default": "light",
+      "required": false
+    },
+    "logo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "blank": {
+      "type": "boolean",
+      "default": false
+    },
+    "chargebee": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.chargebee"
+    },
+    "microdata": {
+      "type": "json"
+    },
+    "sponsoredScript": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

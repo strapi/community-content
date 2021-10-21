@@ -1,0 +1,29 @@
+{
+  "collectionName": "components_slices_single_animations",
+  "info": {
+    "name": "SingleAnimation",
+    "icon": "laptop-code"
+  },
+  "options": {},
+  "attributes":
+  {
+    "layout": {
+      "type": "enumeration",
+      "enum": [
+        "fullWidth",
+        "regular"
+      ],
+      "default": "fullWidth"
+    },
+    "desktopAnimation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }, 
+    "mobileAnimation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

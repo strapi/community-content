@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_home_heroes",
+  "info": {
+    "name": "homeHero",
+    "icon": "angle-double-down"
+  },
+  "options": {},
+  "attributes": {
+    "hero": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.hero"
+    },
+    "desktopWindowImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "mobileWindowImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

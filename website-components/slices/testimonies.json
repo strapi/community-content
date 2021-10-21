@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_slices_testimonies",
+  "info": {
+    "name": "Testimonies",
+    "icon": "file-video",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "thumbnails": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.video-thumbnail"
+    }
+  }
+}

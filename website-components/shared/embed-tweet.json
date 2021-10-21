@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_embed_tweets",
+  "info": {
+    "name": "embedTweet",
+    "icon": "retweet"
+  },
+  "options": {},
+  "attributes": {
+    "tweetLink": {
+      "type": "string"
+    }
+  }
+}

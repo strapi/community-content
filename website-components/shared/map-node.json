@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_shared_map_nodes",
+  "info": {
+    "name": "MapNode",
+    "icon": "map-marked-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "enumeration",
+      "enum": [
+        "person",
+        "event"
+      ]
+    },
+    "nodeId": {
+      "type": "integer",
+      "max": 2217,
+      "min": 0
+    },
+    "text": {
+      "type": "string"
+    },
+    "media": {
+      "collection": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": false
+    }
+  }
+}

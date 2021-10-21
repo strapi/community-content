@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_white_heroes",
+  "info": {
+    "name": "whiteHero",
+    "icon": "american-sign-language-interpreting"
+  },
+  "options": {},
+  "attributes": {
+    "topRightImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "logoImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    }
+  }
+}

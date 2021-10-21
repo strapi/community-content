@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_slices_perk_groups",
+  "info": {
+    "name": "PerkGroup",
+    "icon": "list-ol",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "groupName": {
+      "type": "string",
+      "required": true
+    },
+    "perks": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.perk"
+    }
+  }
+}

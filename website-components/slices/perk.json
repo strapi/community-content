@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_slices_perks",
+  "info": {
+    "name": "Perk",
+    "icon": "list-ul"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "text",
+      "required": true
+    },
+    "image": {
+      "model": "file",
+      "via": "related",
+      "allowedTypes": [
+        "images"
+      ],
+      "plugin": "upload",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_content_cards_lists",
+  "info": {
+    "name": "contentCardsList",
+    "icon": "road"
+  },
+  "options": {},
+  "attributes": {
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.content-card"
+    }
+  }
+}

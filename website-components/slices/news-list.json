@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_news_lists",
+  "info": {
+    "name": "NewsList",
+    "icon": "book-open"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    }
+  }
+}

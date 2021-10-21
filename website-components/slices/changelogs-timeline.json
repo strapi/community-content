@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_slices_changelogs_timelines",
+  "info": {
+    "name": "changelogsTimeline",
+    "icon": "business-time"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "changelogs": {
+      "collection": "changelog"
+    }
+  }
+}

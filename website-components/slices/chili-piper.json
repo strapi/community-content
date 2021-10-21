@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_slices_chili_pipers",
+  "info": {
+    "name": "chiliPiper",
+    "icon": "battery-three-quarters"
+  },
+  "options": {},
+  "attributes": {
+    "pageId": {
+      "type": "string"
+    }
+  }
+}

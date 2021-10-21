@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_shared_toggles",
+  "info": {
+    "name": "toggle",
+    "icon": "toggle-on"
+  },
+  "options": {},
+  "attributes": {
+    "toggleOptions": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.toggle-options",
+      "max": 2,
+      "required": false
+    },
+    "comment": {
+      "type": "string"
+    }
+  }
+}

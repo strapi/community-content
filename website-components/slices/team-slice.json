@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_slices_team_slices",
+  "info": {
+    "name": "teamSlice",
+    "icon": "people-carry"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "openPositionsCTA": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.open-positions-cta"
+    }
+  }
+}

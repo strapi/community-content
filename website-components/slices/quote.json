@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_quotes",
+  "info": {
+    "name": "quote",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "triangleImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "quote": {
+      "type": "text"
+    },
+    "author": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.person"
+    }
+  }
+}

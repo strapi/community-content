@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_footer_pushes",
+  "info": {
+    "name": "footerPush",
+    "icon": "border-all"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "buttons": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.button"
+    },
+    "cliCommand": {
+      "type": "string"
+    }
+  }
+}

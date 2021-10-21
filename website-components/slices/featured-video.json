@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_slices_featured_videos",
+  "info": {
+    "name": "FeaturedVideo",
+    "icon": "video"
+  },
+  "options": {},
+  "attributes": {
+    "video": {
+      "model": "content-video"
+    }
+  }
+}

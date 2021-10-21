@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_newsletter_banners",
+  "info": {
+    "name": "newsletterBanner",
+    "icon": "angle-up"
+  },
+  "options": {},
+  "attributes": {
+    "newsletter": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.newsletter"
+    }
+  }
+}

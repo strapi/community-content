@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_shared_socials_grid_cards",
+  "info": {
+    "name": "Socials Grid Card",
+    "icon": "braille",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": [
+        "gradientPurple",
+        "gradientGreen"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_question_answers",
+  "info": {
+    "name": "questionAnswer",
+    "icon": "angle-double-up"
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "richtext"
+    }
+  }
+}

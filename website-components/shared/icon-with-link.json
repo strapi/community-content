@@ -1,0 +1,21 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_icon_with_links",
+  "info": {
+    "name": "iconWithLink",
+    "icon": "angle-right"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    },
+    "icon": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

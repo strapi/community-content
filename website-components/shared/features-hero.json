@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_shared_features_heroes",
+  "info": {
+    "name": "featuresHero",
+    "icon": "arrow-circle-left"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "triangleImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "asideImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "smallScreenAsideImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "displayTopTriangle": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "collectionName": "components_media_lottie_animations",
+  "info": {
+    "name": "lottieAnimation",
+    "icon": "bolt"
+  },
+  "options": {},
+  "attributes": {
+    "loop": {
+      "type": "boolean",
+      "default": true
+    },
+    "loopDelay": {
+      "type": "integer"
+    },
+    "autoPlay": {
+      "type": "boolean",
+      "default": true
+    },
+    "playOnce": {
+      "type": "boolean",
+      "default": false
+    },
+    "animationData": {
+      "type": "json"
+    },
+    "path": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_toggle_options",
+  "info": {
+    "name": "toggleOptions",
+    "icon": "toggle-off"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "toggleId": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_dictionary_entries",
+  "info": {
+    "name": "dictionaryEntry",
+    "icon": "swatchbook"
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}

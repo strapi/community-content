@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_text_with_key_numbers",
+  "info": {
+    "name": "textWithKeyNumbers",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "triangleImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "keyNumber": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.key-number"
+    }
+  }
+}

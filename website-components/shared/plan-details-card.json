@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_plan_details_cards",
+  "info": {
+    "name": "planDetailsCard",
+    "icon": "id-card"
+  },
+  "options": {},
+  "attributes": {
+    "plan": {
+      "model": "plans"
+    },
+    "starFeatures": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.star-features"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_slices_stories_grids",
+  "info": {
+    "name": "storiesGrid",
+    "icon": "backspace"
+  },
+  "options": {},
+  "attributes": {
+    "buttonText": {
+      "type": "string"
+    },
+    "caseStudies": {
+      "collection": "case-studies"
+    }
+  }
+}

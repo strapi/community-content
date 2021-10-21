@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_slices_perk_lists",
+  "info": {
+    "name": "PerkLists",
+    "icon": "euro-sign",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "slices.intro"
+    },
+    "groups": {
+      "type": "component",
+      "repeatable": true,
+      "component": "slices.perk-group"
+    }
+  }
+}

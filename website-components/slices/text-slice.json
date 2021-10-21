@@ -1,0 +1,29 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_text_slice",
+  "info": {
+    "name": "textSlice",
+    "icon": "arrows-alt-v"
+  },
+  "options": {},
+  "attributes": {
+    "layout": {
+      "type": "enumeration",
+      "enum": ["classic", "large"],
+      "default": "classic"
+    },
+    "alignCenter": {
+      "type": "boolean",
+      "default": false
+    },
+    "withBackground": {
+      "type": "boolean",
+      "default": false
+    },
+    "content": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    }
+  }
+}

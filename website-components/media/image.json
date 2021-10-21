@@ -1,0 +1,27 @@
+{
+  "connection": "default",
+  "collectionName": "components_media_images",
+  "info": {
+    "name": "image",
+    "icon": "photo-video",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "alt": {
+      "type": "string",
+      "required": false
+    },
+    "media": {
+      "model": "file",
+      "via": "related",
+      "plugin": "upload",
+      "required": false
+    },
+    "lottieAnimation": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.lottie-animation"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_steppers",
+  "info": {
+    "name": "stepper",
+    "icon": "align-right"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "step": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.step"
+    },
+    "backgroundImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

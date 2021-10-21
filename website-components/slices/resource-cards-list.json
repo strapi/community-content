@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_slices_resource_cards_lists",
+  "info": {
+    "name": "resourceCardsList",
+    "icon": "carrot"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.resource-card"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_shared_content_cards",
+  "info": {
+    "name": "contentCard",
+    "icon": "bacon"
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    }
+  }
+}

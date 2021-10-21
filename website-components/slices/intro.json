@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_slices_intros",
+  "info": {
+    "name": "intro",
+    "icon": "bookmark"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "decoration": {
+      "type": "enumeration",
+      "enum": ["left", "right"],
+      "default": "left"
+    },
+    "center": {
+      "type": "boolean",
+      "default": true
+    },
+    "offset": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

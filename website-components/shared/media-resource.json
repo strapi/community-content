@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_shared_media_resources",
+  "info": {
+    "name": "mediaResource",
+    "icon": "file-medical",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "richtext"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": ["blue", "purple"],
+      "default": "blue"
+    },
+    "link": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.link"
+    },
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

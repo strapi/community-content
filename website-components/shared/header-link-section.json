@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_header_link_sections",
+  "info": {
+    "name": "headerLinkSection",
+    "icon": "arrow-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.link"
+    },
+    "arrowLinks": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.link"
+    }
+  }
+}

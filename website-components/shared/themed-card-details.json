@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_shared_themed_card_details",
+  "info": {
+    "name": "themedCardDetails",
+    "icon": "feather"
+  },
+  "options": {},
+  "attributes": {
+    "dark": {
+      "type": "boolean",
+      "default": false
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": ["green", "purple", "yellow", "blue", "orange"]
+    },
+    "label": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    }
+  }
+}

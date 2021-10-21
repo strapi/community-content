@@ -1,0 +1,32 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_header_panels",
+  "info": {
+    "name": "headerPanel",
+    "icon": "cubes"
+  },
+  "options": {},
+  "attributes": {
+    "navigationLabel": {
+      "type": "component",
+      "component": "links.link",
+      "repeatable": false
+    },
+    "sections": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.header-link-section"
+    },
+    "arrowLinks": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.link"
+    },
+    "pushs": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.header-push",
+      "max": 2
+    }
+  }
+}

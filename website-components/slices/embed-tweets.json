@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_slices_embed_tweets",
+  "info": {
+    "name": "embedTweets",
+    "icon": "baby"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "embedTweet": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.embed-tweet"
+    }
+  }
+}

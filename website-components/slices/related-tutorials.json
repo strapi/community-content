@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_slices_related_tutorials",
+  "info": {
+    "name": "relatedTutorials",
+    "icon": "brain"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "topic": {
+      "type": "string"
+    }
+  }
+}

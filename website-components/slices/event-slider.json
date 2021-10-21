@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_slices_event_sliders",
+  "info": {
+    "name": "eventSlider",
+    "icon": "arrow-alt-circle-up"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "triangleImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "eventButtonText": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_slices_features_slice",
+  "info": {
+    "name": "featuresSlice",
+    "icon": "arrow-circle-right"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.card"
+    },
+    "layout": {
+      "type": "enumeration",
+      "enum": ["three", "two"],
+      "default": "three"
+    },
+    "iconLayout": {
+      "type": "enumeration",
+      "enum": ["row", "column"],
+      "default": "row"
+    }
+  }
+}

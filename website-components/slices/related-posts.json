@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_slices_related_posts",
+  "info": {
+    "name": "relatedPosts",
+    "icon": "battery-full",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "blogPosts": {
+      "collection": "blog-posts"
+    },
+    "category": {
+      "model": "post-categories"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_slices_large_images",
+  "info": {
+    "name": "largeImage",
+    "icon": "images"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "withShadow": {
+      "type": "boolean",
+      "default": true
+    },
+    "fullWidth": {
+      "type": "boolean",
+      "default": false
+    },
+    "hideOnMobile": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

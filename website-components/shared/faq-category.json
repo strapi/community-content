@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_faq_categories",
+  "info": {
+    "name": "faqCategory",
+    "icon": "plus-square"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "questions": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.faq-question"
+    }
+  }
+}

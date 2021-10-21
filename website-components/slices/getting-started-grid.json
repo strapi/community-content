@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_getting_started_grids",
+  "info": {
+    "name": "gettingStartedGrid",
+    "icon": "clipboard"
+  },
+  "options": {},
+  "attributes": {
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.starting-point"
+    }
+  }
+}

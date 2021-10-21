@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_slices_related_blog_posts",
+  "info": {
+    "name": "relatedBlogPosts",
+    "icon": "arrow-up"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "blogPosts": {
+      "collection": "blog-posts"
+    }
+  }
+}

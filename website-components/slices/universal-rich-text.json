@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_slices_universal_rich_texts",
+  "info": {
+    "name": "universalRichText",
+    "icon": "assistive-listening-systems"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "richText": {
+      "type": "richtext"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "collectionName": "components_slices_text_next_to_big_images",
+  "info": {
+    "name": "textNextToBigImage",
+    "icon": "arrow-down"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "theme": {
+      "type": "enumeration",
+      "enum": ["purple", "yellow", "green", "blue"]
+    },
+    "content": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "title": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    },
+    "layout": {
+      "type": "enumeration",
+      "enum": ["left", "right"],
+      "default": "left"
+    }
+  }
+}

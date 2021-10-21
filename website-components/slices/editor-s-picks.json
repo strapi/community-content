@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_slices_editor_s_picks",
+  "info": {
+    "name": "Editor's picks",
+    "icon": "grin-stars"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "posts": {
+      "collection": "blog-posts"
+    },
+    "card": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.editor-s-pick-card"
+    }
+  }
+}

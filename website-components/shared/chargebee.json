@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_chargebees",
+  "info": {
+    "name": "chargebee",
+    "icon": "money-bill-alt"
+  },
+  "options": {},
+  "attributes": {
+    "projectName": {
+      "type": "string"
+    },
+    "enabled": {
+      "type": "boolean",
+      "default": false
+    },
+    "autoLaunch": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

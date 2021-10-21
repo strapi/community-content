@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_slices_chargebees",
+  "info": {
+    "name": "chargebee",
+    "icon": "money-check"
+  },
+  "options": {},
+  "attributes": {
+    "projectName": {
+      "type": "string"
+    },
+    "autoLaunch": {
+      "type": "boolean",
+      "default": true
+    }
+  }
+}

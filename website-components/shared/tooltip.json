@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_shared_tooltips",
+  "info": {
+    "name": "tooltip",
+    "icon": "info"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

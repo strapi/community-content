@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_shared_careers_heroes",
+  "info": {
+    "name": "CareersHero",
+    "icon": "globe-americas",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "slices.intro"
+    },
+    "nodes": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.map-node"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "collectionName": "components_slices_socials_grids",
+  "info": {
+    "name": "socialsGrid",
+    "icon": "digital-tachograph"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "links.link-edito-with-image"
+    },
+    "cards": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.socials-grid-cards"
+    },
+    "newsletter": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.newsletter"
+    }
+  }
+}

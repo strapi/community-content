@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_shared_footer_socials",
+  "info": {
+    "name": "footerSocials",
+    "icon": "audio-description"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    },
+    "socials": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.hoverable-icon-with-link"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_slices_text_with_image_and_gradients",
+  "info": {
+    "name": "TextWithImageAndGradient",
+    "icon": "basketball-ball"
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.basic-title-text-link"
+    },
+    "image": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

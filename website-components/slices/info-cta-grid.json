@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_slices_info_cta_grids",
+  "info": {
+    "name": "infoCtaGrid",
+    "icon": "border-none"
+  },
+  "options": {},
+  "attributes": {
+    "items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.info-cta"
+    }
+  }
+}

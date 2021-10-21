@@ -1,0 +1,27 @@
+{
+  "collectionName": "components_slices_new_intros",
+  "info": {
+    "name": "NewIntro",
+    "icon": "blind"
+  },
+  "options": {},
+  "attributes": {
+    "darkMode": {
+      "type": "boolean",
+      "default": true
+    },
+    "title": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "button": {
+      "type": "component",
+      "repeatable": false,
+      "component": "links.button"
+    }
+  }
+}

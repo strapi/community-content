@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_faq_questions",
+  "info": {
+    "name": "faqQuestion",
+    "icon": "caret-square-right"
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "richtext"
+    }
+  }
+}

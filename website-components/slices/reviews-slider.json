@@ -1,0 +1,29 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_reviews_sliders",
+  "info": {
+    "name": "reviewsSlider",
+    "icon": "arrows-alt-h"
+  },
+  "options": {},
+  "attributes": {
+    "reviews": {
+      "collection": "reviews"
+    },
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "triangleImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

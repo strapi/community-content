@@ -1,0 +1,17 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_key_numbers",
+  "info": {
+    "name": "keyNumber",
+    "icon": "angle-double-right"
+  },
+  "options": {},
+  "attributes": {
+    "number": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

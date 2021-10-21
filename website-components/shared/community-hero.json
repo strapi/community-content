@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_community_heroes",
+  "info": {
+    "name": "communityHero",
+    "icon": "archway"
+  },
+  "options": {},
+  "attributes": {
+    "whiteHero": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.white-hero"
+    },
+    "socialMediaIntro": {
+      "type": "richtext"
+    },
+    "socialMedia": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.icon-with-link"
+    }
+  }
+}

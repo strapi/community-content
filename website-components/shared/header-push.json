@@ -1,0 +1,24 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_header_pushs",
+  "info": {
+    "name": "headerPush",
+    "icon": "award"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "type": "component",
+      "component": "media.image",
+      "repeatable": false
+    },
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "component",
+      "component": "links.link",
+      "repeatable": false
+    }
+  }
+}

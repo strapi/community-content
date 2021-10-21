@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_shared_variations",
+  "info": {
+    "name": "variations",
+    "icon": "percentage"
+  },
+  "options": {},
+  "attributes": {
+    "price": {
+      "type": "string",
+      "required": true
+    },
+    "tooltip": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.tooltip"
+    },
+    "frequency": {
+      "type": "string",
+      "required": true
+    },
+    "toggleId": {
+      "type": "string"
+    }
+  }
+}

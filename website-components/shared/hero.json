@@ -1,0 +1,26 @@
+{
+  "connection": "default",
+  "collectionName": "components_shared_heroes",
+  "info": {
+    "name": "hero",
+    "icon": "address-card"
+  },
+  "options": {},
+  "attributes": {
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "topRightBackgroundImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    },
+    "bottomLeftBackgroundImage": {
+      "type": "component",
+      "repeatable": false,
+      "component": "media.image"
+    }
+  }
+}

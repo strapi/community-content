@@ -1,0 +1,27 @@
+{
+  "connection": "default",
+  "collectionName": "components_slices_integration_cards_grid",
+  "info": {
+    "name": "integrationCardsGrid",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "gradientHeader": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.gradient-header"
+    },
+    "intro": {
+      "type": "component",
+      "repeatable": false,
+      "component": "text.label-title-text-links"
+    },
+    "cardsCategories": {
+      "collection": "cards-categories"
+    },
+    "buttonText": {
+      "type": "string"
+    }
+  }
+}
