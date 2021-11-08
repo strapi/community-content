@@ -1,3 +1,12 @@
+- title: Confind - Enterprise Search Platform
+  url: https://confind.nl/
+  description: Confind is a search platform based upon Elasticsearch and makes is very easy and clear to search in several different sources!
+  categories:
+    - Marketing / Product website
+  frontend:
+    - Vue.js
+  made_by: Smartshore Ability
+  made_by_url: https://smartshore-ability.nl/
 - title: Lag and Log
   url: https://lagandlog.com/
   description: Grow yourself by writing.
