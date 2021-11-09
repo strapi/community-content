@@ -81,10 +81,26 @@ No more than 155 characters. [Here are few examples](https://themeisle.com/blog/
   ## Content
   - Introduction: The introduction needs to quickly hook your reader and convince them to read the rest of your blog post. It also has to let the reader know what your post is about. Whether your approach is humour, interesting and surprising facts, or asking a question, find a way to make the first lines of your blog posts as attention-grabbing as possible. Write an introduction that would make you want to keep reading an article -- a quick few paragraphs to draw the reader in and let him know what he's about to read.
   - Paragraphs: Please use sub-headers to split up sections of your blog post (H2 tag). Optimize them by using keywords.
-  - Linking: Please link to at least [one blog post published on our Blog](https://strapi.io/blog) Make sure to also link to high ranking external websites. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
+  - Linking: Please link to at least [one blog post published on our Blog](https://strapi.io/blog) Make sure to also link to high ranking external websites and add a rell=nofollow. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
+  - When adding links, please include the link on a keyword. Don't use "click here" nor "there" nor "link". Example: If the blog articles refer to keywords related to front technology such as "next.js", "gatsby" in the blog article, we should link these words to our integration pages. That creates internal linking and more "seo weight" to our integrations pages. —> This principle applies to all the words that can be linked to a Strapi page.
   - The longer your article is, the better Google will reference it.
   - Please compress your images before uploading them.
   - Please, be sure to not write hard sentences. You can use this great tool for that https://hemingwayapp.com.
+
+  ## Images
+  - Please use [this figma file](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors?node-id=0%3A1) to create your article images. Please duplicate the template before creating your article images.
+  - You need to create 2 images for your blog post. 
+      - Image 1: 
+          - CATEGORY: choose the category that best represent your article. Option 1; “TUTORIALS”, If its not a tutorial, please use the category: “ECOSYSTEM”
+          - TITLE: Add the title - make sure it is SEO friendly
+          - ICONS: Select the best format for your article. You can use white or colored icons.  and icons of the technology used in your article. You can use an emoji if no specific technology is mentioned in your article.
+      - Image 2:
+          - TITLE; Add the same title that was used in your first image.
+          - NAME: Add your first & last name
+          - Image: Add a photo of you.
+  - Once you duplicate and implement the edits, please click on export and add your pictures in your dropbox link.  Please do not delete your templates. We might need it to implement some changes to your pictures.
+  - All images should have an alt-text describing the image (accessibility) and including the targeted keyword of the blog article. Separate words with a hyphen.
+ 
 
   ## Keywords
 Let keywords flow naturally and in a contextual way inside your content.
