@@ -931,3 +931,12 @@
     - Tailwind CSS
   made_by: Ayoub Hidri
   made_by_url: https://www.linkedin.com/in/ayoub-hidri-67a29428
+- title: Card Musings
+  url: https://cardmusings.com
+  description: "Beautiful electronic greeting cards"
+  categories:
+    - Greeting Cards
+  frontend:
+    - Next.js
+  made_by: Arik Cohen
+  made_by_url: https://www.linkedin.com/in/arikcohen/
