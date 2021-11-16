@@ -1,6 +1,6 @@
 - title: Confind - Enterprise Search Platform
   url: https://confind.nl/
-  description: Confind is a search platform based upon Elasticsearch and makes is very easy and clear to search in several different sources!
+  description: This awesome website is using Strapi for managing the content of our Vue.js Marketing website
   categories:
     - Marketing / Product website
   frontend:
