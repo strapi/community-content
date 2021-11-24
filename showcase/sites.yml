@@ -918,7 +918,7 @@
     - Next js
     - Bootstrap
   made_by: Gaylord Julien
-  made_by_url: https://www.emael76.fr/
+  made_by_url: https://www.gaylordjulien.dev/
 - title: Tiween
   url: https://tiween.com
   description: "Tiween from the Tunisian local dialect means: where is it taking place?...or where to find it, is an inventory of all the movie Theaters movies projections on Tunisia soil that tells where a movie is to be displayed and when on a weekly fashion. Tiween reach aims to expand it coverage to all cultural events in Tunisia: expositions, concerts...etc."
@@ -940,3 +940,23 @@
     - Next.js
   made_by: Arik Cohen
   made_by_url: https://www.linkedin.com/in/arikcohen/
+  - title: Gaylord Julien, développeur web indépendant - basé à Rouen
+  url: https://www.gaylordjulien.dev/
+  description: Website to sell my services as a web developer
+  categories:
+    - Corporate Website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien
+  made_by_url: https://www.gaylordjulien.dev/
+   - title: La Place, restaurant rouen
+  url: https://www.laplace-restaurant-brasserie.fr/
+  description: Website of La Place, managing reservations online with Strapi
+  categories:
+    - Corporate Website
+  frontend:
+    - Next.js
+    - Bootstrap
+  made_by: Gaylord Julien
+  made_by_url: https://www.gaylordjulien.dev/
