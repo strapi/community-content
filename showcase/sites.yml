@@ -940,7 +940,7 @@
     - Next.js
   made_by: Arik Cohen
   made_by_url: https://www.linkedin.com/in/arikcohen/
-  - title: Gaylord Julien, développeur web indépendant - basé à Rouen
+- title: Gaylord Julien, développeur web indépendant - basé à Rouen
   url: https://www.gaylordjulien.dev/
   description: Website to sell my services as a web developer
   categories:
@@ -950,7 +950,7 @@
     - Tailwind
   made_by: Gaylord Julien
   made_by_url: https://www.gaylordjulien.dev/
-   - title: La Place, restaurant rouen
+- title: La Place, restaurant rouen
   url: https://www.laplace-restaurant-brasserie.fr/
   description: Website of La Place, managing reservations online with Strapi
   categories:
