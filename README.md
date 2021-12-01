@@ -14,7 +14,8 @@ Contribute and collaborate on educational content for the Strapi Community.
 
 Considering writing for the Strapi community and sharing your technical expertise? 
 
-NOTE: ALL CONTENT CREATED BEFORE THE RELEASE OF V4 SHOULD BE UPDATED BY THE AUTHOR AFTER THE RELEASE
+NOTE: WE HAVE RECENTLY RELEASED STRAPI V4 WHICH BROUGH VARIOUS UPDATES AND IMROVEMENTS. THIS MEANS THAT A BIG PART OF OUR TUTORIALS IS NOW OUTDATED. THEREFORE, WE HAVE PUT A LIST OF OUR TOP 50 PERFORMING TUTORIALS THAT WE WOULD LIKE TO UPDATE ASAP.
+https://strapi.notion.site/Writer-s-Guide-V4-Tutorial-Update-68953d4073bf43b7bcba3d8284741c6d
 
 ### How it Works?
 
