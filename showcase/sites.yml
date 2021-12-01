@@ -960,3 +960,16 @@
     - Bootstrap
   made_by: Gaylord Julien
   made_by_url: https://www.gaylordjulien.dev/
+ - title: Spirits Beacon
+  url: https://spiritsbeacon.com
+  description: Editorial hub featuring cocktail recipes, distillery guides, insight and news about the latest spirits. We use Strapi as the CMS for the site.
+  categories:
+    - Blog
+    - Food
+    - Education
+  frontend:
+    - Next.js
+    - Material UI
+    - Algolia
+  made_by: Enotria&Coe
+  made_by_url: https://www.enotriacoe.com/
