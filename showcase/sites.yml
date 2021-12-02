@@ -1,3 +1,14 @@
+- title: pick.eat.up.
+  url: https://pickeatup.io/
+  description: The pick.eat.up app. is a great tool to the fight against food waste. Pick.eat.up. app with delicious offers in your area at very economical prices.
+  categories:
+    - E-commerce
+    - Food
+  frontend:
+    - React.js
+    - React-Native
+    - Next.js
+  made_by: Mariusz Witkowski, Artur Szady
 - title: Confind - Enterprise Search Platform
   url: https://confind.nl/
   description: This awesome website is using Strapi for managing the content of our Vue.js Marketing website
