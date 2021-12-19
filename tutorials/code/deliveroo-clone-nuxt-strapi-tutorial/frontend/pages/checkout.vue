@@ -51,7 +51,7 @@ export default {
       err: null,
       address: '',
       stripeKey:
-        'pk_test_51K5rQOAs2pPknf4fwfg54rY8ZgYVtxBq2DBLcuujQzkk8MtG38N2Asjsa0uHyxhDfOatd52QBQ4L27qi39rM4Sse00aPEge2QW', // test key, don't hardcode
+        '##Clé publique##', // test key, don't hardcode
     }
   },
   computed: {

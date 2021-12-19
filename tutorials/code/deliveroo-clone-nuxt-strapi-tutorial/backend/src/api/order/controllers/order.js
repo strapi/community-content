@@ -1,5 +1,5 @@
 'use strict';
-const stripe = require('stripe')('pk_test_51K5rQOAs2pPknf4fwfg54rY8ZgYVtxBq2DBLcuujQzkk8MtG38N2Asjsa0uHyxhDfOatd52QBQ4L27qi39rM4Sse00aPEge2QW');
+const stripe = require('stripe')('##Clé secrète##');
 
 /**
  *  order controller
