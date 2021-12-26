@@ -972,3 +972,12 @@
     - Next.js
   made_by: Mariusz Witkowski, Artur Szady
   made_by_url: https://github.com/MariuszWitkowski
+- title: BLANCO kitchen configurator
+  url: https://configurator.blanco.ru
+  description: This website is using Strapi for managing all products, 3D-models and coordinates for the configurator. Own plugin is used for coordinates.
+  categories:
+    - Configurator
+  frontend:
+    - Nuxt.js
+  made_by: AFFINAGE
+  made_by_url: https://affinage.ru
