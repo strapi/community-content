@@ -972,3 +972,14 @@
     - Next.js
   made_by: Mariusz Witkowski, Artur Szady
   made_by_url: https://github.com/MariuszWitkowski
+- title: Pixelhop
+  url: https://pixelhop.io/
+  description: Pixelhop is a small digital agency based in Brighton, UK.
+  categories:
+    - Marketing site
+    - Blog
+  frontend:
+    - Nuxt
+    - Vue.js
+  made_by: Pixelhop
+  made_by_url: https://pixelhop.io
