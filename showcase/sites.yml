@@ -997,8 +997,11 @@
   url: https://configurator.blanco.ru
   description: This website is using Strapi for managing all products, 3D-models and coordinates for the configurator. Own plugin is used for coordinates.
   categories:
-    - Configurator
+    - E-commerce
+    - Catalogue
+    - Corporate website
   frontend:
     - Nuxt.js
   made_by: AFFINAGE
   made_by_url: https://affinage.ru
+  
