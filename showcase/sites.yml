@@ -1,3 +1,13 @@
+- title: Kyaw San Htoo Pharmacy Website
+  url: https://kyawsanhtoo-pharmacy.vercel.app/
+  description: It was for a pharmacy called "Kyaw San Htoo" which is located in Pathein, Myanmar(Burma). We made a live website that can browse, order and purchase medicines from it.
+  categories:
+    - Pharmacy
+    - E-commerce
+  frontend:
+    - Next.js
+  made_by: Yan Aung Hein, Aung Pyae Kyaw, Ye Min Htun
+  made_by_url: https://www.linkedin.com/posts/yanaunghein_frontenddeveloper-uiuxdesign-webdesign-activity-6885930510682587136-R-B7
 - title: Confind - Enterprise Search Platform
   url: https://confind.nl/
   description: This awesome website is using Strapi for managing the content of our Vue.js Marketing website
@@ -972,6 +982,17 @@
     - Next.js
   made_by: Mariusz Witkowski, Artur Szady
   made_by_url: https://github.com/MariuszWitkowski
+- title: Pixelhop
+  url: https://pixelhop.io/
+  description: Pixelhop is a small digital agency based in Brighton, UK.
+  categories:
+    - Marketing site
+    - Blog
+  frontend:
+    - Nuxt
+    - Vue.js
+  made_by: Pixelhop
+  made_by_url: https://pixelhop.io
 - title: BLANCO kitchen configurator
   url: https://configurator.blanco.ru
   description: This website is using Strapi for managing all products, 3D-models and coordinates for the configurator. Own plugin is used for coordinates.
