@@ -993,3 +993,15 @@
     - Vue.js
   made_by: Pixelhop
   made_by_url: https://pixelhop.io
+- title: BLANCO kitchen configurator
+  url: https://configurator.blanco.ru
+  description: This website is using Strapi for managing all products, 3D-models and coordinates for the configurator. Own plugin is used for coordinates.
+  categories:
+    - E-commerce
+    - Catalogue
+    - Corporate website
+  frontend:
+    - Nuxt.js
+  made_by: AFFINAGE
+  made_by_url: https://affinage.ru
+  
