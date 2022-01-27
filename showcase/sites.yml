@@ -1004,4 +1004,17 @@
     - Nuxt.js
   made_by: AFFINAGE
   made_by_url: https://affinage.ru
-  
+- title: Spliit
+  url: https://www.spliit.fr
+  description: Find your new office ! Spliit is a digital real estate agency.
+  categories:
+    - Corporate website
+    - Catalogue
+    - Blog
+    - Landing Page
+  frontend:
+    - Next.js
+    - React
+  made_by: Spliit
+  made_by_url: https://www.spliit.fr
+
