@@ -756,7 +756,7 @@
   made_by_url: https://efabrika.com
 - title: Mobilsen Özgürsün! | Toyota Start Your Impossible
   url: https://mobilsenozgursun.com
-  description: The goal is to lead a world where everyone can move freely! Discover the inspiring story of Okan and Mert and Toyota mobility solutions. Start Your Impossible! 
+  description: The goal is to lead a world where everyone can move freely! Discover the inspiring story of Okan and Mert and Toyota mobility solutions. Start Your Impossible!
   categories:
     - Landing Page
   frontend:
@@ -809,7 +809,7 @@
   made_by_url: https://phantas.tw/
 - title: Adapttive
   url: https://adapttive.com
-  description: A tech blog focused on ecommerce and opensource 
+  description: A tech blog focused on ecommerce and opensource
   categories:
     - Blog
   frontend:
@@ -893,18 +893,18 @@
   url: https://www.iwellup.com/
   description: Digital strategy and IT consulting. This website is using Strapi for managing the content and post content (comming soon) of my react gatsby application web.
   categories:
-    - Corporate Website 
-  frontend: 
+    - Corporate Website
+  frontend:
     - React
     - Gatsby
-  made_by: Ivano J. Garcia 
+  made_by: Ivano J. Garcia
   made_by_url: https://www.linkedin.com/in/ivano-garcia-6742a0b7/
 - title: MyJodi Matrimony
   url: https://myjodi.in/
   description: India first ever pay as you go matrimony. An attempt to make matrimonial services more easy and affordable.
   categories:
     - Mobile App
-  frontend: 
+  frontend:
     - Ionic
   made_by: Shiva Gouraram
   made_by_url: https://www.linkedin.com/in/shivagouraram/
@@ -1004,4 +1004,16 @@
     - Nuxt.js
   made_by: AFFINAGE
   made_by_url: https://affinage.ru
-  
+- title: Spliit
+  url: https://www.spliit.fr
+  description: Find your new office ! Spliit is a digital real estate agency.
+  categories:
+    - Corporate website
+    - Catalogue
+    - Blog
+    - Landing Page
+  frontend:
+    - Next.js
+    - React
+  made_by: Spliit
+  made_by_url: https://www.spliit.fr
