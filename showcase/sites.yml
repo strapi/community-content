@@ -1,3 +1,17 @@
+- title: US Fabrics
+  url: https://www.usfabricsinc.com/
+  description: Strapi is used to manage all content across the website and mobile app.  Strapi is also used to manage all user features such as project binders, product comparison, pdf generation, forms/emails, and more. 
+  categories:
+    - Corporate website
+    - Mobile application
+    - iOS
+    - Android
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+    - Capacitor
+  made_by: Centogram
+  made_by_url: https://centogram.com/
 - title: Kyaw San Htoo Pharmacy Website
   url: https://kyawsanhtoo-pharmacy.vercel.app/
   description: It was for a pharmacy called "Kyaw San Htoo" which is located in Pathein, Myanmar(Burma). We made a live website that can browse, order and purchase medicines from it.
