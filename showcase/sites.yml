@@ -1017,3 +1017,14 @@
     - React
   made_by: Spliit
   made_by_url: https://www.spliit.fr
+  - title: Lisa Salvucci
+  url: https://www.lisasalvucci.fr
+  description: Website of your next interior designer, Lisa Salvucci, french.
+  categories:
+    - Corporate website
+    - Landing Page
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
