@@ -1017,3 +1017,14 @@
     - React
   made_by: Spliit
   made_by_url: https://www.spliit.fr
+- title: WenMint - NFT Drops Calendar
+  url: https://wenmint.io
+  description: Discover your next favorite NFT. Get your hands on the most exciting releases before everyone else.
+  categories:
+    - Catalogue
+    - Event
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+  made_by: Wenmint.io Team
+  made_by_url: https://wenmint.io
