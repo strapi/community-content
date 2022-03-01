@@ -1042,3 +1042,14 @@
     - TailwindCSS
   made_by: Wenmint.io Team
   made_by_url: https://wenmint.io
+- title: AEALCEE
+  url: https://aealcee.org
+  description: The AEALCEE (acronym for the Spanish Association of Students of Economic and Business Sciences) is a Spanish national association of university students in the field of economic and business sciences. A corporate website and an internal voting system have been developed. All this working thanks to Strapi both for web content management and for the voting manager.
+  categories:
+    - Corporate website
+    - Mobile application
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: EasyMain
+  made_by_url: https://easymain.app
