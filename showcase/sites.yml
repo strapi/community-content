@@ -1,3 +1,17 @@
+- title: US Fabrics
+  url: https://www.usfabricsinc.com/
+  description: Strapi is used to manage all content across the website and mobile app.  Strapi is also used to manage all user features such as project binders, product comparison, pdf generation, forms/emails, and more. 
+  categories:
+    - Corporate website
+    - Mobile application
+    - iOS
+    - Android
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+    - Capacitor
+  made_by: Centogram
+  made_by_url: https://centogram.com/
 - title: Kyaw San Htoo Pharmacy Website
   url: https://kyawsanhtoo-pharmacy.vercel.app/
   description: It was for a pharmacy called "Kyaw San Htoo" which is located in Pathein, Myanmar(Burma). We made a live website that can browse, order and purchase medicines from it.
@@ -1028,3 +1042,25 @@
     - Tailwind
   made_by: Gaylord Julien, Sarah Kügel
   made_by_url: https://www.gaylordjulien.dev
+- title: WenMint - NFT Drops Calendar
+  url: https://wenmint.io
+  description: Discover your next favorite NFT. Get your hands on the most exciting releases before everyone else.
+  categories:
+    - Catalogue
+    - Event
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+  made_by: Wenmint.io Team
+  made_by_url: https://wenmint.io
+- title: AEALCEE
+  url: https://aealcee.org
+  description: The AEALCEE (acronym for the Spanish Association of Students of Economic and Business Sciences) is a Spanish national association of university students in the field of economic and business sciences. A corporate website and an internal voting system have been developed. All this working thanks to Strapi both for web content management and for the voting manager.
+  categories:
+    - Corporate website
+    - Mobile application
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: EasyMain
+  made_by_url: https://easymain.app
