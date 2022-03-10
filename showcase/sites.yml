@@ -1053,3 +1053,15 @@
     - TailwindCSS
   made_by: EasyMain
   made_by_url: https://easymain.app
+- title: CashFlowFrog
+  url: https://cashflowfrog.com
+  description: CashFlowFrog website fully powered with Strapi. Editable pages, blog, implemented the creation of the new landing pages right inside Strapi.
+  categories:
+    - Corporate website
+    - Blog
+    - Landing Page
+  frontend:
+    - Gatsby.js
+    - TailwindCSS
+  made_by: Increasio
+  made_by_url: https://increas.io
