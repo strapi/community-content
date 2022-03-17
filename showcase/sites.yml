@@ -41,6 +41,16 @@
     - AWS(s3)
   made_by: https://twitter.com/sasicodes
   made_by_url: https://twitter.com/sasicodes
+- title: IndéX
+  url: https://www.index-tribu.fr/
+  description: Help with creation, accounting, insurance, mutual, legal, taxation... benefit from the best services at the best rates.
+  categories:
+    - Corporate Website
+  frontend:
+    - Angular
+    - Cloudinary
+  made_by: PlaceMe SAS
+  made_by_url: https://www.placeme.io/
 - title: Occhiolino Design
   url: https://www.occhiolinodesign.com/
   description: French eco-friendly furniture store.
