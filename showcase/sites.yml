@@ -51,6 +51,16 @@
     - Cloudinary
   made_by: PlaceMe SAS
   made_by_url: https://www.placeme.io/
+- title: PlaceMe SAS
+  url: https://www.placeme.io/
+  description: PlaceMe supports your digital projects. His Frontend, Backend, Cloud & DevOps expertise turns an idea into a product.
+  categories:
+    - Corporate Website
+  frontend:
+    - Angular
+    - Cloudinary
+  made_by: PlaceMe SAS
+  made_by_url: https://www.placeme.io/
 - title: AllDadsTalk
   url: https://alldadstalk.com
   description: Blog webapp made with Strapi, Next.js and Styled Components.
