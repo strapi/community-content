@@ -480,14 +480,14 @@
     - Sapper
   made_by: Lamden
   made_by_url: https://explorer.lamden.io
-- title: WeFlyCheap
+- title: Weflycheap
   url: https://www.weflycheap.nl
   description: Searching for a cheap vacation has never been easier. Weflycheap searches the websites of all holiday providers every day, looking for the best deal for you!
   categories:
     - Vacation deal
   frontend:
-  made_by: WeFlyCheap
-  made_by_url: https://www.instagram.com/weflycheap
+  made_by: Blue Flamingos
+  made_by_url: https://www.blueflamingos.nl
 - title: ESC Nasa
   url: https://esc.gsfc.nasa.gov
   description: We stand ready to provide cross-cutting technical expertise and creative problem-solving to deliver not only high rate/full coverage communications services, but bold, forward-thinking solutions to advance exploration and discovery.
