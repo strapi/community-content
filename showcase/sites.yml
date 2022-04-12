@@ -1,3 +1,13 @@
+- title: Blue Flamingos
+  url: https://blueflamingos.nl
+  description: Corporate website that fits our brand. Fully search engine optimized, conversion aimed and dynamically built thanks to Strapi.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: Blue Flamingos
+  made_by_url: https://blueflamingos.nl
 - title: US Fabrics
   url: https://www.usfabricsinc.com/
   description: Strapi is used to manage all content across the website and mobile app.  Strapi is also used to manage all user features such as project binders, product comparison, pdf generation, forms/emails, and more. 
