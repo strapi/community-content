@@ -1,3 +1,37 @@
+- title: Blue Flamingos
+  url: https://blueflamingos.nl
+  description: Corporate website that fits our brand. Fully search engine optimized, conversion aimed and dynamically built thanks to Strapi.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: Blue Flamingos
+  made_by_url: https://blueflamingos.nl
+- title: US Fabrics
+  url: https://www.usfabricsinc.com/
+  description: Strapi is used to manage all content across the website and mobile app.  Strapi is also used to manage all user features such as project binders, product comparison, pdf generation, forms/emails, and more. 
+  categories:
+    - Corporate website
+    - Mobile application
+    - iOS
+    - Android
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+    - Capacitor
+  made_by: Centogram
+  made_by_url: https://centogram.com/
+- title: Kyaw San Htoo Pharmacy Website
+  url: https://kyawsanhtoo-pharmacy.vercel.app/
+  description: It was for a pharmacy called "Kyaw San Htoo" which is located in Pathein, Myanmar(Burma). We made a live website that can browse, order and purchase medicines from it.
+  categories:
+    - Pharmacy
+    - E-commerce
+  frontend:
+    - Next.js
+  made_by: Yan Aung Hein, Aung Pyae Kyaw, Ye Min Htun
+  made_by_url: https://www.linkedin.com/posts/yanaunghein_frontenddeveloper-uiuxdesign-webdesign-activity-6885930510682587136-R-B7
 - title: Confind - Enterprise Search Platform
   url: https://confind.nl/
   description: This awesome website is using Strapi for managing the content of our Vue.js Marketing website
@@ -15,13 +49,33 @@
   frontend:
     - Gatsby
     - AWS(s3)
-  made_by: https://twitter.com/sasiKdharan
-  made_by_url: https://twitter.com/sasiKdharan
+  made_by: https://twitter.com/sasicodes
+  made_by_url: https://twitter.com/sasicodes
+- title: IndéX
+  url: https://www.index-tribu.fr/
+  description: Help with creation, accounting, insurance, mutual, legal, taxation... benefit from the best services at the best rates.
+  categories:
+    - Corporate Website
+  frontend:
+    - Angular
+    - Cloudinary
+  made_by: PlaceMe SAS
+  made_by_url: https://www.placeme.io/
 - title: Occhiolino Design
   url: https://www.occhiolinodesign.com/
   description: French eco-friendly furniture store.
   categories:
     - E-commerce
+  frontend:
+    - Angular
+    - Cloudinary
+  made_by: PlaceMe SAS
+  made_by_url: https://www.placeme.io/
+- title: PlaceMe SAS
+  url: https://www.placeme.io/
+  description: PlaceMe supports your digital projects. His Frontend, Backend, Cloud & DevOps expertise turns an idea into a product.
+  categories:
+    - Corporate Website
   frontend:
     - Angular
     - Cloudinary
@@ -436,14 +490,14 @@
     - Sapper
   made_by: Lamden
   made_by_url: https://explorer.lamden.io
-- title: WeFlyCheap
+- title: Weflycheap
   url: https://www.weflycheap.nl
   description: Searching for a cheap vacation has never been easier. Weflycheap searches the websites of all holiday providers every day, looking for the best deal for you!
   categories:
     - Vacation deal
   frontend:
-  made_by: WeFlyCheap
-  made_by_url: https://www.instagram.com/weflycheap
+  made_by: Blue Flamingos
+  made_by_url: https://www.blueflamingos.nl
 - title: ESC Nasa
   url: https://esc.gsfc.nasa.gov
   description: We stand ready to provide cross-cutting technical expertise and creative problem-solving to deliver not only high rate/full coverage communications services, but bold, forward-thinking solutions to advance exploration and discovery.
@@ -746,7 +800,7 @@
   made_by_url: https://efabrika.com
 - title: Mobilsen Özgürsün! | Toyota Start Your Impossible
   url: https://mobilsenozgursun.com
-  description: The goal is to lead a world where everyone can move freely! Discover the inspiring story of Okan and Mert and Toyota mobility solutions. Start Your Impossible! 
+  description: The goal is to lead a world where everyone can move freely! Discover the inspiring story of Okan and Mert and Toyota mobility solutions. Start Your Impossible!
   categories:
     - Landing Page
   frontend:
@@ -799,7 +853,7 @@
   made_by_url: https://phantas.tw/
 - title: Adapttive
   url: https://adapttive.com
-  description: A tech blog focused on ecommerce and opensource 
+  description: A tech blog focused on ecommerce and opensource
   categories:
     - Blog
   frontend:
@@ -883,18 +937,18 @@
   url: https://www.iwellup.com/
   description: Digital strategy and IT consulting. This website is using Strapi for managing the content and post content (comming soon) of my react gatsby application web.
   categories:
-    - Corporate Website 
-  frontend: 
+    - Corporate Website
+  frontend:
     - React
     - Gatsby
-  made_by: Ivano J. Garcia 
+  made_by: Ivano J. Garcia
   made_by_url: https://www.linkedin.com/in/ivano-garcia-6742a0b7/
 - title: MyJodi Matrimony
   url: https://myjodi.in/
   description: India first ever pay as you go matrimony. An attempt to make matrimonial services more easy and affordable.
   categories:
     - Mobile App
-  frontend: 
+  frontend:
     - Ionic
   made_by: Shiva Gouraram
   made_by_url: https://www.linkedin.com/in/shivagouraram/
@@ -972,3 +1026,83 @@
     - Next.js
   made_by: Mariusz Witkowski, Artur Szady
   made_by_url: https://github.com/MariuszWitkowski
+- title: Pixelhop
+  url: https://pixelhop.io/
+  description: Pixelhop is a small digital agency based in Brighton, UK.
+  categories:
+    - Marketing site
+    - Blog
+  frontend:
+    - Nuxt
+    - Vue.js
+  made_by: Pixelhop
+  made_by_url: https://pixelhop.io
+- title: BLANCO kitchen configurator
+  url: https://configurator.blanco.ru
+  description: This website is using Strapi for managing all products, 3D-models and coordinates for the configurator. Own plugin is used for coordinates.
+  categories:
+    - E-commerce
+    - Catalogue
+    - Corporate website
+  frontend:
+    - Nuxt.js
+  made_by: AFFINAGE
+  made_by_url: https://affinage.ru
+- title: Spliit
+  url: https://www.spliit.fr
+  description: Find your new office ! Spliit is a digital real estate agency.
+  categories:
+    - Corporate website
+    - Catalogue
+    - Blog
+    - Landing Page
+  frontend:
+    - Next.js
+    - React
+  made_by: Spliit
+  made_by_url: https://www.spliit.fr
+- title: Lisa Salvucci
+  url: https://www.lisasalvucci.fr
+  description: Website of your next interior designer, Lisa Salvucci, french.
+  categories:
+    - Corporate website
+    - Landing Page
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
+- title: WenMint - NFT Drops Calendar
+  url: https://wenmint.io
+  description: Discover your next favorite NFT. Get your hands on the most exciting releases before everyone else.
+  categories:
+    - Catalogue
+    - Event
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+  made_by: Wenmint.io Team
+  made_by_url: https://wenmint.io
+- title: AEALCEE
+  url: https://aealcee.org
+  description: The AEALCEE (acronym for the Spanish Association of Students of Economic and Business Sciences) is a Spanish national association of university students in the field of economic and business sciences. A corporate website and an internal voting system have been developed. All this working thanks to Strapi both for web content management and for the voting manager.
+  categories:
+    - Corporate website
+    - Mobile application
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: EasyMain
+  made_by_url: https://easymain.app
+- title: CashFlowFrog
+  url: https://cashflowfrog.com
+  description: CashFlowFrog website fully powered with Strapi. Editable pages, blog, implemented the creation of the new landing pages right inside Strapi.
+  categories:
+    - Corporate website
+    - Blog
+    - Landing Page
+  frontend:
+    - Gatsby.js
+    - TailwindCSS
+  made_by: Increasio
+  made_by_url: https://increas.io
