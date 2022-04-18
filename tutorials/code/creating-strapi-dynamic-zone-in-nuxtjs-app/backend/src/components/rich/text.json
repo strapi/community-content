@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_rich_texts",
+  "info": {
+    "displayName": "Text",
+    "icon": "edit"
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "richtext"
+    }
+  }
+}

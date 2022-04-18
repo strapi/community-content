@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_rich_images",
+  "info": {
+    "displayName": "Image",
+    "icon": "photo-video"
+  },
+  "options": {},
+  "attributes": {
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "caption": {
+      "type": "text"
+    }
+  }
+}
