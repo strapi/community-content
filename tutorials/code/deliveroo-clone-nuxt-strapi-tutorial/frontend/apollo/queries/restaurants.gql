@@ -1,0 +1,18 @@
+query Restaurants {
+  restaurants {
+    data {
+      id
+      attributes {
+        name
+        image {
+          data {
+            attributes {
+              url
+              alternativeText
+            }
+          }
+        }
+      }
+    }
+  }
+}

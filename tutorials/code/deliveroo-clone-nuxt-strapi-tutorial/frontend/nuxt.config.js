@@ -1,71 +1,62 @@
+const strapiBaseUri = process.env.API_URL || 'http://localhost:1337'
+
 export default {
-  mode: 'universal',
-  /*
-  ** Headers of the page
-  */
+  // ENV: https://nuxtjs.org/docs/configuration-glossary/configuration-env
+  env: {
+    strapiBaseUri,
+  },
+
+  // Target: https://go.nuxtjs.dev/config-target
+  target: 'static',
+
+  // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: process.env.npm_package_name || '',
+    title: 'Deliveroo clone',
+    htmlAttrs: {
+      lang: 'en',
+    },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: process.env.npm_package_description || '' }
+      { hid: 'description', name: 'description', content: '' },
+      { name: 'format-detection', content: 'telephone=no' },
     ],
-    link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ],
-    script: [{ src: 'https://js.stripe.com/v3' }]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    script: [{ src: 'https://js.stripe.com/v3/' }],
   },
-  /*
-  ** Customize the progress-bar color
-  */
-  loading: { color: '#fff' },
-  /*
-  ** Global CSS
-  */
-  css: [
-    "uikit/dist/css/uikit.min.css",
-    "uikit/dist/css/uikit.css",
-  ],
-  /*
-  ** Plugins to load before mounting the App
-  */
-  plugins: [
-    { src: '~/plugins/uikit.js', ssr: false }
-  ],
-  /*
-  ** Nuxt.js dev-modules
-  */
-  devModules: [
-  ],
-  /*
-  ** Nuxt.js modules
-  */
-  modules: [
-    // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/apollo',
+
+  // Global CSS: https://go.nuxtjs.dev/config-css
+  css: ['uikit/dist/css/uikit.min.css', 'uikit/dist/css/uikit.css'],
+
+  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
+  plugins: [{ src: '~/plugins/uikit.js', ssr: false }],
+
+  // Auto import components: https://go.nuxtjs.dev/config-components
+  components: true,
+
+  // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
+  buildModules: [
+    // https://go.nuxtjs.dev/eslint
+    '@nuxtjs/eslint-module',
   ],
 
+  // Modules: https://go.nuxtjs.dev/config-modules
+  modules: ['@nuxt/http', '@nuxtjs/apollo'],
+
+  // nuxt/http https://http.nuxtjs.org/API/options
+  http: {
+    baseURL: `${strapiBaseUri}/api`,
+  },
+
+  // Apollo: https://github.com/nuxt-community/apollo-module#usage
   apollo: {
     clientConfigs: {
       default: {
-        httpEndpoint: 'http://localhost:1337/graphql'
-      }
-    }
+        httpEndpoint: `${strapiBaseUri}/graphql`,
+      },
+    },
   },
-  /*
-  ** Axios module configuration
-  ** See https://axios.nuxtjs.org/options
-  */
-  axios: {
-  },
-  /*
-  ** Build configuration
-  */
-  build: {
-    /*
-    ** You can extend webpack config here
-    */
-    extend (config, ctx) {
-    }
-  }
+
+  // Build Configuration: https://go.nuxtjs.dev/config-build
+  build: {},
 }

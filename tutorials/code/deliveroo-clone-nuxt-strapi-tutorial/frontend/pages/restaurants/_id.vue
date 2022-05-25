@@ -1,66 +1,72 @@
 <template>
-<div>
+  <div class="uk-container uk-container-xsmall">
+    <span class="uk-heading-small">
+      <NuxtLink class="uk-button uk-button-text" to="/">
+        <span uk-icon="arrow-left"></span> go back
+      </NuxtLink>
+    </span>
 
-  <a class="uk-button uk-button-primary uk-margin" @click="$router.go(-1)"><span uk-icon="arrow-left"></span> go back</a>
-
-  <client-only>
-  <div uk-grid>
-      <div class="uk-width-1-3@m">
-
-        <div v-for="dish in restaurant.dishes" class="uk-margin">
-            <div class="uk-card uk-card-default">
-                <div class="uk-card-media-top">
-                    <img :src="'http://localhost:1337/' + dish.image.url" alt="" />
-                </div>
-                <div class="uk-card-body">
-                    <h3 class="uk-card-title">{{ dish.name }} <span class="uk-badge">{{ dish.price }}€</span></h3>
-                    <p>{{ dish.description }}</p>
-                </div>
-                <div class="uk-card-footer">
-                  <button class="uk-button uk-button-primary" @click="addToCart(dish)">Add to cart</button>
-                </div>
-            </div>
-        </div>
-
+    <div
+      v-for="dish in dishes"
+      :key="dish.id"
+      class="
+        uk-card uk-card-default uk-grid-collapse uk-child-width-1-2@s uk-margin
+      "
+      uk-grid
+    >
+      <figure class="uk-flex-last@s uk-card-media-right uk-cover-container">
+        <canvas class="uk-height-max-small"></canvas>
+        <img
+          :src="getStrapiMedia(dish.attributes.image.data.attributes.url)"
+          :alt="dish.attributes.image.data.attributes.alternativeText"
+          uk-cover
+        />
+      </figure>
+      <div class="uk-card-body uk-card-small">
+        <h2 class="uk-card-title">{{ dish.attributes.name }}</h2>
+        <p>{{ restaurant.data.attributes.name }}</p>
+        <p>{{ dish.attributes.price }}&euro;</p>
+        <button class="uk-button uk-button-primary" @click="addToCart(dish)">
+          Add to cart
+        </button>
       </div>
-      <div class="uk-width-expand@m">
-          <Cart />
-      </div>
+    </div>
   </div>
-
-  </client-only>
-</div>
 </template>
 
 <script>
-import Cart from '~/components/Cart.vue'
-import restaurantQuery from '~/apollo/queries/restaurant/restaurant'
 import { mapMutations } from 'vuex'
-
+import { getStrapiMedia } from '@/utils/media'
+import restaurantQuery from '@/apollo/queries/restaurant'
 
 export default {
   data() {
     return {
-      restaurant: Object
+      restaurant: Object,
     }
   },
   apollo: {
     restaurant: {
       prefetch: true,
       query: restaurantQuery,
-      variables () {
+      variables() {
         return { id: this.$route.params.id }
-      }
-    }
+      },
+    },
   },
-  components: {
-    Cart
+  computed: {
+    dishes() {
+      if (!this.restaurant?.data) return []
+
+      return this.restaurant.data.attributes.dishes.data
+    },
   },
-  methods:{
+  methods: {
+    getStrapiMedia,
     ...mapMutations({
       addToCart: 'cart/add',
-      removeFromCart: 'cart/remove'
+      removeFromCart: 'cart/remove',
     }),
-  }
+  },
 }
 </script>

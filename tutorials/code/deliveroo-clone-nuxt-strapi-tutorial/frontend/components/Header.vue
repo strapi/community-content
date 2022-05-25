@@ -1,47 +1,53 @@
 <template>
-  <client-only>
-  <nav class="uk-navbar-container" uk-navbar>
-      <div class="uk-navbar-left">
+  <nav class="uk-navbar uk-navbar-container" uk-navbar>
+    <div class="uk-navbar-left">
+      <NuxtLink class="uk-navbar-item uk-logo" to="/">Deliveroo clone</NuxtLink>
+    </div>
 
-          <ul class="uk-navbar-nav">
-              <li class="uk-active"><router-link tag="a" class="navbar-brand" to="/" exact>Deliveroo clone</router-link></li>
-              <li><router-link tag="a" class="navbar-brand" to="/restaurants" exact>Restaurants</router-link></li>
-          </ul>
-
-      </div>
-
-      <div class="uk-navbar-right">
-
-          <ul class="uk-navbar-nav" v-if="username">
-              <li><a href="#" class="uk-link-reset">{{ username }}</a></li>
-              <li><a href="#" @click="logout">Logout</a></li>
-          </ul>
-
-          <ul class="uk-navbar-nav" v-else>
-              <li><a href="/users/register">Signup</a></li>
-              <li><a href="/users/signin">Signin</a></li>
-          </ul>
-
-      </div>
-
+    <div class="uk-navbar-right">
+      <ul v-if="username" class="uk-navbar-nav">
+        <li>
+          <button class="uk-button uk-button-link uk-navbar-toggle">
+            Shopping Cart
+            <span v-if="numberOfItems" class="uk-badge">{{
+              numberOfItems
+            }}</span>
+          </button>
+          <div class="uk-navbar-dropdown">
+            <Cart />
+          </div>
+        </li>
+        <li>
+          <button
+            class="uk-button uk-button-link uk-navbar-toggle"
+            @click="logout"
+          >
+            Log out
+          </button>
+        </li>
+      </ul>
+      <ul v-else class="uk-navbar-nav">
+        <li><NuxtLink to="/auth/login">Log In</NuxtLink></li>
+        <li><NuxtLink to="/auth/register">Register</NuxtLink></li>
+      </ul>
+    </div>
   </nav>
-</client-only>
-
 </template>
 
 <script>
-import { mapMutations } from 'vuex'
+import { mapGetters, mapMutations } from 'vuex'
 
 export default {
   computed: {
-    username() {
-      return this.$store.getters['auth/username']
-    }
+    ...mapGetters({
+      username: 'auth/username',
+      numberOfItems: 'cart/numberOfItems',
+    }),
   },
   methods: {
     ...mapMutations({
-      logout: 'auth/logout'
-    })
-  }
+      logout: 'auth/logout',
+    }),
+  },
 }
 </script>
