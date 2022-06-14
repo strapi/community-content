@@ -1,3 +1,12 @@
+- title: mutoco
+  url: https://mutoco.ch/
+  description: We move. Forward. Companies and brands. We unite the power of design and technology to solve complex problems and to create change.
+  categories: 
+    - Corporate website
+  frontend: 
+    - Svelte 
+  made_by: mutoco
+  made_by_url: https://mutoco.ch/
 - title: Blue Flamingos
   url: https://blueflamingos.nl
   description: Corporate website that fits our brand. Fully search engine optimized, conversion aimed and dynamically built thanks to Strapi.
