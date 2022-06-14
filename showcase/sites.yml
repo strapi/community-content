@@ -1013,16 +1013,6 @@
     - Tailwind
   made_by: Gaylord Julien
   made_by_url: https://www.gaylordjulien.dev/
-- title: La Place, restaurant rouen
-  url: https://www.laplace-restaurant-brasserie.fr/
-  description: Website of La Place, managing reservations online with Strapi
-  categories:
-    - Corporate Website
-  frontend:
-    - Next.js
-    - Bootstrap
-  made_by: Gaylord Julien
-  made_by_url: https://www.gaylordjulien.dev/
 - title: pick.eat.up.
   url: https://pickeatup.io/
   description: The pick.eat.up app. is a great tool to the fight against food waste. Pick.eat.up. app with delicious offers in your area at very economical prices.
@@ -1115,3 +1105,13 @@
     - TailwindCSS
   made_by: Increasio
   made_by_url: https://increas.io
+- title: Cabinet Céline Malet - avocate
+  url: https://www.cmalet-avocat.fr/
+  description: Website of Céline Malet, french lawer.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
