@@ -1105,3 +1105,13 @@
     - TailwindCSS
   made_by: Increasio
   made_by_url: https://increas.io
+- title: Cabinet Céline Malet - avocate
+  url: https://www.cmalet-avocat.fr/
+  description: Website of Céline Malet, french lawer.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
