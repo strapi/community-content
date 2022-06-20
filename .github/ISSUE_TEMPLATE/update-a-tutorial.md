@@ -3,7 +3,8 @@ name: Update a content
 about: Update an existing content
 title: "[UPDATE]"
 labels: In progress
-assignees:
+assignees: ''
+
 ---
 
 **My update**

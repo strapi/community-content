@@ -3,7 +3,8 @@ name: Request New Content
 about: Ask for new content to be created by the Strapi team or the community
 title: "[Request New Content]"
 labels: Looking for author
-assignees: ShadaW11
+assignees: PaulBratslavsky
+
 ---
 
 **My Request**

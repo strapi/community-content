@@ -3,7 +3,8 @@ name: Translate an article
 about: Translate an existing content
 title: "[TRANSLATE]"
 labels: In progress
-assignees:
+assignees: ''
+
 ---
 
 **The tutorial I want to translate**

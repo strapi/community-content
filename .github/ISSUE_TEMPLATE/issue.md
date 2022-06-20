@@ -2,8 +2,9 @@
 name: Create an issue concerning a content
 about: Please explain which article or tutorial has an issue.
 title: "[ISSUE]"
-labels:
+labels: ''
 assignees: Mcastres
+
 ---
 
 **The concerning content**

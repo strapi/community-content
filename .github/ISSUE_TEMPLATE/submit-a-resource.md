@@ -3,7 +3,8 @@ name: Submit your article proposal
 about: Create a new Strapi community content
 title: "[SUBMIT]"
 labels: In progress
-assignees: ShadaW11
+assignees: PaulBratslavsky
+
 ---
 
 **My resource**
