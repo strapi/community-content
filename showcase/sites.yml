@@ -1115,3 +1115,13 @@
     - Tailwind
   made_by: Gaylord Julien, Sarah Kügel
   made_by_url: https://www.gaylordjulien.dev
+- title: E-commerce agency & web development studio based in france
+  url: https://www.aikini.fr
+  description: Top notch E-commerce & web applications for your business.
+  categories:
+    - Corporate website
+  frontend:
+    - Nuxt.js
+    - Tailwind
+  made_by: Aikini, Mohamed Ait ijja
+  made_by_url: https://www.aikini.fr
