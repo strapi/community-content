@@ -16,7 +16,7 @@
     "get-urls": "9.2.0",
     "knex": "<0.20.0",
     "lodash": "^4.17.21",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "request": "^2.88.0",
     "rss-parser": "3.7.3",
     "simple-statistics": "7.0.7",
