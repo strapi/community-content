@@ -1115,6 +1115,16 @@
     - Tailwind
   made_by: Gaylord Julien, Sarah Kügel
   made_by_url: https://www.gaylordjulien.dev
+- title: VIRBE - Virtual Beings for Metaverse and autonomous shopping
+  url: https://virbe.ai/
+  description: Transforming brands into virtual personas. This awesome website is using Strapi for managing the content that builds the knowledge base about Virtual Beings with our Blog and FAQ. We also use our website to grow our business with Partnership invite and Job Posts or Product intro.
+  categories: 
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Virbe Sp. z o.o.
+  made_by_url: https://virbe.ai/
 - title: E-commerce agency & web development studio based in france
   url: https://www.aikini.fr
   description: Top notch E-commerce & web applications for your business.
