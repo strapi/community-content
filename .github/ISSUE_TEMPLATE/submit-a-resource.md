@@ -2,7 +2,7 @@
 name: Submit your article proposal
 about: Create a new Strapi community content
 title: "[SUBMIT]"
-labels: In progress
+labels: Looking for author
 assignees: PaulBratslavsky
 
 ---
