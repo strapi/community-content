@@ -1125,3 +1125,18 @@
     - Tailwind
   made_by: Virbe Sp. z o.o.
   made_by_url: https://virbe.ai/
+- title: Devkind
+  url: https://devkind.com.au
+  description: A full-fledge web development agency based in Melbourne. Powered by Strapi, Chakra UI, Framer Motion and Next.js.
+  categories:
+    - Corporate website
+    - Creative website
+    - Landing page
+    - Blog
+  frontend:
+    - Next.js
+    - Formik
+    - Algolia
+    - Chakra UI
+  made_by: Devkind
+  made_by_url: https://devkind.com.au
