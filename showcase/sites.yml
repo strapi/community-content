@@ -1125,3 +1125,14 @@
     - Tailwind
   made_by: Virbe Sp. z o.o.
   made_by_url: https://virbe.ai/
+- title: Tabla Constitucional
+  url: https://tabla-constitucional.cl/
+  description: Read the proposal for the new Chilean constitution in a more interactive way
+  categories:
+    - Tools
+  frontend:
+    - Svelte
+    - SvelteKit
+    - Tailwind
+  made_by: Xavier and Antoine Le Baux
+  made_by_url: https://github.com/Antoine-lb/tabla-constitucional-back
