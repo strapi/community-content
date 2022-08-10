@@ -1,0 +1,11 @@
+- title: Asuman Sounds
+  url: https://asumansounds.com
+  description: This is a modern ecommerce web application for a brick-and-motor store that deals in audio devices.
+  categories:
+    - ecommerce website
+  frontend:
+    - Next.js
+    - Tailwind CSS
+    - GraphQl and Rest
+  made_by: Asuman Ssendegeya
+  made_by_url: https://asuman.me
