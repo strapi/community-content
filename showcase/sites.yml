@@ -1125,3 +1125,13 @@
     - Tailwind
   made_by: Virbe Sp. z o.o.
   made_by_url: https://virbe.ai/
+  - title: BCT Fasteners
+  url: https://bctfasteners.co.za/
+  description: We have built an online store for fastener supplier. This site has custom configuration specific to the clients needs.
+  categories: 
+    - E-commerce
+  frontend:
+    - Angular
+    - Bootstrap
+  made_by: Techsential
+  made_by_url: https://techsential.co.za/
