@@ -1125,3 +1125,14 @@
     - Tailwind
   made_by: Virbe Sp. z o.o.
   made_by_url: https://virbe.ai/
+- title: AntStack - Technology Simplified
+  url: https://antstack.com/
+  description: AntStack helps you shape your ideas and dreams into reality, provide better solutions to grow your business by simplifying technology at every step in your journey. To make a difference, assemble a better tomorrow - with you and for you.
+  categories:
+    - Corporate website
+    - Landing Page
+    - Blog
+  frontend:
+    - Astro
+  made_by: AntStack Inc.
+  made_by_url: https://www.antstack.com/
