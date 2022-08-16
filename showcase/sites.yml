@@ -1125,3 +1125,13 @@
     - Tailwind
   made_by: Virbe Sp. z o.o.
   made_by_url: https://virbe.ai/
+- title: Câblogrammes - poésie et dictionnaire
+  url: https://www.cablogrammes.fr/
+  description: Website filled with random poems and images, a strange dictionary
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
