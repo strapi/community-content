@@ -1,5 +1,5 @@
 ---
-name: Request New Content
+name: Request new content
 about: Request for new content to be created by the Strapi team or the community
 title: "[Request New Content]"
 labels: Looking for author
