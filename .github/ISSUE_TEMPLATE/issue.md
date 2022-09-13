@@ -1,9 +1,10 @@
 ---
-name: Create an issue concerning a content
+name: Create an issue concerning content
 about: Please explain which article or tutorial has an issue.
 title: "[ISSUE]"
-labels:
-assignees: Mcastres
+labels: ''
+assignees: Mcastres, PaulBratslavsky
+
 ---
 
 **The concerning content**

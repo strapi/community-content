@@ -1,9 +1,10 @@
 ---
 name: Translate an article
-about: Translate an existing content
+about: Translate existing content into a different langauage
 title: "[TRANSLATE]"
 labels: In progress
-assignees:
+assignees: ''
+
 ---
 
 **The tutorial I want to translate**
