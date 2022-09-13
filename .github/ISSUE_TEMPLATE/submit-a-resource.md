@@ -1,9 +1,10 @@
 ---
 name: Submit your article proposal
-about: Create a new Strapi community content
+about: Submit an idea for a new piece of community content that you want to write
 title: "[SUBMIT]"
-labels: In progress
-assignees: ShadaW11
+labels: Looking for author
+assignees: PaulBratslavsky, Mcastres
+
 ---
 
 **My resource**

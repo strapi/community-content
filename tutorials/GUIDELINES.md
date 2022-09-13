@@ -23,7 +23,7 @@ We want to offer quality tutorials that prove to be really useful and interestin
   - Title
   - Introduction, (what people will learn in this article)
   - Goals, (what people will be able to achieve)
-  - Prerequesites, (what people need to achieve the tutorial)
+  - Prerequisites, (what people need to achieve the tutorial)
     - Specify the version of Strapi (alpha, beta)  
   - Step 1 - First thing to to
   - Step 2 - Second thing...
@@ -81,7 +81,7 @@ No more than 155 characters. [Here are few examples](https://themeisle.com/blog/
   ## Content
   - Introduction: The introduction needs to quickly hook your reader and convince them to read the rest of your blog post. It also has to let the reader know what your post is about. Whether your approach is humour, interesting and surprising facts, or asking a question, find a way to make the first lines of your blog posts as attention-grabbing as possible. Write an introduction that would make you want to keep reading an article -- a quick few paragraphs to draw the reader in and let him know what he's about to read.
   - Paragraphs: Please use sub-headers to split up sections of your blog post (H2 tag). Optimize them by using keywords.
-  - Linking: Please link to at least [one blog post published on our Blog](https://strapi.io/blog) Make sure to also link to high ranking external websites and add a rell=nofollow. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
+  - Linking: Please link to at least [one blog post published on our Blog](https://strapi.io/blog) Make sure to also link to high ranking external websites and add a rell=nofollow. Self-promotion or Affiliate links within post content are not allowed as well. Please use as much [contextual links](https://www.eebew.com/seo-tutorial/on-page-seo/basic-elements/internal-navigation/contextual-link-building/) as possible.
   - When adding links, please include the link on a keyword. Don't use "click here" nor "there" nor "link". Example: If the blog articles refer to keywords related to front technology such as "next.js", "gatsby" in the blog article, we should link these words to our integration pages. That creates internal linking and more "seo weight" to our integrations pages. —> This principle applies to all the words that can be linked to a Strapi page.
   - The longer your article is, the better Google will reference it.
   - Please compress your images before uploading them.
