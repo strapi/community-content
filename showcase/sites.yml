@@ -1125,6 +1125,16 @@
     - Tailwind
   made_by: Virbe Sp. z o.o.
   made_by_url: https://virbe.ai/
+- title: E-commerce agency & web development studio based in france
+  url: https://www.aikini.fr
+  description: Top notch E-commerce & web applications for your business.
+  categories:
+    - Corporate website
+  frontend:
+    - Nuxt.js
+    - Tailwind
+  made_by: Aikini, Mohamed Ait ijja
+  made_by_url: https://www.aikini.fr
 - title: Devkind
   url: https://devkind.com.au
   description: A full-fledge web development agency based in Melbourne. Powered by Strapi, Chakra UI, Framer Motion and Next.js.
@@ -1193,4 +1203,3 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-  
