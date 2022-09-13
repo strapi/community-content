@@ -1047,6 +1047,16 @@
     - Nuxt.js
   made_by: AFFINAGE
   made_by_url: https://affinage.ru
+- title: HipHip.app
+  url: https://hiphip.app
+  description: Create group celebration and tribute videos easily! A React/Next.js app which uses Strapi.io for content management.
+  categories:
+    - Entertainment
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: Steve Murch
+  made_by_url: https://stevemurch.com
 - title: Spliit
   url: https://www.spliit.fr
   description: Find your new office ! Spliit is a digital real estate agency.
