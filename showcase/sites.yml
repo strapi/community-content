@@ -1025,6 +1025,17 @@
     - Next.js
   made_by: Mariusz Witkowski, Artur Szady
   made_by_url: https://github.com/MariuszWitkowski
+- title: Mailmodo's Email Markeing blog
+  url: https://www.mailmodo.com/guides/
+  description: Mailmodo's email marketing blog to learn about email marketing, email infrastructure, deliverability, tools and software, best practices and AMP emails
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Next.js
+    - Ant Design
+  made_by: Mailmodo
+  made_by_url: https://www.mailmodo.com
 - title: Pixelhop
   url: https://pixelhop.io/
   description: Pixelhop is a small digital agency based in Brighton, UK.
@@ -1213,3 +1224,4 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
+
