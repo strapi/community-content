@@ -1136,3 +1136,45 @@
     - Tailwind
   made_by: Xavier and Antoine Le Baux
   made_by_url: https://github.com/Antoine-lb/tabla-constitucional-back
+- title: BCT Fasteners
+  url: https://bctfasteners.co.za/
+  description: We have built an online store for fastener supplier. This site has custom configuration specific to the clients needs.
+  categories: 
+    - E-commerce
+  frontend:
+    - Angular
+    - Bootstrap
+  made_by: Techsential
+  made_by_url: https://techsential.co.za/
+- title: AntStack - Technology Simplified
+  url: https://antstack.com/
+  description: AntStack helps you shape your ideas and dreams into reality, provide better solutions to grow your business by simplifying technology at every step in your journey. To make a difference, assemble a better tomorrow - with you and for you.
+  categories:
+    - Corporate website
+    - Landing Page
+    - Blog
+  frontend:
+    - Astro
+  made_by: AntStack Inc.
+  made_by_url: https://www.antstack.com/
+- title: Câblogrammes - poésie et dictionnaire
+  url: https://www.cablogrammes.fr/
+  description: Website filled with random poems and images, a strange dictionary
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
+- title: Pariscabane
+  url: https://www.pariscabane.fr
+  description: Parisian real estate agency for outstanding and singular places to live. Strapi is used to manage all offers and content.
+  categories:
+    - E-commerce
+    - Catalogue
+    - Corporate website
+  frontend:
+    - Next.js
+  made_by: Ultrō
+  made_by_url: https://ultro.agency
