@@ -1,9 +1,9 @@
 ---
-name: Request New Content
-about: Ask for new content to be created by the Strapi team or the community
+name: Request new content
+about: Request for new content to be created by the Strapi team or the community
 title: "[Request New Content]"
 labels: Looking for author
-assignees: PaulBratslavsky
+assignees: PaulBratslavsky, Mcastres
 
 ---
 
