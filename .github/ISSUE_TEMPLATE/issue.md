@@ -1,5 +1,5 @@
 ---
-name: Create an issue concerning content
+name: Create a content related issue
 about: Please explain which article or tutorial has an issue.
 title: "[ISSUE]"
 labels: ''
