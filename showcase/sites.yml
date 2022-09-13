@@ -1013,16 +1013,6 @@
     - Tailwind
   made_by: Gaylord Julien
   made_by_url: https://www.gaylordjulien.dev/
-- title: La Place, restaurant rouen
-  url: https://www.laplace-restaurant-brasserie.fr/
-  description: Website of La Place, managing reservations online with Strapi
-  categories:
-    - Corporate Website
-  frontend:
-    - Next.js
-    - Bootstrap
-  made_by: Gaylord Julien
-  made_by_url: https://www.gaylordjulien.dev/
 - title: pick.eat.up.
   url: https://pickeatup.io/
   description: The pick.eat.up app. is a great tool to the fight against food waste. Pick.eat.up. app with delicious offers in your area at very economical prices.
@@ -1115,3 +1105,101 @@
     - TailwindCSS
   made_by: Increasio
   made_by_url: https://increas.io
+- title: Cabinet Céline Malet - avocate
+  url: https://www.cmalet-avocat.fr/
+  description: Website of Céline Malet, french lawer.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
+- title: VIRBE - Virtual Beings for Metaverse and autonomous shopping
+  url: https://virbe.ai/
+  description: Transforming brands into virtual personas. This awesome website is using Strapi for managing the content that builds the knowledge base about Virtual Beings with our Blog and FAQ. We also use our website to grow our business with Partnership invite and Job Posts or Product intro.
+  categories: 
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Virbe Sp. z o.o.
+  made_by_url: https://virbe.ai/
+- title: E-commerce agency & web development studio based in france
+  url: https://www.aikini.fr
+  description: Top notch E-commerce & web applications for your business.
+  categories:
+    - Corporate website
+  frontend:
+    - Nuxt.js
+    - Tailwind
+  made_by: Aikini, Mohamed Ait ijja
+  made_by_url: https://www.aikini.fr
+- title: Devkind
+  url: https://devkind.com.au
+  description: A full-fledge web development agency based in Melbourne. Powered by Strapi, Chakra UI, Framer Motion and Next.js.
+  categories:
+    - Corporate website
+    - Creative website
+    - Landing page
+    - Blog
+  frontend:
+    - Next.js
+    - Formik
+    - Algolia
+    - Chakra UI
+  made_by: Devkind
+  made_by_url: https://devkind.com.au
+- title: Tabla Constitucional
+  url: https://tabla-constitucional.cl/
+  description: Read the proposal for the new Chilean constitution in a more interactive way
+  categories:
+    - Tools
+  frontend:
+    - Svelte
+    - SvelteKit
+    - Tailwind
+  made_by: Xavier and Antoine Le Baux
+  made_by_url: https://github.com/Antoine-lb/tabla-constitucional-back
+- title: BCT Fasteners
+  url: https://bctfasteners.co.za/
+  description: We have built an online store for fastener supplier. This site has custom configuration specific to the clients needs.
+  categories: 
+    - E-commerce
+  frontend:
+    - Angular
+    - Bootstrap
+  made_by: Techsential
+  made_by_url: https://techsential.co.za/
+- title: AntStack - Technology Simplified
+  url: https://antstack.com/
+  description: AntStack helps you shape your ideas and dreams into reality, provide better solutions to grow your business by simplifying technology at every step in your journey. To make a difference, assemble a better tomorrow - with you and for you.
+  categories:
+    - Corporate website
+    - Landing Page
+    - Blog
+  frontend:
+    - Astro
+  made_by: AntStack Inc.
+  made_by_url: https://www.antstack.com/
+- title: Câblogrammes - poésie et dictionnaire
+  url: https://www.cablogrammes.fr/
+  description: Website filled with random poems and images, a strange dictionary
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
+- title: Pariscabane
+  url: https://www.pariscabane.fr
+  description: Parisian real estate agency for outstanding and singular places to live. Strapi is used to manage all offers and content.
+  categories:
+    - E-commerce
+    - Catalogue
+    - Corporate website
+  frontend:
+    - Next.js
+  made_by: Ultrō
+  made_by_url: https://ultro.agency
