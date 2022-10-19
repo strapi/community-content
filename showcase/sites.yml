@@ -1,3 +1,15 @@
+- title: Learn Sonos
+  url: https://learn.sonos.com/
+  description: Strapi is used to manage Sonos content seamlessly in multiple languages. The content is synchronized forth and back to the Localazy platform.
+  categories: 
+    - Marketing Site
+    - Catalog
+  frontend: 
+    - Nuxt.js
+    - TailwindCSS
+    - Localazy
+  made_by: Pixel Alliance
+  made_by_url: https://pixelalliance.io/
 - title: mutoco
   url: https://mutoco.ch/
   description: We move. Forward. Companies and brands. We unite the power of design and technology to solve complex problems and to create change.
