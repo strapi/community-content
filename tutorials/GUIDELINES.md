@@ -154,6 +154,10 @@ Let keywords flow naturally and in a contextual way inside your content.
  ✅ Follow SEO Guidelines
   
  ✅ Proofread your article for errors in grammar, spelling, and typography.
+
+ ✅ Run and test your code before pushing it to GitHub.
+
+ ✅ Provide GitHub link(s) to complete code examples.
   
  We do not post articles that don't follow our guidelines.
  
