@@ -1224,4 +1224,14 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-
+- title: CoinJar
+  url: https://www.coinjar.com/
+  description: CoinJar is one of the world’s longest-running cryptocurrency exchanges, helping users buy, sell, and trade Bitcoin, Ethereum and more.
+  categories:
+    - Corporate website
+    - Blockchain
+    - Cryptocurrency
+  frontend:
+     - React
+  made_by: CoinJar team
+  made_by_url: https://www.coinjar.com/
