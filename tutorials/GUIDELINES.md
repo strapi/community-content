@@ -146,6 +146,12 @@ Let keywords flow naturally and in a contextual way inside your content.
   - web server	
   - x (stack) cms	
 
+ ## Expertise 
+ If you are suggesting a new topic, make sure to add the expertise level tag. 
+ How can I idenfity the level of my article? 
+- **Beginner**: A beginner tutorial or article shares with users what are the fundamentals of Strapi, best practices of native features,  the basics of Strapi combined with other technologies, general use cases, and guides explaining the basics of the ecosystem (e.g.: “What is JavaScript?”). This type of blog post answers questions like “what is” and “how-to’s” that include one or two technologies diving into getting started with Strapi with other frameworks.
+- **Intermediate**:  An intermediate tutorial or article that dives into Strapi’s customization capabilities, implementation best practices, and development using Strapi with other technologies. This type of blog post answers questions like “how-to’s” that include three or more technologies diving into a more complex development of Strapi beyond back-end customization and deployment.
+- **Advanced**: An advanced tutorial or article that dives into more extensive expertise on Strapi’s customization, building blocks/primitives. This type of blog post introduces users to complex concepts and provides different solutions to uncommon scenarios.
  
  # Before you submit, Make sure you
   
