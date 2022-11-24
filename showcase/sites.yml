@@ -1224,4 +1224,14 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-
+- title: EZYfinance
+  url: https://ezyfinance.ch
+  description: EZYfinance presentation website powered with Strapi. Editable pages, dynamic components, implemented the creation of the new landing pages inside Strapi.
+  categories:
+    - Corporate website
+    - Landing Page
+  frontend:
+    - Gatsby.js
+    - TailwindCSS
+  made_by: Increasio
+  made_by_url: https://increas.io
