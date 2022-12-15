@@ -1224,4 +1224,14 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-
+- title: Jakub Jirous
+  url: https://www.jakubjirous.cz
+  description: Portfolio website about Jakub Jirous describing his technical expertise in frontend development. Powered by Strapi, Next.js and React.js.
+  categories:
+    - Portfolio
+  frontend:
+    - Next.js
+    - React.js
+    - Styled Components
+  made_by: Jakub Jirous
+  made_by_url: https://www.jakubjirous.cz
