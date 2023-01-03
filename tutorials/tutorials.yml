@@ -2823,7 +2823,7 @@
     - React
   version: 3.5.0
 - title: Adding Cloudinary support to your Strapi Application
-  link: https://strapi.io/blog/adding-cloudinary-support-to-your-strapi-application
+  link: https://strapi.io/blog/add-cloudinary-support-to-your-strapi-application
   formats:
     - article
   language: en
