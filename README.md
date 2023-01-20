@@ -19,7 +19,7 @@ NOTE: WE HAVE RECENTLY RELEASED STRAPI V4 WHICH BROUGHT VARIOUS UPDATES AND IMRO
 https://strapi.notion.site/Writer-s-Guide-V4-Tutorial-Update-68953d4073bf43b7bcba3d8284741c6d
 
 **NOTICE: At this time Strapi DOES NOT allow for content written by ANY AI platform, while you can use these AIs for research, the content SHOULD NOT be written by the AI.**
-We take an ABSOLUTELY ZERO TOLERENCE policy on this, any content submitted will be given one (1) warning and any further submissions that violate this rule will be banned from our writing programs.
+We take an ABSOLUTELY ZERO TOLERANCE policy on this, any content submitted will be given one (1) warning and any further submissions that violate this rule will be banned from our writing programs.
 
 ### How it Works?
 
