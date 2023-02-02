@@ -1224,4 +1224,13 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-
+- title: aitools.fyi - Find Amazing AI Tools That Make Your Life Easy!
+  url: https://aitools.fyi
+  description: Find the best AI tools to help you build your next awesome project faster and easier. Explore useful AI tools. That makes your life easy!
+  categories:
+    - Directory
+  frontend:
+    - Next.js
+    - Tailwind CSS
+  made_by: Rishit Patel
+  made_by_url: https://rishitpatel.com
