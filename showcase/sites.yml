@@ -1224,4 +1224,14 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
+ - title: IBTI IT Solutions
+  url: https://ibti.tech/en
+  description: IBTI is a technology company that develops IT-as-a-service solutions and provides technical teams for software development.
+  categories:
+    - Catalogue
+    - Corporate website
+  frontend:
+    - Next.js
+  made_by: Igor Brandão, Juan Guilherme, Cleberson Júnior, Rafael Freire
+  made_by_url: https://igorabrandao.com.br/
 
