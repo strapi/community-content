@@ -3,7 +3,7 @@ name: Create a content related issue
 about: Please explain which article or tutorial has an issue.
 title: "[ISSUE]"
 labels: ''
-assignees: Mcastres, PaulBratslavsky
+assignees: dessireugarte, PaulBratslavsky
 
 ---
 
