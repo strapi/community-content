@@ -2,7 +2,10 @@
 name: Create a content related issue
 about: Please explain which article or tutorial has an issue.
 title: "[ISSUE]"
-labels: ''
+labels: 'issue'
+projects: 
+  - Write for the Community Program
+
 assignees: dessireugarte, PaulBratslavsky
 
 ---
