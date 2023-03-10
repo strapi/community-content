@@ -3,6 +3,7 @@ name: Submit your article proposal
 about: Submit an idea for a new piece of community content that you want to write
 title: "[SUBMIT]"
 labels: request by author
+projects: Write for the Community Program
 assignees: PaulBratslavsky, dessireugarte
 
 ---
