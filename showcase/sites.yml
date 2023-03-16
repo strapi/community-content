@@ -1224,4 +1224,13 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-
+- title: Bespoke Software Development Company
+  url: https://softkit.dev/
+  description: We use Strapi for managing the content of our own Gatsby.js website
+   categories:
+    - Corporate website
+  frontend:
+    - Gatsby.js
+    - React.js
+  made_by: Softkit
+  made_by_url: https://www.softkit.dev/
