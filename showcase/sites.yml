@@ -1224,4 +1224,15 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
+- title: Foxop - Performance partner
+  url: https://www.foxop.com
+  description: Foxop est un infogéreur spécialisé en applications web critiques, disponible 24/7 basé en France.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+    - PWA
+  made_by: Aikini
+  made_by_url: https://www.aikini.fr
 
