@@ -88,7 +88,7 @@ No more than 155 characters. [Here are few examples](https://themeisle.com/blog/
   - Please, be sure to not write hard sentences. You can use this great tool for that https://hemingwayapp.com.
 
   ## Images
-  - Please use [this figma file]([https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors?node-id=0%3A1](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors?node-id=2069-151)) to create your article images. Please duplicate the template before creating your article images.
+  - Please use [this figma file](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors?node-id=2069-151) to create your article images. Please duplicate the template before creating your article images.
  
 
   ## Keywords
