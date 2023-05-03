@@ -1224,15 +1224,4 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-- title: Meet Democracy
-  url: https://meetdemocracy.com/
-  description: Amazing marketing consul website
-  categories:
-    - Landing Page
-    - Blog
-  frontend:
-    - Nuxt.js
-    - Tailwind
-  made_by: Belkacem Meziani, Karim Semmoud
-  made_by_url: https://github.com/netoum/meetdemocracy-website
 
