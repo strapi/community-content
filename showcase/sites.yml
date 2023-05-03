@@ -1224,4 +1224,16 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
+- title: Meet Democracy
+  url: https://meetdemocracy.com/
+  description: Discover Meet Democracy, an open source multilingue company website build with Strapi, Nuxt, Vue and Tailwind
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Vue.js
+    - Nuxt.js
+    - Tailwind
+  made_by: Belkacem Meziani, Karim Semmoud
+  made_by_url: https://github.com/netoum/meetdemocracy-website
 
