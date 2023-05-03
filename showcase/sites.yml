@@ -1226,12 +1226,13 @@
   made_by_url: https://ultro.agency
 - title: Meet Democracy
   url: https://meetdemocracy.com/
-  description: Amazing marketing consul website
+  description: Meet Democracy is an ideal platform for organisations that value inclusion, diversity and collaboration. Our platform is versatile and can meet the needs of organisations of all sizes, from small communities to large cities. Whatever the size of your organisation, Meet Democracy can help you achieve your goals in a more democratic and participatory way. Our platform has been designed to be scalable and customisable to meet the unique needs of each organisation.
   categories:
-    - Landing Page
+    - Corporate website
     - Blog
   frontend:
     - Nuxt.js
+    - Vue.js
     - Tailwind
   made_by: Belkacem Meziani, Karim Semmoud
   made_by_url: https://github.com/netoum/meetdemocracy-website
