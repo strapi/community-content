@@ -88,18 +88,7 @@ No more than 155 characters. [Here are few examples](https://themeisle.com/blog/
   - Please, be sure to not write hard sentences. You can use this great tool for that https://hemingwayapp.com.
 
   ## Images
-  - Please use [this figma file](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors?node-id=0%3A1) to create your article images. Please duplicate the template before creating your article images.
-  - You need to create 2 images for your blog post. 
-      - Image 1: 
-          - CATEGORY: choose the category that best represent your article. Option 1; “TUTORIALS”, If its not a tutorial, please use the category: “ECOSYSTEM”
-          - TITLE: Add the title - make sure it is SEO friendly
-          - ICONS: Select the best format for your article. You can use white or colored icons.  and icons of the technology used in your article. You can use an emoji if no specific technology is mentioned in your article.
-      - Image 2:
-          - TITLE; Add the same title that was used in your first image.
-          - NAME: Add your first & last name
-          - Image: Add a photo of you.
-  - Once you duplicate and implement the edits, please click on export and add your pictures in your dropbox link.  Please do not delete your templates. We might need it to implement some changes to your pictures.
-  - All images should have an alt-text describing the image (accessibility) and including the targeted keyword of the blog article. Separate words with a hyphen.
+  - Please use [this figma file](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/For-Authors?node-id=2069-151) to create your article images. Please duplicate the template before creating your article images.
  
 
   ## Keywords
