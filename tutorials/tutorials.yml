@@ -1,3 +1,20 @@
+- title: Build a React.js Dashboard with Strapi + Anima + Figma
+  link: https://www.youtube.com/watch?v=MzbolYUwjZI
+  formats:
+    - video
+  language: en
+  date: 2022-06-08
+  authors:
+    - Ben Andrew
+  github_authors:
+    - BenAAndrew
+  source: https://www.youtube.com/
+  use_case: "Bank App"
+  stack:
+    - Anima
+    - Netlify
+    - Figma
+    - Strapi
 - title: How to use Next.js with Strapi and Apollo
   link: https://nirmalyaghosh.com/articles/2020-08-20-how-to-use-next.js-with-strapi-and-apollo
   formats:
