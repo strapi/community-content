@@ -1741,25 +1741,6 @@
     - ubuntu
     - let's encrypt
   version: beta
-- title: Building a static blog using Jekyll and Strapi
-  link: https://strapi.io/blog/building-a-static-website-using-jekyll-and-strapi
-  formats:
-    - article
-  language: English
-  date: "2019-04-25T00:00:00.000Z"
-  authors:
-    - Pierre Burgy
-  github_authors:
-    - pierreburgy
-  source: https://blog.strapi.io/
-  image_url: https://assets.strapi.io/uploads/cover_jekyll_cms_8f74ffb67a.png
-  stack:
-    - Jekyll
-  use_case: Blog
-  topics:
-    - strapi
-    - jekyll
-  version: alpha
 - title: Strapi getting started en Enspañol
   link: https://www.youtube.com/watch?v=gpPrg7pGqBI
   formats:
@@ -2823,7 +2804,7 @@
     - React
   version: 3.5.0
 - title: Adding Cloudinary support to your Strapi Application
-  link: https://strapi.io/blog/adding-cloudinary-support-to-your-strapi-application
+  link: https://strapi.io/blog/add-cloudinary-support-to-your-strapi-application
   formats:
     - article
   language: en

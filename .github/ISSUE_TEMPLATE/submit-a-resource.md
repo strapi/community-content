@@ -2,8 +2,9 @@
 name: Submit your article proposal
 about: Submit an idea for a new piece of community content that you want to write
 title: "[SUBMIT]"
-labels: Looking for author
-assignees: PaulBratslavsky, Mcastres
+labels: request by author
+projects: Write for the Community Program
+assignees: PaulBratslavsky, dessireugarte
 
 ---
 

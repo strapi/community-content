@@ -18,6 +18,9 @@ Considering writing for the Strapi community and sharing your technical expertis
 NOTE: WE HAVE RECENTLY RELEASED STRAPI V4 WHICH BROUGHT VARIOUS UPDATES AND IMROVEMENTS. THIS MEANS THAT A BIG PART OF OUR TUTORIALS IS NOW OUTDATED. THEREFORE, WE HAVE PUT A LIST OF OUR TOP 50 PERFORMING TUTORIALS THAT WE WOULD LIKE TO UPDATE ASAP.
 https://strapi.notion.site/Writer-s-Guide-V4-Tutorial-Update-68953d4073bf43b7bcba3d8284741c6d
 
+**NOTICE: At this time Strapi DOES NOT allow for content written by ANY AI platform, while you can use these AIs for research, the content SHOULD NOT be written by the AI.**
+We take an ABSOLUTELY ZERO TOLERANCE policy on this, any content submitted will be given one (1) warning and any further submissions that violate this rule will be banned from our writing programs.
+
 ### How it Works?
 
 #### Step 1: Register to join the program
