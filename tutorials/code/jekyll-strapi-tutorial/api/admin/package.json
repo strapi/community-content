@@ -38,8 +38,8 @@
   "description": "Strapi Admin",
   "devDependencies": {
     "sanitize.css": "^4.1.0",
-    "strapi-helper-plugin": "3.0.0-alpha.12",
-    "strapi-utils": "3.0.0-alpha.12"
+    "strapi-helper-plugin": "3.6.11",
+    "strapi-utils": "3.6.11"
   },
   "engines": {
     "node": ">= 9.0.0",
