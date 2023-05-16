@@ -8,14 +8,18 @@ Contribute and collaborate on educational content for the Strapi Community.
   - [Starters](#Starters)
   - [Showcase](#Showcase)
 
-## Articles:
+## Articles
 
-## 1- Write for the Community Program
+## 1. Write for the Community Program
 
 Considering writing for the Strapi community and sharing your technical expertise? 
 
-NOTE: WE HAVE RECENTLY RELEASED STRAPI V4 WHICH BROUGH VARIOUS UPDATES AND IMROVEMENTS. THIS MEANS THAT A BIG PART OF OUR TUTORIALS IS NOW OUTDATED. THEREFORE, WE HAVE PUT A LIST OF OUR TOP 50 PERFORMING TUTORIALS THAT WE WOULD LIKE TO UPDATE ASAP.
+
+NOTE: WE HAVE RECENTLY RELEASED STRAPI V4 WHICH BROUGHT VARIOUS UPDATES AND IMROVEMENTS. THIS MEANS THAT A BIG PART OF OUR TUTORIALS IS NOW OUTDATED. THEREFORE, WE HAVE PUT A LIST OF OUR TOP 50 PERFORMING TUTORIALS THAT WE WOULD LIKE TO UPDATE ASAP.
 https://strapi.notion.site/Writer-s-Guide-V4-Tutorial-Update-68953d4073bf43b7bcba3d8284741c6d
+
+**NOTICE: At this time Strapi DOES NOT allow for content written by ANY AI platform, while you can use these AIs for research, the content SHOULD NOT be written by the AI.**
+We take an ABSOLUTELY ZERO TOLERANCE policy on this, any content submitted will be given one (1) warning and any further submissions that violate this rule will be banned from our writing programs.
 
 ### How it Works?
 
@@ -53,14 +57,14 @@ Our team will review your request, approve and assign you the article.
  Once your blog post is published. Please click on discussion at the end of your post, register here: https://forum.strapi.io and click on "watching" to receive automatically a notification once a new comment is made. We rely on you to monitor the comments and support the community.
 
 
-#####  Resources:
+#####  Resources
 Before you start working on your first draft, please read thoroughly [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md)
 
 Improve your Writing Skills: Strapi's technical writing workshop [Watch Video](https://drive.google.com/file/d/1uN5c-PY2pdOH1TidZLYiiP9HmgFD9OHU/view) 
 
 Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/write-for-the-community)
 
-## 2- Help us Improve our Content
+## 2. Help us Improve our Content
 
 [Report outdated content:](https://github.com/strapi/community-content/issues/new?assignees=&labels=Looking+for+author%2C+Outdated+content&template=request-update-on-outdated-content.md&title=%5BUPDATE+OUTDATED+CONTENT%5D) Ask for an outdated content to be updated by the Strapi team or the community
 

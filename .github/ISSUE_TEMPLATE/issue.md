@@ -1,9 +1,13 @@
 ---
-name: Create an issue concerning a content
+name: Create a content related issue
 about: Please explain which article or tutorial has an issue.
 title: "[ISSUE]"
-labels:
-assignees: Mcastres
+labels: 'issue'
+projects: 
+  - Write for the Community Program
+
+assignees: dessireugarte, PaulBratslavsky
+
 ---
 
 **The concerning content**

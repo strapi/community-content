@@ -1,9 +1,12 @@
 ---
 name: Request update on outdated content
-about: Ask for an outdated content to be updated by the Strapi team or the community
+about: Ask for outdated content to be updated by the Strapi team or the community
 title: "[UPDATE OUTDATED CONTENT]"
-labels: "Looking for author, Outdated content"
-assignees: ShadaW11
+labels: Looking for author, Outdated content
+projects:
+  - Write for the Community Program
+assignees: dessireugarte
+
 ---
 
 **Description**
