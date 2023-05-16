@@ -1224,6 +1224,16 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
+- title: Single Technologies
+  url: https://singletechnologies.com
+  description: Website for a life science technology startup developing a radical new way to sequence DNA.
+  categories:
+    - Corporate website
+  frontend:
+    - Astro
+    - Tailwind
+  made_by: Jakob Persson (Leancept)
+  made_by_url: https://www.leancept.com
 - title: aitools.fyi
   url: https://aitools.fyi
   description: Find the best AI tools to help you build your next awesome project faster and easier. Explore useful AI tools. That makes your life easy!
