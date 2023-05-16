@@ -14,7 +14,7 @@
     "content-type-parser": "1.0.2",
     "csv-parse": "4.8.2",
     "get-urls": "9.2.0",
-    "knex": "<0.20.0",
+    "knex": "<2.5.0",
     "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "request": "^2.88.0",
