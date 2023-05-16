@@ -1,10 +1,10 @@
 - title: mutoco
   url: https://mutoco.ch/
   description: We move. Forward. Companies and brands. We unite the power of design and technology to solve complex problems and to create change.
-  categories: 
+  categories:
     - Corporate website
-  frontend: 
-    - Svelte 
+  frontend:
+    - Svelte
   made_by: mutoco
   made_by_url: https://mutoco.ch/
 - title: Blue Flamingos
@@ -19,7 +19,7 @@
   made_by_url: https://blueflamingos.nl
 - title: US Fabrics
   url: https://www.usfabricsinc.com/
-  description: Strapi is used to manage all content across the website and mobile app.  Strapi is also used to manage all user features such as project binders, product comparison, pdf generation, forms/emails, and more. 
+  description: Strapi is used to manage all content across the website and mobile app.  Strapi is also used to manage all user features such as project binders, product comparison, pdf generation, forms/emails, and more.
   categories:
     - Corporate website
     - Mobile application
@@ -1139,7 +1139,7 @@
 - title: VIRBE - Virtual Beings for Metaverse and autonomous shopping
   url: https://virbe.ai/
   description: Transforming brands into virtual personas. This awesome website is using Strapi for managing the content that builds the knowledge base about Virtual Beings with our Blog and FAQ. We also use our website to grow our business with Partnership invite and Job Posts or Product intro.
-  categories: 
+  categories:
     - Corporate website
   frontend:
     - Next.js
@@ -1185,7 +1185,7 @@
 - title: BCT Fasteners
   url: https://bctfasteners.co.za/
   description: We have built an online store for fastener supplier. This site has custom configuration specific to the clients needs.
-  categories: 
+  categories:
     - E-commerce
   frontend:
     - Angular
@@ -1224,7 +1224,7 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
-- title: aitools.fyi - Find Amazing AI Tools That Make Your Life Easy!
+- title: aitools.fyi
   url: https://aitools.fyi
   description: Find the best AI tools to help you build your next awesome project faster and easier. Explore useful AI tools. That makes your life easy!
   categories:
@@ -1234,3 +1234,60 @@
     - Tailwind CSS
   made_by: Rishit Patel
   made_by_url: https://rishitpatel.com
+- title: IBTI IT Solutions
+  url: https://ibti.tech/en
+  description: IBTI is a technology company that develops IT-as-a-service solutions and provides technical teams for software development.
+  categories:
+    - Catalogue
+    - Corporate website
+  frontend:
+    - Next.js
+  made_by: Igor Brandão, Juan Guilherme, Cleberson Júnior, Rafael Freire
+  made_by_url: https://igorabrandao.com.br/
+- title: Bespoke Software Development Company
+  url: https://softkit.dev/
+  description: We use Strapi for managing the content of our own Gatsby.js website
+  categories:
+    - Corporate website
+  frontend:
+    - Gatsby.js
+    - React.js
+  made_by: Softkit
+  made_by_url: https://www.softkit.dev/
+- title: Foxop - Performance partner
+  url: https://www.foxop.com
+  description: Foxop est un infogéreur spécialisé en applications web critiques, disponible 24/7 basé en France.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Tailwind
+    - PWA
+  made_by: Aikini
+  made_by_url: https://www.aikini.fr
+- title: Boring Owl
+  url: https://boringowl.io/en
+  description: Digital agency React-based site using Strapi to manage and generate content with ChatGPT.
+  categories:
+    - Digital agency
+    - Corporate website
+    - Landing Page
+    - Blog
+  frontend:
+    - Next.js
+    - Styled Components
+  made_by: Boring Owl
+  made_by_url: https://boringowl.io/en
+- title: Toekomstwaarde van Gebouwen
+  url: https://www.toekomstwaardegebouw.nl
+  description: Webapplication to check if buildings are future-proof
+  categories:
+    - Tools
+    - Real estate
+  frontend:
+    - SCSS
+    - Bootstrap
+    - Next.js
+    - HTML
+  made_by: Buro26
+  made_by_url: https://www.buro26.digital
