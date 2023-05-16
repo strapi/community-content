@@ -1236,6 +1236,17 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
+- title: Caroline Bazin - Studio 25ème Image
+  url: https://www.carolinebazin.fr/
+  description: Professional photographer, Caroline Bazin, portfolio website
+  categories:
+    - Corporate website
+    - Portfolio
+  frontend:
+    - Next.js
+    - Tailwind
+  made_by: Gaylord Julien, Sarah Kügel
+  made_by_url: https://www.gaylordjulien.dev
 - title: CoinJar
   url: https://www.coinjar.com/
   description: CoinJar is one of the world’s longest-running cryptocurrency exchanges, helping users buy, sell, and trade Bitcoin, Ethereum and more.
