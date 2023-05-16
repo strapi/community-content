@@ -13,7 +13,7 @@
   "devDependencies": {},
   "dependencies": {
     "fs": "^0.0.1-security",
-    "knex": "<0.20.0",
+    "knex": "<2.5.0",
     "path": "^0.12.7",
     "rimraf": "^3.0.1",
     "sqlite3": "latest",
