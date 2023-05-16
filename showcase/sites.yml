@@ -1224,6 +1224,19 @@
     - Next.js
   made_by: Ultrō
   made_by_url: https://ultro.agency
+- title: Boring Owl
+  url: https://boringowl.io/en
+  description: Digital agency React-based site using Strapi to manage and generate content with ChatGPT.
+  categories:
+    - Digital agency
+    - Corporate website
+    - Landing Page
+    - Blog
+  frontend:
+    - Next.js
+    - Styled Components
+  made_by: Boring Owl
+  made_by_url: https://boringowl.io/en
 - title: Toekomstwaarde van Gebouwen
   url: https://www.toekomstwaardegebouw.nl
   description: Webapplication to check if buildings are future-proof
