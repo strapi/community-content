@@ -13,23 +13,17 @@ assignees: PaulBratslavsky, dessireugarte
 Hello 👋 
 
 Before you start, please make sure your issue is understandable and reproducible.
-To make your issue readable make sure you use valid Markdown syntax.
+To make your issue readable make sure you use valid Markdown syntax and you have read the [guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md). 
 
-Please describe what your article will be about in few sentences and include an outline with the main topics covered in the article.
+Please describe what your article will be about in few sentences and inclide a content brief of the article: 
 
-Here is an example:
-Outline
-Introduction
-Auth Providers
-what is an auth provider
-benefits
-examples of auth providers
-Introducing Auth0
-Setting up a Strapi project
-Integrating Auth0 as auth provider
-Setting up Gridsome/Nuxt project
-Integrating Strapi API with Gridsome/Nuxt
-Conclusion
+### Content Brief: 
+- Target audience: 
+- Keywords:
+- Industries this content will target: 
+- Source: Your content request must be based on a source that justifies why that content is necessary for the community. Otherwise, it will be rejected. The community raises questions or topics on different places like [GitHub](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22request+by+author%22), [Reddit](https://www.reddit.com/r/Strapi/), [Forum](https://forum.strapi.io/), [Discord](https://discord.com/invite/strapi). You can use them to get some inspiration.
+- Content objective:
+- Content outline:
 
 -->
 
