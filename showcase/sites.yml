@@ -1370,4 +1370,14 @@
     - HTML
   made_by: Buro26
   made_by_url: https://www.buro26.digital
-  
+- title: Steambase
+  url: https://steambase.io
+  description: Data aggregator and analytics platform for everything on Steam.
+  categories:
+    - Games
+    - Community website
+  frontend:
+    - Astro
+    - Svelte
+  made_by: Steambase
+  made_by_url: https://steambase.io
