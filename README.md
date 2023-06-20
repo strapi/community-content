@@ -1,6 +1,6 @@
-![Community content](/assets/banner-community-content.png)
+![Community content](https://github.com/strapi/community-content/assets/81171251/39b89a61-aa4d-48de-8a3f-b3c8faa5f0f7)
 
-# Community content
+# Community Content
 
 Contribute and collaborate on educational content for the Strapi Community.
 
@@ -10,99 +10,40 @@ Contribute and collaborate on educational content for the Strapi Community.
 
 ## Articles
 
-## 1. Write for the Community Program
+### Write for the Community Program
 
-Considering writing for the Strapi community and sharing your technical expertise? 
+Considering writing for the Strapi community and sharing your technical expertise?
 
+1. [Apply](https://strapi.io/write-for-the-community) to the program. 
+2. Join our [Discord](https://discord.com/invite/strapi) Channel. 
+3. Choose a topic or submit a topic. 
+4. Upload your content. 
+5. Provide support. 
+6. Get Paid. 
 
-NOTE: WE HAVE RECENTLY RELEASED STRAPI V4 WHICH BROUGHT VARIOUS UPDATES AND IMROVEMENTS. THIS MEANS THAT A BIG PART OF OUR TUTORIALS IS NOW OUTDATED. THEREFORE, WE HAVE PUT A LIST OF OUR TOP 50 PERFORMING TUTORIALS THAT WE WOULD LIKE TO UPDATE ASAP.
-https://strapi.notion.site/Writer-s-Guide-V4-Tutorial-Update-68953d4073bf43b7bcba3d8284741c6d
+> **Note**: **Before you apply to the program or start writing your first draft, you must read [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md) thoroughly.** 
 
-**NOTICE: At this time Strapi DOES NOT allow for content written by ANY AI platform, while you can use these AIs for research, the content SHOULD NOT be written by the AI.**
-We take an ABSOLUTELY ZERO TOLERANCE policy on this, any content submitted will be given one (1) warning and any further submissions that violate this rule will be banned from our writing programs.
+Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/write-for-the-community)
 
-### How it Works?
+## Help us Improve our Content
 
-#### Step 1: Register to join the program
+[Report outdated content:](https://github.com/strapi/community-content/issues/new?assignees=&labels=Looking+for+author%2C+Outdated+content&template=request-update-on-outdated-content.md&title=%5BUPDATE+OUTDATED+CONTENT%5D) Ask for outdated content to be updated by the Strapi team or the community
 
-  - Please [register your author details](https://strapi.io/write-for-the-community#contact) before submitting content.
-
-You can write both technical and non technical articles that can be featured on our [blog](https://strapi.io/blog) like this [one](https://strapi.io/blog/how-to-build-a-strapi-custom-plugin) covering the following topics: Headless and CMS, jamstack, javascript, open source, and Strapi tutorials, guides, and How-tos.
-
-#### Step 2: Join our Discord Channel
-
-We have a dedicated space for the ["Write for the community"](https://discord-wfc.strapi.io) for news & updates.
-
-#### Step 3: Propose a topic and an outline
-
-  - [Submit your own article proposal](https://github.com/strapi/community-content/issues/new?labels=In+progress&template=submit-a-resource.md&title=%5BSUBMIT%5D) Have your own topic or tutorial? Create a new issue and include an outline of what you have in mind. 
-  
-  - [Write about topics / tutorials requested by our community](https://github.com/strapi/community-content/issues?q=is%3Aissue+is%3Aopen+label%3A%22Looking+for+author%22) Browse and select any topic labeled with "looking for an author". Add a comment to show your interest and include a short summary and a detailed outline. 
-
-#### Step 4: Topic review
-
-Our team will review your request, approve and assign you the article.
-
-
-#### Step 5: Review Guidelines and Submit your article
-  - Please go over the [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md) BEFORE working on your first draft. Make sure that you go over our [FAQ](https://strapi.io/write-for-the-community) to learn more about the submission process.
- 
-
-#### Step 6: Get paid
-
-  - Once your article is reviewed and published on our blog, you can submit your invoice to get paid. To issue and submit your invoice, please check the "My blog post post is published, How do I submit an invoice?" section in our [FAQ](https://strapi.io/write-for-the-community)
-
-#### Step 7: Provide Support
-
- Once your blog post is published. Please click on discussion at the end of your post, register here: https://forum.strapi.io and click on "watching" to receive automatically a notification once a new comment is made. We rely on you to monitor the comments and support the community.
-
-
-#####  Resources
-Before you start working on your first draft, please read thoroughly [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md)
-
-Improve your Writing Skills: Strapi's technical writing workshop [Watch Video](https://drive.google.com/file/d/1uN5c-PY2pdOH1TidZLYiiP9HmgFD9OHU/view) 
-
-Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/write-for-the-community)
-
-## 2. Help us Improve our Content
-
-[Report outdated content:](https://github.com/strapi/community-content/issues/new?assignees=&labels=Looking+for+author%2C+Outdated+content&template=request-update-on-outdated-content.md&title=%5BUPDATE+OUTDATED+CONTENT%5D) Ask for an outdated content to be updated by the Strapi team or the community
-
-[Translate an article:](https://github.com/strapi/community-content/issues/new?assignees=&labels=In+progress&template=translate-a-resource.md&title=%5BTRANSLATE%5D) Let us know which resource you want to translate.
-
-[Create an issue concerning a content:](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=&template=issue.md&title=%5BISSUE%5D)  Please explain which article or tutorial has an issue.
-
-### Feature or request a Tutorial
-
-[Tutorial Guide:](https://github.com/strapi/community-content/tree/master/tutorials) Follow the step by step process to add your [tutorial on Strapi Website](https://strapi.io/tutorials) or request a tutorial.
-
+[Create an issue concerning content:](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=&template=issue.md&title=%5BISSUE%5D) Please explain which article or tutorial has an issue.
 
 ## Starters
 
-Do you want to create your own e-commerce starter with Strapi and Svelte and share it with the community?
-It is totally possible for you to submit your starter using our official templates:
+The starter maintained by the Strapi team: 
 
-   - E-commerce: https://github.com/strapi/strapi-template-ecommerce
-   - Corporate: https://github.com/strapi/strapi-template-corporate
-   - Blog: https://github.com/strapi/strapi-template-blog
-   - Portfolio: https://github.com/strapi/strapi-template-portfolio
-
-A template is a Strapi project containing existing content-types and data.
-A starter is a front-end project ready to fetch a Strapi template project data.
-
-[Starters](https://github.com/strapi/community-content/tree/master/starters)
-
+- [Strapi Starter Next 13, Tailwind, Typescript, and Strapi](https://github.com/strapi/nextjs-corporate-starter)
 
 ## Showcase
 
-Show to the community what your project looks like
+Show the community what your project looks like
 
-The entire Strapi team is very curious to see what you guy's can build using our product and it may be the same for people in the community who want to reassure themselves about what we can create with Strapi.
+The entire Strapi team and the community are very curious to see what you can build using Strapi. 
 
-We decided to create a [Showcase](https://github.com/strapi/community-content/tree/master/showcase) section where anyone can list his site that has been made with love, and Strapi of course! This list will be displayed on our website soon.
-
-
-[Showcase](https://github.com/strapi/community-content/tree/master/showcase)
+The [Showcase](https://github.com/strapi/community-content/tree/master/showcase) section is where anyone can list his site that has been made with love and Strapi! This list will be displayed on our website soon.
 
 ## Members
 
