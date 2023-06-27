@@ -1,3 +1,13 @@
+- title: Ways&Villas
+  url: https://waysandvillas.com/
+  description: Ways & Villas is a premier luxury travel concierge providing curated luxury travel experiences in the Maldives
+  categories: 
+    - Travel Website
+  frontend: 
+    - Next.js
+    - TailwindCSS
+  made_by: Haab Naseem
+  made_by_url: https://github.com/haabnaseem/
 - title: Learn Sonos
   url: https://learn.sonos.com/
   description: Strapi is used to manage Sonos content seamlessly in multiple languages. The content is synchronized forth and back to the Localazy platform.
