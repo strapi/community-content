@@ -8,5 +8,5 @@ This example is the result of the tutorial series [Build a static blog with Gats
 To see it live:
 
 - Clone the repository.
-- Start the Strapi server: `cd tutorials/gatsby-strapi-static-blog/backend && yarn && strapi dev`.
-- Start the Gatsby server: `cd tutorials/gatsby-strapi-static-blog/frontend && yarn && Gatsby develop`.
+- Start the Strapi server: `cd tutorials/code/gatsby-strapi-static-blog/backend && yarn && strapi dev`.
+- Start the Gatsby server: `cd tutorials/code/gatsby-strapi-static-blog/frontend && yarn && Gatsby develop`.
