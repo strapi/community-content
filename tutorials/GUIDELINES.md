@@ -82,7 +82,7 @@ Once the draft has been approved, the writer is responsible for adding the conte
 
 The Strapi team will send writer credentials to the authors via email. These credentials will grant them access to the Strapi admin panel using the "writer" role. Additionally, the team will share a secret code for **[Dev.to](http://dev.to/)** so that the authors can become writers on that platform. For Hashnode, authors will receive an email notification. 
 
-[How to Publish Content in the Strapi Backend](https://www.notion.so/How-to-Publish-Content-in-the-Strapi-Backend-b2484af96bbb4822911bc465cb28c006?pvs=21)
+[How to Publish Content in the Strapi Backend](https://strapi.notion.site/How-to-Publish-Content-in-the-Strapi-Backend-b2484af96bbb4822911bc465cb28c006?pvs=4)
 
 Note that authors are **only responsible for uploading the content.** The Strapi team will handle the final review and schedule the publication date.
 
