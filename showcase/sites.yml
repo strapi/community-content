@@ -1,3 +1,16 @@
+- title: Guus van de Wal
+  url: https://guusvandewal.nl
+  description: Strapi Backend for a Next.js website
+  categories:
+    - Corporate website
+    - Developer
+    - Design
+    - Full-service
+  frontend:
+    - Nuxt.js
+    - UIkit
+  made_by: Guus van de Wal
+  made_by_url: https://guusvandewal.nl
 - title: Learn Sonos
   url: https://learn.sonos.com/
   description: Strapi is used to manage Sonos content seamlessly in multiple languages. The content is synchronized forth and back to the Localazy platform.
