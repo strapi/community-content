@@ -1370,4 +1370,15 @@
     - HTML
   made_by: Buro26
   made_by_url: https://www.buro26.digital
+- title: Smile ID
+  url: https://usesmileid.com/
+  description: Smile ID, Africa's leading identity verification solution, allows you to remotely verify IDs in seconds while staying compliant and preventing fraud at scale.
+  categories:
+    - Corporate website
+  frontend:
+    - Remix.run
+    - Chakra UI
+    - HTML
+  made_by: Smile ID
+  made_by_url: https://usesmileid.com/
   
