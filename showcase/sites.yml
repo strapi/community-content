@@ -1,10 +1,10 @@
 - title: Learn Sonos
   url: https://learn.sonos.com/
   description: Strapi is used to manage Sonos content seamlessly in multiple languages. The content is synchronized forth and back to the Localazy platform.
-  categories: 
+  categories:
     - Marketing Site
     - Catalog
-  frontend: 
+  frontend:
     - Nuxt.js
     - TailwindCSS
     - Localazy
@@ -1097,7 +1097,7 @@
   url: https://www.bibioapp.com
   description: Baby Monitor app for iOS and Android
   categories:
-    - Mobile App    
+    - Mobile App
     - Blog
     - Landing Page
   frontend:
@@ -1279,7 +1279,7 @@
     - Blockchain
     - Cryptocurrency
   frontend:
-     - React
+    - React
   made_by: CoinJar team
   made_by_url: https://www.coinjar.com/
 - title: EZYfinance
@@ -1370,4 +1370,123 @@
     - HTML
   made_by: Buro26
   made_by_url: https://www.buro26.digital
-  
+- title: The First The Last
+  url: https://thefirstthelast.agency/
+  description: Helping ambitious entrepreneurs build strong brands to succeed.
+  categories:
+    - Corporate website
+  frontend:
+    - UIkit
+    - Three.js
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: HLE
+  url: https://hle.io/
+  description: Positioned at the axis of talent and content across film, television, music and beyond.
+  categories:
+    - Corporate website
+    - Portfolio
+    - Content
+  frontend:
+    - UIkit
+    - Three.js
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Wellness One
+  url: https://wellnessonegroup.com/
+  description: Luxury swimming pool construction and wellbeing experts.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: 47x47
+  url: https://47x47.com/
+  description: A platform for discovering musical artists from the 47x47 label and the opportunity to purchase their music.
+  categories:
+    - Corporate website
+    - Marketplace
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Tanya Timal
+  url: https://tanyatimal.studio/
+  description: Stylish, bold, and beautiful photos. The website of talented photographer Tanya Timal.
+  categories:
+    - Portfolio
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Duck English
+  url: https://duck.school/
+  description: Duck English is not just about learning English. It's about people and how English changes their lives.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Nepoborna
+  url: https://nepoborna.com/
+  description: NEPOBORNA is a high-quality vodka brand created during resistance.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: 4Xstrategy
+  url: https://4xstrategy.com/
+  description: Your Financial Future.
+  categories:
+    - Corporate website
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Phoenix relax park
+  url: https://phoenixrelaxpark.com.ua
+  description: Phoenix is a true spa hotel lost in the forest.
+  categories:
+    - Corporate website
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Coeval
+  url: https://coevalstudio.com/
+  description: Coval Studio is a global team made up of architects, interior designers, and branding experts.
+  categories:
+    - Corporate website
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
