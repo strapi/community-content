@@ -1370,4 +1370,15 @@
     - HTML
   made_by: Buro26
   made_by_url: https://www.buro26.digital
+- title: Web3xplorer
+  url: https://www.web3xplorer.com/
+  description: A curated web3 directory of apps and tools
+  categories:
+    - Catalogue
+    - Blog
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: Maxime Servais
+  made_by_url: https://twitter.com/MaximeServais77
   
