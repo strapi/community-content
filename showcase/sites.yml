@@ -1,3 +1,14 @@
+- title: Alou Portal B2C
+  url: https://alou.cv/
+  description: Strapi is used to manage all content of this first channel, of an omnichannel ecosystem for the largest telecom company in Cabo Verde.
+  categories: 
+    - Corporate website
+    - E-commerce
+    - B2C website
+  frontend: 
+    - NextJs
+  made_by: Zing Developers
+  made_by_url: https://zing.cv/
 - title: Learn Sonos
   url: https://learn.sonos.com/
   description: Strapi is used to manage Sonos content seamlessly in multiple languages. The content is synchronized forth and back to the Localazy platform.
