@@ -1370,4 +1370,14 @@
     - HTML
   made_by: Buro26
   made_by_url: https://www.buro26.digital
+  - title: guusvandewal.nl
+  url: https://guusvandewal.nl
+  description: Freelance Designer and Developer using Strapi and Next.js ... 
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - UIkit
+  made_by: Guus van de Wal
+  made_by_url: https://guusvandewal.nl
   
