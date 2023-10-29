@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_rich_quotes",
+  "info": {
+    "displayName": "Quote",
+    "icon": "quote-left"
+  },
+  "options": {},
+  "attributes": {
+    "quote": {
+      "type": "text"
+    },
+    "quoter": {
+      "type": "string"
+    }
+  }
+}
