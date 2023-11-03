@@ -1370,4 +1370,14 @@
     - HTML
   made_by: Buro26
   made_by_url: https://www.buro26.digital
+- title: Webandcrafts
+  url: https://webandcrafts.com
+  description: Digital Transformation Solutions Company.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Styled Components
+  made_by: Webandcrafts
+  made_by_url: https://webandcrafts.com
   
