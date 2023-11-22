@@ -1,3 +1,16 @@
+- title: Guus van de Wal
+  url: https://guusvandewal.nl
+  description: Strapi Backend for a Next.js website
+  categories:
+    - Corporate website
+    - Developer
+    - Design
+    - Full-service
+  frontend:
+    - Nuxt.js
+    - UIkit
+  made_by: Guus van de Wal
+  made_by_url: https://guusvandewal.nl
 - title: JLOCODES Portfolio
   url: https://jlocodes.com
   description: Personal Portfolio with Strapi CMS for the content
