@@ -1,3 +1,14 @@
+- title: JLOCODES Portfolio
+  url: https://jlocodes.com
+  description: Personal Portfolio with Strapi CMS for the content
+  categories:
+    - Porfolio
+    - Freelance Website
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+  made_by: John Livee
+  made_by_url: https://jlocodes.com
 - title: Learn Sonos
   url: https://learn.sonos.com/
   description: Strapi is used to manage Sonos content seamlessly in multiple languages. The content is synchronized forth and back to the Localazy platform.
