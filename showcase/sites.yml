@@ -1404,6 +1404,17 @@
     - HTML
   made_by: Buro26
   made_by_url: https://www.buro26.digital
+- title: Steambase
+  url: https://steambase.io
+  description: Data aggregator and analytics platform for everything on Steam.
+  categories:
+    - Games
+    - Community website
+  frontend:
+    - Astro
+    - Svelte
+  made_by: Steambase
+  made_by_url: https://steambase.io
 - title: AI Models
   url: https://aimodels.org
   description: AI Models is a collaborative platform dedicated to promoting and supporting small to medium free and open-source AI projects. We provide a directory of AI models, making it easy to explore and compare their outputs. We focus on intuitive content, showcasing demos and examples rather than heavy technical jargon.
