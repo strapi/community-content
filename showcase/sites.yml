@@ -1,3 +1,13 @@
+- title: Ways&Villas
+  url: https://waysandvillas.com/
+  description: Ways & Villas is a premier luxury travel concierge providing curated luxury travel experiences in the Maldives
+  categories: 
+    - Travel Website
+  frontend: 
+    - Next.js
+    - TailwindCSS
+  made_by: Haab Naseem
+  made_by_url: https://github.com/haabnaseem/
 - title: Guus van de Wal
   url: https://guusvandewal.nl
   description: Strapi Backend for a Next.js website
