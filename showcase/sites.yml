@@ -1381,4 +1381,14 @@
     - TailwindCSS
   made_by: Maxime Servais
   made_by_url: https://twitter.com/MaximeServais77
+- title: Webandcrafts
+  url: https://webandcrafts.com
+  description: Digital Transformation Solutions Company.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Styled Components
+  made_by: Webandcrafts
+  made_by_url: https://webandcrafts.com
   
