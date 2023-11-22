@@ -72,56 +72,6 @@ Here are guidelines that you should follow to write an SEO-performant article:
 6. **Conclusion**: End with a strong conclusion summarizing the article's main points and encouraging readers to take action. **You must include at least two references of resources used when researching this article**. And encourage readers to join the [Discord community](http://discord.com/invite/strapi). 
 7. **Meta-title & meta-description**: A meta-title is the title that appears in search engine results and at the top of the browser tab when someone visits your blog post. It should be concise, descriptive, and include relevant keywords. Ideally, it should be no more than 60 characters long. And the meta-description is a summary of your blog post that appears below the meta-title in search engine results. It should be no more than 155 characters long and provide a clear overview of your post's content. Use **primary keywords** and compelling language to encourage readers to read your post.
 
-*Example: [How to Build a React PDF Invoice Generator App with refine and Strapi](https://strapi.io/blog/how-to-build-a-react-pdf-invoice-generator-app-with-refine-and-strapi)*
-
-## Upload Your Content
-
-### Add Your Content to the Admin Panel
-
-Once the draft has been approved, the writer is responsible for adding the content to the admin panel, [Dev.to](http://Dev.to), and Hashnode. After adding it, you should notify through the GitHub issue to [Paul](https://github.com/PaulBratslavsky) and [Dessi](https://github.com/dessireugarte). 
-
-The Strapi team will send writer credentials to the authors via email. These credentials will grant them access to the Strapi admin panel using the "writer" role. Additionally, the team will share a secret code for **[Dev.to](http://dev.to/)** so that the authors can become writers on that platform. For Hashnode, authors will receive an email notification. 
-
-[How to Publish Content in the Strapi Backend](https://www.notion.so/How-to-Publish-Content-in-the-Strapi-Backend-b2484af96bbb4822911bc465cb28c006?pvs=21)
-
-Note that authors are **only responsible for uploading the content.** The Strapi team will handle the final review and schedule the publication date.
-
-## Scorecard
-
-The Strapi team will review the submitted content and judge it based on the following criteria:
-
-- **Relevance**: The content must be relevant to Strapi and add value to the Strapi community.
-- **Originality**: The content must be original, not plagiarized, duplicated, or fully AI-generated.
-- **Quality**: The content must meet high writing standards, including grammar, spelling, and punctuation.
-- **Technical Accuracy**: The content must be technically accurate and free of errors.
-- **SEO**: The content must be optimized for search engines, including having a clear and concise headline and using relevant keywords throughout the article.
-- **Readability**: The content must be easy to read and well-organized, including using subheadings and bullet points to break up the content.
-- **Images and Videos**: The content should include relevant images and videos that help illustrate the content.
-- **Documentation**: The content should include source code and clear instructions so that readers can reproduce any demonstrated functionality—and at least two resources.
-
-Each criterion will be given a score of 1-5, with 5 being the highest score. The minimum score required to approve the content is 26/40. *Depending on the score*, the content will be rejected and closed. Or the author will receive feedback from the Strapi team and have the opportunity to revise and resubmit the content.
-
-| Criteria | 5-Excellent | 4-Good | 3-Average | 2-Fair | 1-Poor |
-| --- | --- | --- | --- | --- | --- |
-| Relevance |  |  |  |  |  |
-| Originality |  |  |  |  |  |
-| Quality |  |  |  |  |  |
-| Technical Accuracy |  |  |  |  |  |
-| SEO |  |  |  |  |  |
-| Readability |  |  |  |  |  |
-| Images and Videos |  |  |  |  |  |
-| Documentation |  |  |  |  |  |
-
-## Invoice & Payment
-
-Once your blog post is published on our blog, please follow the below guidelines to submit your invoice:
-
-- Fill out the ["Vendor Form](https://docs.google.com/forms/d/e/1FAIpQLScIl6QgX72c5hiVvdwjkIOXju5hkIHU5-Sz3FU8mYQRFsqJFQ/viewform).” This form should be filled out only after writing your first blog post.
-- The invoice should use this [template](https://docs.google.com/document/d/1FlyE2LMfogSjsT3xsJacAXkCdArTfIUM6Ag-t5Gf5nI/edit?usp=sharing) and include your blog post's URL. Please duplicate it before editing the template content.
-- The invoice sent should be in PDF format.
-- The invoice file name should follow this format "first name, last name, month, blog post title.”
-- Submit your invoice by filling out the following [form](https://docs.google.com/forms/d/e/1FAIpQLSeD59R4fR5dEJIRh4JhUpBlKAi9yX5YeJIMsn-3gUFVj-bMjg/viewform).
-- Payments are issued twice a month (1st and 3rd week of every month) and require at least ten working days. Your bank account should be able to cash in USD.
 
  
  ## Before you submit, make sure you: 

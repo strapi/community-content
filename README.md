@@ -19,11 +19,9 @@ Considering writing for the Strapi community and sharing your technical expertis
 3. Choose a topic or submit a topic. 
 4. Upload your content. 
 5. Provide support. 
-6. Get Paid. 
 
 > **Note**: **Before you apply to the program or start writing your first draft, you must read [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md) thoroughly.** 
 
-Learn how to get paid and submit your invoice: [Read our FAQ](https://strapi.io/write-for-the-community)
 
 ## Help us Improve our Content
 
