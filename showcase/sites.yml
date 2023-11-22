@@ -1,3 +1,14 @@
+- title: JLOCODES Portfolio
+  url: https://jlocodes.com
+  description: Personal Portfolio with Strapi CMS for the content
+  categories:
+    - Porfolio
+    - Freelance Website
+  frontend:
+    - Nuxt.js
+    - TailwindCSS
+  made_by: John Livee
+  made_by_url: https://jlocodes.com
 - title: Learn Sonos
   url: https://learn.sonos.com/
   description: Strapi is used to manage Sonos content seamlessly in multiple languages. The content is synchronized forth and back to the Localazy platform.
@@ -1381,4 +1392,35 @@
     - HTML
   made_by: Smile ID
   made_by_url: https://usesmileid.com/
+- title: DevTrust Consulting
+  url: https://www.devtrust.cv/
+  description: DevTrust Consulting is a Cape Verdean strategic consulting company, specialized in supporting organizations in identifying and implementing technologies and information systems that support their business, with a strong focus on Electronic Governance, although we provide services to other sectors.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: DevTrust Consulting team
+  made_by_url: https://www.devtrust.cv/
+- title: Web3xplorer
+  url: https://www.web3xplorer.com/
+  description: A curated web3 directory of apps and tools
+  categories:
+    - Catalogue
+    - Blog
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: Maxime Servais
+  made_by_url: https://twitter.com/MaximeServais77
+- title: Webandcrafts
+  url: https://webandcrafts.com
+  description: Digital Transformation Solutions Company.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - Styled Components
+  made_by: Webandcrafts
+  made_by_url: https://webandcrafts.com
   
