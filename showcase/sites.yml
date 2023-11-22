@@ -1127,18 +1127,6 @@
     - React
   made_by: Spliit
   made_by_url: https://www.spliit.fr
-- title: Bibino Baby Monitor
-  url: https://www.bibioapp.com
-  description: Baby Monitor app for iOS and Android
-  categories:
-    - Mobile App    
-    - Blog
-    - Landing Page
-  frontend:
-    - Next.js
-    - React
-  made_by: TappyTaps s.r.o.
-  made_by_url: https://www.tappytaps.com
 - title: Barkio Dog Monitor
   url: https://www.barkio.com
   description: Dog Monitor app for iOS and Android
