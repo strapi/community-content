@@ -1370,6 +1370,16 @@
     - HTML
   made_by: Buro26
   made_by_url: https://www.buro26.digital
+- title: DevTrust Consulting
+  url: https://www.devtrust.cv/
+  description: DevTrust Consulting is a Cape Verdean strategic consulting company, specialized in supporting organizations in identifying and implementing technologies and information systems that support their business, with a strong focus on Electronic Governance, although we provide services to other sectors.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: DevTrust Consulting team
+  made_by_url: https://www.devtrust.cv/
 - title: Web3xplorer
   url: https://www.web3xplorer.com/
   description: A curated web3 directory of apps and tools
