@@ -5,7 +5,7 @@ title: "[UPDATE OUTDATED CONTENT]"
 labels: Looking for author, Outdated content
 projects:
   - Write for the Community Program
-assignees: dessireugarte
+assignees: hanakhelifa
 
 ---
 
