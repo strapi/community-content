@@ -6,7 +6,7 @@ labels: 'issue'
 projects: 
   - Write for the Community Program
 
-assignees: dessireugarte, PaulBratslavsky
+assignees: hanakhelifa
 
 ---
 
