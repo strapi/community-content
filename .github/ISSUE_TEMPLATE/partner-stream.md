@@ -23,6 +23,8 @@ Mention the problem you're tackling, how you're approaching it differently, and 
 
 Next, you’ll want to sketch a Brief Outline. This breaks down the key points or sections of your presentation.
 
+Once you have completed your request, tag me @paulbratslavsky and I will review your proposal and reach out with next step.
+
 -->
 
 
