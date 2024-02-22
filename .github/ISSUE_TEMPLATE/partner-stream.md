@@ -1,8 +1,8 @@
 ---
-name: Partner Topic Request CFP
+name: Partner Stream Topic Request CFP
 about: Share your topic idea and outline
-title: "[Partner Topic CFP]"
-labels: partner cfp request
+title: "[Partner Stream Topic CFP]"
+labels: Partner Stream
 assignees: paulbratslavsky
 projects: 
   - Write for the Community Program
