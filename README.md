@@ -21,7 +21,11 @@ Considering writing for the Strapi community and sharing your technical expertis
 6. Upload your content to the Strapi admin panel
 7. Share it on other platforms i.e dev.to, etc
 
-> **Note**: **Before you apply to the program or start writing your first draft, you must read [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md) thoroughly.** 
+> **Note**:
+>
+> **You can use ChatGPT or other genAI tool to write outline but not the actual article. Authors will be banned from the program if we detect AI content**.
+
+>  **Before you apply to the program or start writing your first draft, you must read [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md) thoroughly.** 
 
 
 ## Help us Improve our Content
