@@ -1,22 +1,27 @@
 # Strapi Article Guidelines
 
-Thank you for your interest in contributing to the [Strapi Blog](https://strapi.io/blog)! We welcome everyone in the Strapi community to share their experiences, insights, and expertise with fellow developers worldwide. By writing for us, you can educate, inspire, and engage other Strapi users worldwide.
+Thank you for your interest in contributing to the [Strapi Blog](https://strapi.io/blog)! We welcome everyone in the Strapi community to share their experiences, insights, and expertise with fellow developers worldwide. By writing on the Strapi blog, you can educate, inspire, and engage other Strapi users worldwide.
 
 ## Generale Guidelines
 
-To ensure that our blog meets the highest standards of quality and relevance, we only accept a maximum of four articles per month and ask that all contributors adhere to the following guidelines. The process is divided into the following steps: apply to become a writer, define or pick a topic, create your content, review by the Strapi team, and upload your content to the admin panel and other platforms. 
+To ensure that our blog meets the highest standards of quality and relevance, we ask that all contributors adhere to the following guidelines. The process is divided into the following steps: 
+
+    1. Propose a topic
+    2. Get it approved 
+    3. Create the 1st draft
+    4. Review by the Strapi team
+    5. Upload your content to the admin panel
+    6. Share it on other platforms i.e dev.to, etc
 
 ### Become a Writer
 
-If you want to become a writer for the Strapi blog, you must apply by submitting a portfolio showcasing past articles and submitting a 600-word sample covering the topic 'How to Create a Custom API with Strapi.’ The Strapi team will review your portfolio and sample, and if they determine that your experience and skills are a good fit for the blog, they will contact you to move forward with the next steps.
+Simply propose a topic on the [community content repository](https://github.com/strapi/community-content)
 
-If you are a first-time writer for the Strapi blog, the Strapi team will provide you with three potential topics. You should choose a topic based on your expertise and background. 
-
-All writers should be members of [Discord](http://discord.com/invite/strapi). We have the WFC channel and Open Office hours where writers can come to ask questions and get good ideas for articles. 
+We encourage all writers to join the Strapi [Discord](http://discord.com/invite/strapi). We have a dedicated WFC channel and Open Office hours **Mon - Friday 6AM CST and 12:30 PM CST** where writers can come to ask questions and get good ideas for articles. 
 
 ### Topic
 
-Submitting topics and getting these topics accepted will be only for more experienced writers writing high-performance content for the Strapi blog or other technical content. Your blog post should be focused on a topic related to Strapi, such as a tutorial, best practices, customization, integrations, etc. 
+Your blog post should be focused on a topic related to JavaScript, TypeScript, API, Headless CMS, Frontend Frameworks and of course Strapi, such as a tutorial, best practices, customization, integrations, etc. 
 
 **How to identify the best topics?** 
 
@@ -33,12 +38,15 @@ Before writing an article for the Strapi blog, ensure that the topic you have ch
 - **Intermediate**: An intermediate tutorial or article that dives into Strapi’s customization capabilities, implementation best practices, and development using Strapi with other technologies. This type of blog post answers questions like “how-to’s” that include three or more technologies diving into a more complex development of Strapi beyond back-end customization and deployment.
 - **Advanced**: An advanced tutorial or article that dives into more extensive expertise on Strapi’s customization, building blocks/primitives. This type of blog post introduces users to complex concepts and provides different solutions to uncommon scenarios.
 
-> **Note**: The Strapi team will assign a tag during the outline process and confirm on the article draft submission that it is still in line with the label given. This will be determined after the draft has been submitted.
-> 
+> **Note**: The Strapi team will assign a tag during the outline process and confirm on the article draft submission that it is still in line with the label given. This will be determined after the outline has been submitted.
+
+**How much and how do I get paid?**
+
+Compensation is based on the complexity level and length i.e Beginner: $100, Intermediate: $200 and Advanced: $300. Please submit invoices via this [form](https://docs.google.com/forms/d/e/1FAIpQLSeD59R4fR5dEJIRh4JhUpBlKAi9yX5YeJIMsn-3gUFVj-bMjg/viewform).
 
 **How can I submit a topic?**
 
-You should open a GitHub issue [here](https://github.com/strapi/community-content/issues/new/choose) as `Submit your article` proposal and submit it with the following information: 
+You should open a GitHub issue [here](https://github.com/strapi/community-content/issues/new/choose) as a `Submit your article` proposal and submit it with the following information: 
 
 1. **Content Brief:** 
 - Target audience
@@ -82,7 +90,9 @@ Here are guidelines that you should follow to write an SEO-performant article:
 
  ✅ Run and test your code before pushing it to GitHub.
 
- ✅ Provide GitHub link to complete code examples and at leat two resources. 
+ ✅ Provide a GitHub link to complete code examples and at least two resources. 
+
+ ✅ Include links to other Strapi pages i.e docs, etc and highlight keywords in bold. 
   
  We do not post articles that don't follow our guidelines.
  
