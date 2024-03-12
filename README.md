@@ -5,7 +5,6 @@
 Contribute and collaborate on educational content for the Strapi Community.
 
   - [Articles](#Articles)
-  - [Starters](#Starters)
   - [Showcase](#Showcase)
 
 ## Articles
@@ -14,11 +13,13 @@ Contribute and collaborate on educational content for the Strapi Community.
 
 Considering writing for the Strapi community and sharing your technical expertise?
 
-1. [Apply](https://strapi.io/write-for-the-community) to the program. 
-2. Join our [Discord](https://discord.com/invite/strapi) Channel. 
-3. Choose a topic or submit a topic. 
-4. Upload your content. 
-5. Provide support. 
+1. Join the #write-for-the-community [Discord](https://discord.com/invite/strapi)Channel. 
+2. Propose a topic
+3. Get it approved 
+4. Create the 1st draft
+5. Review by the Strapi team
+6. Upload your content to the Strapi admin panel
+7. Share it on other platforms i.e dev.to, etc
 
 > **Note**: **Before you apply to the program or start writing your first draft, you must read [Strapi Article Submission Guidelines](https://github.com/strapi/community-content/blob/master/tutorials/GUIDELINES.md) thoroughly.** 
 
@@ -28,12 +29,6 @@ Considering writing for the Strapi community and sharing your technical expertis
 [Report outdated content:](https://github.com/strapi/community-content/issues/new?assignees=&labels=Looking+for+author%2C+Outdated+content&template=request-update-on-outdated-content.md&title=%5BUPDATE+OUTDATED+CONTENT%5D) Ask for outdated content to be updated by the Strapi team or the community
 
 [Create an issue concerning content:](https://github.com/strapi/community-content/issues/new?assignees=Mcastres&labels=&template=issue.md&title=%5BISSUE%5D) Please explain which article or tutorial has an issue.
-
-## Starters
-
-The starter maintained by the Strapi team: 
-
-- [Strapi Starter Next 13, Tailwind, Typescript, and Strapi](https://github.com/strapi/nextjs-corporate-starter)
 
 ## Showcase
 
