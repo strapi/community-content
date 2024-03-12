@@ -15,7 +15,7 @@ Hello 👋
 
 When you're ready and have your topic topic, please provide the following
 - company name
-- a title 
+- title 
 - brief outline of topic you are going to cover.
 
 When writing your outline, mention the problem you're tackling, how you're approaching it differently, and the kind of impact or new insights your readers can expect.
