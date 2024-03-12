@@ -13,7 +13,10 @@ projects:
 <!--
 Hello 👋 
 
-When you're ready to submit your topic, please provide a title, brief description and outline for your talk.
+When you're ready and have your topic topic, please provide the following
+- company name
+- a title 
+- brief outline of topic you are going to cover.
 
 First up, your Title. Keep it short but make sure it really captures what your talk is about. 
 
