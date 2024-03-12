@@ -23,6 +23,12 @@ We encourage all writers to join the Strapi [Discord](http://discord.com/invite/
 
 Your blog post should be focused on a topic related to JavaScript, TypeScript, API, Headless CMS, Frontend Frameworks and of course Strapi, such as a tutorial, best practices, customization, integrations, etc. 
 
+**Can I use AI to write articles?** 
+
+You can use ChatGPT or other genAI tool to write outline but not the actual article. **Authors will be banned from the program if we detect AI content**.
+
+
+
 **How to identify the best topics?** 
 
 - Best practices or tutorials that deep-dive into a Strapi feature or customization.
