@@ -1345,6 +1345,16 @@
     - Next.js
   made_by: Igor Brandão, Juan Guilherme, Cleberson Júnior, Rafael Freire
   made_by_url: https://igorabrandao.com.br/
+- title: IBTI IT Solutions Blog
+  url: https://ibti.tech/blog/en/home/
+  description: Blog website developed for IBTI IT Solutions.
+  categories:
+    - Blog
+  frontend:
+    - Next.js
+    - Styled Components
+  made_by: Igor Brandão, Juan Guilherme
+  made_by_url: https://ibti.tech/en/home
 - title: Bespoke Software Development Company
   url: https://softkit.dev/
   description: We use Strapi for managing the content of our own Gatsby.js website
