@@ -8,5 +8,5 @@ This example is the result of the tutorial series [Build a blog with React, Stra
 To see it live:
 
 - Clone the repository.
-- Start the Strapi server: `cd tutorials/react-strapi-apollo-blog/backend && yarn && strapi dev`.
-- Start the Next server: `cd tutorials/react-strapi-apollo-blog/frontend && yarn && yarn start`.
+- Start the Strapi server: `cd tutorials/code/react-strapi-apollo-blog/backend && yarn && strapi dev`.
+- Start the Next server: `cd tutorials/code/react-strapi-apollo-blog/frontend && yarn && yarn start`.

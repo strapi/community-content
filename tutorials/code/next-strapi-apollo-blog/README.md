@@ -8,5 +8,5 @@ This example is the result of the tutorial series [Build a blog with Next.js, St
 To see it live:
 
 - Clone the repository.
-- Start the Strapi server: `cd tutorials/next-strapi-apollo-blog/backend && yarn && strapi dev`.
-- Start the Next server: `cd tutorials/next-strapi-apollo-blog/frontend && yarn && yarn dev`.
+- Start the Strapi server: `cd tutorials/code/next-strapi-apollo-blog/backend && yarn && strapi dev`.
+- Start the Next server: `cd tutorials/code/next-strapi-apollo-blog/frontend && yarn && yarn dev`.

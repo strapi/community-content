@@ -8,5 +8,5 @@ This example is the result of the tutorial series [Build a blog with Nuxt, Strap
 To see it live:
 
 - Clone the repository.
-- Start the Strapi server: `cd tutorials/nuxt-strapi-apollo-blog/backend && yarn && strapi dev`.
-- Start the Nuxt server: `cd tutorials/nuxt-strapi-apollo-blog/frontend && yarn && yarn dev`.
+- Start the Strapi server: `cd tutorials/code/nuxt-strapi-apollo-blog/backend && yarn && strapi dev`.
+- Start the Nuxt server: `cd tutorials/code/nuxt-strapi-apollo-blog/frontend && yarn && yarn dev`.
