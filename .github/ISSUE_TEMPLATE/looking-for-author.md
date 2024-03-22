@@ -2,7 +2,7 @@
 name: Looking for an author
 about: Submit an idea for a new piece of community content that you want to write
 title: "[SUBMIT]"
-labels: looking for author
+labels: Looking for author
 projects: Write for the Community Program
 ---
 
