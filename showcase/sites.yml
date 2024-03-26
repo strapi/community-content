@@ -1457,3 +1457,13 @@
     - Styled Components
   made_by: Webandcrafts
   made_by_url: https://webandcrafts.com
+- title: Wisenetic
+  url: https://www.wisenetic.com/
+  description: Empowering businesses through cutting-edge digital transformation solutions.
+  categories: 
+    - Corporate website
+  frontend: 
+    - Next.js
+    - TailwindCSS
+  made_by: Wisenetic
+  made_by_url: https://www.wisenetic.com/
