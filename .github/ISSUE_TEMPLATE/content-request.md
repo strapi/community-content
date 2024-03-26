@@ -1,6 +1,6 @@
 ---
-name: Looking for an author
-about: Submit an idea for a new piece of community content that you want to write
+name: Content Request from the Strapi Team
+about: Includes a content brief about what the article / tutorials should focus on. 
 title: "[SUBMIT]"
 labels: Looking for author
 projects: Write for the Community Program
