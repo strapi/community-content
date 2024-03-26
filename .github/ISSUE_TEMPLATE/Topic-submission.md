@@ -1,6 +1,6 @@
 ---
 name: Topic idea / suggestions from writer
-about:  
+about:  Submission from the authors
 title: "[SUBMIT]"
 labels: Looking for author
 projects: Write for the Community Program
