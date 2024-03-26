@@ -1,5 +1,5 @@
 ---
-name: Content Request from the Strapi Team
+name: Content Request [for Strapi Team only]
 about: Includes a content brief about what the article / tutorials should focus on. 
 title: "[SUBMIT]"
 labels: Looking for author
