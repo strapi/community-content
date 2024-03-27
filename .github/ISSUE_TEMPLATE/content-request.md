@@ -1,7 +1,7 @@
 ---
 name: Content Request [for Strapi Team only]
 about: Includes a content brief about what the article / tutorials should focus on. 
-title: "[SUBMIT]"
+title: "[REQUEST]"
 labels: Looking for author
 projects: Write for the Community Program
 ---
