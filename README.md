@@ -14,12 +14,12 @@ Contribute and collaborate on educational content for the Strapi Community.
 Considering writing for the Strapi community and sharing your technical expertise?
 
 1. Join the #write-for-the-community [Discord](https://discord.com/invite/strapi)Channel. 
-2. Propose a topic
-3. Get it approved 
-4. Create the 1st draft
-5. Review by the Strapi team
-6. Upload your content to the Strapi admin panel
-7. Share it on other platforms i.e dev.to, etc
+2. Propose a topic or select from our requested contents.
+3. Get it approved. 
+4. Create the 1st draft and create two covers for each article; find the templates and instructions in [this](https://www.figma.com/file/gI8PcsqInk3DAwfIxmcyPI/Writers-Blog-Banners?type=design&node-id=2105-102&mode=design&t=SE5VKWKfau8PestF-0) Figma file.
+5. Review by the Strapi team.
+6. Article Publication.
+7. Share it on other platforms i.e medium, dev.to, etc.
 
 > **Note**:
 >
