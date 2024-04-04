@@ -1,5 +1,5 @@
-name: Blog Post Proposal
-description: Topic idea / suggestions from writer
+name: Content Proposal From Writer
+description: Propose a content idea
 assignees: Theodore
 body:
   - type: markdown
