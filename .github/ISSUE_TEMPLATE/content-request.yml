@@ -1,0 +1,67 @@
+name: Blog Post Proposal
+description: Topic idea / suggestions from writer
+assignees: Theodore
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your time.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What is your article idea?
+      description: Give us as much detail as possible.
+    validations:
+      required: true
+  - type: textarea
+    id: key-objectives
+    attributes:
+      label: What are the objectives of your article?
+      description: Provide they key things the reader will learn. 
+    validations:
+      required: true
+  - type: textarea
+    id: target-audience
+    attributes:
+      label: Who are your target audience?
+      description: Provide who this article is for (separated by commas). 
+    validations:
+      required: true
+  - type: dropdown
+    id: author-expertise
+    attributes:
+      label: What is your expertise as a developer or writer?
+      description: This helps us understand you better as an author.
+      options:
+        - Beginner
+        - Intermediate
+        - Advance
+    validations:
+      required: true
+  - type: dropdown
+    id: content-type
+    attributes:
+      label: What type of post is this?
+      description: This helps us understand the rough structure and effort needed.
+      options:
+        - Tutorial
+        - Best Practices
+        - Use cases and case studies
+        - Engineering
+        - Comparison Article
+        - Other
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms & Conditions
+      options:
+        - label: You understand that submitting this form does not mean we accept your proposal. We will accept proposals at our discretion. 
+          required: true
+        - label: You understand that to be paid you will need to generate an invoice to us once the final draft of your work is completed. 
+          required: true
+        - label: You understand that you will grant us an unlimited license to post and promote your work as part of this program. You may repost, but using our copy as the canonical source.
+          required: true
+        - label: You are aged 18 or over.
+          required: true
