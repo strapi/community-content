@@ -14,9 +14,9 @@
 - title: Ways&Villas
   url: https://waysandvillas.com/
   description: Ways & Villas is a premier luxury travel concierge providing curated luxury travel experiences in the Maldives
-  categories: 
+  categories:
     - Travel Website
-  frontend: 
+  frontend:
     - Next.js
     - TailwindCSS
   made_by: Haab Naseem
@@ -48,10 +48,10 @@
 - title: Learn Sonos
   url: https://learn.sonos.com/
   description: Strapi is used to manage Sonos content seamlessly in multiple languages. The content is synchronized forth and back to the Localazy platform.
-  categories: 
+  categories:
     - Marketing Site
     - Catalog
-  frontend: 
+  frontend:
     - Nuxt.js
     - TailwindCSS
     - Localazy
@@ -1314,7 +1314,7 @@
     - Blockchain
     - Cryptocurrency
   frontend:
-     - React
+    - React
   made_by: CoinJar team
   made_by_url: https://www.coinjar.com/
 - title: EZYfinance
@@ -1490,3 +1490,179 @@
     - Chakra UI
   made_by: Beyin Digital Technologies
   made_by_url: https://beyin.me
+- title: Wisenetic
+  url: https://www.wisenetic.com/
+  description: Empowering businesses through cutting-edge digital transformation solutions.
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - TailwindCSS
+  made_by: Wisenetic
+  made_by_url: https://www.wisenetic.com/
+- title: guusvandewal.nl
+  url: https://guusvandewal.nl
+  description: Freelance Designer and Developer using Strapi and Next.js...
+  categories:
+    - Corporate website
+  frontend:
+    - Next.js
+    - UIkit
+  made_by: Guus van de Wal
+  made_by_url: https://guusvandewal.nl
+- title: Avistamientos Ovni ES
+  url: https://www.avistamientosovni.es/
+  description: Explore or learn about the mysteries of UFO sightings on our website. With up-to-date information published by various media and reported by our users. A community curious to understand anomalous aerial phenomena. Investigate and draw your own conclusions about the truth behind UFOs.
+  categories:
+    - Catalog
+    - Blog
+    - Corporate website
+  frontend:
+    - Next.js
+  made_by: Judit Sánchez Garrido
+  made_by_url: https://yudi.dev/
+- title: The First The Last
+  url: https://thefirstthelast.agency/
+  description: Helping ambitious entrepreneurs build strong brands to succeed.
+  categories:
+    - Corporate website
+  frontend:
+    - UIkit
+    - Three.js
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: HLE
+  url: https://hle.io/
+  description: Positioned at the axis of talent and content across film, television, music and beyond.
+  categories:
+    - Corporate website
+    - Portfolio
+    - Content
+  frontend:
+    - UIkit
+    - Three.js
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Wellness One
+  url: https://wellnessonegroup.com/
+  description: Luxury swimming pool construction and wellbeing experts.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: 47x47
+  url: https://47x47.com/
+  description: A platform for discovering musical artists from the 47x47 label and the opportunity to purchase their music.
+  categories:
+    - Corporate website
+    - Marketplace
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Tanya Timal
+  url: https://tanyatimal.studio/
+  description: Stylish, bold, and beautiful photos. The website of talented photographer Tanya Timal.
+  categories:
+    - Portfolio
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Duck English
+  url: https://duck.school/
+  description: Duck English is not just about learning English. It's about people and how English changes their lives.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Nepoborna
+  url: https://nepoborna.com/
+  description: NEPOBORNA is a high-quality vodka brand created during resistance.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: 4Xstrategy
+  url: https://4xstrategy.com/
+  description: Your Financial Future.
+  categories:
+    - Corporate website
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Coeval
+  url: https://coevalstudio.com/
+  description: Coval Studio is a global team made up of architects, interior designers, and branding experts.
+  categories:
+    - Corporate website
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Alou Portal B2C
+  url: https://alou.cv/
+  description: Strapi is used to manage all content of this first channel, of an omnichannel ecosystem for the largest telecom company in Cabo Verde.
+  categories: 
+    - Corporate website
+    - E-commerce
+    - B2C
+  frontend: 
+    - NextJs
+  made_by: Zing Developers
+  made_by_url: https://zing.cv/
+- title: Meet Democracy
+  url: https://meetdemocracy.com/
+  description: Discover Meet Democracy, an open source multilingue company website build with Strapi, Nuxt, Vue and Tailwind
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Vue.js
+    - Nuxt.js
+    - Tailwind
+  made_by: Belkacem Meziani, Karim Semmoud
+  made_by_url: https://github.com/netoum/meetdemocracy-website
+- title: Spirits Beacon
+  url: https://spiritsbeacon.com
+  description: Editorial hub featuring cocktail recipes, distillery guides, insight and news about the latest spirits. We use Strapi as the CMS for the site.
+  categories:
+    - Blog
+    - Food
+    - Education
+  frontend:
+    - Next.js
+    - Material UI
+    - Algolia
+  made_by: Enotria&Coe
+  made_by_url: https://www.enotriacoe.com/
