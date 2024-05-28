@@ -7,5 +7,5 @@ This example is the result of the tutorial series "[Cooking a Deliveroo clone wi
 To see it live:
 
 - Clone the repository.
-- Start the Strapi server: `cd tutorials/deliveroo-clone-nuxt-strapi-tutorial/backend && yarn && strapi dev`.
-- In an other tab, start the nextjs server: `cd tutorials/deliveroo-clone-nuxt-strapi-tutorial/frontend && yarn && yarn dev`.
+- Start the Strapi server: `cd tutorials/code/deliveroo-clone-nuxt-strapi-tutorial/backend && yarn && strapi dev`.
+- In an other tab, start the nextjs server: `cd tutorials/code/deliveroo-clone-nuxt-strapi-tutorial/frontend && yarn && yarn dev`.
