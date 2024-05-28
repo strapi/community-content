@@ -1467,3 +1467,13 @@
     - Styled Components
   made_by: Webandcrafts
   made_by_url: https://webandcrafts.com
+- title: LMTD Coffee
+  url: https://lmtd.coffee
+  description: A subscription-based online coffee shop
+  categories:
+    - E-commerce
+  frontend:
+    - Next.js
+    - Chakra UI
+  made_by: Beyin Digital Technologies
+  made_by_url: https://beyin.me
