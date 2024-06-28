@@ -1666,3 +1666,14 @@
     - Algolia
   made_by: Enotria&Coe
   made_by_url: https://www.enotriacoe.com/
+  - title: PXSTUDIO
+  url: https://pxstudio.pw
+  description: Strapi is used to manage all content on the corporate website
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Next.js
+    - Material UI 5
+  made_by: Vadim Pashaev
+  made_by_url: https://qtap.kz/react
