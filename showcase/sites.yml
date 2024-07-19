@@ -1666,3 +1666,28 @@
     - Algolia
   made_by: Enotria&Coe
   made_by_url: https://www.enotriacoe.com/
+- title: Bookmark Llama - Shared Bookmarks
+  url: https://www.bookmarkllama.com/
+  description: Bookmark Llama is a SaaS product that lets teams share browser bookmarks. Its marketing relies entirely on SEO for growth. Previously, we used TinaCMS, but it proved too limiting and had a clunky editing workflow. Since migrating to Strapi, our ability to produce high-quality content at scale has improved, rapidly increasing our site's Google rankings.
+  categories:
+    - Corporate website
+    - SaaS
+    - Blog
+  frontend:
+    - Astro
+    - Nuxt.js
+    - Tailwind
+  made_by: Cyborg Fish - An Agency of Strapi Developers
+  made_by_url: https://cyborg.fish/technologies/strapi/
+- title: Cyborg.Fish - Specialist Strapi Agency
+  url: https://cyborg.fish/technologies/strapi/
+  description: Cyborg Fish is a specialist Strapi agency; we assist businesses with custom development for Strapi. Our team of experienced Strapi Developers built the cyborg.fish website with Strapi, as we simply couldn't imagine using anything else.
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Astro
+    - Nuxt.js
+    - Tailwind
+  made_by: Cyborg Fish
+  made_by_url: https://cyborg.fish
