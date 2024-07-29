@@ -1666,3 +1666,15 @@
     - Algolia
   made_by: Enotria&Coe
   made_by_url: https://www.enotriacoe.com/
+- title: Learn Squared
+  url: https://www.learnsquared.com/
+  description: Learn Squared is an e-learning platform offering a wide range of art courses. It uses Strapi for backend and content management.
+  categories:
+    - Corporate website
+    - E-commerce
+  frontend:
+    - Next.js
+    - Shopify
+  made_by: Pagepro
+  made_by_url: https://pagepro.co/
+  
