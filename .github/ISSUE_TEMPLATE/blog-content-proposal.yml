@@ -1,8 +1,3 @@
-name: Content Proposal From Writer
-description: Propose a content idea
-assignees: Theodore
+name:
+description:
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Due to the high volume of submissions, we are no longer accepting new articles at this time. Please choose from the existing articles labeled "Looking for Author.
