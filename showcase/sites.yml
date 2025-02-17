@@ -1633,11 +1633,11 @@
 - title: Alou Portal B2C
   url: https://alou.cv/
   description: Strapi is used to manage all content of this first channel, of an omnichannel ecosystem for the largest telecom company in Cabo Verde.
-  categories: 
+  categories:
     - Corporate website
     - E-commerce
     - B2C
-  frontend: 
+  frontend:
     - NextJs
   made_by: Zing Developers
   made_by_url: https://zing.cv/
@@ -1857,5 +1857,25 @@
     - Non-Profit
   made_by: The First The Last Digital Agency
   made_by_url: https://thefirstthelast.agency/
-
-  
+- title: okeano.de
+  url: https://okeano.de/de/
+  description: Okeano offers custom digital solutions for businesses, specializing in e-commerce, web development, and product configurators.  The aim is to attract clients seeking to enhance their online presence, streamline operations, and boost sales through innovative technologies. The site highlights services like web and app development, 3D visualization, SEO, digital transformation and more.
+  categories:
+    - Corporate website
+    - Digital agency
+    - Landing Page
+  frontend:
+    - Vue.js
+  made_by: Okeano GmbH
+  made_by_url: https://okeano.de/de/
+- title: repartly.de
+  url: https://repartly.de/
+  description: Repartly specializes in the repair of electronics and the sale of refurbished spare parts for household appliances. The website allows customers to send in devices for repair or purchase quality-checked replacement parts. It aims to provide a cost-effective and environmentally friendly solution by extending the life of electronic devices. Repartly is useful for those looking to save money on repairs and reduce electronic waste by opting for repairs or refurbished parts instead of buying new appliances.
+  categories:
+    - Corporate website
+    - E-Commerce
+  frontend:
+    - NextJS
+    - Tailwind
+  made_by: Okeano GmbH
+  made_by_url: https://okeano.de/de/
