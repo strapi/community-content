@@ -1,3 +1,20 @@
+- title: AmbiSpace
+  url: https://tryar.apsan.com.np
+  description: AmbiSpace blends Augmented Reality leveraged from your device for the convenience of online shopping. Our platform invites users to experience products in their own space — lifelike, scale-accurate, and interactive.
+  categories:
+    - E-commerce
+    - Full-stack
+    - Furnitures & Décor
+    - AR & 3D model
+  frontend:
+    - Next.js
+    - Tailwind
+    - GSAP
+    - Locomotive Scroll
+    - Framer motion
+    - AOS
+  made_by: Apsan
+  made_by_url: https://apsan.com.np
 - title: Star RV
   url: https://www.starrv.com/nz
   description: Discover Star RV, a website offering luxury motorhome rentals for an unforgettable road trip experience across Australia & New Zealand.
