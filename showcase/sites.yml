@@ -1,3 +1,20 @@
+- title: AmbiSpace
+  url: https://tryar.apsan.com.np
+  description: AmbiSpace blends Augmented Reality leveraged from your device for the convenience of online shopping. Our platform invites users to experience products in their own space — lifelike, scale-accurate, and interactive.
+  categories:
+    - E-commerce
+    - Full-stack
+    - Furnitures & Décor
+    - AR & 3D model
+  frontend:
+    - Next.js
+    - Tailwind
+    - GSAP
+    - Locomotive Scroll
+    - Framer motion
+    - AOS
+  made_by: Apsan
+  made_by_url: https://apsan.com.np
 - title: Star RV
   url: https://www.starrv.com/nz
   description: Discover Star RV, a website offering luxury motorhome rentals for an unforgettable road trip experience across Australia & New Zealand.
@@ -1692,6 +1709,31 @@
     - Algolia
   made_by: Enotria&Coe
   made_by_url: https://www.enotriacoe.com/
+- title: Bookmark Llama - Shared Bookmarks
+  url: https://www.bookmarkllama.com/
+  description: Bookmark Llama is a SaaS product that lets teams share browser bookmarks. Its marketing relies entirely on SEO for growth. Previously, we used TinaCMS, but it proved too limiting and had a clunky editing workflow. Since migrating to Strapi, our ability to produce high-quality content at scale has improved, rapidly increasing our site's Google rankings.
+  categories:
+    - Corporate website
+    - SaaS
+    - Blog
+  frontend:
+    - Astro
+    - Nuxt.js
+    - Tailwind
+  made_by: Cyborg Fish - An Agency of Strapi Developers
+  made_by_url: https://cyborg.fish/technologies/strapi/
+- title: Cyborg.Fish - Specialist Strapi Agency
+  url: https://cyborg.fish/technologies/strapi/
+  description: Cyborg Fish is a specialist Strapi agency; we assist businesses with custom development for Strapi. Our team of experienced Strapi Developers built the cyborg.fish website with Strapi, as we simply couldn't imagine using anything else.
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Astro
+    - Nuxt.js
+    - Tailwind
+  made_by: Cyborg Fish
+  made_by_url: https://cyborg.fish
   - title: PXSTUDIO
   url: https://pxstudio.pw
   description: Strapi is used to manage all content on the corporate website
