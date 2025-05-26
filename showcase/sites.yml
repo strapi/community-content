@@ -1,3 +1,29 @@
+- title: Star RV
+  url: https://www.starrv.com/nz
+  description: Discover Star RV, a website offering luxury motorhome rentals for an unforgettable road trip experience across Australia & New Zealand.
+  categories:
+    - Corporate Website
+    - Travel
+  frontend:
+    - Next.js
+    - Tailwind
+    - GSAP
+    - Mux
+  made_by: Voyage
+  made_by_url: https://voyage.studio
+- title: Liaise Platform
+  url: https://liaiseplatform.com
+  description: Ai Tools Hub, Access To Hundreds of AI Tools For Free
+  categories:
+    - Artificial Intelligence
+    - AI
+    - Tools
+    - Website
+  frontend:
+    - html
+    - React.js
+  made_by: Liaise
+  made_by_url: https://www.liaiseplatform.com
 - title: Abhimanyu Garbhsanskar
   url: https://garbhsanskar.co.in
   description: Event, Workshop, E-commerce, and many more backends with strapi, Website on Next JS, Android & IOS app
@@ -1633,11 +1659,11 @@
 - title: Alou Portal B2C
   url: https://alou.cv/
   description: Strapi is used to manage all content of this first channel, of an omnichannel ecosystem for the largest telecom company in Cabo Verde.
-  categories: 
+  categories:
     - Corporate website
     - E-commerce
     - B2C
-  frontend: 
+  frontend:
     - NextJs
   made_by: Zing Developers
   made_by_url: https://zing.cv/
@@ -1691,3 +1717,227 @@
     - Tailwind
   made_by: Cyborg Fish
   made_by_url: https://cyborg.fish
+  - title: PXSTUDIO
+  url: https://pxstudio.pw
+  description: Strapi is used to manage all content on the corporate website
+  categories:
+    - Corporate website
+    - Blog
+  frontend:
+    - Next.js
+    - Material UI 5
+  made_by: Vadim Pashaev
+  made_by_url: https://qtap.kz/react
+- title: Learn Squared
+  url: https://www.learnsquared.com/
+  description: Learn Squared is an e-learning platform offering a wide range of art courses. It uses Strapi for backend and content management.
+  categories:
+    - Corporate website
+    - E-commerce
+  frontend:
+    - Next.js
+    - Shopify
+  made_by: Pagepro
+  made_by_url: https://pagepro.co/
+- title: 2025 The First The Last
+  url: https://thefirstthelast.agency/
+  description: Creative digital agency, specialised in design & development
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: COLOR Creative
+  url: https://colorcreative.com/
+  description: Creative problem solvers born in art + raised in tech.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Bottega53
+  url: https://www.bottega53.com/
+  description: Premium wedding photography studio.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Another Latte
+  url: https://anotherlatte.com/
+  description: An architecture studio focused on blending tradition with innovation.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: 2025 Night Shift Entertainment
+  url: https://nightshiftent.com/
+  description: One of the USA most celebrated entertainment resources.
+  categories:
+    - Corporate website
+    - Content
+  frontend:
+    - UIkit
+    - GSAP
+    - Nuxt.js
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Archvoyage
+  url: https://archvoyage.ae/
+  description: Archvoyage is an architecture company specializing in the design and construction of luxury interiors, exteriors, and landscapes in Dubai and beyond.
+  categories:
+    - Architecture
+    - Interior Design
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Cognic
+  url: https://cognic.com/
+  description: Cognic is a diversified holding and investment group.
+  categories:
+    - Investment
+    - Corporate website
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Addendum Salon
+  url: https://addendumsalon.com/
+  description: Addendum Salon is a modern beauty salon in San Diego offering premium hair and care services.
+  categories:
+    - Beauty
+    - Services
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Horizonte
+  url: https://horizonte-village.com/
+  description: Horizonte Village is a luxury residential complex offering exclusive living in Málaga, Spain.
+  categories:
+    - Real Estate
+    - Luxury Living
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: SL Architects
+  url: https://ab-sl.com/
+  description: The company SL Architects specializes in designing unique, high-end residences and architectural spaces worldwide.
+  categories:
+    - Architecture
+    - Design
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: SmartPayments
+  url: https://landing.smartpayments.ee/
+  description: Smart Payments provides payment solutions and services, primarily focused on helping businesses optimize and streamline their payment systems.
+  categories:
+    - Fintech
+    - Payment Solutions
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Boyd
+  url: https://boyd.ae/
+  description: BOYD is an online gallery based in the UAE, offering a curated selection of global artworks, where artists, collectors, and buyers can connect and seamlessly engage in the art purchasing process.
+  categories:
+    - Art
+    - E-commerce
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: AEXLAB
+  url: https://aexlab.com/
+  description: Creating a website for the gaming VR company.
+  categories:
+    - Gaming
+    - Virtual Reality
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Face to Face
+  url: https://13322566869.com/
+  description: Digital Producer. Specialized in Design & E-commerce. Only.From me to you.Always Responsive.Face to Face.Kyiv raised Miami Based.
+  categories:
+    - Digital Production
+    - E-commerce
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: QAPARA
+  url: https://qapara.com/
+  description: Website for artist from Kiev.
+  categories:
+    - Art
+    - Portfolio
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Alchemy Family
+  url: https://alchemy.family/
+  description: Alchemy Family is a private, application-based club tailored for professionals in the cryptocurrency sector, including fund managers, asset managers etc.
+  categories:
+    - Cryptocurrency
+    - Private Club
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: The Label
+  url: https://the-label.store/
+  description: The Label Store is an online boutique offering a curated selection of fashion items that blend creativity with quality.
+  categories:
+    - Fashion
+    - E-commerce
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: Don't Board Me
+  url: https://dontboardme.com/
+  description: Service - a babysitter for your pet.
+  categories:
+    - Pet Care
+    - Services
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: TAF
+  url: https://tafarchitecture.com/
+  description: TAF Architecture designs innovative and sustainable spaces, blending functionality with modern aesthetics for residential and commercial projects.
+  categories:
+    - Architecture
+    - Sustainability
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: If Not Now
+  url: https://ifnotnowua.org/en
+  description: Charity Foundation "If Not Now, Then When?"
+  categories:
+    - Charity
+    - Non-Profit
+  made_by: The First The Last Digital Agency
+  made_by_url: https://thefirstthelast.agency/
+- title: okeano.de
+  url: https://okeano.de/de/
+  description: Okeano offers custom digital solutions for businesses, specializing in e-commerce, web development, and product configurators.  The aim is to attract clients seeking to enhance their online presence, streamline operations, and boost sales through innovative technologies. The site highlights services like web and app development, 3D visualization, SEO, digital transformation and more.
+  categories:
+    - Corporate website
+    - Digital agency
+    - Landing Page
+  frontend:
+    - Vue.js
+  made_by: Okeano GmbH
+  made_by_url: https://okeano.de/de/
+- title: repartly.de
+  url: https://repartly.de/
+  description: Repartly specializes in the repair of electronics and the sale of refurbished spare parts for household appliances. The website allows customers to send in devices for repair or purchase quality-checked replacement parts. It aims to provide a cost-effective and environmentally friendly solution by extending the life of electronic devices. Repartly is useful for those looking to save money on repairs and reduce electronic waste by opting for repairs or refurbished parts instead of buying new appliances.
+  categories:
+    - Corporate website
+    - E-Commerce
+  frontend:
+    - NextJS
+    - Tailwind
+  made_by: Okeano GmbH
+  made_by_url: https://okeano.de/de/
