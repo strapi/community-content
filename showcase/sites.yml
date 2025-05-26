@@ -1958,3 +1958,17 @@
     - Tailwind
   made_by: Okeano GmbH
   made_by_url: https://okeano.de/de/
+- title: Open Self Service - open-source composable frontend starter
+  url: https://demo.openselfservice.com
+  description: Open Self Service is a framework for building headless/MACH frontends focused on customer support apps (but could be adapted to different use cases as well). Content and page structure management is handled by Strapi. It is based on React, Next.js, tailwindcss and shadcn/ui. Comes with an integration server where you can connect any API or headless product like ERP, CRM, e-commerce. 
+  categories:
+    - Open source
+    - Developer tools
+    - Frontend starter
+    - E-commerce
+  frontend:
+    - Next.js
+    - Tailwind
+    - NestJS
+  made_by: Open Self Service team
+  made_by_url: https://github.com/o2sdev/openselfservice
