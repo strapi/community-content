@@ -757,18 +757,6 @@
     - Vuetify
   made_by: Fabian Mieller
   made_by_url: https://fabianmieller.de
-- title: HANAJANA SWIMWEAR
-  url: https://hanajanaswimwear.com/
-  description: This is an E-commerce website made with Next.js for a famous bikini brand.
-  categories:
-    - E-commerce
-  frontend:
-    - Next.js
-    - React
-    - Formik
-    - SCSS
-  made_by: Steven Sturkop
-  made_by_url: https://www.linkedin.com/in/stevensturkop/
 - title: Mypopotte
   url: https://mypopotte.com
   description: With Mypopotte, you can share and improve your recipes with your groups of friends.
@@ -1734,7 +1722,7 @@
     - Tailwind
   made_by: Cyborg Fish
   made_by_url: https://cyborg.fish
-  - title: PXSTUDIO
+- title: PXSTUDIO
   url: https://pxstudio.pw
   description: Strapi is used to manage all content on the corporate website
   categories:
