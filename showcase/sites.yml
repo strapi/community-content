@@ -757,18 +757,6 @@
     - Vuetify
   made_by: Fabian Mieller
   made_by_url: https://fabianmieller.de
-- title: HANAJANA SWIMWEAR
-  url: https://hanajanaswimwear.com/
-  description: This is an E-commerce website made with Next.js for a famous bikini brand.
-  categories:
-    - E-commerce
-  frontend:
-    - Next.js
-    - React
-    - Formik
-    - SCSS
-  made_by: Steven Sturkop
-  made_by_url: https://www.linkedin.com/in/stevensturkop/
 - title: Mypopotte
   url: https://mypopotte.com
   description: With Mypopotte, you can share and improve your recipes with your groups of friends.
@@ -1984,3 +1972,14 @@
     - TAILWIND
   made_by: ADDACT
   made_by_url: https://www.addact.net/
+- title: IsHelp
+  url: https://ishelp.fr/en/
+  description: IsHelp is the non-profit student club of the French Engineering School ISEP, making volunteering more accessible to students in order to help people in need. 
+  categories:
+    - Corporate website
+    - Non-profit
+  frontend:
+    - Nuxt.js
+    - Tailwind
+  made_by: Axel Mannessiez
+  made_by_url: https://github.com/axmannessiez/IsHelp
