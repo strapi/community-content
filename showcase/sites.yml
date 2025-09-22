@@ -1960,6 +1960,18 @@
     - NestJS
   made_by: Open Self Service team
   made_by_url: https://github.com/o2sdev/openselfservice
+- title: Buzhala Estate
+  url: https://buzhalaestate.com
+  description: A modern real estate platform built with React, Vite, and Tailwind, powered by Strapi for content management. It features property listings, search filters, and SEO optimization.
+  categories:
+    - Real Estate
+    - Corporate website
+  frontend:
+    - React
+    - Vite
+    - Tailwind CSS
+  made_by: Nart Kosova
+  made_by_url: https://www.linkedin.com/in/nart-kosova-38b12a2aa/
 - title: Addact | Enterprise CMS Development & Consulting Services
   url: https://www.addact.net/
   description: Built with Strapi CMS, Addact provides expert CMS services including development, migration, integration, and support for leading platforms.
