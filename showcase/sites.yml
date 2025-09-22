@@ -1960,6 +1960,18 @@
     - NestJS
   made_by: Open Self Service team
   made_by_url: https://github.com/o2sdev/openselfservice
+- title: Addact | Enterprise CMS Development & Consulting Services
+  url: https://www.addact.net/
+  description: Built with Strapi CMS, Addact provides expert CMS services including development, migration, integration, and support for leading platforms.
+  categories:
+    - Corporate website
+    - Artificial Intelligence
+    - Services
+  frontend:
+    - NEXTJS
+    - TAILWIND
+  made_by: ADDACT
+  made_by_url: https://www.addact.net/
 - title: IsHelp
   url: https://ishelp.fr/en/
   description: IsHelp is the non-profit student club of the French Engineering School ISEP, making volunteering more accessible to students in order to help people in need. 
