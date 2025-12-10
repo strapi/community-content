@@ -1995,3 +1995,14 @@
     - Tailwind
   made_by: Axel Mannessiez
   made_by_url: https://github.com/axmannessiez/IsHelp
+- title: devtooljobs
+  url: https://devtooljobs.com
+  description: GTM jobs in Developer Tooling Companies
+  categories:
+    - Job board
+  frontend:
+    - Next.js
+    - Shadcn
+    - Tailwind
+  made_by: Dino Kukic
+  made_by_url: https://dinokukic.com/
