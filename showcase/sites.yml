@@ -1995,3 +1995,15 @@
     - Tailwind
   made_by: Axel Mannessiez
   made_by_url: https://github.com/axmannessiez/IsHelp
+- title: Rainy Design Studio
+  url: https://rainydesign.studio/
+  description: Official website for a design and development agency offering one-stop solutions, encompassing brand strategy, web development, and full-scale online marketing through SEO and SMM.
+  categories:
+    - Agency
+    - Services
+    - Portfolio
+  frontend:
+    - Next.js
+    - Tailwind CSS
+  made_by: Rainy
+  made_by_url: https://rainydesign.studio/
