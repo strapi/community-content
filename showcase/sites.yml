@@ -1,3 +1,13 @@
+- title: Eleven Spectacles
+  url: https://elevenspectacles.com
+  description: Premium titanium sunglasses e-commerce platform featuring ZEISS lenses, built with Strapi for seamless content management and product catalog
+  categories:
+    - E-commerce
+  frontend:
+    - Nuxt.js
+    - Nuxt UI
+  made_by: Yordan Ramchev
+  made_by_url: https://yramchev.com
 - title: AmbiSpace
   url: https://tryar.apsan.com.np
   description: AmbiSpace blends Augmented Reality leveraged from your device for the convenience of online shopping. Our platform invites users to experience products in their own space — lifelike, scale-accurate, and interactive.
