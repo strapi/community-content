@@ -22,7 +22,7 @@ Feel free to use our official templates right below or [create your own template
 ```yaml
 - title: Title of your Starter
   author: John Doe
-  photo: https://via.placeholder.com/300
+  photo: https://placeholder.photo/300
   repo: johndoe/awesome-strapi-starter
   slug: johndoe-awesome-strapi-starter
   use_cases:
