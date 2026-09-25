@@ -1995,3 +1995,15 @@
     - Tailwind
   made_by: Axel Mannessiez
   made_by_url: https://github.com/axmannessiez/IsHelp
+- title: Kultrix
+  url: https://kultrix.com/?utm_source=community.strapi.io&utm_medium=showcase&utm_campaign=bet4
+  description: The website of Kultrix, a product team in Lviv, Ukraine building web and mobile products. Next.js frontend on Strapi 5. The homepage, service pages, case studies and blog articles are managed as Strapi content.
+  categories:
+    - Corporate website
+    - Portfolio
+  frontend:
+    - Next.js
+    - React
+    - Tailwind
+  made_by: Kultrix
+  made_by_url: https://kultrix.com/?utm_source=community.strapi.io&utm_medium=showcase&utm_campaign=bet4
