@@ -1,3 +1,14 @@
+- title: Greta
+  url: https://greta.sh
+  description: A vibe-coding platform that lets anyone build and ship apps and tools with AI, using Strapi as the backend/CMS.
+  categories:
+    - App builder
+    - Developer Tools
+    - Full-stack
+  frontend:
+    - React
+  made_by: Shubham Nigam
+  made_by_url: https://greta.sh
 - title: AmbiSpace
   url: https://tryar.apsan.com.np
   description: AmbiSpace blends Augmented Reality leveraged from your device for the convenience of online shopping. Our platform invites users to experience products in their own space — lifelike, scale-accurate, and interactive.
