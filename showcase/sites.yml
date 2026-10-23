@@ -1,3 +1,14 @@
+- title: Wordfully
+  url: https://wordfully.ai
+  description: AI writing assistant for grammar, rephrasing, and instant word definitions.
+  categories:
+    - Productivity
+    - SaaS
+  frontend:
+    - Next.js
+    - React
+  made_by: Vladislav Baluk
+  made_by_url: https://wordfully.ai
 - title: AmbiSpace
   url: https://tryar.apsan.com.np
   description: AmbiSpace blends Augmented Reality leveraged from your device for the convenience of online shopping. Our platform invites users to experience products in their own space — lifelike, scale-accurate, and interactive.
