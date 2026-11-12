@@ -1,3 +1,20 @@
+- title: Aero Connect
+  url: https://www.aeroconnectnepal.com
+  description: Aero Connect is a Nepal-based helicopter booking platform connecting travelers with helicopter operators across Nepal, offering helicopter charter services, scheduled flights, and customized helicopter travel experiences.
+  categories:
+    - Travel & Tourism
+    - Aviation
+    - Helicopter Booking
+    - Travel Technology
+  frontend:
+    - Next.js
+    - Tailwind CSS
+    - GSAP
+    - Locomotive Scroll
+    - Framer Motion
+    - AOS
+  made_by: Apsan
+  made_by_url: https://apsan.com.np
 - title: AmbiSpace
   url: https://tryar.apsan.com.np
   description: AmbiSpace blends Augmented Reality leveraged from your device for the convenience of online shopping. Our platform invites users to experience products in their own space — lifelike, scale-accurate, and interactive.
