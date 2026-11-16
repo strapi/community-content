@@ -1,3 +1,16 @@
+- title: Greatr
+  url: https://getgreatr.app/
+  description: The website and blog for Greatr, an iPhone habit app that turns habits into a morning and evening routine and keeps distracting apps locked until the routine is done. Strapi manages the blog posts, authors, topics and 22 free tools (habit tracker, Pomodoro timer, sleep cycle calculator and more), and a static Vite build is generated from it.
+  categories:
+    - Blog
+    - Mobile app website
+    - Health & Productivity
+  frontend:
+    - Vite
+    - TypeScript
+    - GSAP
+  made_by: Yaoki Studios
+  made_by_url: https://getgreatr.app/about-us/
 - title: Aero Connect
   url: https://www.aeroconnectnepal.com
   description: Aero Connect is a Nepal-based helicopter booking platform connecting travelers with helicopter operators across Nepal, offering helicopter charter services, scheduled flights, and customized helicopter travel experiences.
